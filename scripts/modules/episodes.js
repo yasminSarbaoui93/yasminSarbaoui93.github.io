@@ -1,0 +1,28 @@
+// List of Sedna FM episode URLs (ES6 module)
+export const EPISODES = [
+  "https://soundcloud.com/sednafm/november-bomb",
+  "https://soundcloud.com/sednafm/destination-sedna",
+  "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+  "https://soundcloud.com/sednafm/queen-of-spades",
+  "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+  "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+  "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
+  "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+  "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
+  "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+  "https://soundcloud.com/sednafm/morning-drops-friends-home",
+  "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+  "https://soundcloud.com/sednafm/alters-of-an-ego",
+  "https://soundcloud.com/sednafm/morning-drops-unboxing",
+  "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
+  "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+  "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+  "https://soundcloud.com/sednafm/morning-drops-80s-club",
+  "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+  "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+  "https://soundcloud.com/sednafm/morning-drops-unfreezing",
+  "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+  "https://soundcloud.com/sednafm/morning-drops-steel-city",
+  "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+  "https://soundcloud.com/sednafm/morning-drops-wabi-sabi"
+];
