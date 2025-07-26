@@ -89,9 +89,12 @@ function togglePlayPause() {
   widget.isPaused(function(paused) {
     if (paused) {
       widget.play();
+      isPlaying = true;
     } else {
       widget.pause();
+      isPlaying = false;
     }
+    updatePlayPauseIcon();
   });
 }
 
