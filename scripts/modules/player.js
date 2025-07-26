@@ -1,7 +1,7 @@
 // Player logic for Sedna FM
 import { getRandom } from './utils.js';
 import { EPISODES } from './episodes.js';
-import { updateArtworkAndTitle } from './ui.js';
+import { updateArtworkAndTitle, updatePlayPauseIcon } from './ui.js';
 
 // State
 let widget = null;
@@ -18,7 +18,7 @@ function fetchSednaTracks() {
 function embedSoundCloud(trackUrl) {
   const playerDiv = document.getElementById('soundcloud-player');
   playerDiv.innerHTML = `
-    <iframe id="sc-widget-iframe" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+    <iframe id="sc-widget-iframe" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media"
       src="https://w.soundcloud.com/player/?url=${encodeURIComponent(trackUrl)}&color=%23ff5500&auto_play=true&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true">
     </iframe>
   `;
