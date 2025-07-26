@@ -1,1 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>sedna FM</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: radial-gradient(ellipse at center, #3a3d43 0%, #23252a 100%);
+      font-family: 'Courier New', Courier, monospace;
+      color: #fff;
+      overflow-x: hidden;
+      /* Subtle noise overlay for texture */
+      position: relative;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0; width: 100vw; height: 100vh;
+      pointer-events: none;
+      opacity: 0.18;
+      z-index: 0;
+      background: url('https://www.transparenttextures.com/patterns/diamond-upholstery.png');
+      /* fallback: subtle noise pattern */
+    }
+    .nav-bar {
+      width: 100vw;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      padding: 32px 48px 0 48px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 10;
+    }
+    .nav-left {
+      display: flex;
+      gap: 2rem;
+      font-size: 1.2rem;
+    }
+    .nav-left a {
+      color: #fff;
+      text-decoration: none;
+      opacity: 0.85;
+      transition: opacity 0.2s;
+    }
+    .nav-left a:hover {
+      opacity: 1;
+      text-decoration: underline;
+    }
+    .site-title {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Dancing Script', cursive, sans-serif;
+      font-size: 2rem;
+      letter-spacing: 0.1em;
+      opacity: 0.9;
+      top: 32px;
+    }
+    .nav-right {
+      display: flex;
+      gap: 1.2rem;
+      font-size: 1.3rem;
+    }
+    .nav-right a {
+      color: #fff;
+      opacity: 0.8;
+      transition: opacity 0.2s;
+      text-decoration: none;
+    }
+    .nav-right a:hover {
+      opacity: 1;
+    }
+    #radio-hero {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    #radio-label {
+      margin-top: 20px;
+      font-size: 2rem;
+      color: #fff;
+      letter-spacing: 0.1em;
+      text-shadow: 0 2px 8px #0008;
+    }
+    #soundcloud-player {
+      margin-top: 32px;
+      display: none;
+      width: 100%;
+      max-width: 500px;
+      min-height: 166px;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px #0006;
+      background: #222;
+    }
+  </style>
+  <!-- Google Fonts for site title (optional, for script style) -->
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+  <!-- Font Awesome for social icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <style>
+    /* Store button bottom left */
+    #store-btn {
+      position: fixed;
+      left: 32px;
+      bottom: 32px;
+      background: #111c;
+      color: #fff;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 1.2rem;
+      padding: 8px 22px;
+      border-radius: 4px;
+      border: none;
+      box-shadow: 0 2px 8px #0007;
+      cursor: pointer;
+      z-index: 20;
+      letter-spacing: 0.04em;
+      font-weight: bold;
+      transition: background 0.2s, color 0.2s;
+      text-decoration: none;
+      outline: none;
+    }
+    #store-btn:hover {
+      background: #fff;
+      color: #23252a;
+    }
+    @media (max-width: 600px) {
+      #radio-svg { width: 98vw; height: auto; }
+      #store-btn { left: 10px; bottom: 10px; font-size: 1rem; padding: 6px 14px; }
+      .nav-bar { padding: 18px 8vw 0 8vw; }
+      .site-title { font-size: 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav-bar">
+    <div class="nav-left">
+      <a href="#">subscribe</a>
+    </div>
+    <div class="site-title">ariana grande</div>
+    <div class="nav-right">
+      <a href="https://instagram.com/sednafm" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+      <a href="https://facebook.com/sednafm" target="_blank" title="Facebook"><i class="fab fa-facebook"></i></a>
+      <a href="https://music.apple.com/" target="_blank" title="Apple Music"><i class="fab fa-apple"></i></a>
+      <a href="https://open.spotify.com/user/sednafm" target="_blank" title="Spotify"><i class="fab fa-spotify"></i></a>
+      <a href="https://youtube.com/@sednafm" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+      <a href="https://tiktok.com/@sednafm" target="_blank" title="TikTok"><i class="fab fa-tiktok"></i></a>
+    </div>
+  </nav>
+  <a id="store-btn" href="#">store</a>
+  <div id="radio-hero">
+    <svg id="radio-svg" width="500" height="300" viewBox="0 0 500 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="radioBody" cx="50%" cy="50%" r="80%">
+          <stop offset="0%" stop-color="#e6e6e6"/>
+          <stop offset="100%" stop-color="#b0b0b0"/>
+        </radialGradient>
+        <linearGradient id="radioScreen" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#333"/>
+          <stop offset="100%" stop-color="#111"/>
+        </linearGradient>
+      </defs>
+      <rect x="20" y="60" width="460" height="180" rx="30" fill="url(#radioBody)" stroke="#888" stroke-width="4"/>
+      <rect x="60" y="100" width="380" height="80" rx="15" fill="url(#radioScreen)" stroke="#888" stroke-width="2"/>
+      <ellipse cx="90" cy="190" rx="25" ry="25" fill="#bbb" stroke="#888" stroke-width="2"/>
+      <ellipse cx="410" cy="190" rx="25" ry="25" fill="#bbb" stroke="#888" stroke-width="2"/>
+      <rect x="230" y="200" width="40" height="20" rx="5" fill="#888"/>
+      <circle id="radio-play-btn" cx="250" cy="140" r="30" fill="#ff5252" stroke="#fff" stroke-width="4" style="cursor:pointer; filter: drop-shadow(0 2px 8px #0008);"/>
+      <polygon points="242,130 265,140 242,150" fill="#fff"/>
+    </svg>
+    <div id="radio-label">sedna FM</div>
+    <div id="soundcloud-player"></div>
+  </div>
+  <script>
+    // Helper: Get random element from array
+    function getRandom(arr) {
+      return arr[Math.floor(Math.random() * arr.length)];
+    }
+
+    // Fetch Sedna FM tracks from SoundCloud (public tracks page scraping)
+    async function fetchSednaTracks() {
+      const res = await fetch('https://soundcloud.com/sednafm/tracks');
+      const html = await res.text();
+      // Find all track URLs
+      const trackRegex = /"url":"(\/sednafm\/[a-zA-Z0-9\-_]+)"/g;
+      let match, tracks = [];
+      while ((match = trackRegex.exec(html)) !== null) {
+        if (!tracks.includes(match[1])) tracks.push(match[1]);
+      }
+      return tracks;
+    }
+
+    // Embed SoundCloud player for a given track URL
+    function embedSoundCloud(trackPath) {
+      const playerDiv = document.getElementById('soundcloud-player');
+      const url = `https://soundcloud.com${trackPath}`;
+      playerDiv.innerHTML = `
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=${encodeURIComponent(url)}&color=%23ff5500&auto_play=true&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true">
+        </iframe>
+      `;
+      playerDiv.style.display = 'block';
+    }
+
+    // Play random Sedna FM episode
+    async function playRandomEpisode() {
+      const playBtn = document.getElementById('radio-play-btn');
+      playBtn.style.opacity = '0.6';
+      playBtn.style.pointerEvents = 'none';
+      let tracks = await fetchSednaTracks();
+      if (tracks.length === 0) {
+        alert('Could not load Sedna FM episodes. Please try again later.');
+        playBtn.style.opacity = '1';
+        playBtn.style.pointerEvents = 'auto';
+        return;
+      }
+      const randomTrack = getRandom(tracks);
+      embedSoundCloud(randomTrack);
+      playBtn.style.opacity = '1';
+      playBtn.style.pointerEvents = 'auto';
+    }
+
+    // Attach click handler to play button
+    document.getElementById('radio-play-btn').addEventListener('click', playRandomEpisode);
+  </script>
+</body>
+</html>
 Hello World
