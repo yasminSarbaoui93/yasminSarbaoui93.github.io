@@ -207,6 +207,8 @@
         <polygon points="312,132 327,140 312,148" fill="#fff" opacity="0.7"/>
       </g>
     </svg>
+    <!-- Artwork image, positioned to the left of the play button -->
+    <img id="track-artwork" src="" alt="Track Artwork" style="position: absolute; left: 110px; top: 120px; width: 56px; height: 56px; border-radius: 8px; box-shadow: 0 2px 8px #000a; object-fit: cover; display: none; z-index: 5;">
     <div id="radio-label" style="display: flex; flex-direction: column; align-items: center;">
       Sedna FM
       <img src="sedna_logo.png" alt="Sedna FM Logo" style="margin-top: 12px; width: 60px; height: auto;">
@@ -359,6 +361,40 @@
 
     // Attach click handler to next button
     document.getElementById('radio-next-btn-group').addEventListener('click', playNextTrack);
+    // Helper: update artwork image
+    function updateArtwork() {
+      if (widget) {
+        widget.getCurrentSound(function(sound) {
+          const img = document.getElementById('track-artwork');
+          if (sound && sound.artwork_url) {
+            // Use high-res artwork if available
+            let url = sound.artwork_url.replace('-large', '-t500x500');
+            img.src = url;
+            img.style.display = '';
+          } else {
+            img.src = '';
+            img.style.display = 'none';
+          }
+        });
+      }
+    }
+
+    // Update artwork when track loads/changes
+    function setupArtworkListener() {
+      if (widget) {
+        widget.bind(SC.Widget.Events.READY, updateArtwork);
+        widget.bind(SC.Widget.Events.PLAY, updateArtwork);
+        widget.bind(SC.Widget.Events.LOAD_PROGRESS, updateArtwork);
+      }
+    }
+
+    // Patch embedSoundCloud to call setupArtworkListener after widget is created
+    const _origEmbedSoundCloud = embedSoundCloud;
+    embedSoundCloud = function(trackUrl) {
+      _origEmbedSoundCloud(trackUrl);
+      setTimeout(setupArtworkListener, 400);
+    };
+
     // Initialize play/pause icon on load
     updatePlayPauseIcon();
   </script>
