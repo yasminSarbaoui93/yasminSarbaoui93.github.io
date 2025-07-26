@@ -401,22 +401,22 @@
       #radio-black-overlay {
         position: absolute;
         left: 35px;   /* <-- Change this value to move the box horizontally on mobile */
-        top: 180px;   /* <-- Change this value to move the box vertically on mobile */
+        top: 310px;   /* <-- Change this value to move the box vertically on mobile */
         width: 90vw;  /* <-- Change this value to set the box width on mobile */
         height: 50px; /* <-- Change this value to set the box height on mobile */
       }
       /* Play Button */
       #radio-play-btn {
         left: 50%; /* Center horizontally */
-        top: 70.2%;  /* Move lower for mobile */
-        width: 56px;
-        height: 56px;
+        top: 62.25%;  /* Move lower for mobile */
+        width: 58px;
+        height: 58px;
         /* You can adjust transform, border, etc. as needed */
       }
       /* Next Button */
       #radio-next-btn {
         left: 60%; /* Move to the right for mobile */
-        top: 69%;
+        top: 61%;
         width: 32px;
         height: 32px;
       }
@@ -467,6 +467,80 @@
       }
     }
     /* --- End Responsive Layout Section --- */
+    /* Prevent scrolling and ensure all content fits on mobile */
+    @media (max-width: 600px) {
+      html, body, #radio-hero {
+        height: 100vh;
+        min-height: 100vh;
+        max-height: 100vh;
+        overflow: hidden;
+      }
+      #radio-hero {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 70px; /* space for nav-right bar */
+        box-sizing: border-box;
+        width: 100vw;
+      }
+      #radio-ui-wrapper {
+        max-width: 98vw;
+        width: 100vw;
+        flex: 1 1 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      #radio-img {
+        width: 100vw !important;
+        height: auto !important;
+        max-height: 60vh;
+        object-fit: contain;
+        display: block;
+      }
+      .nav-right {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100vw;
+        justify-content: center;
+        background: rgba(35, 37, 42, 0.97);
+        padding: 12px 0 18px 0;
+        margin: 0;
+        border-radius: 0;
+        box-shadow: 0 -2px 12px #0007;
+        z-index: 100;
+        gap: 2.5rem;
+        font-size: 2.2rem;
+      }
+      .nav-bar {
+        padding-bottom: 60px; /* Prevent content from being hidden behind icons */
+      }
+    }
+    /* Move nav-right (social icons) to bottom on mobile */
+    @media (max-width: 600px) {
+      .nav-right {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100vw;
+        justify-content: center;
+        background: rgba(35, 37, 42, 0.97);
+        padding: 12px 0 18px 0;
+        margin: 0;
+        border-radius: 0;
+        box-shadow: 0 -2px 12px #0007;
+        z-index: 100;
+        gap: 2.5rem;
+        font-size: 2.2rem;
+      }
+      .nav-bar {
+        padding-bottom: 60px; /* Prevent content from being hidden behind icons */
+      }
+    }
   </style>
 </head>
 <body>
