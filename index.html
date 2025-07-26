@@ -119,6 +119,126 @@
       opacity: 0;
     }
   </style>
+  <style>
+    /* Modal styles */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0; top: 0; width: 100vw; height: 100vh;
+      background: rgba(30, 32, 36, 0.85);
+      justify-content: center;
+      align-items: center;
+    }
+    .modal-overlay.active {
+      display: flex;
+    }
+    .modal-window {
+      background: #23252a;
+      border-radius: 14px;
+      box-shadow: 0 4px 32px #000b;
+      padding: 32px 28px 24px 28px;
+      min-width: 320px;
+      max-width: 94vw;
+      color: #fff;
+      position: relative;
+      font-family: 'Courier New', Courier, monospace;
+      animation: modalIn 0.18s cubic-bezier(.4,2,.6,1) both;
+    }
+    @keyframes modalIn {
+      from { transform: translateY(40px) scale(0.98); opacity: 0; }
+      to   { transform: none; opacity: 1; }
+    }
+    .modal-window h2 {
+      margin-top: 0;
+      font-size: 1.4rem;
+      letter-spacing: 0.04em;
+      margin-bottom: 18px;
+      font-family: 'Dancing Script', cursive, sans-serif;
+      text-align: center;
+    }
+    .modal-close {
+      position: absolute;
+      top: 14px; right: 18px;
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 1.3rem;
+      cursor: pointer;
+      opacity: 0.7;
+      transition: opacity 0.2s;
+    }
+    .modal-close:hover {
+      opacity: 1;
+    }
+    .modal-form {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-bottom: 12px;
+    }
+    .modal-form label {
+      font-size: 1rem;
+      margin-bottom: 4px;
+      opacity: 0.85;
+    }
+    .modal-form input[type="email"],
+    .modal-form input[type="text"] {
+      padding: 8px 10px;
+      border-radius: 5px;
+      border: 1px solid #444;
+      background: #18191c;
+      color: #fff;
+      font-size: 1rem;
+      outline: none;
+      transition: border 0.2s;
+    }
+    .modal-form input:focus {
+      border: 1.5px solid #ff5500;
+    }
+    .modal-form .required {
+      color: #ff5252;
+      margin-left: 2px;
+      font-size: 1.1em;
+    }
+    .modal-form .error {
+      color: #ff5252;
+      font-size: 0.98em;
+      margin-top: -8px;
+      margin-bottom: 2px;
+      min-height: 18px;
+    }
+    .modal-form button[type="submit"] {
+      margin-top: 10px;
+      background: #ff5500;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      padding: 10px 0;
+      font-size: 1.1rem;
+      font-family: inherit;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .modal-form button[type="submit"]:hover {
+      background: #ff7733;
+    }
+    .modal-disclaimer {
+      font-size: 0.98rem;
+      color: #ccc;
+      margin-top: 10px;
+      text-align: center;
+      line-height: 1.5;
+      opacity: 0.92;
+    }
+    @media (max-width: 600px) {
+      .modal-window {
+        min-width: 0;
+        padding: 18px 6vw 16px 6vw;
+      }
+    }
+  </style>
   <!-- Google Fonts for site title (optional, for script style) -->
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
   <!-- Font Awesome for social icons -->
@@ -403,6 +523,91 @@
 
     // Initialize play/pause icon on load
     updatePlayPauseIcon();
+  </script>
+  <!-- Subscribe Modal -->
+  <div class="modal-overlay" id="subscribe-modal-overlay" tabindex="-1" aria-hidden="true">
+    <div class="modal-window" role="dialog" aria-modal="true" aria-labelledby="subscribe-modal-title">
+      <button class="modal-close" id="subscribe-modal-close" aria-label="Close">&times;</button>
+      <h2 id="subscribe-modal-title">Subscribe to Sedna FM Updates</h2>
+      <form class="modal-form" id="subscribe-form" autocomplete="off" novalidate>
+        <div>
+          <label for="subscribe-email">Email address <span class="required">*</span></label>
+          <input type="email" id="subscribe-email" name="email" required autocomplete="email" placeholder="your@email.com" />
+          <div class="error" id="email-error"></div>
+        </div>
+        <div>
+          <label for="subscribe-name">Name</label>
+          <input type="text" id="subscribe-name" name="name" autocomplete="given-name" placeholder="Name (optional)" />
+        </div>
+        <div>
+          <label for="subscribe-surname">Surname</label>
+          <input type="text" id="subscribe-surname" name="surname" autocomplete="family-name" placeholder="Surname (optional)" />
+        </div>
+        <button type="submit">Subscribe</button>
+      </form>
+      <div class="modal-disclaimer">
+        By subscribing, you consent to receive updates regarding new episodes from Sedna FM. You may unsubscribe at any time by following the instructions provided in our communications.
+      </div>
+    </div>
+  </div>
+  <script>
+    // Modal logic
+    (function() {
+      const subscribeLink = document.querySelector('.nav-left a[href="#"]');
+      const modalOverlay = document.getElementById('subscribe-modal-overlay');
+      const modalClose = document.getElementById('subscribe-modal-close');
+      const form = document.getElementById('subscribe-form');
+      const emailInput = document.getElementById('subscribe-email');
+      const emailError = document.getElementById('email-error');
+
+      // Open modal
+      subscribeLink.addEventListener('click', function(e) {
+        e.preventDefault();
+        modalOverlay.classList.add('active');
+        modalOverlay.setAttribute('aria-hidden', 'false');
+        emailInput.focus();
+      });
+
+      // Close modal
+      function closeModal() {
+        modalOverlay.classList.remove('active');
+        modalOverlay.setAttribute('aria-hidden', 'true');
+        form.reset();
+        emailError.textContent = '';
+      }
+      modalClose.addEventListener('click', closeModal);
+      modalOverlay.addEventListener('click', function(e) {
+        if (e.target === modalOverlay) closeModal();
+      });
+      document.addEventListener('keydown', function(e) {
+        if (modalOverlay.classList.contains('active') && e.key === 'Escape') closeModal();
+      });
+
+      // Form validation
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        emailError.textContent = '';
+        const emailVal = emailInput.value.trim();
+        if (!emailVal) {
+          emailError.textContent = 'Email address is required.';
+          emailInput.focus();
+          return;
+        }
+        // Simple email regex
+        const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailPattern.test(emailVal)) {
+          emailError.textContent = 'Please enter a valid email address.';
+          emailInput.focus();
+          return;
+        }
+        // Here you would handle the subscription (e.g., send to backend)
+        // For now, just close modal and show a simple alert
+        closeModal();
+        setTimeout(() => {
+          alert('Thank you for subscribing to Sedna FM updates!');
+        }, 200);
+      });
+    })();
   </script>
 </body>
 </html>
