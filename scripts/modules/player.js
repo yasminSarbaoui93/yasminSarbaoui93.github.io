@@ -1,5 +1,7 @@
+// Player logic for Sedna FM
 import { getRandom } from './utils.js';
 import { EPISODES } from './episodes.js';
+import { updateArtworkAndTitle } from './ui.js';
 
 // State
 let widget = null;
@@ -29,6 +31,7 @@ function embedSoundCloud(trackUrl) {
       widget.bind(SC.Widget.Events.PLAY, () => {
         isPlaying = true;
         updatePlayPauseIcon();
+        updateArtworkAndTitle();
       });
       widget.bind(SC.Widget.Events.PAUSE, () => {
         isPlaying = false;
@@ -38,7 +41,15 @@ function embedSoundCloud(trackUrl) {
         isPlaying = false;
         updatePlayPauseIcon();
       });
+      widget.bind(SC.Widget.Events.READY, () => {
+        updateArtworkAndTitle();
+      });
+      widget.bind(SC.Widget.Events.LOAD_PROGRESS, () => {
+        updateArtworkAndTitle();
+      });
     }
+    // Always update artwork/title after widget is created
+    updateArtworkAndTitle();
   }, 200);
 }
 
@@ -49,7 +60,13 @@ function playTrack(trackUrl) {
     currentTrack = trackUrl;
     embedSoundCloud(trackUrl);
     setTimeout(() => {
-      if (widget) widget.load(trackUrl, { auto_play: true });
+      if (widget) {
+        widget.load(trackUrl, { auto_play: true });
+        // Update artwork/title after loading new track
+        setTimeout(() => {
+          updateArtworkAndTitle();
+        }, 300);
+      }
     }, 500);
   } else {
     widget.play();
