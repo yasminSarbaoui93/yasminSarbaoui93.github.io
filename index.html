@@ -120,6 +120,90 @@
     }
   </style>
   <style>
+    #radio-ui-wrapper {
+      max-width: 98vw;
+      width: 500px;
+      margin: 0 auto;
+      position: relative;
+    }
+    #radio-black-overlay {
+      transition: all 0.2s;
+      /* box-shadow removed for transparent background */
+      overflow: hidden;
+      padding-right: 8px;
+    }
+    #radio-artwork {
+      box-shadow: 0 2px 8px #0007;
+      background: #222;
+      border-radius: 12px;
+      object-fit: cover;
+      min-width: 44px;
+      min-height: 44px;
+      max-width: 56px;
+      max-height: 56px;
+      aspect-ratio: 1/1;
+      margin-left: 12px;
+      flex-shrink: 0;
+      /* display: none; */
+    }
+    #radio-title-container {
+      overflow: hidden;
+      white-space: nowrap;
+      position: relative;
+      max-width: 300px;
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      height: 56px;
+    }
+    #radio-title {
+      display: inline-block;
+      vertical-align: middle;
+      font-size: 1.45rem;
+      font-weight: bold;
+      color: #fff;
+      line-height: 1.2;
+      text-shadow: 0 2px 8px #000a;
+      will-change: transform;
+      transition: color 0.2s;
+      padding-left: 2px;
+      padding-right: 0;
+      max-width: 100%;
+    }
+    #radio-controls button:active {
+      filter: brightness(0.95);
+    }
+    #radio-controls button:focus {
+      outline: 2px solid #ff5252;
+      outline-offset: 2px;
+    }
+    @media (max-width: 600px) {
+      #radio-ui-wrapper { width: 99vw; }
+      #radio-black-overlay { left: 2vw; width: 95vw; }
+      #radio-artwork { width: 44px; height: 44px; }
+      #radio-title-container { max-width: 60vw; }
+      /* Responsive button positions for mobile */
+      #radio-play-btn {
+        left: 44vw !important;
+        top: 38vw !important;
+        width: 44px !important;
+        height: 44px !important;
+      }
+      #radio-next-btn {
+        left: 60vw !important;
+        top: 41vw !important;
+        width: 36px !important;
+        height: 36px !important;
+      }
+    }
+    @keyframes scroll-title {
+      0% { transform: translateX(0); }
+      10% { transform: translateX(0); }
+      90% { transform: translateX(calc(-1 * (var(--scroll-distance, 0px)))); }
+      100% { transform: translateX(0); }
+    }
+  </style>
+  <style>
     /* Modal styles for Microsoft Form */
     .modal-overlay {
       display: none;
@@ -267,42 +351,37 @@
   </nav>
   <!-- store button removed as requested -->
   <div id="radio-hero">
-    <svg id="radio-svg" width="500" height="300" viewBox="0 0 500 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <radialGradient id="radioBody" cx="50%" cy="50%" r="80%">
-          <stop offset="0%" stop-color="#e6e6e6"/>
-          <stop offset="100%" stop-color="#b0b0b0"/>
-        </radialGradient>
-        <linearGradient id="radioScreen" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stop-color="#333"/>
-          <stop offset="100%" stop-color="#111"/>
-        </linearGradient>
-        <!-- Circular clip path for artwork -->
-        <clipPath id="artwork-clip">
-          <circle cx="190" cy="140" r="18"/>
-        </clipPath>
-      </defs>
-      <rect x="20" y="60" width="460" height="180" rx="30" fill="url(#radioBody)" stroke="#888" stroke-width="4"/>
-      <rect x="60" y="100" width="380" height="80" rx="15" fill="url(#radioScreen)" stroke="#888" stroke-width="2"/>
-      <!-- Artwork image inside radio screen, to the left of play button -->
-      <circle id="artwork-border" cx="190" cy="140" r="18" fill="none" stroke="#fff" stroke-width="4"/>
-      <image id="svg-artwork" x="172" y="122" width="36" height="36" style="display:none; pointer-events:none;" clip-path="url(#artwork-clip)" />
-      <ellipse cx="90" cy="190" rx="25" ry="25" fill="#bbb" stroke="#888" stroke-width="2"/>
-      <ellipse cx="410" cy="190" rx="25" ry="25" fill="#bbb" stroke="#888" stroke-width="2"/>
-      <rect x="230" y="200" width="40" height="20" rx="5" fill="#888"/>
-      <g id="radio-play-btn-group" style="cursor:pointer;">
-        <circle id="radio-play-btn" cx="250" cy="140" r="30" fill="#ff5252" stroke="#fff" stroke-width="4" style="filter: drop-shadow(0 2px 8px #0008);"/>
-        <polygon id="play-icon" points="242,130 265,140 242,150" fill="#fff"/>
-        <rect id="pause-icon" x="244" y="130" width="6" height="20" rx="2" fill="#fff" style="display:none;"/>
-        <rect id="pause-icon2" x="254" y="130" width="6" height="20" rx="2" fill="#fff" style="display:none;"/>
-      </g>
-      <!-- Next button: right of play button -->
-      <g id="radio-next-btn-group" style="cursor:pointer;">
-        <circle id="radio-next-btn" cx="310" cy="140" r="18" fill="#888" stroke="#fff" stroke-width="3" style="filter: drop-shadow(0 2px 8px #0008);"/>
-        <polygon points="305,132 320,140 305,148" fill="#fff"/>
-        <polygon points="312,132 327,140 312,148" fill="#fff" opacity="0.7"/>
-      </g>
-    </svg>
+    <div id="radio-ui-wrapper" style="position:relative; width:500px; max-width:98vw; margin:0 auto;">
+      <img id="radio-img" src="radio.png" alt="Radio" style="width:100%; display:block; z-index:1;">
+      <!-- Overlay: black area for artwork and title -->
+      <div id="radio-black-overlay" style="position:absolute; left:48px; top:225px; width:404px; height:70px; background:transparent; border-radius:0; display:none; align-items:center; z-index:2;">
+        <img id="radio-artwork" src="ale1.jpeg" alt="Artwork" style="width:56px; height:56px; border-radius:12px; object-fit:cover; margin-left:12px; background:#333; flex-shrink:0;">
+        <div id="radio-title-container" style="flex:1; margin-left:18px; margin-right:18px; overflow:hidden; white-space:nowrap; position:relative;">
+          <span id="radio-title" style="font-size:1.45rem; font-weight:bold; color:#fff; display:inline-block; vertical-align:middle; line-height:1.2; text-shadow:0 2px 8px #000a;"></span>
+        </div>
+      </div>
+      <!-- Overlay: play and next buttons -->
+      <div id="radio-controls" style="position:absolute; left:0; top:0; width:100%; height:100%; z-index:3; pointer-events:none;">
+        <!-- Play button: perfectly overlap the play button in the radio image -->
+        <button id="radio-play-btn"
+          style="position:absolute; left:50%; top:70.1%; transform:translate(-50%,-50%); width:76px; height:76px; border-radius:50%; background:#ff5252; border:6px solid #fff; box-shadow:0 2px 8px #0008; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto;">
+          <span id="play-icon" style="display:block;">
+            <svg width="38" height="38" viewBox="0 0 32 32"><polygon points="10,7 26,16 10,25" fill="#fff"/></svg>
+          </span>
+          <span id="pause-icon" style="display:none;">
+            <svg width="38" height="38" viewBox="0 0 32 32"><rect x="10" y="7" width="5" height="18" rx="2" fill="#fff"/><rect x="17" y="7" width="5" height="18" rx="2" fill="#fff"/></svg>
+          </span>
+        </button>
+        <!-- Next button: perfectly overlap the next button in the radio image -->
+        <button id="radio-next-btn"
+          style="position:absolute; left:calc(50% + 52px); top:68.5%; width:38px; height:38px; border-radius:50%; background:#fff; border:4px solid #bbb; box-shadow:0 2px 8px #0005; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto;">
+          <svg width="32" height="32" viewBox="0 0 28 28">
+            <polygon points="8,6 20,14 8,22" fill="#888"/>
+            <polygon points="15,6 27,14 15,22" fill="#bbb" opacity="0.7"/>
+          </svg>
+        </button>
+      </div>
+    </div>
     <div id="radio-label" style="display: flex; flex-direction: column; align-items: center;">
       Sedna FM
       <img src="sedna_logo.png" alt="Sedna FM Logo" style="margin-top: 12px; width: 60px; height: auto;">
@@ -322,10 +401,10 @@
     let tracks = null;
 
     // Update play/pause icon
+    // Unified play/pause icon update function
     function updatePlayPauseIcon() {
       document.getElementById('play-icon').style.display = isPlaying ? 'none' : '';
       document.getElementById('pause-icon').style.display = isPlaying ? '' : 'none';
-      document.getElementById('pause-icon2').style.display = isPlaying ? '' : 'none';
     }
 
     // Use a hardcoded list of Sedna FM track URLs for reliability
@@ -450,36 +529,63 @@
       playTrack(nextTrack);
     }
 
-    // Attach click handler to play/pause button
-    document.getElementById('radio-play-btn-group').addEventListener('click', togglePlayPause);
+    // Attach click handler to new play/pause and next buttons
+    document.getElementById('radio-play-btn').addEventListener('click', togglePlayPause);
+    document.getElementById('radio-next-btn').addEventListener('click', playNextTrack);
 
-    // Attach click handler to next button
-    document.getElementById('radio-next-btn-group').addEventListener('click', playNextTrack);
-    // Helper: update artwork image in SVG
-    function updateArtwork() {
+    // Update play/pause icon for new button
+    // (Removed duplicate updatePlayPauseIcon function)
+
+    // Update artwork and title in overlay
+    function updateArtworkAndTitle() {
       if (widget) {
         widget.getCurrentSound(function(sound) {
-          const svgImg = document.getElementById('svg-artwork');
-          if (sound && sound.artwork_url) {
-            // Use high-res artwork if available
-            let url = sound.artwork_url.replace('-large', '-t500x500');
-            svgImg.setAttributeNS('http://www.w3.org/1999/xlink', 'href', url);
-            svgImg.setAttribute('href', url); // for SVG2
-            svgImg.style.display = '';
+          // Show overlay only when a track is loaded
+          const overlay = document.getElementById('radio-black-overlay');
+          if (sound && (sound.artwork_url || sound.title)) {
+            overlay.style.display = 'flex';
           } else {
-            svgImg.setAttribute('href', '');
-            svgImg.style.display = 'none';
+            overlay.style.display = 'none';
           }
+          // Artwork
+          const artImg = document.getElementById('radio-artwork');
+          if (sound && sound.artwork_url) {
+            let url = sound.artwork_url.replace('-large', '-t500x500');
+            artImg.src = url;
+            artImg.style.display = '';
+          } else {
+            artImg.src = 'ale1.jpeg';
+            artImg.style.display = '';
+          }
+          // Title
+          const titleSpan = document.getElementById('radio-title');
+          let title = sound && sound.title ? sound.title : '';
+          titleSpan.textContent = title;
+          // Scrolling effect if too long
+          setTimeout(() => {
+            const container = document.getElementById('radio-title-container');
+            // Remove previous animation
+            titleSpan.style.animation = '';
+            titleSpan.style.removeProperty('--scroll-distance');
+            titleSpan.style.paddingRight = "";
+            if (titleSpan.scrollWidth > container.offsetWidth) {
+              // Calculate scroll distance
+              const scrollDistance = titleSpan.scrollWidth - container.offsetWidth + 40;
+              titleSpan.style.setProperty('--scroll-distance', scrollDistance + 'px');
+              titleSpan.style.animation = `scroll-title 8s linear infinite`;
+              titleSpan.style.paddingRight = "40px";
+            }
+          }, 100);
         });
       }
     }
 
-    // Update artwork when track loads/changes
+    // Update artwork and title when track loads/changes
     function setupArtworkListener() {
       if (widget) {
-        widget.bind(SC.Widget.Events.READY, updateArtwork);
-        widget.bind(SC.Widget.Events.PLAY, updateArtwork);
-        widget.bind(SC.Widget.Events.LOAD_PROGRESS, updateArtwork);
+        widget.bind(SC.Widget.Events.READY, updateArtworkAndTitle);
+        widget.bind(SC.Widget.Events.PLAY, updateArtworkAndTitle);
+        widget.bind(SC.Widget.Events.LOAD_PROGRESS, updateArtworkAndTitle);
       }
     }
 
