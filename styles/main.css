@@ -274,7 +274,7 @@ body::before {
   #radio-play-btn {
       position: absolute;
       left: 50%;
-      top: 62%;
+      top: 70%;
       transform: translate(-50%, -50%);
       width: 15vw;
       height: 15vw;
@@ -287,7 +287,7 @@ body::before {
     #radio-next-btn {
       position: absolute;
       left: 65%;
-      top: 63%;
+      top: 72%;
       transform: translate(-50%, -50%);
       width: 8vw;
       height: 8vw;
@@ -341,7 +341,7 @@ body::before {
     max-width: 300px;
   }
 }
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   html, body, #radio-hero {
     height: 100vh;
     min-height: 100vh;
@@ -412,7 +412,7 @@ body::before {
   .nav-bar {
     padding-bottom: 60px;
   }
-}
+} */
 @keyframes scroll-title {
   0% { transform: translateX(0); }
   10% { transform: translateX(0); }
