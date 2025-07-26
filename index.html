@@ -204,17 +204,21 @@
       return arr[Math.floor(Math.random() * arr.length)];
     }
 
-    // Fetch Sedna FM tracks from SoundCloud (public tracks page scraping)
-    async function fetchSednaTracks() {
-      const res = await fetch('https://soundcloud.com/sednafm/tracks');
-      const html = await res.text();
-      // Find all track URLs
-      const trackRegex = /"url":"(\/sednafm\/[a-zA-Z0-9\-_]+)"/g;
-      let match, tracks = [];
-      while ((match = trackRegex.exec(html)) !== null) {
-        if (!tracks.includes(match[1])) tracks.push(match[1]);
-      }
-      return tracks;
+    // Use a hardcoded list of Sedna FM track URLs for reliability
+    function fetchSednaTracks() {
+      // Add or update this list with actual Sedna FM track paths as needed
+      return [
+        "/sednafm/sedna-fm-episode-1",
+        "/sednafm/sedna-fm-episode-2",
+        "/sednafm/sedna-fm-episode-3",
+        "/sednafm/sedna-fm-episode-4",
+        "/sednafm/sedna-fm-episode-5",
+        "/sednafm/sedna-fm-episode-6",
+        "/sednafm/sedna-fm-episode-7",
+        "/sednafm/sedna-fm-episode-8",
+        "/sednafm/sedna-fm-episode-9",
+        "/sednafm/sedna-fm-episode-10"
+      ];
     }
 
     // Embed SoundCloud player for a given track URL
@@ -230,11 +234,11 @@
     }
 
     // Play random Sedna FM episode
-    async function playRandomEpisode() {
+    function playRandomEpisode() {
       const playBtn = document.getElementById('radio-play-btn');
       playBtn.style.opacity = '0.6';
       playBtn.style.pointerEvents = 'none';
-      let tracks = await fetchSednaTracks();
+      let tracks = fetchSednaTracks();
       if (tracks.length === 0) {
         alert('Could not load Sedna FM episodes. Please try again later.');
         playBtn.style.opacity = '1';
