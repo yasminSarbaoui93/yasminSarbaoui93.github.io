@@ -165,10 +165,7 @@
     <div class="nav-left">
       <a href="#">subscribe</a>
     </div>
-    <div class="site-title" style="display: flex; flex-direction: column; align-items: center;">
-      Sedna FM
-      <img src="sedna_logo.png" alt="Sedna FM Logo" style="margin-top: 8px; width: 60px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #0005;">
-    </div>
+    <!-- site-title removed as per user request -->
     <div class="nav-right">
       <a href="https://instagram.com/sednafm" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
       <a href="https://soundcloud.com/sednafm" target="_blank" title="SoundCloud"><i class="fab fa-soundcloud"></i></a>
@@ -195,7 +192,10 @@
       <circle id="radio-play-btn" cx="250" cy="140" r="30" fill="#ff5252" stroke="#fff" stroke-width="4" style="cursor:pointer; filter: drop-shadow(0 2px 8px #0008);"/>
       <polygon points="242,130 265,140 242,150" fill="#fff"/>
     </svg>
-    <div id="radio-label">sedna FM</div>
+    <div id="radio-label" style="display: flex; flex-direction: column; align-items: center;">
+      Sedna FM
+      <img src="sedna_logo.png" alt="Sedna FM Logo" style="margin-top: 12px; width: 60px; height: auto;">
+    </div>
     <div id="soundcloud-player"></div>
   </div>
   <script>
