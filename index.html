@@ -207,6 +207,46 @@
     }
   </style>
   <style>
+    /* Restore artwork and title styles lost from inline removal */
+    #radio-artwork {
+      border-radius: 12px;
+      object-fit: cover;
+      margin-left: 12px;
+      background: #333;
+      flex-shrink: 0;
+      display: block;
+    }
+    #radio-title {
+      font-size: 1.45rem;
+      font-weight: bold;
+      color: #fff;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1.2;
+      text-shadow: 0 2px 8px #000a;
+      padding-left: 2px;
+      padding-right: 0;
+      max-width: 100%;
+      will-change: transform;
+      transition: color 0.2s;
+    }
+    #radio-title-container {
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      white-space: nowrap;
+      position: relative;
+      min-width: 0;
+      height: 56px;
+      flex: 1;
+      margin-left: 18px;
+      margin-right: 18px;
+    }
+    #radio-black-overlay {
+      display: none; /* JS will set to flex when needed */
+      align-items: center;
+    }
+    /* End restore */
     /* Modal styles for Microsoft Form */
     .modal-overlay {
       display: none;
@@ -344,6 +384,89 @@
         margin-right: 8px;
       }
     } */
+    /* --- Responsive Layout for Play Button, Next Button, Artwork, and Title --- */
+    /*
+      To adjust the layout for phones (mobile), edit the values in the @media (max-width: 600px) block below.
+      To adjust the layout for desktop/wide screens, edit the values in the @media (min-width: 601px) block.
+      These are the ONLY places you need to change for position and dimension of:
+        - Play button (#radio-play-btn)
+        - Next button (#radio-next-btn)
+        - SoundCloud artwork (#radio-artwork)
+        - Song title container (#radio-title-container)
+    */
+  
+    /* MOBILE LAYOUT: applies when the screen is 600px wide or less */
+    @media (max-width: 500px) {
+      /* === MOBILE LAYOUT: Edit these values to change the box position and size for mobile === */
+      #radio-black-overlay {
+        position: absolute;
+        left: 35px;   /* <-- Change this value to move the box horizontally on mobile */
+        top: 180px;   /* <-- Change this value to move the box vertically on mobile */
+        width: 90vw;  /* <-- Change this value to set the box width on mobile */
+        height: 50px; /* <-- Change this value to set the box height on mobile */
+      }
+      /* Play Button */
+      #radio-play-btn {
+        left: 50%; /* Center horizontally */
+        top: 70.2%;  /* Move lower for mobile */
+        width: 56px;
+        height: 56px;
+        /* You can adjust transform, border, etc. as needed */
+      }
+      /* Next Button */
+      #radio-next-btn {
+        left: 60%; /* Move to the right for mobile */
+        top: 69%;
+        width: 32px;
+        height: 32px;
+      }
+      /* Artwork */
+      #radio-artwork {
+        left: 90%;
+        width: 50px;
+        height: 50px;
+      }
+      /* Track Title Container */
+      #radio-title-container {
+        max-width: 57vw;
+      }
+    }
+  
+    /* DESKTOP LAYOUT: applies when the screen is wider than 600px */
+    @media (min-width: 501px) {
+      /* === DESKTOP LAYOUT: Edit these values to change the box position and size for desktop === */
+      #radio-black-overlay {
+        position: absolute;
+        left: 48px;   /* <-- Change this value to move the box horizontally on desktop */
+        top: 225px;   /* <-- Change this value to move the box vertically on desktop */
+        width: 404px; /* <-- Change this value to set the box width on desktop */
+        height: 70px; /* <-- Change this value to set the box height on desktop */
+      }
+      /* Play Button */
+      #radio-play-btn {
+        left: 50%;
+        top: 70.1%;
+        width: 76px;
+        height: 76px;
+      }
+      /* Next Button */
+      #radio-next-btn {
+        left: calc(50% + 52px);
+        top: 68.5%;
+        width: 38px;
+        height: 38px;
+      }
+      /* Artwork */
+      #radio-artwork {
+        width: 56px;
+        height: 56px;
+      }
+      /* Track Title Container */
+      #radio-title-container {
+        max-width: 300px;
+      }
+    }
+    /* --- End Responsive Layout Section --- */
   </style>
 </head>
 <body>
@@ -364,19 +487,19 @@
     <div id="radio-ui-wrapper" style="position:relative; width:500px; max-width:98vw; margin:0 auto;">
       <img id="radio-img" src="radio.png" alt="Radio" style="width:100%; display:block; z-index:1;">
       <!-- Overlay: black area for artwork and title -->
-      <div id="radio-black-overlay" style="position:absolute; left:48px; top:225px; width:404px; height:70px; background:transparent; border-radius:0; display:none; align-items:center; z-index:2;">
+      <div id="radio-black-overlay" style="position:absolute; background:transparent; border-radius:0; display:none; align-items:center; z-index:2;">
         <a id="radio-artwork-link" href="#" target="_blank" style="display: flex;">
-          <img id="radio-artwork" src="ale1.jpeg" alt="Artwork" style="width:56px; height:56px; border-radius:12px; object-fit:cover; margin-left:12px; background:#333; flex-shrink:0;">
+          <img id="radio-artwork" src="ale1.jpeg" alt="Artwork">
         </a>
         <div id="radio-title-container" style="flex:1; margin-left:18px; margin-right:18px; overflow:hidden; white-space:nowrap; position:relative;">
-          <span id="radio-title" style="font-size:1.45rem; font-weight:bold; color:#fff; display:inline-block; vertical-align:middle; line-height:1.2; text-shadow:0 2px 8px #000a;"></span>
+          <span id="radio-title"></span>
         </div>
       </div>
       <!-- Overlay: play and next buttons -->
       <div id="radio-controls" style="position:absolute; left:0; top:0; width:100%; height:100%; z-index:3; pointer-events:none;">
         <!-- Play button: perfectly overlap the play button in the radio image -->
         <button id="radio-play-btn"
-          style="position:absolute; left:50%; top:70.1%; transform:translate(-50%,-50%); width:76px; height:76px; border-radius:50%; background:#ff5252; border:6px solid #fff; box-shadow:0 2px 8px #0008; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto;">
+          style="border-radius:50%; background:#ff5252; border:6px solid #fff; box-shadow:0 2px 8px #0008; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto; transform:translate(-50%,-50%); position:absolute;">
           <span id="play-icon" style="display:block;">
             <svg width="38" height="38" viewBox="0 0 32 32"><polygon points="10,7 26,16 10,25" fill="#fff"/></svg>
           </span>
@@ -386,7 +509,7 @@
         </button>
         <!-- Next button: perfectly overlap the next button in the radio image -->
         <button id="radio-next-btn"
-          style="position:absolute; left:calc(50% + 52px); top:68.5%; width:38px; height:38px; border-radius:50%; background:#fff; border:4px solid #bbb; box-shadow:0 2px 8px #0005; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto;">
+          style="border-radius:50%; background:#fff; border:4px solid #bbb; box-shadow:0 2px 8px #0005; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto; position:absolute;">
           <svg width="32" height="32" viewBox="0 0 28 28">
             <polygon points="8,6 20,14 8,22" fill="#888"/>
             <polygon points="15,6 27,14 15,22" fill="#bbb" opacity="0.7"/>
