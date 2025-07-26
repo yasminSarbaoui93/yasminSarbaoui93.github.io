@@ -355,7 +355,9 @@
       <img id="radio-img" src="radio.png" alt="Radio" style="width:100%; display:block; z-index:1;">
       <!-- Overlay: black area for artwork and title -->
       <div id="radio-black-overlay" style="position:absolute; left:48px; top:225px; width:404px; height:70px; background:transparent; border-radius:0; display:none; align-items:center; z-index:2;">
-        <img id="radio-artwork" src="ale1.jpeg" alt="Artwork" style="width:56px; height:56px; border-radius:12px; object-fit:cover; margin-left:12px; background:#333; flex-shrink:0;">
+        <a id="radio-artwork-link" href="#" target="_blank" style="display: flex;">
+          <img id="radio-artwork" src="ale1.jpeg" alt="Artwork" style="width:56px; height:56px; border-radius:12px; object-fit:cover; margin-left:12px; background:#333; flex-shrink:0;">
+        </a>
         <div id="radio-title-container" style="flex:1; margin-left:18px; margin-right:18px; overflow:hidden; white-space:nowrap; position:relative;">
           <span id="radio-title" style="font-size:1.45rem; font-weight:bold; color:#fff; display:inline-block; vertical-align:middle; line-height:1.2; text-shadow:0 2px 8px #000a;"></span>
         </div>
@@ -549,6 +551,7 @@
           }
           // Artwork
           const artImg = document.getElementById('radio-artwork');
+          const artLink = document.getElementById('radio-artwork-link');
           if (sound && sound.artwork_url) {
             let url = sound.artwork_url.replace('-large', '-t500x500');
             artImg.src = url;
@@ -556,6 +559,11 @@
           } else {
             artImg.src = 'ale1.jpeg';
             artImg.style.display = '';
+          }
+          // Make artwork clickable to current track
+          if (artLink) {
+            artLink.href = currentTrack || "#";
+            artLink.style.pointerEvents = currentTrack ? "auto" : "none";
           }
           // Title
           const titleSpan = document.getElementById('radio-title');
