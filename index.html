@@ -188,11 +188,15 @@
           <stop offset="0%" stop-color="#333"/>
           <stop offset="100%" stop-color="#111"/>
         </linearGradient>
+        <!-- Circular clip path for artwork -->
+        <clipPath id="artwork-clip">
+          <circle cx="190" cy="140" r="18"/>
+        </clipPath>
       </defs>
       <rect x="20" y="60" width="460" height="180" rx="30" fill="url(#radioBody)" stroke="#888" stroke-width="4"/>
       <rect x="60" y="100" width="380" height="80" rx="15" fill="url(#radioScreen)" stroke="#888" stroke-width="2"/>
       <!-- Artwork image inside radio screen, to the left of play button -->
-      <image id="svg-artwork" x="165" y="115" width="50" height="50" rx="8" style="display:none; pointer-events:none;" />
+      <image id="svg-artwork" x="172" y="122" width="36" height="36" style="display:none; pointer-events:none;" clip-path="url(#artwork-clip)" />
       <ellipse cx="90" cy="190" rx="25" ry="25" fill="#bbb" stroke="#888" stroke-width="2"/>
       <ellipse cx="410" cy="190" rx="25" ry="25" fill="#bbb" stroke="#888" stroke-width="2"/>
       <rect x="230" y="200" width="40" height="20" rx="5" fill="#888"/>
