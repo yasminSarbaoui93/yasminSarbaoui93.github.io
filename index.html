@@ -29,8 +29,8 @@
       width: 100vw;
       display: flex;
       justify-content: space-between;
-      align-items: flex-start;
-      padding: 32px 48px 0 48px;
+      align-items: center;
+      padding: 32px 24px 0 24px;
       position: absolute;
       top: 0;
       left: 0;
@@ -64,16 +64,30 @@
     .nav-right {
       display: flex;
       gap: 1.2rem;
-      font-size: 1.3rem;
+      font-size: 1.7rem;
+      align-items: center;
+      position: relative;
+      z-index: 20;
+      background: rgba(35, 37, 42, 0.85);
+      padding: 6px 12px;
+      border-radius: 16px;
+      box-shadow: 0 2px 8px #0004;
     }
     .nav-right a {
       color: #fff;
-      opacity: 0.8;
+      opacity: 0.9;
       transition: opacity 0.2s;
       text-decoration: none;
+      padding: 4px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
     .nav-right a:hover {
       opacity: 1;
+      background: #ff5500;
+      color: #fff;
     }
     #radio-hero {
       display: flex;
@@ -134,8 +148,13 @@
     @media (max-width: 600px) {
       #radio-svg { width: 98vw; height: auto; }
       #store-btn { left: 10px; bottom: 10px; font-size: 1rem; padding: 6px 14px; }
-      .nav-bar { padding: 18px 8vw 0 8vw; }
+      .nav-bar { padding: 12px 4vw 0 4vw; }
       .site-title { font-size: 1.2rem; }
+      .nav-right {
+        font-size: 1.3rem;
+        gap: 0.7rem;
+        padding: 4px 8px;
+      }
     }
   </style>
 </head>
