@@ -42,7 +42,7 @@ body::before {
   opacity: 1;
   text-decoration: underline;
 }
-.site-title {
+/* .site-title {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -51,7 +51,7 @@ body::before {
   letter-spacing: 0.1em;
   opacity: 0.9;
   top: 32px;
-}
+} */
 .nav-right {
   display: flex;
   gap: 1.2rem;
@@ -341,6 +341,25 @@ body::before {
   #radio-title-container {
     max-width: 300px;
   }
+  #radio-ui-wrapper {
+    position: relative;
+  }
+  #radio-title-main {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    pointer-events: none;
+  }
+  #radio-title-main .radio-title-text {
+    pointer-events: auto;
+    font-size: 1.8rem !important;
+  }
+
 }
 
 @keyframes scroll-title {
@@ -349,31 +368,8 @@ body::before {
   90% { transform: translateX(calc(-1 * (var(--scroll-distance, 0px)))); }
   100% { transform: translateX(0); }
 }
-/* Store button bottom left */
-#store-btn {
-  position: fixed;
-  left: 32px;
-  bottom: 32px;
-  background: #111c;
-  color: #fff;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 1.2rem;
-  padding: 8px 22px;
-  border-radius: 4px;
-  border: none;
-  box-shadow: 0 2px 8px #0007;
-  cursor: pointer;
-  z-index: 20;
-  letter-spacing: 0.04em;
-  font-weight: bold;
-  transition: background 0.2s, color 0.2s;
-  text-decoration: none;
-  outline: none;
-}
-#store-btn:hover {
-  background: #fff;
-  color: #23252a;
-}
+
+
 /* Move social logos to bottom only on home page and only for max-width: 500px */
 @media (max-width: 500px) {
   .home .nav-right {
@@ -395,5 +391,13 @@ body::before {
     font-size: 2rem;
     margin: 0 18px;
     color: #fff;
+  }
+}
+
+
+/* Mobile: Hide the desktop title above the radio image if needed */
+@media (max-width: 500px) {
+  #radio-title-main {
+    display: none;
   }
 }
