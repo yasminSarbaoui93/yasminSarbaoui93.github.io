@@ -287,9 +287,9 @@ body::before {
     width: 100vw;
     max-width: 100vw;
     aspect-ratio: 1/1;
-    position: relative;
     margin: 10 auto;
     display: block;
+    position: relative;
   }
 
   #radio-img {
@@ -298,6 +298,7 @@ body::before {
     max-height: 100vw;
     object-fit: contain;
     display: block;
+    z-index: 1;
   }
 
   #radio-black-overlay {
@@ -315,33 +316,54 @@ body::before {
     z-index: 2;
   }
 
+  /* --- BUTTONS ABSOLUTE LAYOUT FOR MOBILE (INSIDE RADIO) --- */
+  #radio-controls {
+    position: absolute !important;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    pointer-events: none;
+    background: none;
+  }
+
   #radio-play-btn {
-    position: absolute;
-    left: 50%;
-    top: 76%;
+    /* Adjust these variables to move the play button inside the radio image */
+    --play-left: 50%;   /* Horizontal position as percentage of radio image width */
+    --play-top: 78%;    /* Vertical position as percentage of radio image height */
+    position: absolute !important;
+    left: var(--play-left, 50%);
+    top: var(--play-top, 78%);
     transform: translate(-50%, -50%);
-    width: 15vw;
-    height: 15vw;
+    width: var(--radio-play-size, 15vw);
+    height: var(--radio-play-size, 15vw);
     min-width: 44px;
     min-height: 44px;
     max-width: 70px;
     max-height: 70px;
     z-index: 3;
+    pointer-events: auto;
   }
 
   #radio-next-btn {
-    position: absolute;
-    left: 65%;
-    top: 77%;
+    /* Adjust these variables to move the next button inside the radio image */
+    --next-left: 65%;   /* Horizontal position as percentage of radio image width */
+    --next-top: 79%;    /* Vertical position as percentage of radio image height */
+    position: absolute !important;
+    left: var(--next-left, 65%);
+    top: var(--next-top, 79%);
     transform: translate(-50%, -50%);
-    width: 8vw;
-    height: 8vw;
+    width: var(--radio-next-size, 8vw);
+    height: var(--radio-next-size, 8vw);
     min-width: 28px;
     min-height: 28px;
     max-width: 40px;
     max-height: 40px;
     z-index: 3;
+    pointer-events: auto;
   }
+  /* --- END BUTTONS ABSOLUTE LAYOUT --- */
 
   #radio-artwork {
     width: 11vw;
@@ -386,6 +408,18 @@ body::before {
     color: #fff;
   }
 }
+/*
+  --- BUTTON POSITIONING INSTRUCTIONS ---
+  To move the play button, change --play-left and --play-top in #radio-play-btn (percentages of radio image).
+  To move the next button, change --next-left and --next-top in #radio-next-btn.
+  To change the size of the play or next button, adjust --radio-play-size and --radio-next-size in #radio-play-btn and #radio-next-btn.
+*/
+/*
+  --- BUTTON POSITIONING INSTRUCTIONS ---
+  To adjust the spacing between the play and next buttons on mobile, change the value of --radio-btn-gap in #radio-controls.
+  To move the buttons up or down, change --radio-btn-margin-top in #radio-controls.
+  To change the size of the play or next button, adjust --radio-play-size and --radio-next-size in #radio-play-btn and #radio-next-btn.
+*/
 
 @media (min-width: 501px) {
   #radio-black-overlay {
