@@ -1,7 +1,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: radial-gradient(ellipse at center, #3a3d43 0%, #23252a 100%);
+  background: #000;
   font-family: 'Courier New', Courier, monospace;
   color: #fff;
   overflow-x: hidden;
@@ -303,9 +303,9 @@ body::before {
 
   #radio-black-overlay {
     position: absolute;
-    left: 10%;
+    left: 12%;
     top: 48%;
-    width: 90%;
+    width: 78%;
     height: 12vw;
     min-height: 44px;
     max-height: 60px;
@@ -330,8 +330,8 @@ body::before {
 
   #radio-play-btn {
     /* Adjust these variables to move the play button inside the radio image */
-    --play-left: 50%;   /* Horizontal position as percentage of radio image width */
-    --play-top: 78%;    /* Vertical position as percentage of radio image height */
+    /* --play-left: 50%;  
+    --play-top: 78%;   
     position: absolute !important;
     left: var(--play-left, 50%);
     top: var(--play-top, 78%);
@@ -343,7 +343,13 @@ body::before {
     max-width: 70px;
     max-height: 70px;
     z-index: 3;
-    pointer-events: auto;
+    pointer-events: auto; */
+
+    left: 49.7%;
+    top: 72%;
+    width: 85px;
+    height: 85px;
+    
   }
 
   #radio-next-btn {
@@ -408,33 +414,22 @@ body::before {
     color: #fff;
   }
 }
-/*
-  --- BUTTON POSITIONING INSTRUCTIONS ---
-  To move the play button, change --play-left and --play-top in #radio-play-btn (percentages of radio image).
-  To move the next button, change --next-left and --next-top in #radio-next-btn.
-  To change the size of the play or next button, adjust --radio-play-size and --radio-next-size in #radio-play-btn and #radio-next-btn.
-*/
-/*
-  --- BUTTON POSITIONING INSTRUCTIONS ---
-  To adjust the spacing between the play and next buttons on mobile, change the value of --radio-btn-gap in #radio-controls.
-  To move the buttons up or down, change --radio-btn-margin-top in #radio-controls.
-  To change the size of the play or next button, adjust --radio-play-size and --radio-next-size in #radio-play-btn and #radio-next-btn.
-*/
+
 
 @media (min-width: 501px) {
   #radio-black-overlay {
     position: absolute;
-    left: 48px;
-    top: 225px;
-    width: 404px;
+    left: 58px;
+    top: 206px;
+    width: 395px;
     height: 70px;
   }
 
   #radio-play-btn {
-    left: 50%;
-    top: 70.1%;
-    width: 76px;
-    height: 76px;
+    left: 49.7%;
+    top: 71.8%;
+    width: 85px;
+    height: 85px;
   }
 
   #radio-next-btn {
@@ -492,4 +487,27 @@ body::before {
   100% {
     transform: translateX(0);
   }
+}
+/* Make play button invisible but still clickable */
+#radio-play-btn {
+  background: none !important;
+  border: none !important;
+  color: transparent !important;
+  box-shadow: none !important;
+  fill: transparent !important;
+}
+#radio-play-btn svg,
+#radio-play-btn i,
+#radio-play-btn::before,
+#radio-play-btn::after {
+  color: transparent !important;
+  fill: transparent !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+/* Hide SVG play icon inside the play button */
+#radio-play-btn svg,
+#radio-play-btn svg * {
+  fill: transparent !important;
+  color: transparent !important;
 }
