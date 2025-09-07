@@ -30,4 +30,6 @@ export const EPISODES = [
   "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
   "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
   "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat"
+  "https://m.soundcloud.com/sednafm/morning-drops-a-trip-hop-journey"
+  "https://m.soundcloud.com/sednafm/morning-drops-canserbero"
 ];
