@@ -1,25 +1,13 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: #000;
+  background: #000 url('../assets/images/hero-background.png') center/cover no-repeat fixed;
   font-family: 'Courier New', Courier, monospace;
   color: #fff;
   overflow-x: hidden;
   position: relative;
 }
 
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  pointer-events: none;
-  opacity: 0.18;
-  z-index: 0;
-  background: url('https://www.transparenttextures.com/patterns/diamond-upholstery.png');
-}
 
 .nav-bar {
   width: 100vw;
