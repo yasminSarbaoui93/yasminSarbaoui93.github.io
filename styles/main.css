@@ -291,7 +291,7 @@ body {
   #radio-black-overlay {
     position: absolute;
     left: 12%;
-    top: 48%;
+    top: 42%;
     width: 78%;
     height: 12vw;
     min-height: 44px;
@@ -348,7 +348,7 @@ body {
 
   #radio-title-main {
     position: absolute;
-    top: 16px;
+    top: 0%;
     left: 0;
     right: 0;
     display: flex;
@@ -364,12 +364,12 @@ body {
     text-align: center;
   }
 
-  /* Mobile: render the logo directly under the "Sedna FM" title without moving other components */
-  #radio-title-main::after {
+  /* Mobile: render the logo directly above the "Sedna FM" title without moving other components */
+  #radio-title-main::before {
     content: "";
     width: 62px;
     height: 62px;
-    margin-top: 6px;
+    margin-bottom: 0px;
     background: url('../assets/images/sedna_logo.png') no-repeat center/contain;
     display: block;
   }
