@@ -36,3 +36,9 @@
 - Reference images in HTML as `assets/images/filename.ext`.
 - Add new CSS and JS files to the `styles/` and `scripts/` folders as the project grows.
 - Modularize code and assets to support collaboration and future expansion.
+
+# Test
+Before committing, test changes with the command
+```bash
+live-server
+```

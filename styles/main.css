@@ -328,7 +328,7 @@ body::before {
 
   #radio-play-btn {
     left: 49.7%;
-    top: 79%;
+    top: 78%;
     width: 85px;
     height: 85px;
   }
@@ -502,4 +502,163 @@ body::before {
 #radio-next-btn svg * {
   fill: transparent !important;
   color: transparent !important;
+}
+/* Mobile-only luminosity pulse over the image play button without adding visible graphics */
+@media (max-width: 500px) {
+  /* Ensure overlay circle sits exactly on the clickable area and only changes underlying luminosity */
+  body.home #radio-play-btn {
+    position: absolute; /* already absolute, keep for clarity */
+  }
+
+  /* Use a pseudo-element as a circular overlay that modulates brightness of pixels behind it */
+  body.home #radio-play-btn::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1;
+
+    /* Important: override earlier "background: none !important" that hides pseudo-elements */
+    background: rgba(255, 255, 255, 0.03) !important;
+
+    /* Brightness modulation of backdrop (the radio image) */
+    -webkit-backdrop-filter: brightness(var(--btn-brightness, 1));
+    backdrop-filter: brightness(var(--btn-brightness, 1));
+
+    animation: playLumPulse 1.8s ease-in-out infinite;
+    will-change: backdrop-filter, -webkit-backdrop-filter, background-color;
+  }
+
+  @keyframes playLumPulse {
+    0%   { --btn-brightness: 1; }
+    50%  { --btn-brightness: 1.28; }
+    100% { --btn-brightness: 1; }
+  }
+
+  /* Fallback for browsers without backdrop-filter: simulate with blend mode */
+  @supports not ((backdrop-filter: brightness(1.1)) or (-webkit-backdrop-filter: brightness(1.1))) {
+    body.home #radio-play-btn::after {
+      /* Overlay uses blend mode to make red look brighter/darker without adding a hard shape */
+      mix-blend-mode: overlay;
+      animation: playLumPulseFallback 1.8s ease-in-out infinite;
+    }
+
+    @keyframes playLumPulseFallback {
+      0%   { background-color: rgba(255, 255, 255, 0.12) !important; }
+      50%  { background-color: rgba(255, 255, 255, 0.34) !important; }
+      100% { background-color: rgba(255, 255, 255, 0.12) !important; }
+    }
+  }
+
+  /* Respect reduced-motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    body.home #radio-play-btn::after { animation: none; }
+  }
+}
+/* Desktop luminosity pulse over the image play button (same as mobile) */
+@media (min-width: 501px) {
+  /* Ensure overlay circle sits exactly on the clickable area and only changes underlying luminosity */
+  body.home #radio-play-btn {
+    position: absolute; /* already absolute, keep for clarity */
+  }
+
+  /* Use a pseudo-element as a circular overlay that modulates brightness of pixels behind it */
+  body.home #radio-play-btn::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1;
+
+    /* Important: override earlier "background: none !important" that hides pseudo-elements */
+    background: rgba(255, 255, 255, 0.03) !important;
+
+    /* Brightness modulation of backdrop (the radio image) */
+    -webkit-backdrop-filter: brightness(var(--btn-brightness, 1));
+    backdrop-filter: brightness(var(--btn-brightness, 1));
+
+    animation: playLumPulse 1.8s ease-in-out infinite;
+    will-change: backdrop-filter, -webkit-backdrop-filter, background-color;
+  }
+
+  @keyframes playLumPulse {
+    0%   { --btn-brightness: 1; }
+    50%  { --btn-brightness: 1.28; }
+    100% { --btn-brightness: 1; }
+  }
+
+  /* Fallback for browsers without backdrop-filter: simulate with blend mode */
+  @supports not ((backdrop-filter: brightness(1.1)) or (-webkit-backdrop-filter: brightness(1.1))) {
+    body.home #radio-play-btn::after {
+      /* Overlay uses blend mode to make red look brighter/darker without adding a hard shape */
+      mix-blend-mode: overlay;
+      animation: playLumPulseFallback 1.8s ease-in-out infinite;
+    }
+
+    @keyframes playLumPulseFallback {
+      0%   { background-color: rgba(255, 255, 255, 0.12) !important; }
+      50%  { background-color: rgba(255, 255, 255, 0.34) !important; }
+      100% { background-color: rgba(255, 255, 255, 0.12) !important; }
+    }
+  }
+
+  /* Respect reduced-motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    body.home #radio-play-btn::after { animation: none; }
+  }
+}
+/* Desktop luminosity pulse over the image play button (mirrors mobile behavior) */
+@media (min-width: 501px) {
+  /* Ensure overlay circle sits exactly on the clickable area and only changes underlying luminosity */
+  body.home #radio-play-btn {
+    position: absolute; /* already absolute, keep for clarity */
+  }
+
+  /* Use a pseudo-element as a circular overlay that modulates brightness of pixels behind it */
+  body.home #radio-play-btn::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 1;
+
+    /* Important: override earlier "background: none !important" that hides pseudo-elements */
+    background: rgba(255, 255, 255, 0.03) !important;
+
+    /* Brightness modulation of backdrop (the radio image) */
+    -webkit-backdrop-filter: brightness(var(--btn-brightness, 1));
+    backdrop-filter: brightness(var(--btn-brightness, 1));
+
+    animation: playLumPulse 1.8s ease-in-out infinite;
+    will-change: backdrop-filter, -webkit-backdrop-filter, background-color;
+  }
+
+  @keyframes playLumPulse {
+    0%   { --btn-brightness: 1; }
+    50%  { --btn-brightness: 1.28; }
+    100% { --btn-brightness: 1; }
+  }
+
+  /* Fallback for browsers without backdrop-filter: simulate with blend mode */
+  @supports not ((backdrop-filter: brightness(1.1)) or (-webkit-backdrop-filter: brightness(1.1))) {
+    body.home #radio-play-btn::after {
+      /* Overlay uses blend mode to make red look brighter/darker without adding a hard shape */
+      mix-blend-mode: overlay;
+      animation: playLumPulseFallback 1.8s ease-in-out infinite;
+    }
+
+    @keyframes playLumPulseFallback {
+      0%   { background-color: rgba(255, 255, 255, 0.12) !important; }
+      50%  { background-color: rgba(255, 255, 255, 0.34) !important; }
+      100% { background-color: rgba(255, 255, 255, 0.12) !important; }
+    }
+  }
+
+  /* Respect reduced-motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    body.home #radio-play-btn::after { animation: none; }
+  }
 }
