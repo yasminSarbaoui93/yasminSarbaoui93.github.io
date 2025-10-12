@@ -32,5 +32,9 @@ export const EPISODES = [
   "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
   "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
   "https://soundcloud.com/sednafm/morning-drops-canserbero",
-  "https://soundcloud.com/sednafm/morning-drops-nomophobia"
+  "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+  "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+  "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
+  "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+  "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans"
 ];
