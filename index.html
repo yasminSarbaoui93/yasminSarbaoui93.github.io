@@ -39,13 +39,12 @@
         <span class="radio-title-text" style="font-size: 1.1rem; color: #fff; letter-spacing: 0.05em; text-shadow: 0 2px 8px #0008;">Sedna FM</span>
       </div>
       <img id="radio-img" src="assets/images/radio-realistic.png" alt="Radio" style="width:100%; display:block; z-index:1;">
-      <!-- Overlay: black area for artwork and title -->
+      <!-- Overlay: title display area -->
       <div id="radio-black-overlay" style="position:absolute; background:transparent; border-radius:0; display:none; align-items:center; z-index:2;">
-        <a id="radio-artwork-link" href="#" target="_blank" style="display: flex;">
-          <img id="radio-artwork" src="assets/images/ale1.jpeg" alt="Artwork">
-        </a>
         <div id="radio-title-container" style="flex:1; margin-left:18px; margin-right:18px; overflow:hidden; white-space:nowrap; position:relative;">
-          <span id="radio-title"></span>
+          <a id="radio-title-link" href="#" target="_blank" style="text-decoration: none;">
+            <span id="radio-title"></span>
+          </a>
         </div>
       </div>
       <!-- Overlay: play and next buttons -->

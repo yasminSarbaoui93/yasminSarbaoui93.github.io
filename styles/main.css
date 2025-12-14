@@ -131,33 +131,19 @@ body {
 }
 
 /* ================================================
-   Radio Overlay (Artwork & Title)
+   Radio Overlay (Title Only)
    ================================================ */
 #radio-black-overlay {
   transition: all 0.2s;
   overflow: hidden;
-  padding-right: 8px;
+  padding: 0 12px;
   display: none;
   align-items: center;
+  justify-content: center;
   position: absolute;
   background: transparent;
   border-radius: 0;
   z-index: 2;
-}
-
-#radio-artwork {
-  box-shadow: 0 2px 8px #0007;
-  background: #222;
-  border-radius: 12px;
-  object-fit: cover;
-  min-width: 44px;
-  min-height: 44px;
-  max-width: 56px;
-  max-height: 56px;
-  aspect-ratio: 1/1;
-  margin-left: 12px;
-  flex-shrink: 0;
-  display: block;
 }
 
 #radio-title-container {
@@ -174,15 +160,25 @@ body {
   margin-right: 18px;
 }
 
+#radio-title-link {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#radio-title-link:hover #radio-title {
+  text-decoration: underline;
+}
+
 #radio-title {
   display: inline-block;
   vertical-align: middle;
   font-family: 'VT323', monospace;
   font-size: 1.6rem;
   font-weight: normal;
-  color: #fff;
+  color: #000;
   line-height: 1.2;
-  text-shadow: 0 2px 8px #000a;
+  text-shadow: none;
   will-change: transform;
   transition: color 0.2s;
   padding-left: 2px;
@@ -278,8 +274,7 @@ body {
   cursor: pointer;
   pointer-events: auto;
   outline: none;
-  min-width: 44px;
-  min-height: 44px;
+  /* Removed min-width/min-height to allow full control in media queries */
   transition: all 0.2s ease;
   border-radius: 4px;
 }
@@ -437,18 +432,18 @@ body {
 
   #radio-black-overlay {
     position: absolute;
-    left: 11%;
-    top: 19%;
-    width: 78%;
+    left: 37.5%;
+    top: 32%;
+    width: 38%;
     height: 14%;
   }
 
   /* PLAY BUTTON - Adjust these values to position on your radio image */
   #radio-play-btn {
-    left: 50%;
-    top: 75%;
-    width: 60px;
-    height: 60px;
+    left: 31.5%;
+    top: 47.5%;
+    width: 50px;
+    height: 50px;
   }
 
   /* NEXT BUTTON - Adjust these values */
@@ -470,7 +465,7 @@ body {
 
   #radio-title-main {
     position: absolute;
-    top: 40px;
+    top: 0px;
     left: 0;
     width: 100%;
     display: flex;
@@ -482,15 +477,15 @@ body {
 
   #radio-title-main .radio-title-text {
     pointer-events: auto;
-    font-size: 1.8rem !important;
+    font-size: 2rem !important;
   }
 
   /* CHANNEL BUTTONS - Adjust these values for your radio image */
   #channel-btn-1 {
-    left: 7%;
-    top: 58%;
-    width: 10%;
-    height: 8%;
+    left: 23%;
+    top: 68.5%;
+    width: 11%;
+    height: 6%;
   }
   
   #channel-btn-2 {
@@ -538,9 +533,9 @@ body {
 
   #radio-black-overlay {
     position: absolute;
-    left: 11%;
-    top: 19%;
-    width: 78%;
+    left: 37.5%;
+    top: 32%;
+    width: 38%;
     height: 14%;
     min-height: 44px;
     max-height: 70px;
@@ -564,8 +559,8 @@ body {
 
   /* PLAY BUTTON - Adjust these values for mobile */
   #radio-play-btn {
-    left: 50%;
-    top: 75%;
+    left: 31.5%;
+    top: 47.5%;
     width: 50px;
     height: 50px;
   }
@@ -595,9 +590,12 @@ body {
     margin-right: 3vw;
   }
 
+  /* ========================================
+     MOBILE: "Sedna FM" TITLE & LOGO
+     ======================================== */
   #radio-title-main {
     position: absolute;
-    top: 0%;
+    top: -40px;           /* MOVE TITLE: negative = higher, positive = lower */
     left: 0;
     right: 0;
     display: flex;
@@ -607,20 +605,20 @@ body {
     pointer-events: none;
   }
 
-  #radio-title-main .radio-title-text {
-    pointer-events: auto;
-    font-size: 1.3rem !important;
-    text-align: center;
-  }
-
-  /* Mobile: logo above title */
+  /* Logo above title */
   #radio-title-main::before {
     content: "";
-    width: 62px;
-    height: 62px;
-    margin-bottom: 0px;
+    width: 50px;          /* LOGO SIZE: width */
+    height: 50px;         /* LOGO SIZE: height */
+    margin-bottom: 4px;   /* SPACE between logo and title */
     background: url('../assets/images/sedna_logo.png') no-repeat center/contain;
     display: block;
+  }
+
+  #radio-title-main .radio-title-text {
+    pointer-events: auto;
+    font-size: 1.3rem;    /* TITLE SIZE */
+    text-align: center;
   }
 
   #radio-label img {

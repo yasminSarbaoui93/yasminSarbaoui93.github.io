@@ -67,36 +67,26 @@ export function showToast(message, duration = 3000) {
   }, duration);
 }
 
-// Update artwork and title in overlay
+// Update title in overlay (artwork removed)
 export function updateArtworkAndTitle() {
   if (widget) {
     widget.getCurrentSound(function(sound) {
       const overlay = document.getElementById('radio-black-overlay');
-      if (sound && (sound.artwork_url || sound.title)) {
+      if (sound && sound.title) {
         overlay.style.display = 'flex';
       } else {
         overlay.style.display = 'none';
       }
-      // Artwork
-      const artImg = document.getElementById('radio-artwork');
-      const artLink = document.getElementById('radio-artwork-link');
-      if (sound && sound.artwork_url) {
-        let url = sound.artwork_url.replace('-large', '-t500x500');
-        artImg.src = url;
-        artImg.style.display = '';
-      } else {
-        artImg.src = 'assets/images/ale1.jpeg';
-        artImg.style.display = '';
-      }
-      // Make artwork clickable to current track
-      if (artLink) {
-        artLink.href = currentTrack || "#";
-        artLink.style.pointerEvents = currentTrack ? "auto" : "none";
-      }
-      // Title
+      // Title with clickable link
       const titleSpan = document.getElementById('radio-title');
+      const titleLink = document.getElementById('radio-title-link');
       let title = sound && sound.title ? sound.title : '';
       titleSpan.textContent = title;
+      // Make title clickable to current track on SoundCloud
+      if (titleLink) {
+        titleLink.href = currentTrack || "#";
+        titleLink.style.pointerEvents = currentTrack ? "auto" : "none";
+      }
       // Scrolling effect if too long
       setTimeout(() => {
         const container = document.getElementById('radio-title-container');
