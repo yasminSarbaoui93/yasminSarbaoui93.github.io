@@ -4,8 +4,10 @@ import { isPlaying, widget, currentTrack } from './player.js';
 
 // Update play/pause icon
 export function updatePlayPauseIcon() {
-  document.getElementById('play-icon').style.display = isPlaying ? 'none' : '';
-  document.getElementById('pause-icon').style.display = isPlaying ? '' : 'none';
+  const playIcon = document.getElementById('play-icon');
+  const pauseIcon = document.getElementById('pause-icon');
+  if (playIcon) playIcon.style.display = isPlaying ? 'none' : '';
+  if (pauseIcon) pauseIcon.style.display = isPlaying ? '' : 'none';
 }
 
 /**

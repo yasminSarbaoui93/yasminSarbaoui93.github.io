@@ -229,6 +229,36 @@ body {
   height: 85px;
 }
 
+/* Pulsing effect when NOT playing (to show it's clickable) */
+#radio-play-btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  pointer-events: none;
+  background: rgba(255, 255, 255, 0);
+  animation: pulseHighlight 2s ease-in-out infinite;
+}
+
+@keyframes pulseHighlight {
+  0%   { background: rgba(255, 255, 255, 0); }
+  50%  { background: rgba(255, 255, 255, 0.25); }
+  100% { background: rgba(255, 255, 255, 0); }
+}
+
+/* When playing - no animation, fully transparent */
+#radio-play-btn.playing::after {
+  animation: none;
+  background: transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #radio-play-btn::after {
+    animation: none;
+    background: rgba(255, 255, 255, 0.1);
+  }
+}
+
 /* Play Button - Hover */
 #radio-play-btn:hover {
   border-color: rgba(255, 255, 255, 0.3);

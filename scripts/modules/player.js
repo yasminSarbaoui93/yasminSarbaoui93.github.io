@@ -91,14 +91,23 @@ function embedSoundCloud(trackUrl) {
         isPlaying = true;
         updatePlayPauseIcon();
         updateArtworkAndTitle();
+        // Add playing class to stop pulsing animation
+        const playBtn = document.getElementById('radio-play-btn');
+        if (playBtn) playBtn.classList.add('playing');
       });
       widget.bind(SC.Widget.Events.PAUSE, () => {
         isPlaying = false;
         updatePlayPauseIcon();
+        // Remove playing class to start pulsing animation
+        const playBtn = document.getElementById('radio-play-btn');
+        if (playBtn) playBtn.classList.remove('playing');
       });
       widget.bind(SC.Widget.Events.FINISH, () => {
         isPlaying = false;
         updatePlayPauseIcon();
+        // Remove playing class to start pulsing animation
+        const playBtn = document.getElementById('radio-play-btn');
+        if (playBtn) playBtn.classList.remove('playing');
       });
       widget.bind(SC.Widget.Events.READY, () => {
         updateArtworkAndTitle();
@@ -156,12 +165,15 @@ function togglePlayPause() {
     return;
   }
   widget.isPaused(function(paused) {
+    const playBtn = document.getElementById('radio-play-btn');
     if (paused) {
       widget.play();
       isPlaying = true;
+      if (playBtn) playBtn.classList.add('playing');
     } else {
       widget.pause();
       isPlaying = false;
+      if (playBtn) playBtn.classList.remove('playing');
     }
     updatePlayPauseIcon();
   });
