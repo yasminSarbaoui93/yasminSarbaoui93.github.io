@@ -125,7 +125,7 @@ body {
 
 #radio-ui-wrapper {
   max-width: 98vw;
-  width: 500px;
+  width: 800px;    /* RADIO SIZE - Change this to make bigger/smaller */
   margin: 0 auto;
   position: relative;
 }
@@ -209,15 +209,9 @@ body {
   filter: brightness(0.95);
 }
 
-#radio-controls button:focus {
-  outline: 2px solid #ff5252;
-  outline-offset: 2px;
-}
-
 /* ================================================
    Play & Next Buttons - ALL STYLES IN ONE PLACE
    ================================================ */
-
 /* Play Button - Base styles */
 #radio-play-btn {
   position: absolute;
@@ -230,9 +224,9 @@ body {
   transition: border-color 0.2s ease, background 0.2s ease;
   /* POSITION - Change these to move the button */
   left: 31.5%;
-  top: 47.5%;
-  width: 50px;
-  height: 50px;
+  top: 47.6%;
+  width: 85px;
+  height: 85px;
 }
 
 /* Play Button - Hover */
@@ -260,8 +254,8 @@ body {
   /* POSITION - Change these to move the button */
   left: 64%;
   top: 59%;
-  width: 37px;
-  height: 25px;
+  width: 57px;
+  height: 45px;
 }
 
 /* Next Button - Hover */
@@ -297,7 +291,7 @@ body {
   pointer-events: auto;
   outline: none;
   transition: border-color 0.2s ease;
-  border-radius: 4px;
+  border-radius: 9px;
   box-sizing: border-box;
 }
 
@@ -325,28 +319,28 @@ body {
   left: 23%;
   top: 67%;
   width: 11%;
-  height: 8%;
+  height: 8.9%;
 }
 
 #channel-btn-2 {
   left: 36.5%;
   top: 67%;
   width: 11.5%;
-  height: 8%;
+  height: 8.9%;
 }
 
 #channel-btn-3 {
   left: 50.5%;
   top: 67%;
   width: 11%;
-  height: 8%;
+  height: 8.9%;
 }
 
 #channel-btn-4 {
   left: 64%;
   top: 67%;
   width: 11.5%;
-  height: 8%;
+  height: 8.9%;
 }
 
 /* ========================================
@@ -357,28 +351,28 @@ body {
     left: 23%;
     top: 67%;
     width: 11%;
-    height: 8%;
+    height: 8.9%;
   }
   
   #channel-btn-2 {
     left: 36.5%;
     top: 67%;
     width: 11.5%;
-    height: 8%;
+    height: 8.9%;
   }
   
   #channel-btn-3 {
     left: 50.5%;
     top: 67%;
     width: 11%;
-    height: 8%;
+    height: 8.9%;
   }
   
   #channel-btn-4 {
     left: 64%;
     top: 67%;
     width: 11.5%;
-    height: 8%;
+    height: 8.9%;
   }
 }
 
@@ -520,9 +514,9 @@ body {
 
   #radio-black-overlay {
     position: absolute;
-    left: 37.5%;
+    left: 40%;
     top: 32%;
-    width: 38%;
+    width: 35%;
     height: 14%;
   }
 
