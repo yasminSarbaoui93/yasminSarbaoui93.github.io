@@ -1,9 +1,14 @@
-/* CSS Custom Properties for Typography */
+/* ================================================
+   CSS Custom Properties
+   ================================================ */
 :root {
   --font-body: 'Avenir', 'Avenir Next', -apple-system, BlinkMacSystemFont, 
                'Segoe UI', Helvetica, Arial, sans-serif;
 }
 
+/* ================================================
+   Base Styles
+   ================================================ */
 body {
   margin: 0;
   min-height: 100vh;
@@ -14,13 +19,15 @@ body {
   position: relative;
 }
 
-/* Brand Title Typography - Only for "Sedna FM" */
+/* Brand Title Typography - "Sedna FM" */
 .radio-title-text {
   font-family: silver-streak-variable, sans-serif;
   font-weight: normal;
 }
 
-
+/* ================================================
+   Navigation
+   ================================================ */
 .nav-bar {
   width: 100vw;
   display: flex;
@@ -51,16 +58,6 @@ body {
   text-decoration: underline;
 }
 
-/* .site-title {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  font-family: 'Dancing Script', cursive, sans-serif;
-  font-size: 2rem;
-  letter-spacing: 0.1em;
-  opacity: 0.9;
-  top: 32px;
-} */
 .nav-right {
   display: flex;
   gap: 1.2rem;
@@ -93,6 +90,9 @@ body {
   color: #fff;
 }
 
+/* ================================================
+   Radio Hero Section
+   ================================================ */
 #radio-hero {
   display: flex;
   flex-direction: column;
@@ -102,7 +102,6 @@ body {
 }
 
 #radio-label {
-  /* margin-top: 20px; */
   font-size: 2rem;
   color: #fff;
   letter-spacing: 0.1em;
@@ -131,6 +130,9 @@ body {
   position: relative;
 }
 
+/* ================================================
+   Radio Overlay (Artwork & Title)
+   ================================================ */
 #radio-black-overlay {
   transition: all 0.2s;
   overflow: hidden;
@@ -175,8 +177,9 @@ body {
 #radio-title {
   display: inline-block;
   vertical-align: middle;
-  font-size: 1.45rem;
-  font-weight: bold;
+  font-family: 'VT323', monospace;
+  font-size: 1.6rem;
+  font-weight: normal;
   color: #fff;
   line-height: 1.2;
   text-shadow: 0 2px 8px #000a;
@@ -185,6 +188,25 @@ body {
   padding-left: 2px;
   padding-right: 0;
   max-width: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #radio-title {
+    animation: none !important;
+  }
+}
+
+/* ================================================
+   Radio Controls (Play, Next, Channel Buttons)
+   ================================================ */
+#radio-controls {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  pointer-events: none;
 }
 
 #radio-controls button:active {
@@ -196,7 +218,133 @@ body {
   outline-offset: 2px;
 }
 
-/* Modal styles for Microsoft Form */
+/* Play Button - Transparent circle with intermittent white highlight */
+#radio-play-btn {
+  position: absolute;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  pointer-events: auto;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Intermittent pulsing white highlight to indicate clickability */
+#radio-play-btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  pointer-events: none;
+  background: rgba(255, 255, 255, 0);
+  animation: pulseHighlight 2.5s ease-in-out infinite;
+}
+
+@keyframes pulseHighlight {
+  0%   { background: rgba(255, 255, 255, 0); }
+  50%  { background: rgba(255, 255, 255, 0.3); }
+  100% { background: rgba(255, 255, 255, 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #radio-play-btn::after {
+    animation: none;
+    background: rgba(255, 255, 255, 0.15);
+  }
+}
+
+/* Next Button - Transparent overlay */
+#radio-next-btn {
+  position: absolute;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  pointer-events: auto;
+  border-radius: 50%;
+}
+
+/* Hide the SVG icons inside next button */
+#radio-next-btn svg {
+  display: none;
+}
+
+/* ================================================
+   Channel Buttons
+   ================================================ */
+.channel-btn {
+  position: absolute;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  pointer-events: auto;
+  outline: none;
+  min-width: 44px;
+  min-height: 44px;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+}
+
+.channel-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 8px 2px rgba(255, 200, 0, 0.3);
+}
+
+.channel-btn:focus {
+  outline: 2px solid #ffcc00;
+  outline-offset: 2px;
+}
+
+.channel-btn.active {
+  background: rgba(255, 200, 0, 0.25);
+  box-shadow: 0 0 12px 4px rgba(255, 200, 0, 0.6);
+}
+
+/* ================================================
+   Toast Notifications
+   ================================================ */
+@keyframes toastFadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+@keyframes toastFadeOut {
+  from {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+}
+
+/* ================================================
+   Title Scroll Animation
+   ================================================ */
+@keyframes scroll-title {
+  0% {
+    transform: translateX(0);
+  }
+  10% {
+    transform: translateX(0);
+  }
+  90% {
+    transform: translateX(calc(-1 * (var(--scroll-distance, 0px))));
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* ================================================
+   Modal Styles
+   ================================================ */
 .modal-overlay {
   display: none;
   position: fixed;
@@ -238,7 +386,6 @@ body {
     transform: translateY(40px) scale(0.98);
     opacity: 0;
   }
-
   to {
     transform: none;
     opacity: 1;
@@ -280,13 +427,103 @@ body {
   box-sizing: border-box;
 }
 
-@media (max-width: 500px) {
+/* ================================================
+   DESKTOP STYLES (min-width: 501px)
+   ================================================ */
+@media (min-width: 501px) {
+  #radio-ui-wrapper {
+    position: relative;
+  }
 
+  #radio-black-overlay {
+    position: absolute;
+    left: 11%;
+    top: 19%;
+    width: 78%;
+    height: 14%;
+  }
+
+  /* PLAY BUTTON - Adjust these values to position on your radio image */
+  #radio-play-btn {
+    left: 50%;
+    top: 75%;
+    width: 60px;
+    height: 60px;
+  }
+
+  /* NEXT BUTTON - Adjust these values */
+  #radio-next-btn {
+    left: 60%;
+    top: 75%;
+    width: 30px;
+    height: 30px;
+  }
+
+  #radio-artwork {
+    width: 56px;
+    height: 56px;
+  }
+
+  #radio-title-container {
+    max-width: 300px;
+  }
+
+  #radio-title-main {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  #radio-title-main .radio-title-text {
+    pointer-events: auto;
+    font-size: 1.8rem !important;
+  }
+
+  /* CHANNEL BUTTONS - Adjust these values for your radio image */
+  #channel-btn-1 {
+    left: 7%;
+    top: 58%;
+    width: 10%;
+    height: 8%;
+  }
+  
+  #channel-btn-2 {
+    left: 18%;
+    top: 58%;
+    width: 10%;
+    height: 8%;
+  }
+  
+  #channel-btn-3 {
+    left: 72%;
+    top: 58%;
+    width: 10%;
+    height: 8%;
+  }
+  
+  #channel-btn-4 {
+    left: 83%;
+    top: 58%;
+    width: 10%;
+    height: 8%;
+  }
+}
+
+/* ================================================
+   MOBILE STYLES (max-width: 500px)
+   ================================================ */
+@media (max-width: 500px) {
   #radio-ui-wrapper {
     width: 100vw;
     max-width: 100vw;
-    aspect-ratio: 1/1;
-    margin: 10 auto;
+    aspect-ratio: 3/2;
+    margin: 0 auto;
     display: block;
     position: relative;
   }
@@ -294,7 +531,6 @@ body {
   #radio-img {
     width: 100%;
     height: auto;
-    max-height: 100vw;
     object-fit: contain;
     display: block;
     z-index: 1;
@@ -302,16 +538,16 @@ body {
 
   #radio-black-overlay {
     position: absolute;
-    left: 12%;
-    top: 42%;
+    left: 11%;
+    top: 19%;
     width: 78%;
-    height: 12vw;
+    height: 14%;
     min-height: 44px;
-    max-height: 60px;
+    max-height: 70px;
     display: flex;
     align-items: center;
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 12px;
+    background: transparent;
+    border-radius: 0;
     z-index: 2;
   }
 
@@ -326,20 +562,21 @@ body {
     background: none;
   }
 
+  /* PLAY BUTTON - Adjust these values for mobile */
   #radio-play-btn {
-    left: 49.7%;
-    top: 72%;
-    width: 80px;
-    height: 80px;
+    left: 50%;
+    top: 75%;
+    width: 50px;
+    height: 50px;
   }
 
+  /* NEXT BUTTON - Adjust these values for mobile */
   #radio-next-btn {
-    left: 60.2%;
-    top: 83%;
-    width: 31px;
-    height: 31px;
+    left: 60%;
+    top: 75%;
+    width: 25px;
+    height: 25px;
   }
-
 
   #radio-artwork {
     width: 11vw;
@@ -376,7 +613,7 @@ body {
     text-align: center;
   }
 
-  /* Mobile: render the logo directly above the "Sedna FM" title without moving other components */
+  /* Mobile: logo above title */
   #radio-title-main::before {
     content: "";
     width: 62px;
@@ -386,7 +623,6 @@ body {
     display: block;
   }
 
-  /* Hide the original logo so we don't duplicate it; positions of other elements remain unchanged */
   #radio-label img {
     display: none;
   }
@@ -412,282 +648,33 @@ body {
     margin: 0 18px;
     color: #fff;
   }
-}
 
-
-@media (min-width: 501px) {
-  #radio-black-overlay {
-    position: absolute;
-    left: 58px;
-    top: 206px;
-    width: 395px;
-    height: 70px;
+  /* CHANNEL BUTTONS - Adjust these values for mobile */
+  #channel-btn-1 {
+    left: 5%;
+    top: 56%;
+    width: 12%;
+    height: 9%;
   }
-
-  #radio-play-btn {
-    left: 49.7%;
-    top: 71.8%;
-    width: 85px;
-    height: 85px;
+  
+  #channel-btn-2 {
+    left: 18%;
+    top: 56%;
+    width: 12%;
+    height: 9%;
   }
-
-  #radio-next-btn {
-    left: calc(50% + 53px);
-    top: 75.8%;
-    width: 39px;
-    height: 39px;
+  
+  #channel-btn-3 {
+    left: 70%;
+    top: 56%;
+    width: 12%;
+    height: 9%;
   }
-
-  #radio-artwork {
-    width: 56px;
-    height: 56px;
-  }
-
-  #radio-title-container {
-    max-width: 300px;
-  }
-
-  #radio-ui-wrapper {
-    position: relative;
-  }
-
-  #radio-title-main {
-    position: absolute;
-    top: 40px;
-    left: 0;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    z-index: 10;
-    pointer-events: none;
-  }
-
-  #radio-title-main .radio-title-text {
-    pointer-events: auto;
-    font-size: 1.8rem !important;
-  }
-
-}
-
-@keyframes scroll-title {
-  0% {
-    transform: translateX(0);
-  }
-
-  10% {
-    transform: translateX(0);
-  }
-
-  90% {
-    transform: translateX(calc(-1 * (var(--scroll-distance, 0px))));
-  }
-
-  100% {
-    transform: translateX(0);
-  }
-}
-/* Make play button invisible but still clickable */
-#radio-play-btn {
-  background: none !important;
-  border: none !important;
-  color: transparent !important;
-  box-shadow: none !important;
-  fill: transparent !important;
-}
-#radio-play-btn svg,
-#radio-play-btn i,
-#radio-play-btn::before,
-#radio-play-btn::after {
-  color: transparent !important;
-  fill: transparent !important;
-  background: none !important;
-  box-shadow: none !important;
-}
-/* Hide SVG play icon inside the play button */
-#radio-play-btn svg,
-#radio-play-btn svg * {
-  fill: transparent !important;
-  color: transparent !important;
-}
-/* Make next button invisible but still clickable */
-#radio-next-btn {
-  background: none !important;
-  border: none !important;
-  color: transparent !important;
-  box-shadow: none !important;
-  fill: transparent !important;
-}
-#radio-next-btn svg,
-#radio-next-btn i,
-#radio-next-btn::before,
-#radio-next-btn::after {
-  color: transparent !important;
-  fill: transparent !important;
-  background: none !important;
-}
-/* Hide SVG icon inside the next button */
-#radio-next-btn svg,
-#radio-next-btn svg * {
-  fill: transparent !important;
-  color: transparent !important;
-}
-/* Mobile-only luminosity pulse over the image play button without adding visible graphics */
-@media (max-width: 500px) {
-  /* Ensure overlay circle sits exactly on the clickable area and only changes underlying luminosity */
-  body.home #radio-play-btn {
-    position: absolute; /* already absolute, keep for clarity */
-  }
-
-  /* Use a pseudo-element as a circular overlay that modulates brightness of pixels behind it */
-  body.home #radio-play-btn::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 1;
-
-    /* Important: override earlier "background: none !important" that hides pseudo-elements */
-    background: rgba(255, 255, 255, 0.03) !important;
-
-    /* Brightness modulation of backdrop (the radio image) */
-    -webkit-backdrop-filter: brightness(var(--btn-brightness, 1));
-    backdrop-filter: brightness(var(--btn-brightness, 1));
-
-    animation: playLumPulse 1.8s ease-in-out infinite;
-    will-change: backdrop-filter, -webkit-backdrop-filter, background-color;
-  }
-
-  @keyframes playLumPulse {
-    0%   { --btn-brightness: 1; }
-    50%  { --btn-brightness: 1.28; }
-    100% { --btn-brightness: 1; }
-  }
-
-  /* Fallback for browsers without backdrop-filter: simulate with blend mode */
-  @supports not ((backdrop-filter: brightness(1.1)) or (-webkit-backdrop-filter: brightness(1.1))) {
-    body.home #radio-play-btn::after {
-      /* Overlay uses blend mode to make red look brighter/darker without adding a hard shape */
-      mix-blend-mode: overlay;
-      animation: playLumPulseFallback 1.8s ease-in-out infinite;
-    }
-
-    @keyframes playLumPulseFallback {
-      0%   { background-color: rgba(255, 255, 255, 0.12) !important; }
-      50%  { background-color: rgba(255, 255, 255, 0.34) !important; }
-      100% { background-color: rgba(255, 255, 255, 0.12) !important; }
-    }
-  }
-
-  /* Respect reduced-motion preferences */
-  @media (prefers-reduced-motion: reduce) {
-    body.home #radio-play-btn::after { animation: none; }
-  }
-}
-/* Desktop luminosity pulse over the image play button (same as mobile) */
-@media (min-width: 501px) {
-  /* Ensure overlay circle sits exactly on the clickable area and only changes underlying luminosity */
-  body.home #radio-play-btn {
-    position: absolute; /* already absolute, keep for clarity */
-  }
-
-  /* Use a pseudo-element as a circular overlay that modulates brightness of pixels behind it */
-  body.home #radio-play-btn::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 1;
-
-    /* Important: override earlier "background: none !important" that hides pseudo-elements */
-    background: rgba(255, 255, 255, 0.03) !important;
-
-    /* Brightness modulation of backdrop (the radio image) */
-    -webkit-backdrop-filter: brightness(var(--btn-brightness, 1));
-    backdrop-filter: brightness(var(--btn-brightness, 1));
-
-    animation: playLumPulse 1.8s ease-in-out infinite;
-    will-change: backdrop-filter, -webkit-backdrop-filter, background-color;
-  }
-
-  @keyframes playLumPulse {
-    0%   { --btn-brightness: 1; }
-    50%  { --btn-brightness: 1.28; }
-    100% { --btn-brightness: 1; }
-  }
-
-  /* Fallback for browsers without backdrop-filter: simulate with blend mode */
-  @supports not ((backdrop-filter: brightness(1.1)) or (-webkit-backdrop-filter: brightness(1.1))) {
-    body.home #radio-play-btn::after {
-      /* Overlay uses blend mode to make red look brighter/darker without adding a hard shape */
-      mix-blend-mode: overlay;
-      animation: playLumPulseFallback 1.8s ease-in-out infinite;
-    }
-
-    @keyframes playLumPulseFallback {
-      0%   { background-color: rgba(255, 255, 255, 0.12) !important; }
-      50%  { background-color: rgba(255, 255, 255, 0.34) !important; }
-      100% { background-color: rgba(255, 255, 255, 0.12) !important; }
-    }
-  }
-
-  /* Respect reduced-motion preferences */
-  @media (prefers-reduced-motion: reduce) {
-    body.home #radio-play-btn::after { animation: none; }
-  }
-}
-/* Desktop luminosity pulse over the image play button (mirrors mobile behavior) */
-@media (min-width: 501px) {
-  /* Ensure overlay circle sits exactly on the clickable area and only changes underlying luminosity */
-  body.home #radio-play-btn {
-    position: absolute; /* already absolute, keep for clarity */
-  }
-
-  /* Use a pseudo-element as a circular overlay that modulates brightness of pixels behind it */
-  body.home #radio-play-btn::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 1;
-
-    /* Important: override earlier "background: none !important" that hides pseudo-elements */
-    background: rgba(255, 255, 255, 0.03) !important;
-
-    /* Brightness modulation of backdrop (the radio image) */
-    -webkit-backdrop-filter: brightness(var(--btn-brightness, 1));
-    backdrop-filter: brightness(var(--btn-brightness, 1));
-
-    animation: playLumPulse 1.8s ease-in-out infinite;
-    will-change: backdrop-filter, -webkit-backdrop-filter, background-color;
-  }
-
-  @keyframes playLumPulse {
-    0%   { --btn-brightness: 1; }
-    50%  { --btn-brightness: 1.28; }
-    100% { --btn-brightness: 1; }
-  }
-
-  /* Fallback for browsers without backdrop-filter: simulate with blend mode */
-  @supports not ((backdrop-filter: brightness(1.1)) or (-webkit-backdrop-filter: brightness(1.1))) {
-    body.home #radio-play-btn::after {
-      /* Overlay uses blend mode to make red look brighter/darker without adding a hard shape */
-      mix-blend-mode: overlay;
-      animation: playLumPulseFallback 1.8s ease-in-out infinite;
-    }
-
-    @keyframes playLumPulseFallback {
-      0%   { background-color: rgba(255, 255, 255, 0.12) !important; }
-      50%  { background-color: rgba(255, 255, 255, 0.34) !important; }
-      100% { background-color: rgba(255, 255, 255, 0.12) !important; }
-    }
-  }
-
-  /* Respect reduced-motion preferences */
-  @media (prefers-reduced-motion: reduce) {
-    body.home #radio-play-btn::after { animation: none; }
+  
+  #channel-btn-4 {
+    left: 83%;
+    top: 56%;
+    width: 12%;
+    height: 9%;
   }
 }

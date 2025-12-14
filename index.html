@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="styles/main.css">
   <!-- Google Fonts for site title (optional, for script style) -->
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+  <!-- VT323 Google Font for retro radio screen display -->
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
   <!-- Font Awesome for social icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   <!-- SoundCloud Widget API -->
@@ -36,7 +38,7 @@
       <div id="radio-title-main" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 8px;">
         <span class="radio-title-text" style="font-size: 1.1rem; color: #fff; letter-spacing: 0.05em; text-shadow: 0 2px 8px #0008;">Sedna FM</span>
       </div>
-      <img id="radio-img" src="assets/images/radio.png" alt="Radio" style="width:100%; display:block; z-index:1;">
+      <img id="radio-img" src="assets/images/radio-realistic.png" alt="Radio" style="width:100%; display:block; z-index:1;">
       <!-- Overlay: black area for artwork and title -->
       <div id="radio-black-overlay" style="position:absolute; background:transparent; border-radius:0; display:none; align-items:center; z-index:2;">
         <a id="radio-artwork-link" href="#" target="_blank" style="display: flex;">
@@ -48,24 +50,15 @@
       </div>
       <!-- Overlay: play and next buttons -->
       <div id="radio-controls" style="position:absolute; left:0; top:0; width:100%; height:100%; z-index:3; pointer-events:none;">
-        <!-- Play button: perfectly overlap the play button in the radio image -->
-        <button id="radio-play-btn"
-          style="border-radius:50%; background:#ff5252; border:6px solid #fff; box-shadow:0 2px 8px #0008; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto; transform:translate(-50%,-50%); position:absolute;">
-          <span id="play-icon" style="display:block;">
-            <svg width="38" height="38" viewBox="0 0 32 32"><polygon points="10,7 26,16 10,25" fill="#fff"/></svg>
-          </span>
-          <span id="pause-icon" style="display:none;">
-            <svg width="38" height="38" viewBox="0 0 32 32"><rect x="10" y="7" width="5" height="18" rx="2" fill="#fff"/><rect x="17" y="7" width="5" height="18" rx="2" fill="#fff"/></svg>
-          </span>
-        </button>
-        <!-- Next button: perfectly overlap the next button in the radio image -->
-        <button id="radio-next-btn"
-          style="border-radius:50%; background:#fff; border:4px solid #bbb; box-shadow:0 2px 8px #0005; display:flex; align-items:center; justify-content:center; cursor:pointer; outline:none; transition:background 0.2s; pointer-events:auto; position:absolute;">
-          <svg width="32" height="32" viewBox="0 0 28 28">
-            <polygon points="8,6 20,14 8,22" fill="#888"/>
-            <polygon points="15,6 27,14 15,22" fill="#bbb" opacity="0.7"/>
-          </svg>
-        </button>
+        <!-- Play button: transparent overlay with intermittent highlight -->
+        <button id="radio-play-btn" aria-label="Play/Pause"></button>
+        <!-- Next button: transparent overlay -->
+        <button id="radio-next-btn" aria-label="Next track"></button>
+        <!-- Channel buttons: transparent overlays for CH 1-4 on the radio image -->
+        <button id="channel-btn-1" class="channel-btn" data-channel="1" aria-label="Channel 1 - Morning Drops"></button>
+        <button id="channel-btn-2" class="channel-btn" data-channel="2" aria-label="Channel 2 - Sedna FM"></button>
+        <button id="channel-btn-3" class="channel-btn" data-channel="3" aria-label="Channel 3 - Evening Flows"></button>
+        <button id="channel-btn-4" class="channel-btn" data-channel="4" aria-label="Channel 4 - On The Go"></button>
       </div>
     </div>
     <div id="radio-label" style="display: flex; flex-direction: column; align-items: center;">

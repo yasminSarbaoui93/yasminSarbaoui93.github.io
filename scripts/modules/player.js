@@ -1,17 +1,76 @@
 // Player logic for Sedna FM
 import { getRandom } from './utils.js';
 import { EPISODES } from './episodes.js';
-import { updateArtworkAndTitle, updatePlayPauseIcon } from './ui.js';
+import { updateArtworkAndTitle, updatePlayPauseIcon, updateChannelHighlighting, showToast } from './ui.js';
+import { getChannelEpisodes, getRandomChannelEpisode, getAllEpisodes } from './channels.js';
 
 // State
 let widget = null;
 let currentTrack = null;
 let isPlaying = false;
 let tracks = null;
+let activeChannel = null; // null = all episodes, 1-4 = specific channel
 
 // Fetch episodes from module
 function fetchSednaTracks() {
   return Array.isArray(EPISODES) ? EPISODES : [];
+}
+
+/**
+ * Get the current active channel
+ * @returns {number|null} Active channel ID or null if no channel selected
+ */
+function getActiveChannel() {
+  return activeChannel;
+}
+
+/**
+ * Set the active channel and play from it
+ * @param {number} channelId - Channel ID (1-4)
+ */
+function setActiveChannel(channelId) {
+  const channelEpisodes = getChannelEpisodes(channelId);
+  
+  // Handle empty channel
+  if (channelEpisodes.length === 0) {
+    showToast(`No episodes available in this channel yet`);
+    return;
+  }
+  
+  activeChannel = channelId;
+  tracks = channelEpisodes;
+  updateChannelHighlighting(activeChannel);
+  
+  // Play random episode from the new channel
+  const randomTrack = getRandomChannelEpisode(channelId);
+  if (randomTrack) {
+    playTrack(randomTrack);
+  }
+}
+
+/**
+ * Clear active channel and return to all episodes
+ */
+function clearActiveChannel() {
+  activeChannel = null;
+  tracks = fetchSednaTracks();
+  updateChannelHighlighting(null);
+}
+
+/**
+ * Handle channel button click
+ * @param {number} channelId - Channel ID (1-4)
+ */
+function handleChannelClick(channelId) {
+  if (activeChannel === channelId) {
+    // Same channel clicked - toggle off
+    clearActiveChannel();
+    // Play random from all episodes
+    playRandomEpisode();
+  } else {
+    // Different channel - switch to it
+    setActiveChannel(channelId);
+  }
 }
 
 // Embed SoundCloud player for a given track URL
@@ -75,6 +134,16 @@ function playTrack(trackUrl) {
 
 // Play a random track
 function playRandomEpisode() {
+  // Respect active channel if set
+  if (activeChannel !== null) {
+    const randomTrack = getRandomChannelEpisode(activeChannel);
+    if (randomTrack) {
+      playTrack(randomTrack);
+    }
+    return;
+  }
+  
+  // No active channel - play from all episodes
   if (!tracks) tracks = fetchSednaTracks();
   const randomTrack = getRandom(tracks);
   playTrack(randomTrack);
@@ -100,6 +169,27 @@ function togglePlayPause() {
 
 // Next track
 function playNextTrack() {
+  // Respect active channel if set
+  if (activeChannel !== null) {
+    const channelTracks = getChannelEpisodes(activeChannel);
+    if (channelTracks.length === 0) return;
+    
+    let nextTrack;
+    if (channelTracks.length <= 1) {
+      nextTrack = channelTracks[0];
+    } else {
+      const idx = channelTracks.indexOf(currentTrack);
+      if (idx === -1 || idx === channelTracks.length - 1) {
+        nextTrack = channelTracks[0];
+      } else {
+        nextTrack = channelTracks[idx + 1];
+      }
+    }
+    playTrack(nextTrack);
+    return;
+  }
+  
+  // No active channel - play from all episodes
   if (!tracks) tracks = fetchSednaTracks();
   let nextTrack;
   if (tracks.length <= 1) {
@@ -123,6 +213,10 @@ export {
   playNextTrack,
   fetchSednaTracks,
   embedSoundCloud,
+  handleChannelClick,
+  getActiveChannel,
+  setActiveChannel,
+  clearActiveChannel,
   widget,
   currentTrack,
   isPlaying

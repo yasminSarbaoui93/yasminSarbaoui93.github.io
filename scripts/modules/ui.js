@@ -8,6 +8,65 @@ export function updatePlayPauseIcon() {
   document.getElementById('pause-icon').style.display = isPlaying ? '' : 'none';
 }
 
+/**
+ * Update channel button highlighting to show active channel
+ * @param {number|null} activeChannel - Active channel ID (1-4) or null for none
+ */
+export function updateChannelHighlighting(activeChannel) {
+  // Remove active class from all channel buttons
+  document.querySelectorAll('.channel-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  
+  // Add active class to selected channel button
+  if (activeChannel !== null) {
+    const activeBtn = document.getElementById(`channel-btn-${activeChannel}`);
+    if (activeBtn) {
+      activeBtn.classList.add('active');
+    }
+  }
+}
+
+/**
+ * Show a toast notification message
+ * @param {string} message - Message to display
+ * @param {number} duration - Duration in milliseconds (default: 3000)
+ */
+export function showToast(message, duration = 3000) {
+  // Remove existing toast if present
+  const existingToast = document.getElementById('toast-notification');
+  if (existingToast) {
+    existingToast.remove();
+  }
+  
+  // Create toast element
+  const toast = document.createElement('div');
+  toast.id = 'toast-notification';
+  toast.textContent = message;
+  toast.style.cssText = `
+    position: fixed;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-family: 'VT323', monospace;
+    font-size: 1.2rem;
+    z-index: 1000;
+    animation: toastFadeIn 0.3s ease;
+  `;
+  
+  document.body.appendChild(toast);
+  
+  // Auto-dismiss
+  setTimeout(() => {
+    toast.style.animation = 'toastFadeOut 0.3s ease';
+    setTimeout(() => toast.remove(), 300);
+  }, duration);
+}
+
 // Update artwork and title in overlay
 export function updateArtworkAndTitle() {
   if (widget) {
