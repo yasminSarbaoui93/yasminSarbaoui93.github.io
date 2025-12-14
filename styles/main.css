@@ -4,24 +4,73 @@
 :root {
   --font-body: 'Avenir', 'Avenir Next', -apple-system, BlinkMacSystemFont, 
                'Segoe UI', Helvetica, Arial, sans-serif;
+  --font-display: silver-streak-variable, sans-serif;
+  --font-mono: 'VT323', monospace;
+  
+  /* Colors */
+  --color-primary: #ff5500;
+  --color-bg: #000;
+  --color-text: #fff;
+  --color-text-muted: rgba(255, 255, 255, 0.8);
+  --color-overlay: rgba(30, 32, 40, 0.6);
+  --color-border: rgba(255, 255, 255, 0.1);
+  --color-highlight: rgba(255, 204, 0, 0.3);
+  
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+  
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
 }
 
 /* ================================================
-   Base Styles
+   Base Styles & Reset
    ================================================ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
   margin: 0;
   min-height: 100vh;
-  background: #000 url('../assets/images/hero-background.png') center/cover no-repeat fixed;
+  min-height: 100dvh; /* Dynamic viewport height for mobile */
+  background-color: var(--color-bg);
   font-family: var(--font-body);
-  color: #fff;
+  color: var(--color-text);
   overflow-x: hidden;
   position: relative;
+  width: 100%;
+  max-width: 100vw;
+}
+
+/* Fixed background using pseudo-element - works on all devices including iOS */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('../assets/images/hero-background.png') center center / cover no-repeat;
+  z-index: -1;
+  pointer-events: none;
 }
 
 /* Brand Title Typography - "Sedna FM" */
 .radio-title-text {
-  font-family: silver-streak-variable, sans-serif;
+  font-family: var(--font-display);
   font-weight: normal;
 }
 
@@ -29,7 +78,8 @@ body {
    Navigation
    ================================================ */
 .nav-bar {
-  width: 100vw;
+  width: 100%;
+  max-width: 100vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -37,20 +87,21 @@ body {
   top: 0;
   left: 0;
   z-index: 10;
+  padding: 0;
 }
 
 .nav-left {
   display: flex;
-  gap: 2rem;
+  gap: var(--spacing-lg);
   font-size: 1.2rem;
-  margin: 24px 32px;
+  margin: 1.5rem 2rem;
 }
 
 .nav-left a {
-  color: #fff;
+  color: var(--color-text);
   text-decoration: none;
   opacity: 0.85;
-  transition: opacity 0.2s;
+  transition: opacity var(--transition-fast);
 }
 
 .nav-left a:hover {
@@ -66,18 +117,18 @@ body {
   position: relative;
   z-index: 20;
   background: rgba(35, 37, 42, 0.85);
-  padding: 6px 12px;
-  border-radius: 16px;
-  box-shadow: 0 2px 8px #0004;
-  margin-right: 32px;
+  padding: 0.375rem 0.75rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  margin-right: 2rem;
 }
 
 .nav-right a {
-  color: #fff;
+  color: var(--color-text);
   opacity: 0.9;
-  transition: opacity 0.2s;
+  transition: opacity var(--transition-fast), background var(--transition-fast);
   text-decoration: none;
-  padding: 4px;
+  padding: 0.25rem;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -86,8 +137,8 @@ body {
 
 .nav-right a:hover {
   opacity: 1;
-  background: #ff5500;
-  color: #fff;
+  background: var(--color-primary);
+  color: var(--color-text);
 }
 
 /* ================================================
@@ -99,29 +150,33 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  min-height: 100dvh;
   position: relative;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 #radio-label {
   font-size: 2rem;
-  color: #fff;
+  color: var(--color-text);
   letter-spacing: 0.1em;
-  text-shadow: 0 2px 8px #0008;
-  margin-top: 24px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  margin-top: 1.5rem;
 }
 
 .radio-subtitle {
   font-family: var(--font-body);
   font-weight: 400;
   font-size: 1.1rem;
-  color: #fff;
+  color: var(--color-text);
   letter-spacing: 0.05em;
-  text-shadow: 0 2px 8px #0008;
-  margin-bottom: 6px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  margin-bottom: 0.375rem;
 }
 
 #soundcloud-player {
-  margin-top: 32px;
+  margin-top: 2rem;
   display: block;
   width: 100%;
   max-width: 500px;
@@ -136,19 +191,19 @@ body {
 }
 
 #radio-ui-wrapper {
-  max-width: 98vw;
-  width: 800px;    /* RADIO SIZE - Change this to make bigger/smaller */
+  max-width: 98%;
+  width: min(800px, 95vw);
   margin: 0 auto;
   position: relative;
 }
 
 /* ================================================
-   Radio Overlay (Title Only)
+   Radio Overlay (Title Display)
    ================================================ */
 #radio-black-overlay {
-  transition: all 0.2s;
+  transition: all var(--transition-fast);
   overflow: hidden;
-  padding: 0 12px;
+  padding: 0 0.75rem;
   display: none;
   align-items: center;
   justify-content: center;
@@ -156,20 +211,25 @@ body {
   background: transparent;
   border-radius: 0;
   z-index: 2;
+  /* Desktop positioning */
+  left: 40%;
+  top: 32%;
+  width: 35%;
+  height: 14%;
 }
 
 #radio-title-container {
   overflow: hidden;
   white-space: nowrap;
   position: relative;
-  max-width: 300px;
+  max-width: 100%;
   min-width: 0;
   display: flex;
   align-items: center;
-  height: 56px;
+  height: 3.5rem;
   flex: 1;
-  margin-left: 18px;
-  margin-right: 18px;
+  margin-left: 1.125rem;
+  margin-right: 1.125rem;
 }
 
 #radio-title-link {
@@ -185,24 +245,17 @@ body {
 #radio-title {
   display: inline-block;
   vertical-align: middle;
-  font-family: 'VT323', monospace;
-  font-size: 1.3rem;
+  font-family: var(--font-mono);
+  font-size: clamp(0.9rem, 2.5vw, 1.3rem);
   font-weight: normal;
   color: #000;
   line-height: 1.2;
   text-shadow: none;
   will-change: transform;
-  transition: color 0.2s;
+  transition: color var(--transition-fast);
   padding-left: 2px;
   padding-right: 0;
   max-width: 100%;
-}
-
-/* Mobile: smaller episode title font to show more text */
-@media (max-width: 500px) {
-  #radio-title {
-    font-size: 0.95rem;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -212,7 +265,7 @@ body {
 }
 
 /* ================================================
-   Radio Controls (Play, Next, Channel Buttons)
+   Radio Controls Container
    ================================================ */
 #radio-controls {
   position: absolute;
@@ -229,26 +282,50 @@ body {
 }
 
 /* ================================================
-   Play & Next Buttons - ALL STYLES IN ONE PLACE
+   Shared Button Styles (DRY)
    ================================================ */
-/* Play Button - Base styles */
-#radio-play-btn {
+/* Base transparent overlay button */
+.transparent-btn,
+#radio-play-btn,
+#radio-next-btn,
+#radio-prev-btn {
   position: absolute;
   background: transparent;
   border: 2px solid transparent;
   cursor: pointer;
   pointer-events: auto;
-  border-radius: 50%;
   transform: translate(-50%, -50%);
-  transition: border-color 0.2s ease, background 0.2s ease;
-  /* POSITION - Change these to move the button */
-  left: 31.5%;
-  top: 47.6%;
-  width: 85px;
-  height: 85px;
+  transition: border-color var(--transition-fast), background var(--transition-fast);
 }
 
-/* Pulsing effect when NOT playing (to show it's clickable) */
+/* Shared hover state */
+#radio-play-btn:hover,
+#radio-next-btn:hover,
+#radio-prev-btn:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Shared active state */
+#radio-play-btn:active,
+#radio-next-btn:active,
+#radio-prev-btn:active {
+  border-color: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* ================================================
+   Play Button
+   ================================================ */
+#radio-play-btn {
+  border-radius: 50%;
+  left: 31.5%;
+  top: 47.6%;
+  width: clamp(50px, 10vw, 85px);
+  height: clamp(50px, 10vw, 85px);
+}
+
+/* Pulsing effect when NOT playing */
 #radio-play-btn::after {
   content: "";
   position: absolute;
@@ -265,7 +342,7 @@ body {
   100% { background: rgba(255, 255, 255, 0); }
 }
 
-/* When playing - no animation, fully transparent */
+/* When playing - no animation */
 #radio-play-btn.playing::after {
   animation: none;
   background: transparent;
@@ -278,89 +355,29 @@ body {
   }
 }
 
-/* Play Button - Hover */
-#radio-play-btn:hover {
-  border-color: rgba(255, 255, 255, 0.3);
-  background: rgba(255, 255, 255, 0.1);
-}
-
-/* Play Button - Active (while clicking) */
-#radio-play-btn:active {
-  border-color: rgba(255, 255, 255, 0.5);
-  background: rgba(255, 255, 255, 0.2);
-}
-
-/* Next Button - Base styles */
-#radio-next-btn {
-  position: absolute;
-  background: transparent;
-  border: 2px solid transparent;
-  cursor: pointer;
-  pointer-events: auto;
+/* ================================================
+   Navigation Buttons (Next/Previous)
+   ================================================ */
+#radio-next-btn,
+#radio-prev-btn {
   border-radius: 4px;
-  transform: translate(-50%, -50%);
-  transition: border-color 0.2s ease, background 0.2s ease;
-  /* POSITION - Change these to move the button */
+  width: clamp(30px, 5vw, 40px);
+  height: clamp(24px, 4vw, 32px);
+}
+
+#radio-next-btn {
   left: 64%;
   top: 59%;
-  width: 40px;
-  height: 32px;
 }
 
-/* Next Button - Hover */
-#radio-next-btn:hover {
-  border-color: rgba(255, 255, 255, 0.3);
-  background: rgba(255, 255, 255, 0.1);
-}
-
-/* Next Button - Active (while clicking) */
-#radio-next-btn:active {
-  border-color: rgba(255, 255, 255, 0.5);
-  background: rgba(255, 255, 255, 0.2);
-}
-
-/* Previous Button - Base styles (same design as next button) */
 #radio-prev-btn {
-  position: absolute;
-  background: transparent;
-  border: 2px solid transparent;
-  cursor: pointer;
-  pointer-events: auto;
-  border-radius: 4px;
-  transform: translate(-50%, -50%);
-  transition: border-color 0.2s ease, background 0.2s ease;
-  /* POSITION - positioned over the left arrow button on radio */
   left: 53.5%;
   top: 59%;
-  width: 40px;
-  height: 32px;
-}
-
-/* Previous Button - Hover */
-#radio-prev-btn:hover {
-  border-color: rgba(255, 255, 255, 0.3);
-  background: rgba(255, 255, 255, 0.1);
-}
-
-/* Previous Button - Active (while clicking) */
-#radio-prev-btn:active {
-  border-color: rgba(255, 255, 255, 0.5);
-  background: rgba(255, 255, 255, 0.2);
-}
-
-/* Mobile size adjustments only */
-@media (max-width: 500px) {
-  #radio-play-btn {
-    width: 45px;
-    height: 45px;
-  }
 }
 
 /* ================================================
-   Channel Buttons - ALL STYLES IN ONE PLACE
+   Channel Buttons
    ================================================ */
-
-/* Base channel button (shared by all) */
 .channel-btn {
   position: absolute;
   background: transparent;
@@ -368,91 +385,29 @@ body {
   cursor: pointer;
   pointer-events: auto;
   outline: none;
-  transition: border-color 0.2s ease;
+  transition: border-color var(--transition-fast);
   border-radius: 9px;
   box-sizing: border-box;
 }
 
-/* Hover state */
 .channel-btn:hover {
-  border-color: rgba(255, 204, 0, 0.3);
+  border-color: var(--color-highlight);
 }
 
-/* Focus state (keyboard navigation) */
 .channel-btn:focus {
   border-color: rgba(255, 204, 0, 0.4);
   outline: none;
 }
 
-/* Active/Selected state */
 .channel-btn.active {
   border-color: rgba(255, 204, 0, 0.25);
 }
 
-/* ========================================
-   CHANNEL BUTTON POSITIONS - DESKTOP
-   Adjust left/top/width/height here
-   ======================================== */
-#channel-btn-1 {
-  left: 23%;
-  top: 67%;
-  width: 11%;
-  height: 8.9%;
-}
-
-#channel-btn-2 {
-  left: 36.5%;
-  top: 67%;
-  width: 11.5%;
-  height: 8.9%;
-}
-
-#channel-btn-3 {
-  left: 50.5%;
-  top: 67%;
-  width: 11%;
-  height: 8.9%;
-}
-
-#channel-btn-4 {
-  left: 64%;
-  top: 67%;
-  width: 11.5%;
-  height: 8.9%;
-}
-
-/* ========================================
-   CHANNEL BUTTON POSITIONS - MOBILE
-   ======================================== */
-@media (max-width: 500px) {
-  #channel-btn-1 {
-    left: 23%;
-    top: 67%;
-    width: 11%;
-    height: 8.9%;
-  }
-  
-  #channel-btn-2 {
-    left: 36.5%;
-    top: 67%;
-    width: 11.5%;
-    height: 8.9%;
-  }
-  
-  #channel-btn-3 {
-    left: 50.5%;
-    top: 67%;
-    width: 11%;
-    height: 8.9%;
-  }
-  
-  #channel-btn-4 {
-    left: 64%;
-    top: 67%;
-    width: 11.5%;
-    height: 8.9%;
-  }
-}
+/* Channel Button Positions (percentage-based for responsiveness) */
+#channel-btn-1 { left: 23%; top: 67%; width: 11%; height: 8.9%; }
+#channel-btn-2 { left: 36.5%; top: 67%; width: 11.5%; height: 8.9%; }
+#channel-btn-3 { left: 50.5%; top: 67%; width: 11%; height: 8.9%; }
+#channel-btn-4 { left: 64%; top: 67%; width: 11.5%; height: 8.9%; }
 
 /* ================================================
    Toast Notifications
@@ -483,18 +438,10 @@ body {
    Title Scroll Animation
    ================================================ */
 @keyframes scroll-title {
-  0% {
-    transform: translateX(0);
-  }
-  10% {
-    transform: translateX(0);
-  }
-  90% {
-    transform: translateX(calc(-1 * (var(--scroll-distance, 0px))));
-  }
-  100% {
-    transform: translateX(0);
-  }
+  0% { transform: translateX(0); }
+  10% { transform: translateX(0); }
+  90% { transform: translateX(calc(-1 * (var(--scroll-distance, 0px)))); }
+  100% { transform: translateX(0); }
 }
 
 /* ================================================
@@ -506,8 +453,8 @@ body {
   z-index: 1000;
   left: 0;
   top: 0;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   background: rgba(30, 32, 36, 0.85);
   justify-content: center;
   align-items: center;
@@ -519,15 +466,13 @@ body {
 
 .modal-window {
   background: #23252a;
-  border-radius: 14px;
-  box-shadow: 0 4px 32px #000b;
+  border-radius: 0.875rem;
+  box-shadow: 0 4px 32px rgba(0, 0, 0, 0.7);
   padding: 0;
-  min-width: 0;
-  width: 620px;
-  max-width: 99vw;
-  min-height: 720px;
-  max-height: 99vh;
-  color: #fff;
+  width: min(620px, 95vw);
+  min-height: min(720px, 95vh);
+  max-height: 95vh;
+  color: var(--color-text);
   position: relative;
   font-family: 'Courier New', Courier, monospace;
   animation: modalIn 0.18s cubic-bezier(.4, 2, .6, 1) both;
@@ -549,15 +494,15 @@ body {
 
 .modal-close {
   position: absolute;
-  top: 10px;
-  right: 18px;
+  top: 0.625rem;
+  right: 1.125rem;
   background: none;
   border: none;
-  color: #fff;
+  color: var(--color-text);
   font-size: 1.7rem;
   cursor: pointer;
   opacity: 0.7;
-  transition: opacity 0.2s;
+  transition: opacity var(--transition-fast);
   z-index: 2;
 }
 
@@ -566,213 +511,36 @@ body {
 }
 
 .modal-iframe-container {
-  width: 520px;
-  max-width: 94vw;
-  height: 600px;
-  max-height: 85vh;
-  min-height: 600px;
+  width: min(520px, 94vw);
+  height: min(600px, 85vh);
+  min-height: min(600px, 85vh);
   display: flex;
   align-items: center;
   justify-content: center;
   background: #23252a;
-  border-radius: 14px;
+  border-radius: 0.875rem;
   overflow: hidden;
   position: relative;
-  padding-top: 32px;
+  padding-top: 2rem;
   box-sizing: border-box;
-}
-
-/* ================================================
-   DESKTOP STYLES (min-width: 501px)
-   ================================================ */
-@media (min-width: 501px) {
-  #radio-ui-wrapper {
-    position: relative;
-  }
-
-  #radio-black-overlay {
-    position: absolute;
-    left: 40%;
-    top: 32%;
-    width: 35%;
-    height: 14%;
-  }
-
-  #radio-artwork {
-    width: 56px;
-    height: 56px;
-  }
-
-  #radio-title-container {
-    max-width: 300px;
-  }
-
-  #radio-title-main {
-    position: absolute;
-    top: 0px;
-    left: 0;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    z-index: 10;
-    pointer-events: none;
-  }
-
-  #radio-title-main .radio-title-text {
-    pointer-events: auto;
-    font-size: 2rem !important;
-  }
-}
-
-/* ================================================
-   MOBILE STYLES (max-width: 500px)
-   ================================================ */
-@media (max-width: 500px) {
-  #radio-ui-wrapper {
-    width: 95vw;
-    max-width: 95vw;
-    aspect-ratio: auto;
-    margin: 0 auto;
-    display: block;
-    position: relative;
-    transform: scale(1.35);
-    transform-origin: center center;
-  }
-
-  #radio-img {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    display: block;
-    z-index: 1;
-  }
-
-  #radio-black-overlay {
-    position: absolute;
-    left: 36%;
-    top: 30.5%;
-    width: 39%;
-    height: 14%;
-    min-height: 44px;
-    max-height: 70px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: transparent;
-    border-radius: 0;
-    z-index: 2;
-  }
-
-  #radio-controls {
-    position: absolute !important;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 3;
-    pointer-events: none;
-    background: none;
-  }
-
-  #radio-artwork {
-    width: 11vw;
-    height: 11vw;
-    min-width: 44px;
-    min-height: 44px;
-    max-width: 56px;
-    max-height: 56px;
-    margin-left: 2vw;
-  }
-
-  #radio-title-container {
-    max-width: 100%;
-    min-width: 0;
-    margin-left: 0;
-    margin-right: 0;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-  }
-
-  /* ========================================
-     MOBILE: "Sedna FM" TITLE & LOGO
-     ======================================== */
-  #radio-title-main {
-    position: absolute;
-    top: -40px;           /* MOVE TITLE: negative = higher, positive = lower */
-    left: 0;
-    right: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    z-index: 10;
-    pointer-events: none;
-  }
-
-  /* Logo above title */
-  #radio-title-main::before {
-    content: "";
-    width: 50px;          /* LOGO SIZE: width */
-    height: 50px;         /* LOGO SIZE: height */
-    margin-bottom: 4px;   /* SPACE between logo and title */
-    background: url('../assets/images/sedna_logo.png') no-repeat center/contain;
-    display: block;
-  }
-
-  #radio-title-main .radio-title-text {
-    pointer-events: auto;
-    font-size: 1.3rem;    /* TITLE SIZE */
-    text-align: center;
-  }
-
-  #radio-label img {
-    display: none;
-  }
-
-  .home .nav-right {
-    position: fixed !important;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    top: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: transparent;
-    padding: 12px 0 8px 0;
-    margin: 0;
-    z-index: 100;
-    box-shadow: none;
-  }
-
-  .home .nav-right a {
-    font-size: 2rem;
-    margin: 0 18px;
-    color: #fff;
-  }
-
-  /* Move scroll indicator higher on mobile to avoid browser banner and social icons */
-  .scroll-indicator {
-    bottom: 160px;
-  }
 }
 
 /* ================================================
    Scroll Down Indicator
    ================================================ */
 .scroll-indicator {
-  position: absolute;
-  bottom: 30px;
-  left: 50%;
-  transform: translateX(-50%);
+  /* Use relative positioning in flex flow - always below content */
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   z-index: 10;
   cursor: pointer;
   opacity: 0.7;
-  transition: opacity 0.3s ease;
+  transition: opacity var(--transition-normal);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  flex-shrink: 0;
 }
 
 .scroll-indicator:hover {
@@ -780,8 +548,8 @@ body {
 }
 
 .scroll-arrow {
-  width: 24px;
-  height: 24px;
+  width: 1.5rem;
+  height: 1.5rem;
   border-right: 2px solid rgba(255, 255, 255, 0.7);
   border-bottom: 2px solid rgba(255, 255, 255, 0.7);
   transform: rotate(45deg);
@@ -800,56 +568,55 @@ body {
   }
 }
 
+/* Scroll indicator for formats section */
+.formats-scroll-indicator {
+  margin-top: 3.125rem;
+}
+
 /* ================================================
    Our Formats Section
    ================================================ */
 #formats-section {
   min-height: 100vh;
-  padding: 80px 40px;
+  min-height: 100dvh;
+  padding: 5rem 2.5rem;
   background: transparent;
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
-}
-
-/* Scroll indicator for formats section */
-.formats-scroll-indicator {
-  position: relative;
-  bottom: auto;
-  left: auto;
-  transform: none;
-  margin-top: 50px;
+  width: 100%;
+  max-width: 100%;
 }
 
 .formats-title {
-  font-family: silver-streak-variable, sans-serif;
-  font-size: 3rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 5vw, 3rem);
   font-weight: normal;
-  color: #fff;
+  color: var(--color-text);
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 3.75rem;
   letter-spacing: 0.05em;
   text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
 }
 
 .formats-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 40px;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
+  gap: 2.5rem;
   max-width: 1200px;
   width: 100%;
 }
 
 .format-card {
-  background: rgba(30, 32, 40, 0.6);
-  border-radius: 16px;
+  background: var(--color-overlay);
+  border-radius: 1rem;
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal);
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid var(--color-border);
 }
 
 .format-card:hover {
@@ -866,7 +633,7 @@ body {
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  transition: transform 0.3s ease;
+  transition: transform var(--transition-normal);
 }
 
 .format-image-link:hover .format-image {
@@ -874,10 +641,10 @@ body {
 }
 
 .format-content {
-  padding: 24px;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 0.75rem;
 }
 
 .format-title-link {
@@ -885,193 +652,118 @@ body {
 }
 
 .format-name {
-  font-family: silver-streak-variable, sans-serif;
-  font-size: 1.8rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.4rem, 3vw, 1.8rem);
   font-weight: normal;
-  color: #fff;
+  color: var(--color-text);
   margin: 0;
-  transition: color 0.2s ease;
+  transition: color var(--transition-fast);
   letter-spacing: 0.02em;
 }
 
 .format-title-link:hover .format-name {
-  color: #ff5500;
+  color: var(--color-primary);
 }
 
 .format-description {
   font-family: var(--font-body);
-  font-size: 0.95rem;
+  font-size: clamp(0.85rem, 2vw, 0.95rem);
   line-height: 1.6;
-  color: rgba(255, 255, 255, 0.8);
+  color: var(--color-text-muted);
   margin: 0;
-}
-
-/* Mobile Responsive - Formats Section */
-@media (max-width: 900px) {
-  .formats-grid {
-    grid-template-columns: 1fr;
-    gap: 30px;
-  }
-  
-  .formats-title {
-    font-size: 2.2rem;
-    margin-bottom: 40px;
-  }
-  
-  #formats-section {
-    padding: 60px 20px;
-  }
-}
-
-@media (max-width: 500px) {
-  .formats-title {
-    font-size: 1.8rem;
-  }
-  
-  .format-name {
-    font-size: 1.4rem;
-  }
-  
-  .format-description {
-    font-size: 0.9rem;
-  }
-  
-  .format-content {
-    padding: 18px;
-  }
-  
-  .scroll-indicator {
-    bottom: 160px;
-  
-  .scroll-arrow {
-    width: 18px;
-    height: 18px;
-  }
 }
 
 /* ================================================
    What is Sedna FM Section
    ================================================ */
 #about-sedna-section {
-  padding: 80px 40px 60px 40px;
+  padding: 5rem 2.5rem 3.75rem;
   background: transparent;
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
+  max-width: 100%;
 }
 
 .about-sedna-title {
-  font-family: silver-streak-variable, sans-serif;
-  font-size: 3rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 5vw, 3rem);
   font-weight: normal;
-  color: #fff;
+  color: var(--color-text);
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 2.5rem;
   letter-spacing: 0.05em;
   text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
 }
 
 .about-sedna-images {
   display: flex;
-  gap: 32px;
-  margin: 24px 0 40px 0;
+  gap: 2rem;
+  margin: 1.5rem 0 2.5rem;
   justify-content: center;
   flex-wrap: wrap;
 }
 
 .about-sedna-images img {
-  width: 220px;
-  height: 220px;
+  width: clamp(140px, 20vw, 220px);
+  height: clamp(140px, 20vw, 220px);
   object-fit: cover;
-  border-radius: 18px;
-  box-shadow: 0 2px 16px #0007;
-  border: 3px solid #fff2;
+  border-radius: 1.125rem;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.45);
+  border: 3px solid rgba(255, 255, 255, 0.13);
   background: #23252a;
 }
 
 .about-sedna-text {
-  max-width: 900px;
+  max-width: min(900px, 95%);
   text-align: center;
-  background: rgba(30, 32, 40, 0.6);
+  background: var(--color-overlay);
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 16px;
-  padding: 32px 40px;
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  padding: 2rem 2.5rem;
 }
 
 .about-sedna-text p {
   font-family: var(--font-body);
-  font-size: 1.15rem;
+  font-size: clamp(1rem, 2.5vw, 1.15rem);
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.93);
-  margin: 0 0 24px 0;
+  margin: 0 0 1.5rem;
 }
 
 .about-sedna-text p:last-child {
   margin-bottom: 0;
 }
 
-/* Mobile Responsive - About Sedna Section */
-@media (max-width: 900px) {
-  .about-sedna-title {
-    font-size: 2.2rem;
-    margin-bottom: 30px;
-  }
-  
-  #about-sedna-section {
-    padding: 60px 20px;
-  }
-  
-  .about-sedna-images img {
-    width: 180px;
-    height: 180px;
-  }
-}
-
-@media (max-width: 500px) {
-  .about-sedna-title {
-    font-size: 1.8rem;
-  }
-  
-  .about-sedna-images {
-    gap: 16px;
-  }
-  
-  .about-sedna-images img {
-    width: 140px;
-    height: 140px;
-  }
-  
-  .about-sedna-text p {
-    font-size: 1rem;
-  }
-}
-
 /* ================================================
    Who We Are / Your Hosts Section
    ================================================ */
 #who-we-are-section {
-  padding: 60px 40px 80px 40px;
+  padding: 3.75rem 2.5rem 5rem;
   background: transparent;
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
+  max-width: 100%;
 }
 
 .who-we-are-title {
-  font-family: silver-streak-variable, sans-serif;
-  font-size: 3rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 5vw, 3rem);
   font-weight: normal;
-  color: #fff;
+  color: var(--color-text);
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 3.125rem;
   letter-spacing: 0.05em;
   text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
 }
 
 .hosts-row {
   display: flex;
-  gap: 48px;
+  gap: 3rem;
   justify-content: center;
   align-items: flex-start;
   flex-wrap: wrap;
@@ -1079,16 +771,16 @@ body {
 }
 
 .host-card {
-  background: rgba(30, 32, 40, 0.6);
+  background: var(--color-overlay);
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 16px;
-  padding: 32px 28px 24px 28px;
-  width: 320px;
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  padding: 2rem 1.75rem 1.5rem;
+  width: min(320px, 90vw);
   display: flex;
   flex-direction: column;
   align-items: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal);
 }
 
 .host-card:hover {
@@ -1097,31 +789,31 @@ body {
 }
 
 .host-img {
-  width: 120px;
-  height: 120px;
+  width: clamp(80px, 15vw, 120px);
+  height: clamp(80px, 15vw, 120px);
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid rgba(255, 255, 255, 0.2);
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
   background: #23252a;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
 }
 
 .host-name {
-  font-family: silver-streak-variable, sans-serif;
-  font-size: 1.5rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.15rem, 3vw, 1.5rem);
   font-weight: normal;
-  margin-bottom: 14px;
+  margin-bottom: 0.875rem;
   letter-spacing: 0.05em;
   text-align: center;
-  color: #fff;
+  color: var(--color-text);
 }
 
 .host-desc {
   font-family: var(--font-body);
-  font-size: 0.95rem;
+  font-size: clamp(0.85rem, 2vw, 0.95rem);
   text-align: center;
-  margin-bottom: 18px;
+  margin-bottom: 1.125rem;
   color: rgba(255, 255, 255, 0.85);
   line-height: 1.6;
 }
@@ -1131,55 +823,354 @@ body {
 }
 
 .host-social a {
-  color: #fff;
+  color: var(--color-text);
   font-size: 1.6rem;
   opacity: 0.85;
-  transition: opacity 0.2s, color 0.2s;
-  margin: 0 6px;
+  transition: opacity var(--transition-fast), color var(--transition-fast);
+  margin: 0 0.375rem;
 }
 
 .host-social a:hover {
   opacity: 1;
-  color: #ff5500;
+  color: var(--color-primary);
 }
 
-/* Mobile Responsive - Who We Are Section */
-@media (max-width: 900px) {
-  .who-we-are-title {
-    font-size: 2.2rem;
-    margin-bottom: 40px;
+/* ================================================
+   DESKTOP STYLES (min-width: 769px)
+   ================================================ */
+@media (min-width: 769px) {
+  #radio-ui-wrapper {
+    position: relative;
+  }
+
+  #radio-artwork {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+
+  #radio-title-container {
+    max-width: 300px;
+  }
+
+  #radio-title-main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  #radio-title-main .radio-title-text {
+    pointer-events: auto;
+    font-size: 2rem !important;
+  }
+}
+
+/* ================================================
+   TABLET STYLES (max-width: 768px)
+   ================================================ */
+@media (max-width: 768px) {
+  .nav-left {
+    gap: 1rem;
+    font-size: 1rem;
+    margin: 1rem 1rem;
+  }
+  
+  .nav-right {
+    margin-right: 1rem;
+    gap: 0.8rem;
+    font-size: 1.4rem;
+    padding: 0.25rem 0.5rem;
+  }
+  
+  #formats-section {
+    padding: 3.75rem 1.25rem;
+  }
+  
+  .formats-title {
+    margin-bottom: 2.5rem;
+  }
+  
+  .formats-grid {
+    gap: 1.875rem;
+  }
+  
+  #about-sedna-section {
+    padding: 3.75rem 1.25rem;
+  }
+  
+  .about-sedna-title {
+    margin-bottom: 1.875rem;
   }
   
   #who-we-are-section {
-    padding: 30px 20px 60px 20px;
+    padding: 1.875rem 1.25rem 3.75rem;
+  }
+  
+  .who-we-are-title {
+    margin-bottom: 2.5rem;
   }
   
   .hosts-row {
-    gap: 30px;
+    gap: 1.875rem;
   }
 }
 
+/* ================================================
+   MOBILE STYLES (max-width: 500px)
+   ================================================ */
 @media (max-width: 500px) {
-  .who-we-are-title {
-    font-size: 1.8rem;
+  /* Prevent horizontal scroll */
+  html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
   }
   
-  .host-card {
-    width: 90vw;
-    max-width: 340px;
-    padding: 24px 20px 18px 20px;
+  /* Navigation - fixed at bottom on mobile */
+  .nav-bar {
+    width: 100%;
+    max-width: 100%;
   }
   
-  .host-img {
-    width: 100px;
-    height: 100px;
-  }
-  
-  .host-name {
-    font-size: 1.15rem;
-  }
-  
-  .host-desc {
+  .nav-left {
+    gap: 0.75rem;
     font-size: 0.9rem;
+    margin: 0.75rem;
+  }
+  
+  /* Social icons at bottom */
+  .home .nav-right {
+    position: fixed !important;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    padding: 0.75rem 0 0.5rem;
+    margin: 0;
+    z-index: 100;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  .home .nav-right a {
+    font-size: 1.75rem;
+    margin: 0 1.125rem;
+    color: var(--color-text);
+  }
+  
+  /* Radio wrapper */
+  #radio-ui-wrapper {
+    width: 90vw;
+    max-width: 90vw;
+    aspect-ratio: auto;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    transform: scale(1.25);
+    transform-origin: center center;
+  }
+
+  #radio-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    z-index: 1;
+  }
+
+  /* Episode title overlay - adjusted positioning */
+  #radio-black-overlay {
+    position: absolute;
+    left: 38%;
+    top: 31%;
+    width: 38%;
+    height: 14%;
+    min-height: 40px;
+    max-height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 0.5rem;
+  }
+
+  #radio-title-container {
+    max-width: 100%;
+    min-width: 0;
+    margin-left: 0;
+    margin-right: 0;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+  }
+  
+  #radio-title {
+    font-size: 0.85rem;
+    padding-left: 0;
+  }
+
+  #radio-controls {
+    position: absolute !important;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    pointer-events: none;
+    background: none;
+  }
+
+  #radio-artwork {
+    width: 10vw;
+    height: 10vw;
+    min-width: 40px;
+    min-height: 40px;
+    max-width: 50px;
+    max-height: 50px;
+    margin-left: 1.5vw;
+  }
+
+  /* Sedna FM title above radio */
+  #radio-title-main {
+    position: absolute;
+    top: -35px;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  #radio-title-main::before {
+    content: "";
+    width: 45px;
+    height: 45px;
+    margin-bottom: 0.25rem;
+    background: url('../assets/images/sedna_logo.png') no-repeat center/contain;
+    display: block;
+  }
+
+  #radio-title-main .radio-title-text {
+    pointer-events: auto;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  #radio-label img {
+    display: none;
+  }
+  
+  .scroll-arrow {
+    width: 1.125rem;
+    height: 1.125rem;
+    border-width: 2px;
+  }
+
+  /* Play button - smaller on mobile */
+  #radio-play-btn {
+    width: 45px;
+    height: 45px;
+  }
+  
+  /* Format section adjustments */
+  .format-content {
+    padding: 1.125rem;
+  }
+  
+  /* About section adjustments */
+  .about-sedna-images {
+    gap: 1rem;
+  }
+  
+  .about-sedna-text {
+    padding: 1.5rem 1.25rem;
+  }
+  
+  /* Host cards */
+  .host-card {
+    max-width: 340px;
+    padding: 1.5rem 1.25rem 1.125rem;
+  }
+}
+
+/* ================================================
+   Very Small Screens (max-width: 380px)
+   ================================================ */
+@media (max-width: 380px) {
+  #radio-ui-wrapper {
+    width: 95vw;
+    transform: scale(1.15);
+  }
+  
+  #radio-title {
+    font-size: 0.75rem;
+  }
+  
+  .nav-left {
+    font-size: 0.8rem;
+    gap: 0.5rem;
+  }
+}
+
+/* ================================================
+   Landscape Mobile
+   ================================================ */
+@media (max-height: 500px) and (orientation: landscape) {
+  #radio-hero {
+    min-height: auto;
+    padding: 2rem 0;
+  }
+  
+  #radio-ui-wrapper {
+    transform: scale(0.8);
+    margin-top: 1rem;
+  }
+}
+
+/* ================================================
+   Safe Area Insets (for notched phones)
+   ================================================ */
+@supports (padding: max(0px)) {
+  .home .nav-right {
+    padding-bottom: max(0.5rem, env(safe-area-inset-bottom));
+  }
+  
+  body {
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+}
+
+/* ================================================
+   High DPI / Retina Displays
+   ================================================ */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .scroll-arrow {
+    border-width: 1.5px;
+  }
+}
+
+/* ================================================
+   Print Styles
+   ================================================ */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+  
+  .nav-bar,
+  .scroll-indicator,
+  #radio-controls {
+    display: none !important;
   }
 }
