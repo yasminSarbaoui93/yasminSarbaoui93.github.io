@@ -11,6 +11,11 @@ let isPlaying = false;
 let tracks = null;
 let activeChannel = null; // null = all episodes, 1-4 = specific channel
 
+// Track history for session - prevents replaying same tracks
+let playedTracks = []; // All tracks played in this session
+let trackHistory = []; // History stack for going back
+let historyIndex = -1; // Current position in history
+
 // Fetch episodes from module
 function fetchSednaTracks() {
   return Array.isArray(EPISODES) ? EPISODES : [];
@@ -179,42 +184,78 @@ function togglePlayPause() {
   });
 }
 
-// Next track
+/**
+ * Get a random unplayed track from the given track list
+ * @param {Array} trackList - List of tracks to choose from
+ * @returns {string|null} Random unplayed track URL or null if all played
+ */
+function getRandomUnplayedTrack(trackList) {
+  // Filter out already played tracks
+  const unplayedTracks = trackList.filter(track => !playedTracks.includes(track));
+  
+  // If all tracks have been played, reset and start fresh
+  if (unplayedTracks.length === 0) {
+    // Reset played tracks but keep current track to avoid immediate repeat
+    playedTracks = currentTrack ? [currentTrack] : [];
+    const freshTracks = trackList.filter(track => track !== currentTrack);
+    return freshTracks.length > 0 ? getRandom(freshTracks) : trackList[0];
+  }
+  
+  return getRandom(unplayedTracks);
+}
+
+/**
+ * Add track to history and played list
+ * @param {string} trackUrl - Track URL to add
+ */
+function addToHistory(trackUrl) {
+  // If we're not at the end of history, truncate forward history
+  if (historyIndex < trackHistory.length - 1) {
+    trackHistory = trackHistory.slice(0, historyIndex + 1);
+  }
+  
+  trackHistory.push(trackUrl);
+  historyIndex = trackHistory.length - 1;
+  
+  // Add to played tracks if not already there
+  if (!playedTracks.includes(trackUrl)) {
+    playedTracks.push(trackUrl);
+  }
+}
+
+// Next track - plays a RANDOM unplayed track
 function playNextTrack() {
+  let nextTrack;
+  
   // Respect active channel if set
   if (activeChannel !== null) {
     const channelTracks = getChannelEpisodes(activeChannel);
     if (channelTracks.length === 0) return;
     
-    let nextTrack;
-    if (channelTracks.length <= 1) {
-      nextTrack = channelTracks[0];
-    } else {
-      const idx = channelTracks.indexOf(currentTrack);
-      if (idx === -1 || idx === channelTracks.length - 1) {
-        nextTrack = channelTracks[0];
-      } else {
-        nextTrack = channelTracks[idx + 1];
-      }
-    }
+    nextTrack = getRandomUnplayedTrack(channelTracks);
+  } else {
+    // No active channel - play random from all episodes
+    if (!tracks) tracks = fetchSednaTracks();
+    nextTrack = getRandomUnplayedTrack(tracks);
+  }
+  
+  if (nextTrack) {
+    addToHistory(nextTrack);
     playTrack(nextTrack);
+  }
+}
+
+// Previous track - goes back in history
+function playPreviousTrack() {
+  // Can't go back if at the beginning or no history
+  if (historyIndex <= 0 || trackHistory.length === 0) {
+    showToast('No previous track');
     return;
   }
   
-  // No active channel - play from all episodes
-  if (!tracks) tracks = fetchSednaTracks();
-  let nextTrack;
-  if (tracks.length <= 1) {
-    nextTrack = tracks[0];
-  } else {
-    const idx = tracks.indexOf(currentTrack);
-    if (idx === -1 || idx === tracks.length - 1) {
-      nextTrack = tracks[0];
-    } else {
-      nextTrack = tracks[idx + 1];
-    }
-  }
-  playTrack(nextTrack);
+  historyIndex--;
+  const previousTrack = trackHistory[historyIndex];
+  playTrack(previousTrack);
 }
 
 // Export functions and state as needed
@@ -223,6 +264,7 @@ export {
   playRandomEpisode,
   togglePlayPause,
   playNextTrack,
+  playPreviousTrack,
   fetchSednaTracks,
   embedSoundCloud,
   handleChannelClick,
