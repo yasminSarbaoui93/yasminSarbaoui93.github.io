@@ -5,6 +5,7 @@ import {
   playRandomEpisode,
   togglePlayPause,
   playNextTrack,
+  playPreviousTrack,
   embedSoundCloud,
   handleChannelClick,
   widget
@@ -22,6 +23,7 @@ function patchedEmbedSoundCloud(trackUrl) {
 // Attach click handlers and initialize UI
 document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('radio-play-btn').addEventListener('click', togglePlayPause);
+  document.getElementById('radio-prev-btn').addEventListener('click', playPreviousTrack);
   document.getElementById('radio-next-btn').addEventListener('click', playNextTrack);
 
   // Channel button click handlers
