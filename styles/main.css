@@ -99,6 +99,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  position: relative;
 }
 
 #radio-label {
@@ -726,4 +727,431 @@ body {
     margin: 0 18px;
     color: #fff;
   }
+}
 
+/* ================================================
+   Scroll Down Indicator
+   ================================================ */
+.scroll-indicator {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 10;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.scroll-indicator:hover {
+  opacity: 1;
+}
+
+.scroll-arrow {
+  width: 24px;
+  height: 24px;
+  border-right: 2px solid rgba(255, 255, 255, 0.7);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.7);
+  transform: rotate(45deg);
+  animation: scrollBounce 2s ease-in-out infinite;
+}
+
+@keyframes scrollBounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: rotate(45deg) translateY(0);
+  }
+  40% {
+    transform: rotate(45deg) translateY(8px);
+  }
+  60% {
+    transform: rotate(45deg) translateY(4px);
+  }
+}
+
+/* ================================================
+   Our Formats Section
+   ================================================ */
+#formats-section {
+  min-height: 100vh;
+  padding: 80px 40px;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+/* Scroll indicator for formats section */
+.formats-scroll-indicator {
+  position: relative;
+  bottom: auto;
+  left: auto;
+  transform: none;
+  margin-top: 50px;
+}
+
+.formats-title {
+  font-family: silver-streak-variable, sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 60px;
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+.formats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.format-card {
+  background: rgba(30, 32, 40, 0.6);
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.format-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
+.format-image-link {
+  display: block;
+  overflow: hidden;
+}
+
+.format-image {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.format-image-link:hover .format-image {
+  transform: scale(1.05);
+}
+
+.format-content {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.format-title-link {
+  text-decoration: none;
+}
+
+.format-name {
+  font-family: silver-streak-variable, sans-serif;
+  font-size: 1.8rem;
+  font-weight: normal;
+  color: #fff;
+  margin: 0;
+  transition: color 0.2s ease;
+  letter-spacing: 0.02em;
+}
+
+.format-title-link:hover .format-name {
+  color: #ff5500;
+}
+
+.format-description {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0;
+}
+
+/* Mobile Responsive - Formats Section */
+@media (max-width: 900px) {
+  .formats-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+  
+  .formats-title {
+    font-size: 2.2rem;
+    margin-bottom: 40px;
+  }
+  
+  #formats-section {
+    padding: 60px 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  .formats-title {
+    font-size: 1.8rem;
+  }
+  
+  .format-name {
+    font-size: 1.4rem;
+  }
+  
+  .format-description {
+    font-size: 0.9rem;
+  }
+  
+  .format-content {
+    padding: 18px;
+  }
+  
+  .scroll-indicator {
+    bottom: 20px;
+  }
+  
+  .scroll-arrow {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+/* ================================================
+   What is Sedna FM Section
+   ================================================ */
+#about-sedna-section {
+  padding: 80px 40px 60px 40px;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-sedna-title {
+  font-family: silver-streak-variable, sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 40px;
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+.about-sedna-images {
+  display: flex;
+  gap: 32px;
+  margin: 24px 0 40px 0;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.about-sedna-images img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 18px;
+  box-shadow: 0 2px 16px #0007;
+  border: 3px solid #fff2;
+  background: #23252a;
+}
+
+.about-sedna-text {
+  max-width: 900px;
+  text-align: center;
+  background: rgba(30, 32, 40, 0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 32px 40px;
+}
+
+.about-sedna-text p {
+  font-family: var(--font-body);
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.93);
+  margin: 0 0 24px 0;
+}
+
+.about-sedna-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* Mobile Responsive - About Sedna Section */
+@media (max-width: 900px) {
+  .about-sedna-title {
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+  }
+  
+  #about-sedna-section {
+    padding: 60px 20px;
+  }
+  
+  .about-sedna-images img {
+    width: 180px;
+    height: 180px;
+  }
+}
+
+@media (max-width: 500px) {
+  .about-sedna-title {
+    font-size: 1.8rem;
+  }
+  
+  .about-sedna-images {
+    gap: 16px;
+  }
+  
+  .about-sedna-images img {
+    width: 140px;
+    height: 140px;
+  }
+  
+  .about-sedna-text p {
+    font-size: 1rem;
+  }
+}
+
+/* ================================================
+   Who We Are / Your Hosts Section
+   ================================================ */
+#who-we-are-section {
+  padding: 60px 40px 80px 40px;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.who-we-are-title {
+  font-family: silver-streak-variable, sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 50px;
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+.hosts-row {
+  display: flex;
+  gap: 48px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  max-width: 900px;
+}
+
+.host-card {
+  background: rgba(30, 32, 40, 0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 32px 28px 24px 28px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.host-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
+.host-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  margin-bottom: 20px;
+  background: #23252a;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.host-name {
+  font-family: silver-streak-variable, sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-bottom: 14px;
+  letter-spacing: 0.05em;
+  text-align: center;
+  color: #fff;
+}
+
+.host-desc {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  text-align: center;
+  margin-bottom: 18px;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.6;
+}
+
+.host-social {
+  margin-top: auto;
+}
+
+.host-social a {
+  color: #fff;
+  font-size: 1.6rem;
+  opacity: 0.85;
+  transition: opacity 0.2s, color 0.2s;
+  margin: 0 6px;
+}
+
+.host-social a:hover {
+  opacity: 1;
+  color: #ff5500;
+}
+
+/* Mobile Responsive - Who We Are Section */
+@media (max-width: 900px) {
+  .who-we-are-title {
+    font-size: 2.2rem;
+    margin-bottom: 40px;
+  }
+  
+  #who-we-are-section {
+    padding: 30px 20px 60px 20px;
+  }
+  
+  .hosts-row {
+    gap: 30px;
+  }
+}
+
+@media (max-width: 500px) {
+  .who-we-are-title {
+    font-size: 1.8rem;
+  }
+  
+  .host-card {
+    width: 90vw;
+    max-width: 340px;
+    padding: 24px 20px 18px 20px;
+  }
+  
+  .host-img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .host-name {
+    font-size: 1.15rem;
+  }
+  
+  .host-desc {
+    font-size: 0.9rem;
+  }
+}
