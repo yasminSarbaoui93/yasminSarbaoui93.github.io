@@ -214,54 +214,74 @@ body {
   outline-offset: 2px;
 }
 
-/* Play Button - Transparent circle with intermittent white highlight */
+/* ================================================
+   Play & Next Buttons - ALL STYLES IN ONE PLACE
+   ================================================ */
+
+/* Play Button - Base styles */
 #radio-play-btn {
   position: absolute;
   background: transparent;
-  border: none;
+  border: 2px solid transparent;
   cursor: pointer;
   pointer-events: auto;
   border-radius: 50%;
   transform: translate(-50%, -50%);
+  transition: border-color 0.2s ease, background 0.2s ease;
+  /* POSITION - Change these to move the button */
+  left: 31.5%;
+  top: 47.5%;
+  width: 50px;
+  height: 50px;
 }
 
-/* Intermittent pulsing white highlight to indicate clickability */
-#radio-play-btn::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: 50%;
-  pointer-events: none;
-  background: rgba(255, 255, 255, 0);
-  animation: pulseHighlight 2.5s ease-in-out infinite;
+/* Play Button - Hover */
+#radio-play-btn:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
 }
 
-@keyframes pulseHighlight {
-  0%   { background: rgba(255, 255, 255, 0); }
-  50%  { background: rgba(255, 255, 255, 0.3); }
-  100% { background: rgba(255, 255, 255, 0); }
+/* Play Button - Active (while clicking) */
+#radio-play-btn:active {
+  border-color: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.2);
 }
 
-@media (prefers-reduced-motion: reduce) {
-  #radio-play-btn::after {
-    animation: none;
-    background: rgba(255, 255, 255, 0.15);
-  }
-}
-
-/* Next Button - Transparent overlay */
+/* Next Button - Base styles */
 #radio-next-btn {
   position: absolute;
   background: transparent;
-  border: none;
+  border: 2px solid transparent;
   cursor: pointer;
   pointer-events: auto;
-  border-radius: 50%;
+  border-radius: 4px;
+  transform: translate(-50%, -50%);
+  transition: border-color 0.2s ease, background 0.2s ease;
+  /* POSITION - Change these to move the button */
+  left: 64%;
+  top: 59%;
+  width: 37px;
+  height: 25px;
 }
 
-/* Hide the SVG icons inside next button */
-#radio-next-btn svg {
-  display: none;
+/* Next Button - Hover */
+#radio-next-btn:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Next Button - Active (while clicking) */
+#radio-next-btn:active {
+  border-color: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Mobile size adjustments only */
+@media (max-width: 500px) {
+  #radio-play-btn {
+    width: 45px;
+    height: 45px;
+  }
 }
 
 /* ================================================
@@ -334,31 +354,31 @@ body {
    ======================================== */
 @media (max-width: 500px) {
   #channel-btn-1 {
-    left: 5%;
-    top: 56%;
-    width: 12%;
-    height: 7%;
+    left: 23%;
+    top: 67%;
+    width: 11%;
+    height: 8%;
   }
   
   #channel-btn-2 {
-    left: 18%;
-    top: 56%;
-    width: 12%;
-    height: 9%;
+    left: 36.5%;
+    top: 67%;
+    width: 11.5%;
+    height: 8%;
   }
   
   #channel-btn-3 {
-    left: 70%;
-    top: 56%;
-    width: 12%;
-    height: 9%;
+    left: 50.5%;
+    top: 67%;
+    width: 11%;
+    height: 8%;
   }
   
   #channel-btn-4 {
-    left: 83%;
-    top: 56%;
-    width: 12%;
-    height: 9%;
+    left: 64%;
+    top: 67%;
+    width: 11.5%;
+    height: 8%;
   }
 }
 
@@ -506,22 +526,6 @@ body {
     height: 14%;
   }
 
-  /* PLAY BUTTON - Adjust these values to position on your radio image */
-  #radio-play-btn {
-    left: 31.5%;
-    top: 47.5%;
-    width: 50px;
-    height: 50px;
-  }
-
-  /* NEXT BUTTON - Adjust these values */
-  #radio-next-btn {
-    left: 60%;
-    top: 75%;
-    width: 30px;
-    height: 30px;
-  }
-
   #radio-artwork {
     width: 56px;
     height: 56px;
@@ -594,22 +598,6 @@ body {
     z-index: 3;
     pointer-events: none;
     background: none;
-  }
-
-  /* PLAY BUTTON - Adjust these values for mobile */
-  #radio-play-btn {
-    left: 31.5%;
-    top: 47.5%;
-    width: 50px;
-    height: 50px;
-  }
-
-  /* NEXT BUTTON - Adjust these values for mobile */
-  #radio-next-btn {
-    left: 60%;
-    top: 75%;
-    width: 25px;
-    height: 25px;
   }
 
   #radio-artwork {
