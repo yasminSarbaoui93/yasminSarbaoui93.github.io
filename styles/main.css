@@ -329,10 +329,10 @@ body::before {
    ================================================ */
 #radio-play-btn {
   border-radius: 50%;
-  left: 31.5%;
-  top: 47.6%;
-  width: clamp(50px, 10vw, 85px);
-  height: clamp(50px, 10vw, 85px);
+  left: 21%;
+  top: 45.8%;
+  width: clamp(50px, 12vw, 90px);
+  height: clamp(50px, 12vw, 90px);
 }
 
 /* Pulsing effect when NOT playing */
@@ -371,18 +371,18 @@ body::before {
 #radio-next-btn,
 #radio-prev-btn {
   border-radius: 4px;
-  width: clamp(30px, 5vw, 40px);
-  height: clamp(24px, 4vw, 32px);
+  width: clamp(30px, 6vw, 45px);
+  height: clamp(24px, 5vw, 36px);
 }
 
 #radio-next-btn {
-  left: 64%;
-  top: 59%;
+  left: 60.5%;
+  top: 58%;
 }
 
 #radio-prev-btn {
-  left: 53.5%;
-  top: 59%;
+  left: 51%;
+  top: 58%;
 }
 
 /* ================================================
@@ -414,10 +414,10 @@ body::before {
 }
 
 /* Channel Button Positions (percentage-based for responsiveness) */
-#channel-btn-1 { left: 23%; top: 67%; width: 11%; height: 8.9%; }
-#channel-btn-2 { left: 36.5%; top: 67%; width: 11.5%; height: 8.9%; }
-#channel-btn-3 { left: 50.5%; top: 67%; width: 11%; height: 8.9%; }
-#channel-btn-4 { left: 64%; top: 67%; width: 11.5%; height: 8.9%; }
+#channel-btn-1 { left: 24%; top: 76%; width: 14%; height: 12%; }
+#channel-btn-2 { left: 38.5%; top: 76%; width: 14%; height: 12%; }
+#channel-btn-3 { left: 53%; top: 76%; width: 14%; height: 12%; }
+#channel-btn-4 { left: 67.5%; top: 76%; width: 14%; height: 12%; }
 
 /* ================================================
    Toast Notifications
@@ -1089,8 +1089,8 @@ body::before {
 
   /* Play button - smaller on mobile */
   #radio-play-btn {
-    width: 45px;
-    height: 45px;
+    width: 53px;
+    height: 53px;
   }
   
   /* Format section adjustments */
