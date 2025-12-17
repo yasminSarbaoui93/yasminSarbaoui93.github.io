@@ -222,9 +222,9 @@ body::before {
   border-radius: 0;
   z-index: 2;
   /* Desktop positioning */
-  left: 40%;
-  top: 32%;
-  width: 35%;
+  left: 35%;
+  top: 28%;
+  width: 58%;
   height: 14%;
 }
 
@@ -376,13 +376,17 @@ body::before {
 }
 
 #radio-next-btn {
-  left: 60.5%;
-  top: 58%;
+  left: 72.2%;
+  top: 62.5%;
+  height: 11%;
+  width: 12.5%;
 }
 
 #radio-prev-btn {
-  left: 51%;
-  top: 58%;
+  left: 56%;
+  top: 62.5%;
+  height: 11%;
+  width: 12.5%;
 }
 
 /* ================================================
@@ -414,10 +418,10 @@ body::before {
 }
 
 /* Channel Button Positions (percentage-based for responsiveness) */
-#channel-btn-1 { left: 24%; top: 76%; width: 14%; height: 12%; }
-#channel-btn-2 { left: 38.5%; top: 76%; width: 14%; height: 12%; }
-#channel-btn-3 { left: 53%; top: 76%; width: 14%; height: 12%; }
-#channel-btn-4 { left: 67.5%; top: 76%; width: 14%; height: 12%; }
+#channel-btn-1 { left: 7%; top: 74.5%; width: 18%; height: 12%; }
+#channel-btn-2 { left: 28.5%; top: 74.5%; width: 18%; height: 12%; }
+#channel-btn-3 { left: 50.5%; top:74.5%; width: 18%; height: 12%; }
+#channel-btn-4 { left: 72%; top: 74.5%; width: 18%; height: 12%; }
 
 /* ================================================
    Toast Notifications
@@ -1001,9 +1005,9 @@ body::before {
   /* Episode title overlay - adjusted positioning */
   #radio-black-overlay {
     position: absolute;
-    left: 38%;
-    top: 35%;
-    width: 38%;
+    left: 32%;
+    top: 25%;
+    width: 65%;
     height: 14%;
     min-height: 40px;
     max-height: 65px;
