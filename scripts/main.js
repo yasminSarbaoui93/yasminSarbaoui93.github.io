@@ -11,6 +11,7 @@ import {
 } from './modules/player.js';
 import { updatePlayPauseIcon, setupArtworkListener, updateChannelHighlighting } from './modules/ui.js';
 import { initModal } from './modules/modal.js';
+import { initScrollIndicators } from './modules/scroll.js';
 
 // Patch embedSoundCloud to call setupArtworkListener after widget is created
 const _origEmbedSoundCloud = embedSoundCloud;
@@ -43,4 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initialize modal logic
   initModal();
+
+  // Initialize scroll indicators
+  initScrollIndicators();
 });
