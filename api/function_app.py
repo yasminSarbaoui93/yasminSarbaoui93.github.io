@@ -7,6 +7,7 @@ import azure.functions as func
 import json
 import logging
 import os
+import random
 from openai import AzureOpenAI
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
@@ -34,27 +35,47 @@ def get_mood_recommendation(mood: str, episodes: list) -> dict:
         azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
     )
     
-    # Build episode catalog for the prompt
+    # Shuffle episodes to present them in random order - encourages variety
+    shuffled_episodes = episodes.copy()
+    random.shuffle(shuffled_episodes)
+    
+    # Build episode catalog for the prompt (in random order)
     episode_catalog = "\n".join([
         f"ID: {ep['id']}\nTitle: {ep['title']}\nDescription: {ep['description']}\nSongs: {', '.join(ep.get('songs', []))}\n"
-        for ep in episodes
+        for ep in shuffled_episodes
     ])
+    
+    # Add randomness hint to encourage variety
+    random_seed = random.randint(1, 1000)
+    
+    # Pick a random subset hint to encourage exploration
+    random_series = random.choice(["Sedna FM main series", "Morning Drops", "Evening Flows", "On The Go", "any series"])
     
     system_prompt = """You are Sedna FM's mood-based music curator. Your job is to recommend the perfect episode based on the listener's current mood.
 
 Analyze each episode's description and song list to understand its emotional atmosphere, then match it to the requested mood.
 
-IMPORTANT: You must respond with ONLY a valid JSON object in this exact format:
+CRITICAL GUIDELINES FOR VARIETY:
+1. Many episodes can match any given mood - DO NOT always pick the same one!
+2. Consider the episode ORDER in your list - sometimes pick from the beginning, middle, or end
+3. Look beyond obvious keyword matches - a "reflective" mood could match adventure stories too
+4. Each series has episodes that fit every mood - explore Sedna FM, Morning Drops, Evening Flows, and On The Go
+5. If an episode mentions a specific emotion, that's just ONE signal - other episodes without that keyword might fit even better
+6. BE CREATIVE and SURPRISING in your selections!
+
+You must respond with ONLY a valid JSON object in this exact format:
 {"episode_id": <number>, "reason": "<brief explanation of why this episode matches the mood>"}
 
 Do not include any other text, markdown, or explanation outside the JSON."""
 
     user_prompt = f"""The listener is feeling: {mood}
+Randomization hint: {random_seed} - Use this number to influence your choice. Higher numbers = prefer episodes later in the list. Lower numbers = prefer earlier episodes.
+Consider exploring: {random_series}
 
 Available episodes:
 {episode_catalog}
 
-Select the best matching episode and respond with the JSON format specified."""
+Select the best matching episode. IMPORTANT: Vary your selection - don't always pick the most obvious episode!"""
 
     response = client.chat.completions.create(
         model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-4.1-mini"),
@@ -62,7 +83,8 @@ Select the best matching episode and respond with the JSON format specified."""
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
-        temperature=0.7,
+        temperature=1.3,
+        top_p=0.95,
         max_tokens=200
     )
     
