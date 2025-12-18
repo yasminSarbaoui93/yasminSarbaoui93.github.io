@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_OPENAI_ENDPOINT": "https://yasmi-mjbz1mf3-westeurope.cognitiveservices.azure.com",
+    "AZURE_OPENAI_API_KEY": "YOUR_API_KEY_HERE",
+    "AZURE_OPENAI_DEPLOYMENT_NAME": "gpt-4.1-mini"
+  }
+}
