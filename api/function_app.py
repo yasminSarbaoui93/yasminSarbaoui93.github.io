@@ -57,11 +57,11 @@ Analyze each episode's description and song list to understand its emotional atm
 
 CRITICAL GUIDELINES FOR VARIETY:
 1. Many episodes can match any given mood - DO NOT always pick the same one!
-2. Consider the episode ORDER in your list - sometimes pick from the beginning, middle, or end
+2. Do not Consider the episode ORDER in your list - you can pick from anywhere in the catalog
 3. Look beyond obvious keyword matches - a "reflective" mood could match adventure stories too
 4. Each series has episodes that fit every mood - explore Sedna FM, Morning Drops, Evening Flows, and On The Go
 5. If an episode mentions a specific emotion, that's just ONE signal - other episodes without that keyword might fit even better
-6. BE CREATIVE and SURPRISING in your selections!
+6. BE CREATIVE in your selections!
 
 You must respond with ONLY a valid JSON object in this exact format:
 {"episode_id": <number>, "reason": "<brief explanation of why this episode matches the mood>"}
@@ -69,8 +69,7 @@ You must respond with ONLY a valid JSON object in this exact format:
 Do not include any other text, markdown, or explanation outside the JSON."""
 
     user_prompt = f"""The listener is feeling: {mood}
-Randomization hint: {random_seed} - Use this number to influence your choice. Higher numbers = prefer episodes later in the list. Lower numbers = prefer earlier episodes.
-Consider exploring: {random_series}
+
 
 Available episodes:
 {episode_catalog}
