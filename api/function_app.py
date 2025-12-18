@@ -27,11 +27,11 @@ def load_episodes():
 
 
 def get_mood_recommendation(mood: str, episodes: list) -> dict:
-    """Use GPT-4.1 mini to recommend an episode based on mood."""
+    """Use GPT-5.2-chat to recommend an episode based on mood."""
     
     client = AzureOpenAI(
         api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
-        api_version="2025-01-01-preview",
+        api_version="2024-12-01-preview",
         azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
     )
     
@@ -78,14 +78,12 @@ Available episodes:
 Select the best matching episode. IMPORTANT: Vary your selection - don't always pick the most obvious episode!"""
 
     response = client.chat.completions.create(
-        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-4.1-mini"),
+        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-5.2-chat"),
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
-        temperature=1.3,
-        top_p=0.95,
-        max_tokens=200
+        max_completion_tokens=200
     )
     
     # Parse the AI response
