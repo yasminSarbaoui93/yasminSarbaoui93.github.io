@@ -588,6 +588,210 @@ body::before {
 }
 
 /* ================================================
+   Choose Your Mood Section
+   ================================================ */
+#mood-selector {
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding: 5rem 2.5rem;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
+
+.mood-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  font-weight: normal;
+  color: var(--color-text);
+  text-align: center;
+  margin-bottom: 1rem;
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+.mood-subtitle {
+  font-family: var(--font-body);
+  font-size: clamp(0.95rem, 2.5vw, 1.15rem);
+  color: rgba(255, 255, 255, 0.75);
+  text-align: center;
+  margin-bottom: 2.5rem;
+  max-width: 100%;
+  white-space: nowrap;
+}
+
+/* Mood Button Grid */
+.mood-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 20px;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Mood Button Base Style */
+.mood-btn {
+  font-family: var(--font-display);
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--color-text);
+  padding: 15px 25px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: clamp(0.85rem, 2vw, 1.1rem);
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* Mood Button Hover - Neon Glow */
+.mood-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: #00d4ff;
+  box-shadow: 0 0 15px rgba(0, 212, 255, 0.6);
+  transform: translateY(-3px);
+}
+
+/* Mood Button Active/Selected State */
+.mood-btn.active {
+  border-color: #ff8c00;
+  box-shadow: 0 0 20px rgba(255, 140, 0, 0.8);
+  background: rgba(255, 140, 0, 0.15);
+}
+
+/* Mood Player */
+.mood-player {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: var(--color-overlay);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  padding: 1rem 1.5rem;
+  margin-top: 2.5rem;
+  max-width: 600px;
+  width: 100%;
+  position: relative;
+}
+
+.mood-player-artwork {
+  width: 60px;
+  height: 60px;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #23252a;
+}
+
+.mood-player-artwork img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mood-player-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.mood-player-title {
+  font-family: var(--font-body);
+  font-size: clamp(0.9rem, 2vw, 1rem);
+  color: var(--color-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mood-player-artist {
+  font-family: var(--font-body);
+  font-size: clamp(0.75rem, 1.5vw, 0.85rem);
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.mood-player-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.mood-player-btn {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background: var(--color-primary);
+  border: none;
+  color: var(--color-text);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+  font-size: 1rem;
+}
+
+.mood-player-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(255, 85, 0, 0.5);
+}
+
+.mood-player-progress {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 0 0 1rem 1rem;
+  overflow: hidden;
+}
+
+.mood-player-progress-bar {
+  height: 100%;
+  width: 0%;
+  background: var(--color-primary);
+  transition: width 0.3s ease;
+}
+
+/* Episode Description */
+.mood-episode-description {
+  background: var(--color-overlay);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  padding: 1.5rem 2rem;
+  margin-top: 1.5rem;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+}
+
+.mood-episode-description p {
+  font-family: var(--font-body);
+  font-size: clamp(0.85rem, 2vw, 0.95rem);
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 0;
+}
+
+/* Scroll indicator for mood section */
+.mood-scroll-indicator {
+  margin-top: 3rem;
+}
+
+/* ================================================
    Our Formats Section
    ================================================ */
 #formats-section {
@@ -850,9 +1054,9 @@ body::before {
 }
 
 /* ================================================
-   DESKTOP STYLES (min-width: 769px)
+   DESKTOP STYLES (min-width: 501px)
    ================================================ */
-@media (min-width: 501px) {
+@media (min-width: 701px) {
   #radio-ui-wrapper {
     position: relative;
     margin-top: 140px;  /* DESKTOP: SPACING FROM SEDNA FM TEXT - ADJUST THIS TO MOVE RADIO DOWN */
@@ -886,59 +1090,9 @@ body::before {
 }
 
 /* ================================================
-   TABLET STYLES (max-width: 768px)
-   ================================================ */
-/* @media (max-width: 768px) {
-  .nav-left {
-    gap: 1rem;
-    font-size: 1rem;
-    margin: 1rem 1rem;
-  }
-  
-  .nav-right {
-    margin-right: 1rem;
-    gap: 0.8rem;
-    font-size: 1.4rem;
-    padding: 0.25rem 0.5rem;
-  }
-  
-  #formats-section {
-    padding: 3.75rem 1.25rem;
-  }
-  
-  .formats-title {
-    margin-bottom: 2.5rem;
-  }
-  
-  .formats-grid {
-    gap: 1.875rem;
-  }
-  
-  #about-sedna-section {
-    padding: 3.75rem 1.25rem;
-  }
-  
-  .about-sedna-title {
-    margin-bottom: 1.875rem;
-  }
-  
-  #who-we-are-section {
-    padding: 1.875rem 1.25rem 3.75rem;
-  }
-  
-  .who-we-are-title {
-    margin-bottom: 2.5rem;
-  }
-  
-  .hosts-row {
-    gap: 1.875rem;
-  }
-}  */
-
-/* ================================================
    MOBILE STYLES (max-width: 500px)
    ================================================ */
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   /* Prevent horizontal scroll */
   html, body {
     overflow-x: hidden;
@@ -1116,41 +1270,48 @@ body::before {
     max-width: 340px;
     padding: 1.5rem 1.25rem 1.125rem;
   }
+
+  /* Mood Section - Mobile */
+  #mood-selector {
+    padding: 3.75rem 1.25rem;
+  }
+
+  .mood-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    padding: 10px;
+  }
+
+  .mood-btn {
+    padding: 12px 15px;
+    font-size: 0.85rem;
+  }
+
+  .mood-player {
+    flex-wrap: wrap;
+    padding: 1rem;
+    gap: 0.75rem;
+  }
+
+  .mood-player-artwork {
+    width: 50px;
+    height: 50px;
+  }
+
+  .mood-player-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 0.9rem;
+  }
+
+  .mood-episode-description {
+    padding: 1.25rem;
+  }
+
+  .mood-scroll-indicator {
+    margin-top: 2rem;
+  }
 }
-
-/* ================================================
-   Very Small Screens (max-width: 380px)
-   ================================================ */
-/* @media (max-width: 380px) {
-  #radio-ui-wrapper {
-    width: 95vw;
-    transform: scale(1.15);
-  }
-  
-  #radio-title {
-    font-size: 0.75rem;
-  }
-  
-  .nav-left {
-    font-size: 0.8rem;
-    gap: 0.5rem;
-  }
-} */
-
-/* ================================================
-   Landscape Mobile
-   ================================================ */
-/* @media (max-height: 500px) and (orientation: landscape) {
-  #radio-hero {
-    min-height: auto;
-    padding: 2rem 0;
-  }
-  
-  #radio-ui-wrapper {
-    transform: scale(0.8);
-    margin-top: 1rem;
-  }
-} */
 
 /* ================================================
    Safe Area Insets (for notched phones)
@@ -1165,15 +1326,6 @@ body::before {
     padding-right: env(safe-area-inset-right);
   }
 }
-
-/* ================================================
-   High DPI / Retina Displays
-   ================================================ */
-/* @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
-  .scroll-arrow {
-    border-width: 1.5px;
-  }
-} */
 
 /* ================================================
    Print Styles

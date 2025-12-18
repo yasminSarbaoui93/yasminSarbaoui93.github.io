@@ -72,6 +72,52 @@
     </div>
   </div>
 
+  <!-- Choose Your Mood Section -->
+  <section id="mood-selector">
+    <h2 class="mood-title">Choose Your Mood</h2>
+    <p class="mood-subtitle">Choose your mood and we will choose the best episode for you</p>
+    
+    <div class="mood-grid">
+      <button class="mood-btn" data-mood="happy">Happy</button>
+      <button class="mood-btn" data-mood="calm">Calm</button>
+      <button class="mood-btn" data-mood="reflective">Reflective</button>
+      <button class="mood-btn" data-mood="sad">Sad</button>
+      <button class="mood-btn" data-mood="energetic">Energetic</button>
+      <button class="mood-btn" data-mood="intimate">Intimate</button>
+      <button class="mood-btn" data-mood="moody">Moody</button>
+      <button class="mood-btn" data-mood="carefree">Carefree</button>
+    </div>
+
+    <!-- Mood Player UI -->
+    <div class="mood-player">
+      <div class="mood-player-artwork">
+        <img src="assets/images/sedna_logo.png" alt="Episode artwork" id="mood-player-artwork-img">
+      </div>
+      <div class="mood-player-info">
+        <span class="mood-player-title" id="mood-player-title">Select a mood to play</span>
+        <span class="mood-player-artist" id="mood-player-artist">Sedna FM</span>
+      </div>
+      <div class="mood-player-controls">
+        <button class="mood-player-btn" id="mood-play-btn" aria-label="Play/Pause">
+          <i class="fas fa-play"></i>
+        </button>
+      </div>
+      <div class="mood-player-progress">
+        <div class="mood-player-progress-bar" id="mood-progress-bar"></div>
+      </div>
+    </div>
+
+    <!-- Episode Description -->
+    <div class="mood-episode-description" id="mood-episode-description">
+      <p>Choose a mood above to discover the perfect episode for your current state of mind. Our AI will recommend the best track based on your selection.</p>
+    </div>
+
+    <!-- Scroll Down Indicator -->
+    <div class="scroll-indicator mood-scroll-indicator">
+      <span class="scroll-arrow"></span>
+    </div>
+  </section>
+
   <!-- Our Formats Section -->
   <section id="formats-section">
     <h2 class="formats-title">Our Formats</h2>
