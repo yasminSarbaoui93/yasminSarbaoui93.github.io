@@ -56,8 +56,12 @@ function updateMoodPlayerUI(episode, reason) {
 /**
  * Create and embed the mood SoundCloud player
  * @param {string} trackUrl - SoundCloud URL
+ * @param {boolean} autoPlay - Whether to auto-play the track
  */
-function embedMoodPlayer(trackUrl) {
+function embedMoodPlayer(trackUrl, autoPlay = false) {
+  // Reset widget reference before creating new one
+  moodWidget = null;
+  
   // Create a hidden iframe for the mood player
   let moodPlayerContainer = document.getElementById('mood-soundcloud-player');
   
@@ -68,9 +72,10 @@ function embedMoodPlayer(trackUrl) {
     document.body.appendChild(moodPlayerContainer);
   }
   
+  const autoPlayParam = autoPlay ? 'true' : 'false';
   moodPlayerContainer.innerHTML = `
     <iframe id="mood-sc-widget-iframe" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media"
-      src="https://w.soundcloud.com/player/?url=${encodeURIComponent(trackUrl)}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true">
+      src="https://w.soundcloud.com/player/?url=${encodeURIComponent(trackUrl)}&color=%23ff5500&auto_play=${autoPlayParam}&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true">
     </iframe>
   `;
 
@@ -80,6 +85,10 @@ function embedMoodPlayer(trackUrl) {
       moodWidget = SC.Widget(iframe);
       
       moodWidget.bind(SC.Widget.Events.READY, () => {
+        // If auto-play is enabled, also call play() to ensure it starts
+        if (autoPlay) {
+          moodWidget.play();
+        }
         updateMoodPlayButtonIcon();
         // Fetch and display episode artwork
         moodWidget.getCurrentSound((sound) => {
@@ -157,6 +166,17 @@ function toggleMoodPlayPause() {
  * @param {string} mood - The selected mood
  */
 async function handleMoodClick(mood) {
+  // Stop any currently playing track and reset state before loading new one
+  if (moodWidget) {
+    try {
+      moodWidget.pause();
+    } catch (e) {
+      // Widget might not be fully initialized, ignore
+    }
+  }
+  isMoodPlaying = false;
+  updateMoodPlayButtonIcon();
+  
   // Update UI to show loading state
   const titleEl = document.getElementById('mood-player-title');
   const descriptionEl = document.getElementById('mood-episode-description');
@@ -181,8 +201,8 @@ async function handleMoodClick(mood) {
       // Update UI with episode info
       updateMoodPlayerUI(result.episode, result.reason);
       
-      // Embed the SoundCloud player
-      embedMoodPlayer(result.episode.soundcloudUrl);
+      // Embed the SoundCloud player with auto-play enabled
+      embedMoodPlayer(result.episode.soundcloudUrl, true);
     } else {
       throw new Error('No episode returned');
     }
