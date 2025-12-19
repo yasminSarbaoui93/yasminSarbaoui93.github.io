@@ -1,6 +1,6 @@
 """
 Sedna FM Mood Recommendation API
-Azure Function that uses GPT-4.1 mini to recommend episodes based on mood.
+Azure Function that uses GPT-5 mini to recommend episodes based on mood.
 """
 
 import azure.functions as func

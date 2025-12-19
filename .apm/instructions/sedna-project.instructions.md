@@ -11,7 +11,7 @@ applyTo: '**'
 
 - **Website**: Static site hosted on GitHub Pages
 - **Backend**: Azure Functions (Python) for AI recommendations
-- **AI Model**: Azure OpenAI GPT-4.1 mini (deployed as `gpt-5-mini`)
+- **AI Model**: Azure OpenAI GPT-5 mini
 
 ---
 
