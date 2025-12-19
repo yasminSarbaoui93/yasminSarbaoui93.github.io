@@ -1,6 +1,6 @@
 """
 Sedna FM Mood Recommendation API
-Azure Function that uses GPT-4.1 mini to recommend episodes based on mood.
+Azure Function that uses GPT-5 nano to recommend episodes based on mood.
 """
 
 import azure.functions as func
@@ -27,7 +27,7 @@ def load_episodes():
 
 
 def get_mood_recommendation(mood: str, episodes: list, exclude_ids: list = None) -> dict:
-    """Use GPT-5-mini to recommend an episode based on mood.
+    """Use GPT-5-nano to recommend an episode based on mood.
     
     Args:
         mood: The mood to match
@@ -49,7 +49,7 @@ def get_mood_recommendation(mood: str, episodes: list, exclude_ids: list = None)
     
     client = AzureOpenAI(
         api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
-        api_version="2025-04-01-preview",
+        api_version="2025-01-01-preview",
         azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
     )
     
@@ -95,13 +95,13 @@ Available episodes:
 Select the best matching episode. IMPORTANT: Vary your selection - don't always pick the most obvious episode!"""
 
     response = client.chat.completions.create(
-        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-5-mini"),
+        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-5-nano"),
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
         max_completion_tokens=16384,
-        temperature=1.0
+        reasoning_effort="minimal"  # Use minimal reasoning for fastest response
     )
     
     # Parse the AI response

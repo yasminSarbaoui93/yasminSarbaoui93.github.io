@@ -43,7 +43,7 @@ Select your current mood and let AI recommend the perfect episode:
 
 ### Backend (Azure Functions)
 - **Runtime**: Python 3.11
-- **AI Model**: Azure OpenAI GPT-4.1 mini
+- **AI Model**: Azure OpenAI GPT-5 nano
 - **Endpoints**:
   - `POST /api/recommend` - Mood-based episode recommendation
   - `GET /api/health` - Health check
