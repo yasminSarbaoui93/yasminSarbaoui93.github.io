@@ -15,7 +15,7 @@ export const config = {
     apiKey: "YOUR_AZURE_OPENAI_API_KEY_HERE",
     
     // Your deployment name for the model
-    // Example: "gpt-5" or "gpt-5-mini"
+    // Example: "gpt-5" or "gpt-5-nano"
     deploymentName: "YOUR_DEPLOYMENT_NAME_HERE"
   },
 

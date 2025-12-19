@@ -11,7 +11,7 @@ applyTo: '**'
 
 - **Website**: Static site hosted on GitHub Pages
 - **Backend**: Azure Functions (Python) for AI recommendations
-- **AI Model**: Azure OpenAI GPT-5 mini
+- **AI Model**: Azure OpenAI GPT-5 nano
 
 ---
 
@@ -118,7 +118,7 @@ func start
 ### Environment Variables (Azure Function)
 - `AZURE_OPENAI_API_KEY` - Azure OpenAI API key
 - `AZURE_OPENAI_ENDPOINT` - Azure OpenAI endpoint URL
-- `AZURE_OPENAI_DEPLOYMENT_NAME` - Deployment name (default: `gpt-5-mini`)
+- `AZURE_OPENAI_DEPLOYMENT_NAME` - Deployment name (default: `gpt-5-nano`)
 
 ### Deployment
 1. Work on `develop` branch
