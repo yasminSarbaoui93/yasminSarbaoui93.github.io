@@ -101,7 +101,7 @@ Select the best matching episode. IMPORTANT: Vary your selection - don't always 
             {"role": "user", "content": user_prompt}
         ],
         max_completion_tokens=16384,
-        temperature=1.0
+        reasoning_effort="minimal"  # Use minimal reasoning for fastest response
     )
     
     # Parse the AI response
