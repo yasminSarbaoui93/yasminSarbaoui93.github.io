@@ -82,7 +82,8 @@ Select the best matching episode. IMPORTANT: Vary your selection - don't always 
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
-        max_completion_tokens=16384
+        max_completion_tokens=16384,
+        temperature=2.0
     )
     
     # Parse the AI response
