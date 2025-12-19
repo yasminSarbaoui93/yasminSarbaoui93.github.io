@@ -1,25 +1,9 @@
 // Mood selector module for Sedna FM
 // Connects mood buttons to Azure AI recommendation API
 
-// Environment-aware API URL configuration
-const API_URLS = {
-  production: 'https://sedna-website-func-ch.azurewebsites.net/api/recommend',
-  development: 'https://sedna-website-func-dev-ch.azurewebsites.net/api/recommend',
-  local: 'http://localhost:7071/api/recommend'
-};
-
-// Determine environment based on hostname
-function getEnvironment() {
-  const hostname = window.location.hostname;
-  if (hostname === 'localhost' || hostname === '127.0.0.1') {
-    // When running locally, use the dev API (or 'local' if running Azure Functions locally)
-    return 'development';
-  }
-  // When deployed to GitHub Pages, use production
-  return 'production';
-}
-
-const API_URL = API_URLS[getEnvironment()];
+// Development branch - always use dev API
+// Production URL is on main branch: https://sedna-website-func-ch.azurewebsites.net/api/recommend
+const API_URL = 'https://sedna-website-func-dev-ch.azurewebsites.net/api/recommend';
 
 // State
 let currentMoodEpisode = null;
