@@ -1,0 +1,66 @@
+# Deploy Azure Function to Development Environment
+# Triggers on push to develop branch
+name: Deploy Function App - Development
+
+on:
+  push:
+    branches:
+      - develop
+    paths:
+      - 'api/**'
+      - 'data/**'
+      - '.github/workflows/deploy-function-dev.yml'
+  workflow_dispatch:
+
+env:
+  AZURE_FUNCTIONAPP_NAME: sedna-website-func-dev-ch
+  AZURE_FUNCTIONAPP_PACKAGE_PATH: './api'
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment: development
+    
+    steps:
+      - name: 'Checkout GitHub Action'
+        uses: actions/checkout@v4
+
+      - name: Setup Python ${{ env.PYTHON_VERSION }} Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: 'Resolve Project Dependencies Using Pip'
+        shell: bash
+        run: |
+          pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt --target=".python_packages/lib/site-packages"
+          popd
+
+      - name: 'Copy data files to function app'
+        shell: bash
+        run: |
+          cp data/episodes.json ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/episodes.json
+
+      - name: 'Deploy to Azure Functions (Development)'
+        uses: Azure/functions-action@v1
+        with:
+          app-name: ${{ env.AZURE_FUNCTIONAPP_NAME }}
+          package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
+          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE_DEV }}
+          scm-do-build-during-deployment: true
+          enable-oryx-build: true
+
+      - name: 'Deployment Summary'
+        run: |
+          echo "## 🚀 Development Deployment Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Function App:** ${{ env.AZURE_FUNCTIONAPP_NAME }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Environment:** Development" >> $GITHUB_STEP_SUMMARY
+          echo "**URL:** https://sedna-website-func-dev-ch.azurewebsites.net" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Test Endpoints:" >> $GITHUB_STEP_SUMMARY
+          echo "- Health Check: https://sedna-website-func-dev-ch.azurewebsites.net/api/health" >> $GITHUB_STEP_SUMMARY
+          echo "- Mood Recommendation: https://sedna-website-func-dev-ch.azurewebsites.net/api/recommend" >> $GITHUB_STEP_SUMMARY

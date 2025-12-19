@@ -1,5 +1,6 @@
-# Spec2Cloud dev agent folders
-.github/
+# Spec2Cloud dev agent folders (keep workflows for CI/CD)
+.github/agents/
+.github/prompts/
 .vscode/
 .devcontainer/
 specs/
