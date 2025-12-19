@@ -263,7 +263,7 @@ async function handleMoodClick(mood) {
   const descriptionEl = document.getElementById('mood-episode-description');
   
   if (titleEl) titleEl.textContent = 'Finding the perfect episode...';
-  if (descriptionEl) descriptionEl.innerHTML = '<p>Our AI is selecting the best episode for your mood...</p>';
+  if (descriptionEl) descriptionEl.innerHTML = '<p>Our aliens are selecting the best episode for your mood...</p>';
   
   // Highlight the selected mood button
   document.querySelectorAll('.mood-btn').forEach(btn => {
