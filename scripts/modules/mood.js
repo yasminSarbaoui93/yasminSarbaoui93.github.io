@@ -7,6 +7,7 @@ const API_URL = 'https://sedna-website-func-ch.azurewebsites.net/api/recommend';
 let currentMoodEpisode = null;
 let moodWidget = null;
 let isMoodPlaying = false;
+let currentMood = null;
 
 /**
  * Request an episode recommendation based on mood
@@ -166,6 +167,9 @@ function toggleMoodPlayPause() {
  * @param {string} mood - The selected mood
  */
 async function handleMoodClick(mood) {
+  // Store the current mood for next button functionality
+  currentMood = mood;
+  
   // Stop any currently playing track and reset state before loading new one
   if (moodWidget) {
     try {
@@ -216,6 +220,19 @@ async function handleMoodClick(mood) {
 }
 
 /**
+ * Handle next button click - get another recommendation for the same mood
+ */
+function handleNextClick() {
+  if (!currentMood) {
+    console.warn('No mood selected. Please select a mood first.');
+    return;
+  }
+  
+  // Re-trigger the mood recommendation with the same mood
+  handleMoodClick(currentMood);
+}
+
+/**
  * Initialize mood selector functionality
  */
 function initMoodSelector() {
@@ -232,11 +249,18 @@ function initMoodSelector() {
   if (moodPlayBtn) {
     moodPlayBtn.addEventListener('click', toggleMoodPlayPause);
   }
+  
+  // Attach click handler to mood next button
+  const moodNextBtn = document.getElementById('mood-next-btn');
+  if (moodNextBtn) {
+    moodNextBtn.addEventListener('click', handleNextClick);
+  }
 }
 
 export {
   initMoodSelector,
   handleMoodClick,
+  handleNextClick,
   toggleMoodPlayPause,
   getRecommendation
 };

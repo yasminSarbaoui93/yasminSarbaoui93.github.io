@@ -747,6 +747,17 @@ body::before {
   box-shadow: 0 0 15px rgba(255, 85, 0, 0.5);
 }
 
+.mood-next-btn {
+  width: 38px;
+  height: 38px;
+  font-size: 0.85rem;
+  background: rgba(255, 85, 0, 0.7);
+}
+
+.mood-next-btn:hover {
+  background: var(--color-primary);
+}
+
 .mood-player-progress {
   position: absolute;
   bottom: 0;
