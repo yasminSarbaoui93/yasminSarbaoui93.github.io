@@ -4,6 +4,9 @@
 // Production branch - always use production API
 const API_URL = 'https://sedna-website-func-ch.azurewebsites.net/api/recommend';
 
+// Session storage key for tracking played episodes
+const SESSION_STORAGE_KEY = 'sedna_played_episodes';
+
 // State
 let currentMoodEpisode = null;
 let moodWidget = null;
@@ -11,27 +14,100 @@ let isMoodPlaying = false;
 let currentMood = null;
 
 /**
+ * Get played episodes from session storage
+ * @returns {Object} - Object with mood keys and arrays of played episode IDs
+ */
+function getPlayedEpisodes() {
+  try {
+    const stored = sessionStorage.getItem(SESSION_STORAGE_KEY);
+    return stored ? JSON.parse(stored) : {};
+  } catch (e) {
+    console.warn('Error reading session storage:', e);
+    return {};
+  }
+}
+
+/**
+ * Save played episodes to session storage
+ * @param {Object} playedEpisodes - Object with mood keys and arrays of played episode IDs
+ */
+function savePlayedEpisodes(playedEpisodes) {
+  try {
+    sessionStorage.setItem(SESSION_STORAGE_KEY, JSON.stringify(playedEpisodes));
+  } catch (e) {
+    console.warn('Error saving to session storage:', e);
+  }
+}
+
+/**
+ * Add an episode to the played list for a specific mood
+ * @param {string} mood - The mood category
+ * @param {number} episodeId - The episode ID that was played
+ */
+function addPlayedEpisode(mood, episodeId) {
+  const playedEpisodes = getPlayedEpisodes();
+  
+  if (!playedEpisodes[mood]) {
+    playedEpisodes[mood] = [];
+  }
+  
+  // Only add if not already in the list
+  if (!playedEpisodes[mood].includes(episodeId)) {
+    playedEpisodes[mood].push(episodeId);
+    savePlayedEpisodes(playedEpisodes);
+  }
+}
+
+/**
+ * Get the list of episode IDs to exclude for a specific mood
+ * @param {string} mood - The mood category
+ * @returns {number[]} - Array of episode IDs to exclude
+ */
+function getExcludedEpisodes(mood) {
+  const playedEpisodes = getPlayedEpisodes();
+  return playedEpisodes[mood] || [];
+}
+
+/**
+ * Clear played episodes for a specific mood (useful when all episodes have been played)
+ * @param {string} mood - The mood category to clear
+ */
+function clearPlayedEpisodesForMood(mood) {
+  const playedEpisodes = getPlayedEpisodes();
+  playedEpisodes[mood] = [];
+  savePlayedEpisodes(playedEpisodes);
+}
+
+/**
  * Request an episode recommendation based on mood
  * @param {string} mood - The selected mood
+ * @param {number[]} excludeEpisodes - Array of episode IDs to exclude from recommendation
  * @returns {Promise<Object>} - The recommended episode
  */
-async function getRecommendation(mood) {
+async function getRecommendation(mood, excludeEpisodes = []) {
   // Capitalize first letter to match API expectations
   const capitalizedMood = mood.charAt(0).toUpperCase() + mood.slice(1).toLowerCase();
+  
+  console.log(`[Mood] Requesting recommendation for "${capitalizedMood}" excluding episodes:`, excludeEpisodes);
   
   const response = await fetch(API_URL, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({ mood: capitalizedMood }),
+    body: JSON.stringify({ 
+      mood: capitalizedMood,
+      exclude: excludeEpisodes 
+    }),
   });
 
   if (!response.ok) {
     throw new Error(`API error: ${response.status}`);
   }
 
-  return response.json();
+  const result = await response.json();
+  console.log(`[Mood] Received episode ID: ${result.episode?.id}, Title: "${result.episode?.title}", Memory reset: ${result.memoryReset}`);
+  return result;
 }
 
 /**
@@ -198,10 +274,23 @@ async function handleMoodClick(mood) {
   });
 
   try {
-    const result = await getRecommendation(mood);
+    // Get list of already played episodes for this mood
+    const excludeEpisodes = getExcludedEpisodes(mood);
+    
+    const result = await getRecommendation(mood, excludeEpisodes);
     
     if (result.episode) {
       currentMoodEpisode = result.episode;
+      
+      // Track this episode as played for the current mood
+      addPlayedEpisode(mood, result.episode.id);
+      
+      // Check if memory was reset (all episodes played)
+      if (result.memoryReset) {
+        clearPlayedEpisodesForMood(mood);
+        // Re-add the current episode since it's now playing
+        addPlayedEpisode(mood, result.episode.id);
+      }
       
       // Update UI with episode info
       updateMoodPlayerUI(result.episode, result.reason);

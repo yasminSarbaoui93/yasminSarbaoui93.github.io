@@ -26,8 +26,26 @@ def load_episodes():
     return data["episodes"]
 
 
-def get_mood_recommendation(mood: str, episodes: list) -> dict:
-    """Use GPT-5-mini to recommend an episode based on mood."""
+def get_mood_recommendation(mood: str, episodes: list, exclude_ids: list = None) -> dict:
+    """Use GPT-5-mini to recommend an episode based on mood.
+    
+    Args:
+        mood: The mood to match
+        episodes: List of all episodes
+        exclude_ids: List of episode IDs to exclude (already played in session)
+    """
+    if exclude_ids is None:
+        exclude_ids = []
+    
+    # Filter out excluded episodes
+    available_episodes = [ep for ep in episodes if ep['id'] not in exclude_ids]
+    
+    # If all episodes have been played, reset and use all episodes
+    memory_reset = False
+    if len(available_episodes) == 0:
+        available_episodes = episodes
+        memory_reset = True
+        logging.info(f"All episodes played for mood '{mood}', resetting memory")
     
     client = AzureOpenAI(
         api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
@@ -35,11 +53,11 @@ def get_mood_recommendation(mood: str, episodes: list) -> dict:
         azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
     )
     
-    # Shuffle episodes to present them in random order - encourages variety
-    shuffled_episodes = episodes.copy()
+    # Shuffle available episodes to present them in random order - encourages variety
+    shuffled_episodes = available_episodes.copy()
     random.shuffle(shuffled_episodes)
     
-    # Build episode catalog for the prompt (in random order)
+    # Build episode catalog for the prompt (in random order, excluding already played)
     episode_catalog = "\n".join([
         f"ID: {ep['id']}\nTitle: {ep['title']}\nDescription: {ep['description']}\nSongs: {', '.join(ep.get('songs', []))}\n"
         for ep in shuffled_episodes
@@ -101,23 +119,26 @@ Select the best matching episode. IMPORTANT: Vary your selection - don't always 
             return {
                 "success": True,
                 "episode": episode,
-                "reason": reason
+                "reason": reason,
+                "memoryReset": memory_reset
             }
         else:
-            # Fallback to first episode if ID not found
+            # Fallback to first available episode if ID not found
             return {
                 "success": True,
-                "episode": episodes[0],
-                "reason": "Here's a great episode for you!"
+                "episode": available_episodes[0],
+                "reason": "Here's a great episode for you!",
+                "memoryReset": memory_reset
             }
             
     except json.JSONDecodeError:
         logging.error(f"Failed to parse AI response: {ai_response}")
-        # Return first episode as fallback
+        # Return first available episode as fallback
         return {
             "success": True,
-            "episode": episodes[0],
-            "reason": "Here's a recommended episode for your mood!"
+            "episode": available_episodes[0],
+            "reason": "Here's a recommended episode for your mood!",
+            "memoryReset": memory_reset
         }
 
 
@@ -153,6 +174,12 @@ def recommend_episode(req: func.HttpRequest) -> func.HttpResponse:
         # Parse request body
         req_body = req.get_json()
         mood = req_body.get("mood")
+        exclude_ids = req_body.get("exclude", [])  # List of episode IDs to exclude
+        
+        # Ensure exclude_ids is a list of integers
+        if not isinstance(exclude_ids, list):
+            exclude_ids = []
+        exclude_ids = [int(id) for id in exclude_ids if isinstance(id, (int, str)) and str(id).isdigit()]
         
         if not mood:
             return func.HttpResponse(
@@ -172,7 +199,7 @@ def recommend_episode(req: func.HttpRequest) -> func.HttpResponse:
         
         # Load episodes and get recommendation
         episodes = load_episodes()
-        result = get_mood_recommendation(mood, episodes)
+        result = get_mood_recommendation(mood, episodes, exclude_ids)
         
         return func.HttpResponse(
             json.dumps(result),

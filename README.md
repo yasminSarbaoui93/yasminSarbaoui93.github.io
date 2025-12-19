@@ -2,7 +2,7 @@
 
 ## Sedna FM - A Radio Show from Another Planet
 
-Sedna FM is an interactive radio player website featuring curated episode channels and a retro radio interface.
+Sedna FM is an interactive radio player website featuring curated episode channels, a retro radio interface, and **AI-powered mood-based recommendations**.
 
 ## Features
 
@@ -12,6 +12,14 @@ The radio player supports four distinct channels:
 - **CH 2 - Sedna FM**: Core Sedna FM episodes (~5 episodes)
 - **CH 3 - Evening Flows**: Evening wind-down episodes (coming soon)
 - **CH 4 - On The Go**: Episodes for when you're on the move (~1 episode)
+
+### Choose Your Mood (AI-Powered) 🎵
+Select your current mood and let AI recommend the perfect episode:
+- **Available Moods**: Happy, Calm, Reflective, Sad, Energetic, Intimate, Moody, Carefree
+- **Smart Recommendations**: Azure OpenAI analyzes episode descriptions and songs to find the best match
+- **Session Memory**: Tracks played episodes per mood to avoid repetition
+- **Next Button**: Get another recommendation without repeating tracks
+- Memory automatically resets when browser is refreshed
 
 ### Interactive Controls
 - Click any channel button to start playing from that channel
@@ -26,60 +34,93 @@ The radio player supports four distinct channels:
 - Scrolling marquee for long titles
 - Responsive design for desktop and mobile
 
+## Architecture
+
+### Frontend
+- Static HTML/CSS/JavaScript hosted on GitHub Pages
+- Modular JavaScript architecture (`scripts/modules/`)
+- SoundCloud Widget API for audio playback
+
+### Backend (Azure Functions)
+- **Runtime**: Python 3.11
+- **AI Model**: Azure OpenAI GPT-4.1 mini
+- **Endpoints**:
+  - `POST /api/recommend` - Mood-based episode recommendation
+  - `GET /api/health` - Health check
+
+### Environments
+| Environment | Branch | API URL |
+|-------------|--------|---------|
+| Development | `develop` | `https://sedna-website-func-dev-ch.azurewebsites.net` |
+| Production | `main` | `https://sedna-website-func-ch.azurewebsites.net` |
+
 ## Project Structure
 
 ```
 .
-├── about.html
 ├── index.html
+├── about.html
+├── api/                            # Azure Functions backend
+│   ├── function_app.py             # Main function with AI recommendation
+│   ├── host.json
+│   ├── local.settings.json
+│   └── requirements.txt
 ├── assets/
 │   └── images/
-│       ├── ale1.jpeg
-│       ├── gaia1.PNG
-│       ├── hero-background.png
-│       ├── io e gaia 1.jpg
-│       ├── io e gaia 2.jpg
 │       ├── radio-realistic.png     # Current radio image
-│       ├── radio-(old)-unused.png  # Previous radio image (archived)
-│       ├── sedna_logo.png
-│       └── yaya1.PNG
-├── styles/
-│   └── main.css
+│       └── sedna_logo.png
+├── data/
+│   └── episodes.json               # Episode catalog
 ├── scripts/
 │   ├── main.js                     # Entry point
 │   └── modules/
 │       ├── channels.js             # Channel filtering logic
 │       ├── episodes.js             # Episode URL list
 │       ├── modal.js                # Subscribe modal
+│       ├── mood.js                 # AI mood recommendations + session memory
 │       ├── player.js               # SoundCloud player logic
-│       ├── ui.js                   # UI updates (icons, titles, highlights)
+│       ├── ui.js                   # UI updates
 │       └── utils.js                # Utility functions
+├── styles/
+│   └── main.css
 ├── specs/
 │   ├── prd.md                      # Product Requirements Document
 │   ├── features/                   # Feature specifications
 │   └── tasks/                      # Implementation tasks
-├── CNAME
-└── README.md
+├── .github/workflows/
+│   ├── deploy-function-dev.yml     # Deploy to dev on push to develop
+│   └── deploy-function-prod.yml    # Deploy to prod on push to main
+└── .apm/instructions/
+    └── sedna-project.instructions.md  # Project context for AI assistants
 ```
 
-### Folder Descriptions
+## Development
 
-- **assets/images/**: Contains all image assets used in the project. Organizing images here keeps the project tidy and makes asset management easier.
-- **styles/**: Place all CSS files here. This separation allows for scalable and maintainable styling.
-- **scripts/**: Place all JavaScript files here. Keeping scripts modular supports reusability and easier debugging.
-- **about.html, index.html**: Main HTML files for the site.
-- **CNAME**: Custom domain configuration for GitHub Pages.
-- **README.md**: Project documentation.
+### Prerequisites
+- Node.js (for live-server)
+- Python 3.11 (for Azure Functions)
+- Azure Functions Core Tools (optional, for local API testing)
 
-### Best Practices
-
-- Keep assets, styles, and scripts in their respective folders for clarity and maintainability.
-- Reference images in HTML as `assets/images/filename.ext`.
-- Add new CSS and JS files to the `styles/` and `scripts/` folders as the project grows.
-- Modularize code and assets to support collaboration and future expansion.
-
-# Test
-Before committing, test changes with the command
+### Local Testing
 ```bash
+# Frontend - from project root
 live-server
+
+# Backend - from api/ folder (requires Azure Functions Core Tools)
+func start
 ```
+
+### Deployment
+Deployments are automatic via GitHub Actions:
+1. Push to `develop` → Deploys to dev Azure Function
+2. Push to `main` → Deploys to prod Azure Function
+
+Only changes in `api/**` or `data/**` trigger function deployments.
+
+## Best Practices
+
+- Keep assets, styles, and scripts in their respective folders
+- Modularize JavaScript code in `scripts/modules/`
+- Test locally with `live-server` before committing
+- Use `develop` branch for development, merge to `main` for production
+- Reference project context in `.apm/instructions/sedna-project.instructions.md`
