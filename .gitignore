@@ -23,6 +23,8 @@ docs/DAILY_FACT_SETUP.md
 
 # macOS
 .DS_Store
+*.DS_Store
+**/.DS_Store
 
 # Azure Functions
 api/local.settings.json
@@ -44,3 +46,4 @@ venv/
 
 # Logs
 *.log
+
