@@ -18,6 +18,9 @@ apm.yml
 # Configuration files with secrets
 config.js
 
+# Documentation with sensitive information
+docs/DAILY_FACT_SETUP.md
+
 # macOS
 .DS_Store
 

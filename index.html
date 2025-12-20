@@ -121,6 +121,51 @@
     </div>
   </section>
 
+  <!-- Daily Fact & Match Section -->
+  <section id="daily-fact-section">
+    <h2 class="daily-fact-title">What happened on planet earth</h2>
+    <p class="daily-fact-subtitle">Our aliens have picked an episode for you based on today's facts</p>
+    
+    <!-- Daily Fact Content Container -->
+    <div class="daily-fact-container">
+      <!-- Episode Player Card -->
+      <div class="daily-fact-player">
+        <div class="daily-fact-artwork">
+          <img src="assets/images/sedna_logo.png" alt="Episode artwork" id="daily-fact-artwork-img">
+        </div>
+        <div class="daily-fact-player-info">
+          <span class="daily-fact-player-title" id="daily-fact-title">Loading today's pick...</span>
+          <span class="daily-fact-player-artist">Sedna FM</span>
+        </div>
+        <div class="daily-fact-player-controls">
+          <button class="daily-fact-player-btn" id="daily-fact-play-btn" aria-label="Play/Pause">
+            <i class="fas fa-play"></i>
+          </button>
+        </div>
+        <div class="daily-fact-player-progress">
+          <div class="daily-fact-player-progress-bar" id="daily-fact-progress-bar"></div>
+        </div>
+      </div>
+      
+      <!-- Fact of the Day -->
+      <div class="daily-fact-content">
+        <div class="daily-fact-text-container">
+          <span class="daily-fact-year" id="daily-fact-year"></span>
+          <p class="daily-fact-text" id="daily-fact-text">Discovering what happened on this day in history...</p>
+        </div>
+        <p class="daily-fact-match-reason" id="daily-fact-match-reason"></p>
+      </div>
+    </div>
+
+    <!-- Hidden SoundCloud player for daily fact -->
+    <div id="daily-fact-soundcloud-player" style="display: none;"></div>
+
+    <!-- Scroll Down Indicator -->
+    <div class="scroll-indicator daily-fact-scroll-indicator">
+      <span class="scroll-arrow"></span>
+    </div>
+  </section>
+
   <!-- Our Formats Section -->
   <section id="formats-section">
     <h2 class="formats-title">Our Formats</h2>
