@@ -1,55 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On December 20, 1941, the American Volunteer Group—better known as the Flying Tigers—fought its first battle over Kunming, China. These volunteer pilots, flying shark‑toothed fighter planes, became legendary symbols of improvisation and grit in the early, chaotic days of World War II in Asia.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Volunteer_Group",
+    "hour": 4,
+    "fact_text": "On December 20, 1917, the Bolshevik government created the Cheka, the first Soviet secret police. Born in the turbulence of revolution, it quickly became a shadowy instrument of surveillance, repression, and fear that shaped the early Soviet state from behind closed doors.",
+    "fact_year": 1917,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cheka",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 32,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The Flying Tigers’ rebellious volunteer spirit fits a loud, guitar‑driven tribute to people who defied expectations and fought their own battles."
+    "match_reason": "A secret police born of surveillance and control contrasts with a modern reflection on digital monitoring and our uneasy dependence on connected devices."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On December 20, 1917, the Bolshevik government created the Cheka, the first Soviet secret police. Born in the turbulence of revolution, it quickly became a shadowy instrument of surveillance, repression, and fear that shaped the early Soviet state from behind closed doors.",
-      "fact_year": 1917,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cheka",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A secret police born of surveillance and control contrasts with a modern reflection on digital monitoring and our uneasy dependence on connected devices."
-    },
     {
       "hour": 5,
       "fact_text": "On December 20, AD 69, the general Marcus Antonius Primus marched into Rome to secure the imperial throne for Vespasian, ending one of the empire’s most chaotic years. Known as the Year of the Four Emperors, it was a whirlwind of coups and counter‑coups that showed just how fragile power in Rome could be.",
@@ -643,9 +619,34 @@
         ]
       },
       "match_reason": "The Flying Tigers’ rebellious volunteer spirit fits a loud, guitar‑driven tribute to people who defied expectations and fought their own battles."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On December 20, 1917, the Bolshevik government created the Cheka, the first Soviet secret police. Born in the turbulence of revolution, it quickly became a shadowy instrument of surveillance, repression, and fear that shaped the early Soviet state from behind closed doors.",
+      "fact_year": 1917,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cheka",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A secret police born of surveillance and control contrasts with a modern reflection on digital monitoring and our uneasy dependence on connected devices."
     }
   ],
   "generated_at": "2025-12-20T09:12:17.741224+00:00",
   "date": "2025-12-20",
-  "updated_at": "2025-12-20T12:00:01.222569+00:00"
+  "updated_at": "2025-12-20T13:00:01.478865+00:00"
 }
