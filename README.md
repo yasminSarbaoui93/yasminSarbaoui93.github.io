@@ -2,9 +2,18 @@
 
 ## Sedna FM - A Radio Show from Another Planet
 
-Sedna FM is an interactive radio player website featuring curated episode channels, a retro radio interface, and **AI-powered mood-based recommendations**.
+Sedna FM is an interactive radio player website featuring curated episode channels, a retro radio interface, **AI-powered mood-based recommendations**, and **Daily Fact & Match** with hourly Wikipedia facts.
 
 ## Features
+
+### Daily Fact & Match 🌟 (NEW)
+Every hour, discover a fascinating historical fact that happened on this day:
+- **Hourly Updates**: New fact every hour, 24 different facts per day
+- **AI-Curated**: GPT-5.1 selects intriguing facts from Wikipedia "On this day"
+- **Episode Matching**: Each fact is paired with a Sedna FM episode that matches its vibe
+- **Topics**: Music, science, space, nature, earth, astronomy events prioritized
+- **Read More**: Link to Wikipedia for deeper exploration
+- **Dynamic Artwork**: Shows actual SoundCloud episode artwork
 
 ### Radio Channels
 The radio player supports four distinct channels:
@@ -43,10 +52,18 @@ Select your current mood and let AI recommend the perfect episode:
 
 ### Backend (Azure Functions)
 - **Runtime**: Python 3.11
-- **AI Model**: Azure OpenAI GPT-5 nano
+- **AI Models**:
+  - **Mood Recommendations**: Azure OpenAI GPT-5 nano (`sedna-website-foundry-ch`)
+  - **Daily Facts**: Azure OpenAI GPT-5.1 (`yasmi-mjc1puli-eastus2`)
 - **Endpoints**:
   - `POST /api/recommend` - Mood-based episode recommendation
   - `GET /api/health` - Health check
+  - `GET /api/generate-daily-fact` - Manual daily fact generation
+  - `GET /api/generate-daily-fact?batch=true` - Generate 24 hourly facts
+  - `GET /api/generate-daily-fact?publish=true` - Publish next fact from queue
+- **Timer Triggers**:
+  - `daily_batch_generator` - Runs at 00:00 UTC daily, generates 24 facts
+  - `hourly_fact_publisher` - Runs every hour at :00, publishes next fact
 
 ### Environments
 | Environment | Branch | API URL |
@@ -70,11 +87,13 @@ Select your current mood and let AI recommend the perfect episode:
 │       ├── radio-realistic.png     # Current radio image
 │       └── sedna_logo.png
 ├── data/
-│   └── episodes.json               # Episode catalog
+│   ├── episodes.json               # Episode catalog
+│   └── daily_match.json            # Auto-updated hourly fact (committed by Azure Function)
 ├── scripts/
 │   ├── main.js                     # Entry point
 │   └── modules/
 │       ├── channels.js             # Channel filtering logic
+│       ├── dailyFact.js            # Daily fact display + SoundCloud artwork
 │       ├── episodes.js             # Episode URL list
 │       ├── modal.js                # Subscribe modal
 │       ├── mood.js                 # AI mood recommendations + session memory
