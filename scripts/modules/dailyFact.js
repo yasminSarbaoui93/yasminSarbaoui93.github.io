@@ -12,15 +12,28 @@ let isDailyFactPlaying = false;
  */
 async function fetchDailyMatch() {
   try {
-    // Add cache-busting query parameter based on today's date
-    const today = new Date().toISOString().split('T')[0];
-    const response = await fetch(`data/daily_match.json?v=${today}`);
+    // Add cache-busting query parameter based on current hour for hourly updates
+    const now = new Date();
+    const cacheKey = `${now.toISOString().split('T')[0]}-${now.getUTCHours()}`;
+    const response = await fetch(`data/daily_match.json?v=${cacheKey}`);
     
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
     
     const data = await response.json();
+    
+    // Handle new schedule structure (current_fact) or legacy format
+    if (data.current_fact) {
+      // New hourly format - extract current fact and merge with metadata
+      return {
+        ...data.current_fact,
+        date: data.date,
+        current_hour: data.current_hour
+      };
+    }
+    
+    // Legacy format - return as-is
     return data;
   } catch (error) {
     console.error('[DailyFact] Error fetching daily match:', error);

@@ -364,16 +364,17 @@ async def fetch_wikipedia_events(month: int, day: int) -> list[dict[str, Any]]:
     return formatted_events
 
 
-async def get_daily_match(events: list[dict], episodes: list[dict]) -> dict[str, Any]:
+async def get_daily_match(events: list[dict], episodes: list[dict], count: int = 1) -> dict[str, Any] | list[dict[str, Any]]:
     """
-    Use Azure OpenAI GPT-5.1 to select an intriguing fact and match it with an episode.
+    Use Azure OpenAI GPT-5.1 to select intriguing facts and match them with episodes.
     
     Args:
         events: List of historical events from Wikipedia
         episodes: List of Sedna FM episodes
+        count: Number of fact/episode pairs to generate (1 for single, 24 for batch)
         
     Returns:
-        Dictionary containing fact_text and matched episode data
+        Single match dict if count=1, or list of matches if count>1
     """
     # Use dedicated env vars for daily fact API (falls back to shared vars)
     client = AzureOpenAI(
@@ -388,7 +389,9 @@ async def get_daily_match(events: list[dict], episodes: list[dict]) -> dict[str,
     
     today = datetime.now(timezone.utc)
     
-    system_prompt = """You are an alien curator for Sedna.fm, a radio station broadcasting from another planet.
+    # Different prompts for single vs batch mode
+    if count == 1:
+        system_prompt = """You are an alien curator for Sedna.fm, a radio station broadcasting from another planet.
         
 Your task is to:
 1. Select the MOST INTRIGUING and CURIOUS fact from today's historical events
@@ -423,8 +426,49 @@ You must respond with ONLY a valid JSON object in this exact format:
 }
 
 Do not include any other text, markdown, or explanation outside the JSON."""
+    else:
+        system_prompt = f"""You are an alien curator for Sedna.fm, a radio station broadcasting from another planet.
+        
+Your task is to create a schedule of {count} DIFFERENT intriguing facts for today, each matched with a Sedna FM episode.
+These will be shown one per hour throughout the day, so VARIETY is essential!
 
-    user_prompt = f"""Today is {today.strftime('%B %d')}. 
+Selection criteria for facts:
+- Each fact MUST be from a DIFFERENT historical event - NO DUPLICATES!
+- Prioritize music, science, space, nature, earth, and cultural events
+- Choose facts that are surprising, lesser-known, or have interesting stories
+- Mix different categories: some music, some science, some space, some nature
+- The facts should inspire curiosity and wonder
+
+Selection criteria for episodes:
+- Match the emotional tone and theme of each fact
+- TRY TO USE DIFFERENT EPISODES for variety (but can repeat if truly best match)
+- Consider the music genres and description of each episode
+- Be creative in finding unexpected but meaningful connections
+
+You must respond with ONLY a valid JSON array containing exactly {count} objects, each in this format:
+[
+  {{
+    "hour": 0,
+    "fact_text": "<A well-written, engaging description (2-3 sentences)>",
+    "fact_year": <year as integer>,
+    "fact_wikipedia_url": "<URL of the most relevant Wikipedia page>",
+    "episode": {{
+        "id": <episode id>,
+        "title": "<episode title>",
+        "description": "<episode description>",
+        "soundcloudUrl": "<soundcloud url>",
+        "songs": ["<song1>", "<song2>", ...],
+        "music-genres": ["<genre1>", "<genre2>", ...]
+    }},
+    "match_reason": "<Brief explanation of why this episode matches>"
+  }},
+  ... (continue for hours 1-{count-1})
+]
+
+Do not include any other text, markdown, or explanation outside the JSON array."""
+
+    if count == 1:
+        user_prompt = f"""Today is {today.strftime('%B %d')}. 
 
 Here are the historical events that happened on this day:
 {events_text}
@@ -433,6 +477,17 @@ Here is the Sedna FM episode catalog:
 {episodes_text}
 
 Select the most intriguing fact and the best matching episode."""
+    else:
+        user_prompt = f"""Today is {today.strftime('%B %d')}. 
+
+Here are the historical events that happened on this day:
+{events_text}
+
+Here is the Sedna FM episode catalog:
+{episodes_text}
+
+Create a schedule of {count} DIFFERENT facts (one for each hour 0-{count-1}), each matched with an episode.
+Ensure maximum variety - use different events and try to vary the episodes too!"""
 
     response = client.chat.completions.create(
         model=os.environ.get("AZURE_OPENAI_MODEL_DAILY", "gpt-5.1"),
@@ -440,7 +495,7 @@ Select the most intriguing fact and the best matching episode."""
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ],
-        max_completion_tokens=4096
+        max_completion_tokens=16384 if count > 1 else 4096  # More tokens for batch
     )
     
     # Parse the JSON response
@@ -453,21 +508,22 @@ Select the most intriguing fact and the best matching episode."""
         elif "```" in response_text:
             response_text = response_text.split("```")[1].split("```")[0]
         
-        daily_match = json.loads(response_text.strip())
-        return daily_match
+        result = json.loads(response_text.strip())
+        return result
     except json.JSONDecodeError as e:
         logger.error(f"Failed to parse AI response as JSON: {e}")
         logger.error(f"Response was: {response_text}")
         raise
 
 
-def commit_to_github(daily_match: dict[str, Any], date_str: str) -> bool:
+def commit_to_github(data: dict[str, Any], date_str: str, commit_message: str = None) -> bool:
     """
     Commit the daily match JSON to GitHub.
     
     Args:
-        daily_match: The daily fact and episode match data
+        data: The data to commit (can be full schedule or single fact)
         date_str: Date string for the file (YYYY-MM-DD)
+        commit_message: Optional custom commit message
         
     Returns:
         True if successful, False otherwise
@@ -484,16 +540,17 @@ def commit_to_github(daily_match: dict[str, Any], date_str: str) -> bool:
         g = Github(github_token)
         repo = g.get_repo(repo_name)
         
-        # Add metadata to the match
-        daily_match["date"] = date_str
-        daily_match["generated_at"] = datetime.now(timezone.utc).isoformat()
+        # Add metadata
+        data["date"] = date_str
+        data["updated_at"] = datetime.now(timezone.utc).isoformat()
         
         # Convert to JSON string
-        content = json.dumps(daily_match, indent=2, ensure_ascii=False)
+        content = json.dumps(data, indent=2, ensure_ascii=False)
         
         # File path in repo
         file_path = "data/daily_match.json"
-        commit_message = f"🌟 Daily fact & match for {date_str}"
+        if not commit_message:
+            commit_message = f"🌟 Daily fact & match for {date_str}"
         
         try:
             # Try to get existing file
@@ -524,34 +581,60 @@ def commit_to_github(daily_match: dict[str, Any], date_str: str) -> bool:
         return False
 
 
-# Timer Trigger: Runs daily at 00:01 CET (23:01 UTC the day before)
+def get_github_file(file_path: str) -> dict[str, Any] | None:
+    """
+    Get file content from GitHub.
+    
+    Args:
+        file_path: Path to file in repo
+        
+    Returns:
+        Parsed JSON content or None if not found
+    """
+    github_token = os.environ.get("GITHUB_TOKEN")
+    repo_name = os.environ.get("GITHUB_REPO", "yasminSarbaoui93/yasminSarbaoui93.github.io")
+    branch = os.environ.get("GITHUB_BRANCH", "main")
+    
+    if not github_token:
+        return None
+    
+    try:
+        g = Github(github_token)
+        repo = g.get_repo(repo_name)
+        file_content = repo.get_contents(file_path, ref=branch)
+        return json.loads(file_content.decoded_content.decode('utf-8'))
+    except Exception as e:
+        logger.warning(f"Could not get {file_path} from GitHub: {e}")
+        return None
+
+
+# Timer Trigger: Runs at midnight UTC to generate all 24 facts for the day
 # CRON expression: second minute hour day month day-of-week
-# 0 1 23 * * * = At 23:01 UTC every day (which is 00:01 CET)
+# 0 0 0 * * * = At 00:00 UTC every day
 @app.timer_trigger(
-    schedule="0 1 23 * * *",
+    schedule="0 0 0 * * *",
     arg_name="timer",
     run_on_startup=False,
     use_monitor=True
 )
-async def daily_fact_generator(timer: func.TimerRequest) -> None:
+async def daily_batch_generator(timer: func.TimerRequest) -> None:
     """
-    Timer-triggered function that runs daily to generate the fact of the day
-    and match it with a Sedna FM episode.
+    Timer-triggered function that runs at midnight UTC to generate
+    all 24 hourly facts for the day using GPT-5.1.
     """
-    logger.info("Daily Fact Generator function started")
+    logger.info("Daily Batch Generator function started (midnight)")
     
     if timer.past_due:
         logger.info("The timer is past due!")
     
     try:
-        # Get current date (in CET timezone context)
+        # Get current date
         now = datetime.now(timezone.utc)
-        # Adjust for CET (UTC+1) for the date
         date_str = now.strftime("%Y-%m-%d")
         month = now.month
         day = now.day
         
-        logger.info(f"Generating daily fact for {date_str} ({month}/{day})")
+        logger.info(f"Generating 24 hourly facts for {date_str} ({month}/{day})")
         
         # Step A: Fetch historical events from Wikipedia
         logger.info("Fetching historical events from Wikipedia...")
@@ -567,22 +650,110 @@ async def daily_fact_generator(timer: func.TimerRequest) -> None:
         episodes = load_episodes()
         logger.info(f"Loaded {len(episodes)} episodes")
         
-        # Step C: Use AI to match fact with episode
-        logger.info("Generating daily match with AI...")
-        daily_match = await get_daily_match(events, episodes)
-        logger.info(f"Generated match: {daily_match.get('fact_text', '')[:100]}...")
+        # Step C: Use GPT-5.1 to generate 24 fact/episode pairs
+        logger.info("Generating 24 hourly matches with GPT-5.1...")
+        hourly_matches = await get_daily_match(events, episodes, count=24)
+        logger.info(f"Generated {len(hourly_matches)} hourly matches")
         
-        # Step D: Commit to GitHub
-        logger.info("Committing to GitHub...")
-        success = commit_to_github(daily_match, date_str)
+        # Step D: Create schedule structure
+        # First fact (hour 0) becomes current, rest go to queue
+        current_fact = hourly_matches[0] if hourly_matches else None
+        queue = hourly_matches[1:] if len(hourly_matches) > 1 else []
+        
+        schedule_data = {
+            "current_hour": 0,
+            "current_fact": current_fact,
+            "queue": queue,
+            "published": [current_fact] if current_fact else [],
+            "generated_at": now.isoformat()
+        }
+        
+        # Step E: Commit to GitHub
+        logger.info("Committing schedule to GitHub...")
+        success = commit_to_github(schedule_data, date_str, f"🌅 Generated 24 hourly facts for {date_str}")
         
         if success:
-            logger.info("Daily fact successfully generated and committed!")
+            logger.info("Daily batch successfully generated and committed!")
         else:
-            logger.error("Failed to commit daily fact to GitHub")
+            logger.error("Failed to commit daily batch to GitHub")
             
     except Exception as e:
-        logger.error(f"Error in daily fact generator: {e}")
+        logger.error(f"Error in daily batch generator: {e}")
+        raise
+
+
+# Timer Trigger: Runs every hour at :00 to publish next fact from queue
+# CRON expression: 0 0 * * * * = At minute 0 of every hour
+@app.timer_trigger(
+    schedule="0 0 * * * *",
+    arg_name="timer",
+    run_on_startup=False,
+    use_monitor=True
+)
+async def hourly_fact_publisher(timer: func.TimerRequest) -> None:
+    """
+    Timer-triggered function that runs every hour to publish
+    the next fact from the queue. No AI calls - just pops from queue.
+    """
+    logger.info("Hourly Fact Publisher function started")
+    
+    if timer.past_due:
+        logger.info("The timer is past due!")
+    
+    try:
+        now = datetime.now(timezone.utc)
+        current_hour = now.hour
+        date_str = now.strftime("%Y-%m-%d")
+        
+        # Skip hour 0 - that's handled by the midnight batch generator
+        if current_hour == 0:
+            logger.info("Hour 0 - skipping (midnight batch handles this)")
+            return
+        
+        # Get current schedule from GitHub
+        logger.info("Fetching current schedule from GitHub...")
+        schedule = get_github_file("data/daily_match.json")
+        
+        if not schedule:
+            logger.warning("No schedule found in GitHub")
+            return
+        
+        # Check if schedule is for today
+        if schedule.get("date") != date_str:
+            logger.warning(f"Schedule is for {schedule.get('date')}, not today ({date_str})")
+            return
+        
+        queue = schedule.get("queue", [])
+        published = schedule.get("published", [])
+        
+        if not queue:
+            logger.warning("Queue is empty - no more facts to publish")
+            return
+        
+        # Pop next fact from queue
+        next_fact = queue.pop(0)
+        
+        # Update schedule
+        schedule["current_hour"] = current_hour
+        schedule["current_fact"] = next_fact
+        schedule["queue"] = queue
+        schedule["published"] = published + [next_fact]
+        
+        # Commit updated schedule
+        logger.info(f"Publishing fact for hour {current_hour}...")
+        success = commit_to_github(
+            schedule, 
+            date_str, 
+            f"⏰ Hourly fact #{current_hour} for {date_str}"
+        )
+        
+        if success:
+            logger.info(f"Hourly fact #{current_hour} published successfully!")
+        else:
+            logger.error("Failed to publish hourly fact")
+            
+    except Exception as e:
+        logger.error(f"Error in hourly fact publisher: {e}")
         raise
 
 
@@ -590,12 +761,15 @@ async def daily_fact_generator(timer: func.TimerRequest) -> None:
 @app.route(route="generate-daily-fact", methods=["GET"], auth_level=func.AuthLevel.ANONYMOUS)
 async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse:
     """
-    HTTP endpoint for manually triggering the daily fact generation.
-    Useful for testing and debugging.
+    HTTP endpoint for manually triggering fact generation.
     
-    GET /api/generate-daily-fact
-    GET /api/generate-daily-fact?date=2025-12-20
-    GET /api/generate-daily-fact?commit=true  (also commits to GitHub)
+    Modes:
+    - GET /api/generate-daily-fact                    → Generate single fact (preview)
+    - GET /api/generate-daily-fact?commit=true        → Generate & commit single fact
+    - GET /api/generate-daily-fact?batch=true         → Generate 24 hourly facts (preview)
+    - GET /api/generate-daily-fact?batch=true&commit=true → Generate & commit full schedule
+    - GET /api/generate-daily-fact?publish=true       → Publish next fact from queue
+    - GET /api/generate-daily-fact?date=2025-12-20    → Specify date
     """
     logger.info("Manual daily fact generation triggered")
     
@@ -606,6 +780,11 @@ async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse
     }
     
     try:
+        # Get mode from query params
+        batch_mode = req.params.get("batch", "false").lower() == "true"
+        publish_mode = req.params.get("publish", "false").lower() == "true"
+        commit_param = req.params.get("commit", "false").lower() == "true"
+        
         # Get date from query params or use today
         date_param = req.params.get("date")
         if date_param:
@@ -623,8 +802,45 @@ async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse
         month = target_date.month
         day = target_date.day
         date_str = target_date.strftime("%Y-%m-%d")
+        current_hour = target_date.hour
         
-        # Fetch events
+        # Mode: Publish next from queue
+        if publish_mode:
+            schedule = get_github_file("data/daily_match.json")
+            
+            if not schedule:
+                return func.HttpResponse(
+                    json.dumps({"error": "No schedule found"}),
+                    status_code=404,
+                    headers=headers
+                )
+            
+            queue = schedule.get("queue", [])
+            if not queue:
+                return func.HttpResponse(
+                    json.dumps({"error": "Queue is empty", "schedule": schedule}),
+                    status_code=404,
+                    headers=headers
+                )
+            
+            # Pop and publish
+            next_fact = queue.pop(0)
+            schedule["current_hour"] = current_hour
+            schedule["current_fact"] = next_fact
+            schedule["queue"] = queue
+            schedule["published"] = schedule.get("published", []) + [next_fact]
+            
+            if commit_param:
+                commit_to_github(schedule, date_str, f"⏰ Manual publish hour {current_hour}")
+                schedule["committed"] = True
+            
+            return func.HttpResponse(
+                json.dumps(schedule, indent=2, ensure_ascii=False),
+                status_code=200,
+                headers=headers
+            )
+        
+        # Fetch events for generation modes
         events = await fetch_wikipedia_events(month, day)
         
         if not events:
@@ -637,13 +853,43 @@ async def generate_daily_fact_manual(req: func.HttpRequest) -> func.HttpResponse
         # Load episodes
         episodes = load_episodes()
         
-        # Generate match
-        daily_match = await get_daily_match(events, episodes)
+        # Mode: Batch (24 facts)
+        if batch_mode:
+            hourly_matches = await get_daily_match(events, episodes, count=24)
+            
+            current_fact = hourly_matches[0] if hourly_matches else None
+            queue = hourly_matches[1:] if len(hourly_matches) > 1 else []
+            
+            schedule_data = {
+                "current_hour": 0,
+                "current_fact": current_fact,
+                "queue": queue,
+                "published": [current_fact] if current_fact else [],
+                "generated_at": datetime.now(timezone.utc).isoformat()
+            }
+            
+            if commit_param:
+                commit_to_github(schedule_data, date_str, f"🌅 Manual batch for {date_str}")
+                schedule_data["committed"] = True
+            
+            return func.HttpResponse(
+                json.dumps(schedule_data, indent=2, ensure_ascii=False),
+                status_code=200,
+                headers=headers
+            )
         
-        # Optionally commit to GitHub
-        commit_param = req.params.get("commit", "false").lower() == "true"
+        # Mode: Single fact (default)
+        daily_match = await get_daily_match(events, episodes, count=1)
+        
         if commit_param:
-            commit_to_github(daily_match, date_str)
+            # Wrap single fact in schedule structure for compatibility
+            schedule_data = {
+                "current_hour": current_hour,
+                "current_fact": daily_match,
+                "queue": [],
+                "published": [daily_match]
+            }
+            commit_to_github(schedule_data, date_str)
             daily_match["committed"] = True
         
         return func.HttpResponse(
