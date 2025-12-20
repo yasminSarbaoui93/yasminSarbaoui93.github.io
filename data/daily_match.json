@@ -1,58 +1,30 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On December 20, 1832, HMS Clio sailed into Port Egmont in the Falkland Islands to reassert British control over the remote archipelago. This quiet arrival in a windswept harbor set the stage for nearly two centuries of contested sovereignty at the edge of the South Atlantic.",
-    "fact_year": 1832,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Port_Egmont",
+    "hour": 9,
+    "fact_text": "On December 20, 1940, \"Captain America Comics\" #1 was officially dated for publication, introducing readers to a star‑spangled superhero punching Hitler on the cover months before the U.S. entered World War II. The character was created as a bold piece of propaganda and wishful courage during a very uncertain time.",
+    "fact_year": 1940,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Captain_America_Comics",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 35,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "A Royal Navy ship asserting control in distant seas pairs naturally with an episode recorded aboard a boat, built around ocean journeys and maritime horizons."
+    "match_reason": "A literal star‑spangled hero debuting under wartime tension matches an episode titled \"Star Treatment\" about evolution, image, and hero‑making."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On December 20, 1940, \"Captain America Comics\" #1 was officially dated for publication, introducing readers to a star‑spangled superhero punching Hitler on the cover months before the U.S. entered World War II. The character was created as a bold piece of propaganda and wishful courage during a very uncertain time.",
-      "fact_year": 1940,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Captain_America_Comics",
-      "episode": {
-        "id": 35,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "A literal star‑spangled hero debuting under wartime tension matches an episode titled \"Star Treatment\" about evolution, image, and hero‑making."
-    },
     {
       "hour": 10,
       "fact_text": "On December 20, 1946, the earthquake known as the Nankai quake struck off the coast of Japan, generating a tsunami that killed at least a thousand people and destroyed tens of thousands of homes. The disaster reshaped coastlines, communities, and Japan’s scientific understanding of its restless tectonic boundaries.",
@@ -647,9 +619,33 @@
         ]
       },
       "match_reason": "A Royal Navy ship asserting control in distant seas pairs naturally with an episode recorded aboard a boat, built around ocean journeys and maritime horizons."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On December 20, 1940, \"Captain America Comics\" #1 was officially dated for publication, introducing readers to a star‑spangled superhero punching Hitler on the cover months before the U.S. entered World War II. The character was created as a bold piece of propaganda and wishful courage during a very uncertain time.",
+      "fact_year": 1940,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Captain_America_Comics",
+      "episode": {
+        "id": 35,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "A literal star‑spangled hero debuting under wartime tension matches an episode titled \"Star Treatment\" about evolution, image, and hero‑making."
     }
   ],
   "generated_at": "2025-12-20T09:12:17.741224+00:00",
   "date": "2025-12-20",
-  "updated_at": "2025-12-20T17:00:01.459803+00:00"
+  "updated_at": "2025-12-20T18:00:01.293570+00:00"
 }
