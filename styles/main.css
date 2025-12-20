@@ -141,6 +141,25 @@ body::before {
   color: var(--color-text);
 }
 
+/* Buy Me a Coffee icon styling */
+.nav-right .bmc-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-radius: 50%;
+  padding: 0.2rem;
+}
+
+.nav-right .bmc-icon:hover {
+  background: #fff;
+}
+
+.nav-right .bmc-icon img {
+  width: 1em;
+  height: 1em;
+}
+
 /* ================================================
    Radio Hero Section
    ================================================ */
@@ -1355,6 +1374,12 @@ body::before {
     font-size: 1.75rem;
     margin: 0 1.125rem;
     color: var(--color-text);
+  }
+  
+  /* Buy Me a Coffee icon mobile sizing */
+  .home .nav-right .bmc-icon img {
+    width: 1em;
+    height: 1em;
   }
   
   /* Radio wrapper - MOBILE FIXED SIZE */
