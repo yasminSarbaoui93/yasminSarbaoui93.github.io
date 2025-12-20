@@ -13,6 +13,7 @@ import { updatePlayPauseIcon, setupArtworkListener, updateChannelHighlighting } 
 import { initModal } from './modules/modal.js';
 import { initScrollIndicators } from './modules/scroll.js';
 import { initMoodSelector } from './modules/mood.js';
+import { initDailyFact } from './modules/dailyFact.js';
 
 // Patch embedSoundCloud to call setupArtworkListener after widget is created
 const _origEmbedSoundCloud = embedSoundCloud;
@@ -51,4 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initialize mood selector
   initMoodSelector();
+
+  // Initialize daily fact feature
+  initDailyFact();
 });

@@ -64,3 +64,4 @@ jobs:
           echo "### Test Endpoints:" >> $GITHUB_STEP_SUMMARY
           echo "- Health Check: https://sedna-website-func-dev-ch.azurewebsites.net/api/health" >> $GITHUB_STEP_SUMMARY
           echo "- Mood Recommendation: https://sedna-website-func-dev-ch.azurewebsites.net/api/recommend" >> $GITHUB_STEP_SUMMARY
+          echo "- Daily Fact (Manual): https://sedna-website-func-dev-ch.azurewebsites.net/api/generate-daily-fact" >> $GITHUB_STEP_SUMMARY
