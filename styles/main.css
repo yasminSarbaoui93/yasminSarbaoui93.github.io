@@ -1609,6 +1609,60 @@ body::before {
 }
 
 /* ================================================
+   Footer Section
+   ================================================ */
+#site-footer {
+  width: 100%;
+  padding: 4rem 2rem 3rem;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid var(--color-border);
+  margin-top: 2rem;
+}
+
+.footer-content {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.footer-message {
+  font-family: var(--font-body);
+  font-size: clamp(1rem, 2.5vw, 1.15rem);
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 0;
+  font-style: italic;
+}
+
+.footer-bmc-button {
+  margin: 0.5rem 0;
+}
+
+.footer-copyright {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0;
+  margin-top: 1rem;
+}
+
+@media (max-width: 700px) {
+  #site-footer {
+    padding: 3rem 1.5rem 5rem; /* Extra bottom padding for mobile nav */
+  }
+  
+  .footer-message {
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+}
+
+/* ================================================
    Safe Area Insets (for notched phones)
    ================================================ */
 @supports (padding: max(0px)) {
