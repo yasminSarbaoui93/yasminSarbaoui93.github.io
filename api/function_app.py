@@ -282,10 +282,35 @@ async def fetch_wikipedia_events(month: int, day: int) -> list[dict[str, Any]]:
     # Filter for music, science, space related events if possible
     # Keywords to prioritize
     priority_keywords = [
+        # Music & Arts
         "music", "song", "album", "band", "singer", "composer", "symphony", "concert",
+        "radio", "broadcast", "television", "film", "artist", "record", "orchestra",
+        
+        # Space & Astronomy
         "space", "nasa", "astronaut", "moon", "mars", "satellite", "rocket", "mission",
+        "asteroid", "comet", "meteor", "probe", "lander", "rover", "spacecraft",
+        "telescope", "observatory", "planetary", "solar", "lunar", "eclipse",
+        "galaxy", "nebula", "cosmos", "esa", "jaxa", "spacex", "venus", "jupiter",
+        "saturn", "mercury", "orbit", "gravity", "hubble", "star", "supernova",
+        
+        # Science & Physics
         "science", "discovery", "physicist", "scientist", "nobel", "experiment",
-        "radio", "broadcast", "television", "film", "artist", "record"
+        "quantum", "particle", "atom", "nuclear", "fusion", "laser", "radiation",
+        "relativity", "einstein", "energy", "electromagnetic", "theory",
+        
+        # Earth & Geology
+        "earth", "planet", "rotation", "axis", "equinox", "solstice",
+        "earthquake", "volcano", "tectonic", "magnetic", "pole", "glacier",
+        "continental", "geology", "fossil", "mineral", "ocean", "deep sea",
+        
+        # Nature & Environment
+        "nature", "wildlife", "species", "animal", "marine", "coral", "reef",
+        "ecosystem", "biodiversity", "forest", "rainforest", "arctic", "antarctic",
+        "climate", "weather", "storm", "hurricane", "endangered", "extinction",
+        
+        # Exploration & Discovery
+        "expedition", "explorer", "voyage", "submarine", "summit", "everest",
+        "cave", "underwater", "pioneer", "adventurer"
     ]
     
     # Score events based on relevance
