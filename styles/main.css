@@ -146,11 +146,18 @@ body::before {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: #fff;
+  border-radius: 50%;
+  padding: 0.2rem;
+}
+
+.nav-right .bmc-icon:hover {
+  background: #fff;
 }
 
 .nav-right .bmc-icon img {
-  width: 1.4em;
-  height: 1.4em;
+  width: 1em;
+  height: 1em;
 }
 
 /* ================================================
@@ -1371,8 +1378,8 @@ body::before {
   
   /* Buy Me a Coffee icon mobile sizing */
   .home .nav-right .bmc-icon img {
-    width: 1.5em;
-    height: 1.5em;
+    width: 1em;
+    height: 1em;
   }
   
   /* Radio wrapper - MOBILE FIXED SIZE */
