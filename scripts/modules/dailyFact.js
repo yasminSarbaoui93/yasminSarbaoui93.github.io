@@ -42,10 +42,39 @@ async function fetchDailyMatch() {
 }
 
 /**
+ * Fetch artwork from SoundCloud oEmbed API
+ * @param {string} trackUrl - SoundCloud track URL
+ * @returns {Promise<string|null>} Artwork URL or null
+ */
+async function fetchSoundCloudArtwork(trackUrl) {
+  try {
+    const oEmbedUrl = `https://soundcloud.com/oembed?format=json&url=${encodeURIComponent(trackUrl)}`;
+    const response = await fetch(oEmbedUrl);
+    
+    if (!response.ok) {
+      throw new Error(`oEmbed error: ${response.status}`);
+    }
+    
+    const data = await response.json();
+    
+    // SoundCloud oEmbed returns thumbnail_url
+    // Replace size suffix to get higher quality (t500x500 instead of t300x300)
+    if (data.thumbnail_url) {
+      return data.thumbnail_url.replace('-t300x300', '-t500x500');
+    }
+    
+    return null;
+  } catch (error) {
+    console.error('[DailyFact] Error fetching SoundCloud artwork:', error);
+    return null;
+  }
+}
+
+/**
  * Update the daily fact UI with the fetched data
  * @param {Object} data - The daily match data
  */
-function updateDailyFactUI(data) {
+async function updateDailyFactUI(data) {
   const titleEl = document.getElementById('daily-fact-title');
   const yearEl = document.getElementById('daily-fact-year');
   const textEl = document.getElementById('daily-fact-text');
@@ -59,23 +88,18 @@ function updateDailyFactUI(data) {
       titleEl.textContent = data.episode.title;
     }
     
-    // Try to set artwork based on episode type
-    if (artworkEl) {
-      const episodeTitle = data.episode.title.toLowerCase();
-      let artworkSrc = 'assets/images/sedna_logo.png';
-      
-      if (episodeTitle.includes('morning drops')) {
-        artworkSrc = 'assets/images/morning-drops-image.jpg';
-      } else if (episodeTitle.includes('evening flows')) {
-        artworkSrc = 'assets/images/evening-flows-image.png';
-      } else if (episodeTitle.includes('on the go')) {
-        artworkSrc = 'assets/images/on-the-go-image.jpeg';
-      } else if (episodeTitle.includes('sedna fm')) {
-        artworkSrc = 'assets/images/sednafm-episode-image.jpeg';
-      }
-      
-      artworkEl.src = artworkSrc;
+    // Fetch artwork from SoundCloud dynamically
+    if (artworkEl && data.episode.soundcloudUrl) {
+      // Set a placeholder while loading
+      artworkEl.src = 'assets/images/sedna_logo.png';
       artworkEl.alt = data.episode.title;
+      
+      // Fetch actual artwork from SoundCloud
+      const artworkUrl = await fetchSoundCloudArtwork(data.episode.soundcloudUrl);
+      if (artworkUrl) {
+        artworkEl.src = artworkUrl;
+        console.log('[DailyFact] Loaded SoundCloud artwork:', artworkUrl);
+      }
     }
   }
   
@@ -217,7 +241,7 @@ export async function initDailyFact() {
   const data = await fetchDailyMatch();
   
   if (data) {
-    updateDailyFactUI(data);
+    await updateDailyFactUI(data);
     
     // Pre-load the player (but don't auto-play)
     if (data.episode && data.episode.soundcloudUrl) {
