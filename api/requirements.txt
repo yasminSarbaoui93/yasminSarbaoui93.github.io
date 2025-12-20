@@ -1,10 +1,6 @@
 azure-functions>=1.21.0
 openai>=1.58.0
 
-# Microsoft Agent Framework (latest preview for Foundry support)
-# Note: --pre flag is required during preview
-agent-framework-azure-ai
-
 # Azure Identity for authentication
 azure-identity>=1.15.0
 
