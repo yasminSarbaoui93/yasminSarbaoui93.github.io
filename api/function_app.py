@@ -317,16 +317,22 @@ async def fetch_wikipedia_events(month: int, day: int) -> list[dict[str, Any]]:
     # Format events for the AI
     formatted_events = []
     for event in top_events:
+        # Get Wikipedia URLs from pages
+        pages_with_urls = []
+        for page in event.get("pages", [])[:3]:
+            page_title = page.get("title", "")
+            # Create Wikipedia URL from page title
+            wiki_url = f"https://en.wikipedia.org/wiki/{page_title.replace(' ', '_')}" if page_title else None
+            pages_with_urls.append({
+                "title": page_title,
+                "description": page.get("description", ""),
+                "url": wiki_url
+            })
+        
         formatted_event = {
             "year": event.get("year"),
             "text": event.get("text"),
-            "pages": [
-                {
-                    "title": page.get("title"),
-                    "description": page.get("description", "")
-                }
-                for page in event.get("pages", [])[:3]  # Limit pages per event
-            ]
+            "pages": pages_with_urls
         }
         formatted_events.append(formatted_event)
     
@@ -379,6 +385,7 @@ You must respond with ONLY a valid JSON object in this exact format:
 {
     "fact_text": "<A well-written, engaging description of the historical fact (2-3 sentences)>",
     "fact_year": <year as integer>,
+    "fact_wikipedia_url": "<URL of the most relevant Wikipedia page for this fact from the pages array>",
     "episode": {
         "id": <episode id>,
         "title": "<episode title>",

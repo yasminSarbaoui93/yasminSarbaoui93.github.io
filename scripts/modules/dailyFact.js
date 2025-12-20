@@ -71,7 +71,24 @@ function updateDailyFactUI(data) {
   }
   
   if (textEl && data.fact_text) {
-    textEl.textContent = data.fact_text;
+    // Clear existing content
+    textEl.innerHTML = '';
+    
+    // Add the fact text
+    const textSpan = document.createElement('span');
+    textSpan.textContent = data.fact_text + ' ';
+    textEl.appendChild(textSpan);
+    
+    // Add "Read more" link if Wikipedia URL is available
+    if (data.fact_wikipedia_url) {
+      const readMoreLink = document.createElement('a');
+      readMoreLink.href = data.fact_wikipedia_url;
+      readMoreLink.textContent = 'Read more';
+      readMoreLink.target = '_blank';
+      readMoreLink.rel = 'noopener noreferrer';
+      readMoreLink.className = 'daily-fact-read-more';
+      textEl.appendChild(readMoreLink);
+    }
   }
   
   if (reasonEl && data.match_reason) {
