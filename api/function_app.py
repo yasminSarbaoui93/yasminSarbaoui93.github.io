@@ -67,10 +67,11 @@ def get_mood_recommendation(mood: str, episodes: list, exclude_ids: list = None)
         memory_reset = True
         logging.info(f"All episodes played for mood '{mood}', resetting memory")
     
+    # Use dedicated env vars for mood API (falls back to shared vars)
     client = AzureOpenAI(
-        api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
+        api_key=os.environ.get("AZURE_OPENAI_API_KEY_MOOD", os.environ.get("AZURE_OPENAI_API_KEY")),
         api_version="2025-01-01-preview",
-        azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
+        azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT_MOOD", os.environ.get("AZURE_OPENAI_ENDPOINT"))
     )
     
     # Shuffle available episodes to present them in random order - encourages variety
@@ -115,7 +116,7 @@ Available episodes:
 Select the best matching episode. IMPORTANT: Vary your selection - don't always pick the most obvious episode!"""
 
     response = client.chat.completions.create(
-        model=os.environ.get("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-5-nano"),
+        model=os.environ.get("AZURE_OPENAI_MODEL_MOOD", "gpt-5-nano"),
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
@@ -343,11 +344,11 @@ async def get_daily_match(events: list[dict], episodes: list[dict]) -> dict[str,
     Returns:
         Dictionary containing fact_text and matched episode data
     """
-    # Initialize the Azure OpenAI client
+    # Use dedicated env vars for daily fact API (falls back to shared vars)
     client = AzureOpenAI(
-        api_key=os.environ.get("AZURE_OPENAI_API_KEY"),
+        api_key=os.environ.get("AZURE_OPENAI_API_KEY_DAILY", os.environ.get("AZURE_OPENAI_API_KEY")),
         api_version="2025-01-01-preview",
-        azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT")
+        azure_endpoint=os.environ.get("AZURE_OPENAI_ENDPOINT_DAILY", os.environ.get("AZURE_OPENAI_ENDPOINT"))
     )
     
     # Build the prompt with events and episodes
@@ -402,7 +403,7 @@ Here is the Sedna FM episode catalog:
 Select the most intriguing fact and the best matching episode."""
 
     response = client.chat.completions.create(
-        model=os.environ.get("AZURE_OPENAI_MODEL", "gpt-5.1"),
+        model=os.environ.get("AZURE_OPENAI_MODEL_DAILY", "gpt-5.1"),
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
