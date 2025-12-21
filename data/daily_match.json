@@ -1,52 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On December 21, 1879, Henrik Ibsen’s play \"A Doll’s House\" premiered in Copenhagen, scandalizing audiences with its ending: a woman walking out on her husband and children to discover herself. The play cracked open debates on gender roles, marriage, and personal freedom.",
-    "fact_year": 1879,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
+    "hour": 6,
+    "fact_text": "On December 21, 1844, a group of working-class weavers in Rochdale, England opened a small cooperative shop that would spark the global cooperative movement. Their principles of democratic control and fair pricing became the blueprint for co-ops around the world.",
+    "fact_year": 1844,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rochdale_Society_of_Equitable_Pioneers",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 12,
+      "title": "Morning Drops #06 - Friend's Home",
+      "description": "Yasmin and Gaia are reunited under the same roof to spend Easter Monday morning together, exploring that heartwarming 'just like home' feeling that comes from being surrounded by beloved friends.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-friends-home",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Oumou Sangaré - Jah Rah Bee",
+        "James Mason - Free",
+        "Articolo 31 - Gente che spera",
+        "Articolo 31 - Spirale ovale"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Afropop",
+        "Jazz-Funk",
+        "Italian Hip-Hop"
       ]
     },
-    "match_reason": "Nora’s decision to step out of her ‘doll’s house’ and social expectations aligns with an episode about unboxing ourselves from roles and labels."
+    "match_reason": "A story of ordinary people building a shared ‘home’ through cooperation fits an episode about friendship, community, and feeling at home under one roof."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On December 21, 1844, a group of working-class weavers in Rochdale, England opened a small cooperative shop that would spark the global cooperative movement. Their principles of democratic control and fair pricing became the blueprint for co-ops around the world.",
-      "fact_year": 1844,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rochdale_Society_of_Equitable_Pioneers",
-      "episode": {
-        "id": 12,
-        "title": "Morning Drops #06 - Friend's Home",
-        "description": "Yasmin and Gaia are reunited under the same roof to spend Easter Monday morning together, exploring that heartwarming 'just like home' feeling that comes from being surrounded by beloved friends.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-friends-home",
-        "songs": [
-          "Oumou Sangaré - Jah Rah Bee",
-          "James Mason - Free",
-          "Articolo 31 - Gente che spera",
-          "Articolo 31 - Spirale ovale"
-        ],
-        "music-genres": [
-          "Afropop",
-          "Jazz-Funk",
-          "Italian Hip-Hop"
-        ]
-      },
-      "match_reason": "A story of ordinary people building a shared ‘home’ through cooperation fits an episode about friendship, community, and feeling at home under one roof."
-    },
     {
       "hour": 7,
       "fact_text": "On December 21, 1620, the Mayflower Pilgrims landed near Plymouth Rock, beginning the Plymouth Colony. For them it was the end of a perilous sea crossing and the start of an uncertain experiment in building a new society on unfamiliar shores.",
@@ -652,9 +630,33 @@
         ]
       },
       "match_reason": "Nora’s decision to step out of her ‘doll’s house’ and social expectations aligns with an episode about unboxing ourselves from roles and labels."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On December 21, 1844, a group of working-class weavers in Rochdale, England opened a small cooperative shop that would spark the global cooperative movement. Their principles of democratic control and fair pricing became the blueprint for co-ops around the world.",
+      "fact_year": 1844,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rochdale_Society_of_Equitable_Pioneers",
+      "episode": {
+        "id": 12,
+        "title": "Morning Drops #06 - Friend's Home",
+        "description": "Yasmin and Gaia are reunited under the same roof to spend Easter Monday morning together, exploring that heartwarming 'just like home' feeling that comes from being surrounded by beloved friends.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-friends-home",
+        "songs": [
+          "Oumou Sangaré - Jah Rah Bee",
+          "James Mason - Free",
+          "Articolo 31 - Gente che spera",
+          "Articolo 31 - Spirale ovale"
+        ],
+        "music-genres": [
+          "Afropop",
+          "Jazz-Funk",
+          "Italian Hip-Hop"
+        ]
+      },
+      "match_reason": "A story of ordinary people building a shared ‘home’ through cooperation fits an episode about friendship, community, and feeling at home under one roof."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T05:00:01.243836+00:00"
+  "updated_at": "2025-12-21T06:00:02.188942+00:00"
 }
