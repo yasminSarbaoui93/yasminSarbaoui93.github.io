@@ -1,64 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On 21 December 69 AD, the Roman Senate declared Vespasian emperor, ending the chaotic Year of the Four Emperors. His reign restored stability and launched the Flavian dynasty after a year of coups and civil war.",
-    "fact_year": 69,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian",
+    "hour": 14,
+    "fact_text": "On 21 December 1124, Honorius II was consecrated pope following the controversial overturning of Celestine II’s short-lived claim. His election highlighted the power struggles between factions in the medieval Church and the Holy Roman Empire.",
+    "fact_year": 1124,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Honorius_II",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 32,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A turbulent year culminating in a new era mirrors an explosive first episode that ‘crowns’ Sedna FM’s beginning and sets a stable identity after creative chaos."
+    "match_reason": "A medieval power struggle over who gets to mediate spiritual authority parallels an episode questioning who (or what) mediates our attention and connection today — our phones."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On 21 December 1124, Honorius II was consecrated pope following the controversial overturning of Celestine II’s short-lived claim. His election highlighted the power struggles between factions in the medieval Church and the Holy Roman Empire.",
-      "fact_year": 1124,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Honorius_II",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A medieval power struggle over who gets to mediate spiritual authority parallels an episode questioning who (or what) mediates our attention and connection today — our phones."
-    },
     {
       "hour": 15,
       "fact_text": "On 21 December 1941, Thailand signed a Pact of Alliance with Japan during World War II, formally joining the Axis powers. The decision reshaped the country’s wartime role and its postwar negotiations with the Allies.",
@@ -655,9 +622,34 @@
         ]
       },
       "match_reason": "A turbulent year culminating in a new era mirrors an explosive first episode that ‘crowns’ Sedna FM’s beginning and sets a stable identity after creative chaos."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On 21 December 1124, Honorius II was consecrated pope following the controversial overturning of Celestine II’s short-lived claim. His election highlighted the power struggles between factions in the medieval Church and the Holy Roman Empire.",
+      "fact_year": 1124,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Honorius_II",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A medieval power struggle over who gets to mediate spiritual authority parallels an episode questioning who (or what) mediates our attention and connection today — our phones."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T13:00:01.215269+00:00"
+  "updated_at": "2025-12-21T14:00:01.014846+00:00"
 }
