@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 21 December 1941, Thailand signed a Pact of Alliance with Japan during World War II, formally joining the Axis powers. The decision reshaped the country’s wartime role and its postwar negotiations with the Allies.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
+    "hour": 16,
+    "fact_text": "On 21 December 1968, the F-14 Tomcat later became famous, but its story began on 21 December 1970 with its very first flight. This twin-tail, variable-sweep-wing jet would become an icon of carrier aviation and Cold War air combat.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A pivotal wartime alliance involving Thailand is paired with an episode rooted in Thai place, culture, and movement, offering a human-scale counterpoint to geopolitical shifts."
+    "match_reason": "The debut of a high-speed, high-energy fighter jet matches the guitar-driven ‘electric shock’ feel of rock tracks built for adrenaline and motion."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 21 December 1968, the F-14 Tomcat later became famous, but its story began on 21 December 1970 with its very first flight. This twin-tail, variable-sweep-wing jet would become an icon of carrier aviation and Cold War air combat.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The debut of a high-speed, high-energy fighter jet matches the guitar-driven ‘electric shock’ feel of rock tracks built for adrenaline and motion."
-    },
     {
       "hour": 17,
       "fact_text": "On 21 December 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in bad weather at Faro Airport, Portugal, killing 56 people. The accident prompted renewed scrutiny of wind shear, approach procedures, and crew decision-making.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "A pivotal wartime alliance involving Thailand is paired with an episode rooted in Thai place, culture, and movement, offering a human-scale counterpoint to geopolitical shifts."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 21 December 1968, the F-14 Tomcat later became famous, but its story began on 21 December 1970 with its very first flight. This twin-tail, variable-sweep-wing jet would become an icon of carrier aviation and Cold War air combat.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The debut of a high-speed, high-energy fighter jet matches the guitar-driven ‘electric shock’ feel of rock tracks built for adrenaline and motion."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T15:00:01.300152+00:00"
+  "updated_at": "2025-12-21T16:00:01.107213+00:00"
 }
