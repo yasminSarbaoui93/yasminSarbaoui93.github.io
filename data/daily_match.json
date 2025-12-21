@@ -1,63 +1,28 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On December 21, 1937, \"Snow White and the Seven Dwarfs\" premiered in Los Angeles, becoming the first full-length cel-animated feature film. Walt Disney bet his studio on the risky experiment, which critics dubbed “Disney’s Folly” until it transformed animation and cinema forever.",
-    "fact_year": 1937,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+    "hour": 5,
+    "fact_text": "On December 21, 1879, Henrik Ibsen’s play \"A Doll’s House\" premiered in Copenhagen, scandalizing audiences with its ending: a woman walking out on her husband and children to discover herself. The play cracked open debates on gender roles, marriage, and personal freedom.",
+    "fact_year": 1879,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A fairy-tale ‘queen’ and a groundbreaking, emotionally rich animated love story resonate with an episode centered on vulnerable love and timeless emotion."
+    "match_reason": "Nora’s decision to step out of her ‘doll’s house’ and social expectations aligns with an episode about unboxing ourselves from roles and labels."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On December 21, 1879, Henrik Ibsen’s play \"A Doll’s House\" premiered in Copenhagen, scandalizing audiences with its ending: a woman walking out on her husband and children to discover herself. The play cracked open debates on gender roles, marriage, and personal freedom.",
-      "fact_year": 1879,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "Nora’s decision to step out of her ‘doll’s house’ and social expectations aligns with an episode about unboxing ourselves from roles and labels."
-    },
     {
       "hour": 6,
       "fact_text": "On December 21, 1844, a group of working-class weavers in Rochdale, England opened a small cooperative shop that would spark the global cooperative movement. Their principles of democratic control and fair pricing became the blueprint for co-ops around the world.",
@@ -665,9 +630,31 @@
         ]
       },
       "match_reason": "A fairy-tale ‘queen’ and a groundbreaking, emotionally rich animated love story resonate with an episode centered on vulnerable love and timeless emotion."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On December 21, 1879, Henrik Ibsen’s play \"A Doll’s House\" premiered in Copenhagen, scandalizing audiences with its ending: a woman walking out on her husband and children to discover herself. The play cracked open debates on gender roles, marriage, and personal freedom.",
+      "fact_year": 1879,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "Nora’s decision to step out of her ‘doll’s house’ and social expectations aligns with an episode about unboxing ourselves from roles and labels."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T04:00:01.051218+00:00"
+  "updated_at": "2025-12-21T05:00:01.243836+00:00"
 }
