@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 21 December 1937, Disney’s Snow White and the Seven Dwarfs premiered in Los Angeles, becoming the first feature-length cel-animated film with sound and color. It proved that animation could tell long, emotionally rich stories and reshaped cinema forever.",
-    "fact_year": 1937,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+    "hour": 5,
+    "fact_text": "On 21 December 1934, Sergei Prokofiev’s suite Lieutenant Kijé premiered, based on music he wrote for a satirical Soviet film about an officer who never existed. The piece’s haunting melodies, especially the famous “Troika,” outlived the film and became classics on their own.",
+    "fact_year": 1934,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lieutenant_Kij%C3%A9_(Prokofiev)",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 45,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A landmark in animated musical storytelling fits with an episode celebrating theatrical, cinematic 80s pop that also blurred film–music boundaries."
+    "match_reason": "A film-born orchestral suite with a vivid, almost cinematic feel aligns with an episode steeped in neo-classical, soundtrack-like atmospheres."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 21 December 1934, Sergei Prokofiev’s suite Lieutenant Kijé premiered, based on music he wrote for a satirical Soviet film about an officer who never existed. The piece’s haunting melodies, especially the famous “Troika,” outlived the film and became classics on their own.",
-      "fact_year": 1934,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lieutenant_Kij%C3%A9_(Prokofiev)",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A film-born orchestral suite with a vivid, almost cinematic feel aligns with an episode steeped in neo-classical, soundtrack-like atmospheres."
-    },
     {
       "hour": 6,
       "fact_text": "On 21 December 1879, Henrik Ibsen’s play A Doll’s House premiered in Copenhagen, shocking audiences with its portrayal of a woman walking out on her marriage. It helped ignite modern drama and debates on gender equality that still echo today.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "A landmark in animated musical storytelling fits with an episode celebrating theatrical, cinematic 80s pop that also blurred film–music boundaries."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 21 December 1934, Sergei Prokofiev’s suite Lieutenant Kijé premiered, based on music he wrote for a satirical Soviet film about an officer who never existed. The piece’s haunting melodies, especially the famous “Troika,” outlived the film and became classics on their own.",
+      "fact_year": 1934,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lieutenant_Kij%C3%A9_(Prokofiev)",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A film-born orchestral suite with a vivid, almost cinematic feel aligns with an episode steeped in neo-classical, soundtrack-like atmospheres."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T04:00:01.230966+00:00"
+  "updated_at": "2025-12-21T05:00:01.466324+00:00"
 }
