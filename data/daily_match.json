@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On December 21, 1946, an 8.1-magnitude earthquake struck the Nankai region of Japan, unleashing a devastating tsunami that killed over 1,300 people and destroyed tens of thousands of homes. The disaster pushed scientists to study subduction zones more closely, improving tsunami warnings for future generations.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1946_Nankai_earthquake",
+    "hour": 14,
+    "fact_text": "On December 21, 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in poor weather at Faro Airport in Portugal, killing 56 people. Investigations into the accident highlighted the complex interplay between weather, human decisions, and aircraft design in aviation safety.",
+    "fact_year": 1992,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martinair_Flight_495",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 30,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A sudden tectonic jolt and powerful waves are mirrored metaphorically by an ‘electric shock’ of intense, high-energy sound and raw forces."
+    "match_reason": "A somber aviation disaster suits a moody, cinematic trip-hop journey whose reflective textures echo investigation, memory, and unresolved questions."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On December 21, 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in poor weather at Faro Airport in Portugal, killing 56 people. Investigations into the accident highlighted the complex interplay between weather, human decisions, and aircraft design in aviation safety.",
-      "fact_year": 1992,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martinair_Flight_495",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A somber aviation disaster suits a moody, cinematic trip-hop journey whose reflective textures echo investigation, memory, and unresolved questions."
-    },
     {
       "hour": 15,
       "fact_text": "On December 21, 1970, the F-14 Tomcat made its first flight, introducing a swing-wing fighter that could change its wing shape in midair. Designed to defend aircraft carriers, the F-14 became an icon of Cold War aviation and pop culture alike.",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "A sudden tectonic jolt and powerful waves are mirrored metaphorically by an ‘electric shock’ of intense, high-energy sound and raw forces."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On December 21, 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in poor weather at Faro Airport in Portugal, killing 56 people. Investigations into the accident highlighted the complex interplay between weather, human decisions, and aircraft design in aviation safety.",
+      "fact_year": 1992,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martinair_Flight_495",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A somber aviation disaster suits a moody, cinematic trip-hop journey whose reflective textures echo investigation, memory, and unresolved questions."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T13:00:01.460548+00:00"
+  "updated_at": "2025-12-21T14:00:01.191853+00:00"
 }
