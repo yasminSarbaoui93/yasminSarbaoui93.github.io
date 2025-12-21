@@ -1,55 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 21 December 1968, the F-14 Tomcat later became famous, but its story began on 21 December 1970 with its very first flight. This twin-tail, variable-sweep-wing jet would become an icon of carrier aviation and Cold War air combat.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
+    "hour": 17,
+    "fact_text": "On 21 December 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in bad weather at Faro Airport, Portugal, killing 56 people. The accident prompted renewed scrutiny of wind shear, approach procedures, and crew decision-making.",
+    "fact_year": 1992,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martinair_Flight_495",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 28,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "The debut of a high-speed, high-energy fighter jet matches the guitar-driven ‘electric shock’ feel of rock tracks built for adrenaline and motion."
+    "match_reason": "A tragic crash in turbulent weather is contrasted with an episode of grounding, slow dub and roots — music that creates breathing space after turbulence."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On 21 December 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in bad weather at Faro Airport, Portugal, killing 56 people. The accident prompted renewed scrutiny of wind shear, approach procedures, and crew decision-making.",
-      "fact_year": 1992,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martinair_Flight_495",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "A tragic crash in turbulent weather is contrasted with an episode of grounding, slow dub and roots — music that creates breathing space after turbulence."
-    },
     {
       "hour": 18,
       "fact_text": "On 21 December 1995, the city of Bethlehem was handed from Israeli to Palestinian control under the Oslo Accords framework. The transfer came just days before Christmas in the city revered as the traditional birthplace of Jesus.",
@@ -647,9 +622,33 @@
         ]
       },
       "match_reason": "The debut of a high-speed, high-energy fighter jet matches the guitar-driven ‘electric shock’ feel of rock tracks built for adrenaline and motion."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On 21 December 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in bad weather at Faro Airport, Portugal, killing 56 people. The accident prompted renewed scrutiny of wind shear, approach procedures, and crew decision-making.",
+      "fact_year": 1992,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martinair_Flight_495",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "A tragic crash in turbulent weather is contrasted with an episode of grounding, slow dub and roots — music that creates breathing space after turbulence."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T16:00:01.107213+00:00"
+  "updated_at": "2025-12-21T17:00:01.253253+00:00"
 }
