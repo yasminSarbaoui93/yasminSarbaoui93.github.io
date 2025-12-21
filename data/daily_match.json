@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On December 21, 1968, as Apollo 8 orbited the Moon, the astronauts captured the iconic \"Earthrise\" photograph—our blue planet rising over a barren lunar horizon. This single image is often credited with accelerating the global environmental movement by showing Earth as a fragile, shared home.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earthrise",
+    "hour": 23,
+    "fact_text": "On December 21, 1937, as audiences met Snow White on the big screen, the film’s use of synchronized music and song numbers turned animated cinema into a kind of moving musical theatre. Its success paved the way for generations of animated film scores and soundtracks we still hum today.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Animation",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A view of Earth that helped spark environmental consciousness aligns with an episode immersed in Arctic oceans and marine life, both urging us to see our planet as one living habitat."
+    "match_reason": "An early marriage of animation and musical theatre connects to an episode celebrating dance-floor soundtracks and the evolution of music paired with moving images and lights."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On December 21, 1937, as audiences met Snow White on the big screen, the film’s use of synchronized music and song numbers turned animated cinema into a kind of moving musical theatre. Its success paved the way for generations of animated film scores and soundtracks we still hum today.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Animation",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "An early marriage of animation and musical theatre connects to an episode celebrating dance-floor soundtracks and the evolution of music paired with moving images and lights."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -655,9 +629,34 @@
         ]
       },
       "match_reason": "A view of Earth that helped spark environmental consciousness aligns with an episode immersed in Arctic oceans and marine life, both urging us to see our planet as one living habitat."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On December 21, 1937, as audiences met Snow White on the big screen, the film’s use of synchronized music and song numbers turned animated cinema into a kind of moving musical theatre. Its success paved the way for generations of animated film scores and soundtracks we still hum today.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Animation",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "An early marriage of animation and musical theatre connects to an episode celebrating dance-floor soundtracks and the evolution of music paired with moving images and lights."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T22:00:01.396413+00:00"
+  "updated_at": "2025-12-21T23:00:01.195533+00:00"
 }
