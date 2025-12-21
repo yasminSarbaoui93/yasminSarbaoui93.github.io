@@ -1,64 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On December 21, 69, the same Vespasian who became emperor would later be remembered for imposing a tax on public urinals, inspiring the phrase \"Pecunia non olet\"—\"money does not stink\". It’s a reminder that even unglamorous ideas can stabilize an empire’s finances.",
-    "fact_year": 69,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AD_69",
+    "hour": 21,
+    "fact_text": "On December 21, 1968, as Apollo 8 left Earth behind, the crew became the first humans to experience the profound silence of deep space around our planet. In that void, they read passages from Genesis to a live global audience on Christmas Eve, blending space-age technology with ancient storytelling.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 32,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A quirky, pragmatic imperial tax that quietly changed things pairs with the raw ‘origin story’ energy of Sedna’s first episode, where small, bold moves launch something much bigger."
+    "match_reason": "Humans stepping into the communications void of space and broadcasting back to Earth mirrors an episode about our relationship with technology, connection, and the strange silence when we disconnect."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On December 21, 1968, as Apollo 8 left Earth behind, the crew became the first humans to experience the profound silence of deep space around our planet. In that void, they read passages from Genesis to a live global audience on Christmas Eve, blending space-age technology with ancient storytelling.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Humans stepping into the communications void of space and broadcasting back to Earth mirrors an episode about our relationship with technology, connection, and the strange silence when we disconnect."
-    },
     {
       "hour": 22,
       "fact_text": "On December 21, 1968, as Apollo 8 orbited the Moon, the astronauts captured the iconic \"Earthrise\" photograph—our blue planet rising over a barren lunar horizon. This single image is often credited with accelerating the global environmental movement by showing Earth as a fragile, shared home.",
@@ -663,9 +630,34 @@
         ]
       },
       "match_reason": "A quirky, pragmatic imperial tax that quietly changed things pairs with the raw ‘origin story’ energy of Sedna’s first episode, where small, bold moves launch something much bigger."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On December 21, 1968, as Apollo 8 left Earth behind, the crew became the first humans to experience the profound silence of deep space around our planet. In that void, they read passages from Genesis to a live global audience on Christmas Eve, blending space-age technology with ancient storytelling.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Humans stepping into the communications void of space and broadcasting back to Earth mirrors an episode about our relationship with technology, connection, and the strange silence when we disconnect."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T20:00:01.366475+00:00"
+  "updated_at": "2025-12-21T21:00:01.127213+00:00"
 }
