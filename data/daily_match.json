@@ -1,54 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On December 21, AD 69, the Roman Senate declared Vespasian emperor, ending the chaotic ‘Year of the Four Emperors’. A former soldier from a modest background, he stabilized the empire and quietly rebuilt Rome’s finances with a famously practical streak.",
-    "fact_year": 69,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian",
+    "hour": 13,
+    "fact_text": "On December 21, 1946, an 8.1-magnitude earthquake struck the Nankai region of Japan, unleashing a devastating tsunami that killed over 1,300 people and destroyed tens of thousands of homes. The disaster pushed scientists to study subduction zones more closely, improving tsunami warnings for future generations.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1946_Nankai_earthquake",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "The rise of a stabilizing emperor after turmoil reflects the idea of enduring influence and ‘timeless legacy’ that still shapes our world centuries later."
+    "match_reason": "A sudden tectonic jolt and powerful waves are mirrored metaphorically by an ‘electric shock’ of intense, high-energy sound and raw forces."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On December 21, 1946, an 8.1-magnitude earthquake struck the Nankai region of Japan, unleashing a devastating tsunami that killed over 1,300 people and destroyed tens of thousands of homes. The disaster pushed scientists to study subduction zones more closely, improving tsunami warnings for future generations.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1946_Nankai_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden tectonic jolt and powerful waves are mirrored metaphorically by an ‘electric shock’ of intense, high-energy sound and raw forces."
-    },
     {
       "hour": 14,
       "fact_text": "On December 21, 1992, Martinair Flight 495, a Dutch DC-10, crashed while landing in poor weather at Faro Airport in Portugal, killing 56 people. Investigations into the accident highlighted the complex interplay between weather, human decisions, and aircraft design in aviation safety.",
@@ -653,9 +630,34 @@
         ]
       },
       "match_reason": "The rise of a stabilizing emperor after turmoil reflects the idea of enduring influence and ‘timeless legacy’ that still shapes our world centuries later."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On December 21, 1946, an 8.1-magnitude earthquake struck the Nankai region of Japan, unleashing a devastating tsunami that killed over 1,300 people and destroyed tens of thousands of homes. The disaster pushed scientists to study subduction zones more closely, improving tsunami warnings for future generations.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1946_Nankai_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden tectonic jolt and powerful waves are mirrored metaphorically by an ‘electric shock’ of intense, high-energy sound and raw forces."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T12:00:01.219884+00:00"
+  "updated_at": "2025-12-21T13:00:01.460548+00:00"
 }
