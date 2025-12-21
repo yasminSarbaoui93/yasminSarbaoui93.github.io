@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On December 21, 2020, Jupiter and Saturn aligned in an extraordinarily close great conjunction, appearing just 0.1 degrees apart in the night sky. It was the closest visible pairing of these giant planets since 1623, creating a ‘double planet’ spectacle for observers on Earth.",
-    "fact_year": 2020,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Great_conjunction",
+    "hour": 2,
+    "fact_text": "On December 21, 1872, HMS Challenger set sail from Portsmouth on a four-year voyage that became the first true global oceanographic expedition. The crew mapped deep-sea trenches, catalogued thousands of new species, and essentially launched modern marine science.",
+    "fact_year": 1872,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Challenger_expedition",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 38,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A rare planetary alignment under the sky fits a calm, celestial-feeling set about slowing down on our ‘slow planet’ and looking up."
+    "match_reason": "A pioneering deep-sea expedition pairs perfectly with an episode themed around immersion, water, and going below the surface."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On December 21, 1872, HMS Challenger set sail from Portsmouth on a four-year voyage that became the first true global oceanographic expedition. The crew mapped deep-sea trenches, catalogued thousands of new species, and essentially launched modern marine science.",
-      "fact_year": 1872,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Challenger_expedition",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A pioneering deep-sea expedition pairs perfectly with an episode themed around immersion, water, and going below the surface."
-    },
     {
       "hour": 3,
       "fact_text": "On December 21, 1934, Sergei Prokofiev’s \"Lieutenant Kijé\" suite was premiered, based on a satirical story about a non-existent Russian officer accidentally created by bureaucratic error. The music made this imaginary man more real and enduring than many historical figures.",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "A rare planetary alignment under the sky fits a calm, celestial-feeling set about slowing down on our ‘slow planet’ and looking up."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On December 21, 1872, HMS Challenger set sail from Portsmouth on a four-year voyage that became the first true global oceanographic expedition. The crew mapped deep-sea trenches, catalogued thousands of new species, and essentially launched modern marine science.",
+      "fact_year": 1872,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Challenger_expedition",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A pioneering deep-sea expedition pairs perfectly with an episode themed around immersion, water, and going below the surface."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T01:00:01.237658+00:00"
+  "updated_at": "2025-12-21T02:00:01.205851+00:00"
 }
