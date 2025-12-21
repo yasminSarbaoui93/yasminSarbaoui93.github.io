@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 21 December 1968, Apollo 8 became the first crewed spacecraft to leave Earth’s orbit and head for the Moon, launching from Kennedy Space Center into the unknown. Its crew would soon become the first humans to witness an Earthrise over another world.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+    "hour": 1,
+    "fact_text": "On 21 December 2020, Jupiter and Saturn aligned in an unusually close great conjunction, appearing just 0.1° apart in the night sky. For many observers, it was the closest visible meeting of these giant planets since the early 17th century.",
+    "fact_year": 2020,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Great_conjunction",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Indie Rock",
+        "Downtempo",
+        "Trip-Hop",
         "Electronic",
-        "Garage Rock"
+        "Chillout"
       ]
     },
-    "match_reason": "A literal ‘space shift’ in human history pairs with an episode about reframing emptiness as creative space and launching into a new trajectory."
+    "match_reason": "A serene planetary alignment fits the contemplative, drifting mood of an episode about slow planets and gentle cosmic pacing."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 21 December 2020, Jupiter and Saturn aligned in an unusually close great conjunction, appearing just 0.1° apart in the night sky. For many observers, it was the closest visible meeting of these giant planets since the early 17th century.",
-      "fact_year": 2020,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Great_conjunction",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A serene planetary alignment fits the contemplative, drifting mood of an episode about slow planets and gentle cosmic pacing."
-    },
     {
       "hour": 2,
       "fact_text": "On 21 December 1872, HMS Challenger left Portsmouth on a four-year voyage that essentially founded modern oceanography. Its crew mapped vast stretches of the seafloor, discovered thousands of species, and revealed that the deep ocean was anything but lifeless.",
@@ -645,9 +622,34 @@
         ]
       },
       "match_reason": "A literal ‘space shift’ in human history pairs with an episode about reframing emptiness as creative space and launching into a new trajectory."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 21 December 2020, Jupiter and Saturn aligned in an unusually close great conjunction, appearing just 0.1° apart in the night sky. For many observers, it was the closest visible meeting of these giant planets since the early 17th century.",
+      "fact_year": 2020,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Great_conjunction",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A serene planetary alignment fits the contemplative, drifting mood of an episode about slow planets and gentle cosmic pacing."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T00:00:59.843854+00:00"
+  "updated_at": "2025-12-21T01:00:01.194349+00:00"
 }
