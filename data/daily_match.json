@@ -1,58 +1,34 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On 21 December 1844, the Rochdale Society of Equitable Pioneers opened their cooperative store, selling basic goods at fair prices. Their principles of democratic ownership and shared profit became the template for cooperatives worldwide.",
-    "fact_year": 1844,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rochdale_Society_of_Equitable_Pioneers",
+    "hour": 8,
+    "fact_text": "On 21 December 1620, the Mayflower Pilgrims landed near today’s Plymouth Rock, founding Plymouth Colony after a perilous Atlantic crossing. Their small community would loom large in later stories of American beginnings and migration.",
+    "fact_year": 1620,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
     "episode": {
-      "id": 12,
-      "title": "Morning Drops #06 - Friend's Home",
-      "description": "Yasmin and Gaia are reunited under the same roof to spend Easter Monday morning together, exploring that heartwarming 'just like home' feeling that comes from being surrounded by beloved friends.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-friends-home",
+      "id": 36,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Oumou Sangaré - Jah Rah Bee",
-        "James Mason - Free",
-        "Articolo 31 - Gente che spera",
-        "Articolo 31 - Spirale ovale"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Afropop",
-        "Jazz-Funk",
-        "Italian Hip-Hop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "The birth of the cooperative movement — people pooling resources to create a shared ‘home’ — pairs with an episode about the warmth of friends under one roof."
+    "match_reason": "A historic ocean voyage ending in a new settlement aligns with a modern sailing journey episode about shared travel, crossings, and life at sea."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On 21 December 1620, the Mayflower Pilgrims landed near today’s Plymouth Rock, founding Plymouth Colony after a perilous Atlantic crossing. Their small community would loom large in later stories of American beginnings and migration.",
-      "fact_year": 1620,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A historic ocean voyage ending in a new settlement aligns with a modern sailing journey episode about shared travel, crossings, and life at sea."
-    },
     {
       "hour": 9,
       "fact_text": "On 21 December 1826, a group of settlers in Nacogdoches declared the short-lived Republic of Fredonia, sparking the Fredonian Rebellion against Mexican rule. Though quickly suppressed, it foreshadowed later conflicts that would reshape Texas.",
@@ -646,9 +622,37 @@
         ]
       },
       "match_reason": "The birth of the cooperative movement — people pooling resources to create a shared ‘home’ — pairs with an episode about the warmth of friends under one roof."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On 21 December 1620, the Mayflower Pilgrims landed near today’s Plymouth Rock, founding Plymouth Colony after a perilous Atlantic crossing. Their small community would loom large in later stories of American beginnings and migration.",
+      "fact_year": 1620,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A historic ocean voyage ending in a new settlement aligns with a modern sailing journey episode about shared travel, crossings, and life at sea."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T07:00:01.055331+00:00"
+  "updated_at": "2025-12-21T08:00:01.179847+00:00"
 }
