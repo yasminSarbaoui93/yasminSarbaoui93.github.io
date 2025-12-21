@@ -1,63 +1,38 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 21 December 1934, Sergei Prokofiev’s suite Lieutenant Kijé premiered, based on music he wrote for a satirical Soviet film about an officer who never existed. The piece’s haunting melodies, especially the famous “Troika,” outlived the film and became classics on their own.",
-    "fact_year": 1934,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lieutenant_Kij%C3%A9_(Prokofiev)",
+    "hour": 6,
+    "fact_text": "On 21 December 1879, Henrik Ibsen’s play A Doll’s House premiered in Copenhagen, shocking audiences with its portrayal of a woman walking out on her marriage. It helped ignite modern drama and debates on gender equality that still echo today.",
+    "fact_year": 1879,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A film-born orchestral suite with a vivid, almost cinematic feel aligns with an episode steeped in neo-classical, soundtrack-like atmospheres."
+    "match_reason": "A groundbreaking story of a woman claiming her autonomy matches an episode centered on inner beauty, self-acceptance, and stepping into one’s true self."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 21 December 1879, Henrik Ibsen’s play A Doll’s House premiered in Copenhagen, shocking audiences with its portrayal of a woman walking out on her marriage. It helped ignite modern drama and debates on gender equality that still echo today.",
-      "fact_year": 1879,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A groundbreaking story of a woman claiming her autonomy matches an episode centered on inner beauty, self-acceptance, and stepping into one’s true self."
-    },
     {
       "hour": 7,
       "fact_text": "On 21 December 1844, the Rochdale Society of Equitable Pioneers opened their cooperative store, selling basic goods at fair prices. Their principles of democratic ownership and shared profit became the template for cooperatives worldwide.",
@@ -647,9 +622,41 @@
         ]
       },
       "match_reason": "A film-born orchestral suite with a vivid, almost cinematic feel aligns with an episode steeped in neo-classical, soundtrack-like atmospheres."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 21 December 1879, Henrik Ibsen’s play A Doll’s House premiered in Copenhagen, shocking audiences with its portrayal of a woman walking out on her marriage. It helped ignite modern drama and debates on gender equality that still echo today.",
+      "fact_year": 1879,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/A_Doll%27s_House",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A groundbreaking story of a woman claiming her autonomy matches an episode centered on inner beauty, self-acceptance, and stepping into one’s true self."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T05:00:01.466324+00:00"
+  "updated_at": "2025-12-21T06:00:01.209414+00:00"
 }
