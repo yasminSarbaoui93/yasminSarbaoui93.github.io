@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 21 December 1946, the Nankai megathrust segment off Japan ruptured in an Mw 8.1 earthquake, unleashing a devastating tsunami. The disaster spurred decades of research into subduction zones and early-warning systems that still protect coastal communities today.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1946_Nankai_earthquake",
+    "hour": 4,
+    "fact_text": "On 21 December 1937, Disney’s Snow White and the Seven Dwarfs premiered in Los Angeles, becoming the first feature-length cel-animated film with sound and color. It proved that animation could tell long, emotionally rich stories and reshaped cinema forever.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "The sudden release of tectonic energy in a megaquake resonates with the episode’s theme of powerful, jolting ‘electric shocks’ of sound."
+    "match_reason": "A landmark in animated musical storytelling fits with an episode celebrating theatrical, cinematic 80s pop that also blurred film–music boundaries."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 21 December 1937, Disney’s Snow White and the Seven Dwarfs premiered in Los Angeles, becoming the first feature-length cel-animated film with sound and color. It proved that animation could tell long, emotionally rich stories and reshaped cinema forever.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A landmark in animated musical storytelling fits with an episode celebrating theatrical, cinematic 80s pop that also blurred film–music boundaries."
-    },
     {
       "hour": 5,
       "fact_text": "On 21 December 1934, Sergei Prokofiev’s suite Lieutenant Kijé premiered, based on music he wrote for a satirical Soviet film about an officer who never existed. The piece’s haunting melodies, especially the famous “Troika,” outlived the film and became classics on their own.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "The sudden release of tectonic energy in a megaquake resonates with the episode’s theme of powerful, jolting ‘electric shocks’ of sound."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 21 December 1937, Disney’s Snow White and the Seven Dwarfs premiered in Los Angeles, becoming the first feature-length cel-animated film with sound and color. It proved that animation could tell long, emotionally rich stories and reshaped cinema forever.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A landmark in animated musical storytelling fits with an episode celebrating theatrical, cinematic 80s pop that also blurred film–music boundaries."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T03:00:01.083664+00:00"
+  "updated_at": "2025-12-21T04:00:01.230966+00:00"
 }
