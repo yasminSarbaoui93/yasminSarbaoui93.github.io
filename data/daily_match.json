@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 21 December 1923, the United Kingdom and Nepal signed the Nepal–Britain Treaty, formally recognizing Nepal’s independence and sovereignty. It marked a rare moment when a Himalayan kingdom secured international status without being colonized.",
-    "fact_year": 1923,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nepal%E2%80%93Britain_Treaty_of_1923",
+    "hour": 11,
+    "fact_text": "On 21 December 1361, Castilian forces defeated the Emirate of Granada at the Battle of Linuesa during the long Reconquista. The clash was one of many turning points in a centuries-long struggle that reshaped the cultural map of Iberia.",
+    "fact_year": 1361,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Linuesa",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #26 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 43,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A diplomatic recognition that allowed a small nation to preserve its rhythm and autonomy resonates with an episode about calm, self-defined pace and long, unbroken seasons."
+    "match_reason": "A medieval battle between Christian Castile and Muslim Granada sits at the deep historical roots of Andalusia, the very region that later birthed flamenco’s hybrid soul."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 21 December 1361, Castilian forces defeated the Emirate of Granada at the Battle of Linuesa during the long Reconquista. The clash was one of many turning points in a centuries-long struggle that reshaped the cultural map of Iberia.",
-      "fact_year": 1361,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Linuesa",
-      "episode": {
-        "id": 43,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A medieval battle between Christian Castile and Muslim Granada sits at the deep historical roots of Andalusia, the very region that later birthed flamenco’s hybrid soul."
-    },
     {
       "hour": 12,
       "fact_text": "On 21 December 1598, Mapuche warriors led by cacique Pelentaru crushed Spanish forces in the Battle of Curalaba. Their victory sparked a long indigenous uprising that halted Spanish expansion in southern Chile for generations.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "A diplomatic recognition that allowed a small nation to preserve its rhythm and autonomy resonates with an episode about calm, self-defined pace and long, unbroken seasons."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 21 December 1361, Castilian forces defeated the Emirate of Granada at the Battle of Linuesa during the long Reconquista. The clash was one of many turning points in a centuries-long struggle that reshaped the cultural map of Iberia.",
+      "fact_year": 1361,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Linuesa",
+      "episode": {
+        "id": 43,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A medieval battle between Christian Castile and Muslim Granada sits at the deep historical roots of Andalusia, the very region that later birthed flamenco’s hybrid soul."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.011414+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T10:00:01.250457+00:00"
+  "updated_at": "2025-12-21T11:00:01.202566+00:00"
 }
