@@ -1,63 +1,39 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On December 21, 1124, Honorius II was consecrated pope after a bitter dispute that had seen his rival Celestine II briefly elected and then deposed. The contested succession reflected deep tensions between Roman factions and the powerful noble families of the time.",
-    "fact_year": 1124,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Honorius_II",
+    "hour": 20,
+    "fact_text": "On December 21, 69, the same Vespasian who became emperor would later be remembered for imposing a tax on public urinals, inspiring the phrase \"Pecunia non olet\"—\"money does not stink\". It’s a reminder that even unglamorous ideas can stabilize an empire’s finances.",
+    "fact_year": 69,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AD_69",
     "episode": {
-      "id": 16,
-      "title": "Morning Drops #10 - The One With Many Names",
-      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Ghost - Spirit",
-        "Ghost - Mary on a Cross",
-        "Ghost - Dance Macabre",
-        "Ghost - Umbra"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Hard Rock",
-        "Heavy Metal",
-        "Arena Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A medieval power struggle over the papacy resonates with an episode about Ghost, a band built on theatrical clergy imagery, ritual, and contested spiritual authority."
+    "match_reason": "A quirky, pragmatic imperial tax that quietly changed things pairs with the raw ‘origin story’ energy of Sedna’s first episode, where small, bold moves launch something much bigger."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On December 21, 69, the same Vespasian who became emperor would later be remembered for imposing a tax on public urinals, inspiring the phrase \"Pecunia non olet\"—\"money does not stink\". It’s a reminder that even unglamorous ideas can stabilize an empire’s finances.",
-      "fact_year": 69,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AD_69",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A quirky, pragmatic imperial tax that quietly changed things pairs with the raw ‘origin story’ energy of Sedna’s first episode, where small, bold moves launch something much bigger."
-    },
     {
       "hour": 21,
       "fact_text": "On December 21, 1968, as Apollo 8 left Earth behind, the crew became the first humans to experience the profound silence of deep space around our planet. In that void, they read passages from Genesis to a live global audience on Christmas Eve, blending space-age technology with ancient storytelling.",
@@ -654,9 +630,42 @@
         ]
       },
       "match_reason": "A medieval power struggle over the papacy resonates with an episode about Ghost, a band built on theatrical clergy imagery, ritual, and contested spiritual authority."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On December 21, 69, the same Vespasian who became emperor would later be remembered for imposing a tax on public urinals, inspiring the phrase \"Pecunia non olet\"—\"money does not stink\". It’s a reminder that even unglamorous ideas can stabilize an empire’s finances.",
+      "fact_year": 69,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AD_69",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A quirky, pragmatic imperial tax that quietly changed things pairs with the raw ‘origin story’ energy of Sedna’s first episode, where small, bold moves launch something much bigger."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T19:00:01.164466+00:00"
+  "updated_at": "2025-12-21T20:00:01.366475+00:00"
 }
