@@ -1,65 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On December 21, 1970, the F-14 Tomcat made its first flight, introducing a swing-wing fighter that could change its wing shape in midair. Designed to defend aircraft carriers, the F-14 became an icon of Cold War aviation and pop culture alike.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grumman_F-14_Tomcat",
+    "hour": 16,
+    "fact_text": "On December 21, 1941, Thailand and Japan signed a Pact of Alliance during World War II, formally aligning Thailand with Japan’s wartime ambitions in Southeast Asia. The decision would shape the country’s occupation, resistance, and post-war politics.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 40,
+      "title": "Morning Drops #36 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
         "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "The debut of a fast, agile fighter jet fits with an ‘on the move’ soundtrack built for motion, speed, and forward momentum."
+    "match_reason": "A pivotal Thai wartime alliance sits alongside an episode recorded in Thailand, linking its complex history to present-day culture and rhythm."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On December 21, 1941, Thailand and Japan signed a Pact of Alliance during World War II, formally aligning Thailand with Japan’s wartime ambitions in Southeast Asia. The decision would shape the country’s occupation, resistance, and post-war politics.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #36 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A pivotal Thai wartime alliance sits alongside an episode recorded in Thailand, linking its complex history to present-day culture and rhythm."
-    },
     {
       "hour": 17,
       "fact_text": "On December 21, 1995, the city of Bethlehem was handed over from Israeli to Palestinian control under the Oslo Accords framework. The transfer returned administrative authority over one of the world’s most symbolically charged cities to the Palestinian Authority.",
@@ -664,9 +630,34 @@
         ]
       },
       "match_reason": "The debut of a fast, agile fighter jet fits with an ‘on the move’ soundtrack built for motion, speed, and forward momentum."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On December 21, 1941, Thailand and Japan signed a Pact of Alliance during World War II, formally aligning Thailand with Japan’s wartime ambitions in Southeast Asia. The decision would shape the country’s occupation, resistance, and post-war politics.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #36 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A pivotal Thai wartime alliance sits alongside an episode recorded in Thailand, linking its complex history to present-day culture and rhythm."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T15:00:01.125559+00:00"
+  "updated_at": "2025-12-21T16:00:01.064018+00:00"
 }
