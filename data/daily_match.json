@@ -1,58 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On December 21, 1620, the Mayflower Pilgrims landed near Plymouth Rock, beginning the Plymouth Colony. For them it was the end of a perilous sea crossing and the start of an uncertain experiment in building a new society on unfamiliar shores.",
-    "fact_year": 1620,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+    "hour": 8,
+    "fact_text": "On December 21, 1826, settlers in Nacogdoches declared the short-lived Fredonian Rebellion, attempting to break away from Mexican Texas. Though it failed, this little-known uprising foreshadowed larger independence movements to come.",
+    "fact_year": 1826,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fredonian_Rebellion",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 31,
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A legendary transatlantic sea voyage connects to an episode literally recorded at sea, reflecting on journeys, boats, and crossing waters together."
+    "match_reason": "A small, fiery rebellion in the Americas aligns with an episode about Latin American hip-hop that voices resistance, struggle, and defiance."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On December 21, 1826, settlers in Nacogdoches declared the short-lived Fredonian Rebellion, attempting to break away from Mexican Texas. Though it failed, this little-known uprising foreshadowed larger independence movements to come.",
-      "fact_year": 1826,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fredonian_Rebellion",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A small, fiery rebellion in the Americas aligns with an episode about Latin American hip-hop that voices resistance, struggle, and defiance."
-    },
     {
       "hour": 9,
       "fact_text": "On December 21, 1923, the Nepal–Britain Treaty was signed, with Britain formally recognizing Nepal’s independence and sovereignty. This agreement quietly reshaped relations in the Himalayas after a century of shifting borders and colonial pressures.",
@@ -658,9 +630,33 @@
         ]
       },
       "match_reason": "A legendary transatlantic sea voyage connects to an episode literally recorded at sea, reflecting on journeys, boats, and crossing waters together."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On December 21, 1826, settlers in Nacogdoches declared the short-lived Fredonian Rebellion, attempting to break away from Mexican Texas. Though it failed, this little-known uprising foreshadowed larger independence movements to come.",
+      "fact_year": 1826,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fredonian_Rebellion",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A small, fiery rebellion in the Americas aligns with an episode about Latin American hip-hop that voices resistance, struggle, and defiance."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T07:00:01.256335+00:00"
+  "updated_at": "2025-12-21T08:00:01.172239+00:00"
 }
