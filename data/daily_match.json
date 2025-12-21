@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On December 21, 1968, as Apollo 8 left Earth behind, the crew became the first humans to experience the profound silence of deep space around our planet. In that void, they read passages from Genesis to a live global audience on Christmas Eve, blending space-age technology with ancient storytelling.",
+    "hour": 22,
+    "fact_text": "On December 21, 1968, as Apollo 8 orbited the Moon, the astronauts captured the iconic \"Earthrise\" photograph—our blue planet rising over a barren lunar horizon. This single image is often credited with accelerating the global environmental movement by showing Earth as a fragile, shared home.",
     "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earthrise",
     "episode": {
-      "id": 32,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 45,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Humans stepping into the communications void of space and broadcasting back to Earth mirrors an episode about our relationship with technology, connection, and the strange silence when we disconnect."
+    "match_reason": "A view of Earth that helped spark environmental consciousness aligns with an episode immersed in Arctic oceans and marine life, both urging us to see our planet as one living habitat."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On December 21, 1968, as Apollo 8 orbited the Moon, the astronauts captured the iconic \"Earthrise\" photograph—our blue planet rising over a barren lunar horizon. This single image is often credited with accelerating the global environmental movement by showing Earth as a fragile, shared home.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earthrise",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A view of Earth that helped spark environmental consciousness aligns with an episode immersed in Arctic oceans and marine life, both urging us to see our planet as one living habitat."
-    },
     {
       "hour": 23,
       "fact_text": "On December 21, 1937, as audiences met Snow White on the big screen, the film’s use of synchronized music and song numbers turned animated cinema into a kind of moving musical theatre. Its success paved the way for generations of animated film scores and soundtracks we still hum today.",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "Humans stepping into the communications void of space and broadcasting back to Earth mirrors an episode about our relationship with technology, connection, and the strange silence when we disconnect."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On December 21, 1968, as Apollo 8 orbited the Moon, the astronauts captured the iconic \"Earthrise\" photograph—our blue planet rising over a barren lunar horizon. This single image is often credited with accelerating the global environmental movement by showing Earth as a fragile, shared home.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Earthrise",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A view of Earth that helped spark environmental consciousness aligns with an episode immersed in Arctic oceans and marine life, both urging us to see our planet as one living habitat."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T21:00:01.127213+00:00"
+  "updated_at": "2025-12-21T22:00:01.396413+00:00"
 }
