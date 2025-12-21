@@ -1,55 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On December 21, 1923, the Nepal–Britain Treaty was signed, with Britain formally recognizing Nepal’s independence and sovereignty. This agreement quietly reshaped relations in the Himalayas after a century of shifting borders and colonial pressures.",
-    "fact_year": 1923,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nepal%E2%80%93Britain_Treaty_of_1923",
+    "hour": 10,
+    "fact_text": "On December 21, 1598, Mapuche warriors led by the cacique Pelantaro dealt a crushing defeat to Spanish forces at the Battle of Curalaba. This Indigenous victory sparked a wider uprising that halted Spanish expansion in southern Chile for decades.",
+    "fact_year": 1598,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Curalaba",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A treaty redefining identity and sovereignty in the mountains echoes an episode steeped in another highland landscape, Scotland, and questions of what grounds us and where we belong."
+    "match_reason": "An Indigenous resistance victory in Chile parallels an episode dedicated to Tuareg music, where sound is entwined with survival, land, and resistance to domination."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On December 21, 1598, Mapuche warriors led by the cacique Pelantaro dealt a crushing defeat to Spanish forces at the Battle of Curalaba. This Indigenous victory sparked a wider uprising that halted Spanish expansion in southern Chile for decades.",
-      "fact_year": 1598,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Curalaba",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An Indigenous resistance victory in Chile parallels an episode dedicated to Tuareg music, where sound is entwined with survival, land, and resistance to domination."
-    },
     {
       "hour": 11,
       "fact_text": "On December 21, 1361, the Battle of Linuesa saw Castilian forces defeat the Emirate of Granada during the long Reconquista. Though small compared to famous crusades, such clashes gradually reshaped the cultural map of Iberia.",
@@ -655,9 +630,33 @@
         ]
       },
       "match_reason": "A treaty redefining identity and sovereignty in the mountains echoes an episode steeped in another highland landscape, Scotland, and questions of what grounds us and where we belong."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On December 21, 1598, Mapuche warriors led by the cacique Pelantaro dealt a crushing defeat to Spanish forces at the Battle of Curalaba. This Indigenous victory sparked a wider uprising that halted Spanish expansion in southern Chile for decades.",
+      "fact_year": 1598,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Curalaba",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An Indigenous resistance victory in Chile parallels an episode dedicated to Tuareg music, where sound is entwined with survival, land, and resistance to domination."
     }
   ],
   "generated_at": "2025-12-21T00:00:00.009845+00:00",
   "date": "2025-12-21",
-  "updated_at": "2025-12-21T09:00:01.089014+00:00"
+  "updated_at": "2025-12-21T10:00:01.313616+00:00"
 }
