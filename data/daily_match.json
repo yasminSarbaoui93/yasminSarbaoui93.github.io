@@ -1,59 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "Just after takeoff on 22 December 1999, Korean Air Cargo Flight 8509 crashed into the ground near Hatfield Forest in England due to instrument failure and miscommunication in the cockpit. The accident, which killed all four crew members, became a case study in how human factors and tiny errors can cascade into catastrophe.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Korean_Air_Cargo_Flight_8509",
+    "hour": 6,
+    "fact_text": "On 22 December 1975, U.S. President Gerald Ford created the Strategic Petroleum Reserve, ordering that vast underground salt caverns along the Gulf Coast be filled with crude oil. Hidden beneath Louisiana and Texas, these artificial oil lakes became a kind of energy time capsule for future crises.",
+    "fact_year": 1975,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "An air journey undone by miscoordination is contrasted with a sea journey defined by shared stories and cooperation—both highlight how travel depends on how well humans move together."
+    "match_reason": "An emergency stash built for future energy shocks sits against an episode about slowing down a 'fast' planet—both ask how we plan for tomorrow’s scarcity and pace ourselves differently."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 22 December 1975, U.S. President Gerald Ford created the Strategic Petroleum Reserve, ordering that vast underground salt caverns along the Gulf Coast be filled with crude oil. Hidden beneath Louisiana and Texas, these artificial oil lakes became a kind of energy time capsule for future crises.",
-      "fact_year": 1975,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "An emergency stash built for future energy shocks sits against an episode about slowing down a 'fast' planet—both ask how we plan for tomorrow’s scarcity and pace ourselves differently."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1974, the islands of Grande Comore, Anjouan, and Mohéli voted to form the independent nation of Comoros, while Mayotte chose to remain under French administration. In a single referendum, one archipelago split into different political futures across the same ocean.",
@@ -638,9 +610,34 @@
         ]
       },
       "match_reason": "An air journey undone by miscoordination is contrasted with a sea journey defined by shared stories and cooperation—both highlight how travel depends on how well humans move together."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 22 December 1975, U.S. President Gerald Ford created the Strategic Petroleum Reserve, ordering that vast underground salt caverns along the Gulf Coast be filled with crude oil. Hidden beneath Louisiana and Texas, these artificial oil lakes became a kind of energy time capsule for future crises.",
+      "fact_year": 1975,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "An emergency stash built for future energy shocks sits against an episode about slowing down a 'fast' planet—both ask how we plan for tomorrow’s scarcity and pace ourselves differently."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T05:00:01.215702+00:00"
+  "updated_at": "2025-12-22T06:00:01.475973+00:00"
 }
