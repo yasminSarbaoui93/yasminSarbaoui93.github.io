@@ -1,54 +1,29 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In the early hours of 22 December 1963, the cruise ship TSMS Lakonia caught fire and eventually sank in the Atlantic, 290 kilometers north of Madeira. Despite rescue efforts, 128 people died, and the tragedy exposed how even 'pleasure ships' could quickly turn into floating traps.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TSMS_Lakonia",
+    "hour": 9,
+    "fact_text": "On 22 December 1891, astronomers discovered asteroid 323 Brucia—the first asteroid ever found using photography instead of direct telescopic observation. Glass plates suddenly became time machines, capturing faint moving specks that the human eye alone would easily miss.",
+    "fact_year": 1891,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/323_Brucia",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Neo-Classical",
         "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "A disaster at sea is mirrored by an episode that respectfully dives into ocean journeys and marine encounters—both remind us the sea can be both sanctuary and peril."
+    "match_reason": "A new way of seeing space—photographic plates revealing an asteroid—pairs naturally with an episode that reframes 'empty space' as creative possibility."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On 22 December 1891, astronomers discovered asteroid 323 Brucia—the first asteroid ever found using photography instead of direct telescopic observation. Glass plates suddenly became time machines, capturing faint moving specks that the human eye alone would easily miss.",
-      "fact_year": 1891,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/323_Brucia",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A new way of seeing space—photographic plates revealing an asteroid—pairs naturally with an episode that reframes 'empty space' as creative possibility."
-    },
     {
       "hour": 10,
       "fact_text": "In 1790, Russian commander Alexander Suvorov led a daring assault on the heavily fortified Ottoman stronghold of Izmail, storming the fortress in a brutal battle. The operation was so ferocious that Suvorov reportedly ordered his troops to \"attack and die,\" marking one of the most infamous sieges of the Russo-Turkish wars.",
@@ -635,9 +610,32 @@
         ]
       },
       "match_reason": "A disaster at sea is mirrored by an episode that respectfully dives into ocean journeys and marine encounters—both remind us the sea can be both sanctuary and peril."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On 22 December 1891, astronomers discovered asteroid 323 Brucia—the first asteroid ever found using photography instead of direct telescopic observation. Glass plates suddenly became time machines, capturing faint moving specks that the human eye alone would easily miss.",
+      "fact_year": 1891,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/323_Brucia",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A new way of seeing space—photographic plates revealing an asteroid—pairs naturally with an episode that reframes 'empty space' as creative possibility."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T08:00:01.237754+00:00"
+  "updated_at": "2025-12-22T09:00:01.657797+00:00"
 }
