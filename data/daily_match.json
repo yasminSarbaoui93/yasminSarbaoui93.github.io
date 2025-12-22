@@ -1,54 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 22 December 1964, the SR-71 Blackbird—one of the fastest aircraft ever built—made its first test flight in Palmdale, California. Designed to fly higher than 25,000 meters and faster than Mach 3, it moved so quickly that its skin had to be built to withstand constant heating from friction with the air.",
-    "fact_year": 1964,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird",
+    "hour": 17,
+    "fact_text": "On this day in 1944, the People's Army of Vietnam was founded in a remote forest to resist Japanese occupation and, later, French colonial rule. From modest beginnings, it would grow into a force that reshaped 20th-century geopolitics and inspired anticolonial movements worldwide.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Army_of_Vietnam",
     "episode": {
-      "id": 35,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A sleek, futuristic aircraft pushing speed and altitude limits pairs with an episode charting a band’s evolution into a more cinematic, 'space-age lounge' sound—both are about sleek redesigns and high-altitude ambitions."
+    "match_reason": "An army born in the forests and mountains to resist occupation finds a parallel in Tuareg music forged in deserts, exile, and rebellion—both are stories of resistance shaped by harsh landscapes."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On this day in 1944, the People's Army of Vietnam was founded in a remote forest to resist Japanese occupation and, later, French colonial rule. From modest beginnings, it would grow into a force that reshaped 20th-century geopolitics and inspired anticolonial movements worldwide.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Army_of_Vietnam",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An army born in the forests and mountains to resist occupation finds a parallel in Tuareg music forged in deserts, exile, and rebellion—both are stories of resistance shaped by harsh landscapes."
-    },
     {
       "hour": 18,
       "fact_text": "On 22 December 1939, as Britain entered World War II without consulting Indian leaders, Indian Muslims observed a 'Day of Deliverance' to celebrate the resignation of Indian National Congress ministries. The day exposed deep divisions over colonial rule, representation, and whose voice counted in deciding a subcontinent’s fate.",
@@ -634,9 +610,33 @@
         ]
       },
       "match_reason": "A sleek, futuristic aircraft pushing speed and altitude limits pairs with an episode charting a band’s evolution into a more cinematic, 'space-age lounge' sound—both are about sleek redesigns and high-altitude ambitions."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On this day in 1944, the People's Army of Vietnam was founded in a remote forest to resist Japanese occupation and, later, French colonial rule. From modest beginnings, it would grow into a force that reshaped 20th-century geopolitics and inspired anticolonial movements worldwide.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/People%27s_Army_of_Vietnam",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An army born in the forests and mountains to resist occupation finds a parallel in Tuareg music forged in deserts, exile, and rebellion—both are stories of resistance shaped by harsh landscapes."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T16:00:01.108742+00:00"
+  "updated_at": "2025-12-22T17:00:01.079358+00:00"
 }
