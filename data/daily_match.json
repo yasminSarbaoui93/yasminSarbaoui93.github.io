@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1906, a magnitude 7.9 earthquake struck Manasi County in Xinjiang, China, rupturing the ground for over 280 kilometers. Although far from major cities, it reshaped landscapes and revealed how even remote faults hold immense stored energy.",
-    "fact_year": 1906,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1906_Manasi_earthquake",
+    "hour": 4,
+    "fact_text": "On 22 December 2008, an earthen dike failed at the Kingston Fossil Plant in Tennessee, releasing 4.2 million cubic meters of coal fly ash slurry—the largest industrial spill in U.S. history. The gray wave buried homes, choked rivers, and turned a hidden by-product of electricity into a visible environmental reckoning.",
+    "fact_year": 2008,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingston_Fossil_Plant_coal_fly_ash_slurry_spill",
     "episode": {
-      "id": 38,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 32,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Both the deep Earth and the ocean-like soundscape of this episode remind us that powerful forces move beneath the surface, unseen until they suddenly reshape our world."
+    "match_reason": "A catastrophe born from the hidden costs of power generation connects with an episode about the unseen psychological costs of our plugged-in lives—both ask what our technologies leave in their wake."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 22 December 2008, an earthen dike failed at the Kingston Fossil Plant in Tennessee, releasing 4.2 million cubic meters of coal fly ash slurry—the largest industrial spill in U.S. history. The gray wave buried homes, choked rivers, and turned a hidden by-product of electricity into a visible environmental reckoning.",
-      "fact_year": 2008,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingston_Fossil_Plant_coal_fly_ash_slurry_spill",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A catastrophe born from the hidden costs of power generation connects with an episode about the unseen psychological costs of our plugged-in lives—both ask what our technologies leave in their wake."
-    },
     {
       "hour": 5,
       "fact_text": "Just after takeoff on 22 December 1999, Korean Air Cargo Flight 8509 crashed into the ground near Hatfield Forest in England due to instrument failure and miscommunication in the cockpit. The accident, which killed all four crew members, became a case study in how human factors and tiny errors can cascade into catastrophe.",
@@ -635,9 +610,34 @@
         ]
       },
       "match_reason": "Both the deep Earth and the ocean-like soundscape of this episode remind us that powerful forces move beneath the surface, unseen until they suddenly reshape our world."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 22 December 2008, an earthen dike failed at the Kingston Fossil Plant in Tennessee, releasing 4.2 million cubic meters of coal fly ash slurry—the largest industrial spill in U.S. history. The gray wave buried homes, choked rivers, and turned a hidden by-product of electricity into a visible environmental reckoning.",
+      "fact_year": 2008,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingston_Fossil_Plant_coal_fly_ash_slurry_spill",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A catastrophe born from the hidden costs of power generation connects with an episode about the unseen psychological costs of our plugged-in lives—both ask what our technologies leave in their wake."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T03:00:01.286155+00:00"
+  "updated_at": "2025-12-22T04:00:01.061364+00:00"
 }
