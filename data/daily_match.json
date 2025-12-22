@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1790, Russian commander Alexander Suvorov led a daring assault on the heavily fortified Ottoman stronghold of Izmail, storming the fortress in a brutal battle. The operation was so ferocious that Suvorov reportedly ordered his troops to \"attack and die,\" marking one of the most infamous sieges of the Russo-Turkish wars.",
-    "fact_year": 1790,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Izmail",
+    "hour": 11,
+    "fact_text": "On 22 December 1942, Adolf Hitler formally approved the development of the V-2 rocket, the world’s first long-range guided ballistic missile. Conceived as a terror weapon, it also inadvertently laid groundwork for the postwar space age, sending humanity’s technological ambitions higher even as it wreaked devastation on the ground.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/V-2_rocket",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 30,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A ferocious, no-compromise assault on a fortress resonates with an episode about women in rock smashing through barriers—both are about refusing to ask permission to take space."
+    "match_reason": "A weapon that unintentionally pushed rocket science toward space mirrors how trip-hop repurposed existing tools and samples in surprising ways—both blur boundaries between destruction and creation, old forms and new futures."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 22 December 1942, Adolf Hitler formally approved the development of the V-2 rocket, the world’s first long-range guided ballistic missile. Conceived as a terror weapon, it also inadvertently laid groundwork for the postwar space age, sending humanity’s technological ambitions higher even as it wreaked devastation on the ground.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/V-2_rocket",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A weapon that unintentionally pushed rocket science toward space mirrors how trip-hop repurposed existing tools and samples in surprising ways—both blur boundaries between destruction and creation, old forms and new futures."
-    },
     {
       "hour": 12,
       "fact_text": "The Christmas Meeting of 1888 on the Faroe Islands is often seen as the official birth of the Faroese independence movement. At a quiet winter gathering, speeches in the Faroese language lit a long, patient struggle for cultural recognition and self-rule atop wind-beaten cliffs in the North Atlantic.",
@@ -634,9 +610,34 @@
         ]
       },
       "match_reason": "A ferocious, no-compromise assault on a fortress resonates with an episode about women in rock smashing through barriers—both are about refusing to ask permission to take space."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 22 December 1942, Adolf Hitler formally approved the development of the V-2 rocket, the world’s first long-range guided ballistic missile. Conceived as a terror weapon, it also inadvertently laid groundwork for the postwar space age, sending humanity’s technological ambitions higher even as it wreaked devastation on the ground.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/V-2_rocket",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A weapon that unintentionally pushed rocket science toward space mirrors how trip-hop repurposed existing tools and samples in surprising ways—both blur boundaries between destruction and creation, old forms and new futures."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T10:00:01.118121+00:00"
+  "updated_at": "2025-12-22T11:00:01.143250+00:00"
 }
