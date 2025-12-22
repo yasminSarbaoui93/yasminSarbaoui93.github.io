@@ -1,55 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On this day in 1974, the islands of Grande Comore, Anjouan, and Mohéli voted to form the independent nation of Comoros, while Mayotte chose to remain under French administration. In a single referendum, one archipelago split into different political futures across the same ocean.",
-    "fact_year": 1974,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Comore",
+    "hour": 8,
+    "fact_text": "In the early hours of 22 December 1963, the cruise ship TSMS Lakonia caught fire and eventually sank in the Atlantic, 290 kilometers north of Madeira. Despite rescue efforts, 128 people died, and the tragedy exposed how even 'pleasure ships' could quickly turn into floating traps.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TSMS_Lakonia",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 45,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A story of islands choosing their own paths pairs with an episode about a different island shaping identity and belonging—both explore how isolated lands carry complex, personal meanings."
+    "match_reason": "A disaster at sea is mirrored by an episode that respectfully dives into ocean journeys and marine encounters—both remind us the sea can be both sanctuary and peril."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In the early hours of 22 December 1963, the cruise ship TSMS Lakonia caught fire and eventually sank in the Atlantic, 290 kilometers north of Madeira. Despite rescue efforts, 128 people died, and the tragedy exposed how even 'pleasure ships' could quickly turn into floating traps.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TSMS_Lakonia",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A disaster at sea is mirrored by an episode that respectfully dives into ocean journeys and marine encounters—both remind us the sea can be both sanctuary and peril."
-    },
     {
       "hour": 9,
       "fact_text": "On 22 December 1891, astronomers discovered asteroid 323 Brucia—the first asteroid ever found using photography instead of direct telescopic observation. Glass plates suddenly became time machines, capturing faint moving specks that the human eye alone would easily miss.",
@@ -634,9 +610,34 @@
         ]
       },
       "match_reason": "A story of islands choosing their own paths pairs with an episode about a different island shaping identity and belonging—both explore how isolated lands carry complex, personal meanings."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In the early hours of 22 December 1963, the cruise ship TSMS Lakonia caught fire and eventually sank in the Atlantic, 290 kilometers north of Madeira. Despite rescue efforts, 128 people died, and the tragedy exposed how even 'pleasure ships' could quickly turn into floating traps.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TSMS_Lakonia",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A disaster at sea is mirrored by an episode that respectfully dives into ocean journeys and marine encounters—both remind us the sea can be both sanctuary and peril."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T07:00:01.090588+00:00"
+  "updated_at": "2025-12-22T08:00:01.311720+00:00"
 }
