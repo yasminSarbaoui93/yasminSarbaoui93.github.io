@@ -1,56 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 22 December 1942, Adolf Hitler formally approved the development of the V-2 rocket, the world’s first long-range guided ballistic missile. Conceived as a terror weapon, it also inadvertently laid groundwork for the postwar space age, sending humanity’s technological ambitions higher even as it wreaked devastation on the ground.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/V-2_rocket",
+    "hour": 12,
+    "fact_text": "The Christmas Meeting of 1888 on the Faroe Islands is often seen as the official birth of the Faroese independence movement. At a quiet winter gathering, speeches in the Faroese language lit a long, patient struggle for cultural recognition and self-rule atop wind-beaten cliffs in the North Atlantic.",
+    "fact_year": 1888,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Christmas_Meeting_of_1888",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 33,
+      "title": "Morning Drops #28 - Under Scottish Skies",
+      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Paolo Nutini - Pencil Full of Lead",
+        "Lapse - Lady Bug",
+        "Joesef - Let's Stay Together",
+        "Vital Spark - Stone of Destiny"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Indie Rock",
+        "Scottish Folk",
+        "Soul",
+        "Celtic Rock"
       ]
     },
-    "match_reason": "A weapon that unintentionally pushed rocket science toward space mirrors how trip-hop repurposed existing tools and samples in surprising ways—both blur boundaries between destruction and creation, old forms and new futures."
+    "match_reason": "An independence movement born on remote North Atlantic islands pairs with an episode about another rugged, northerly land—both explore how peripheral places and local voices quietly shape national identity."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "The Christmas Meeting of 1888 on the Faroe Islands is often seen as the official birth of the Faroese independence movement. At a quiet winter gathering, speeches in the Faroese language lit a long, patient struggle for cultural recognition and self-rule atop wind-beaten cliffs in the North Atlantic.",
-      "fact_year": 1888,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Christmas_Meeting_of_1888",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
-        "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
-        ]
-      },
-      "match_reason": "An independence movement born on remote North Atlantic islands pairs with an episode about another rugged, northerly land—both explore how peripheral places and local voices quietly shape national identity."
-    },
     {
       "hour": 13,
       "fact_text": "In AD 69, amid civil war, the Roman general Vespasian was proclaimed emperor while his rival Vitellius tried and failed to abdicate, ultimately being killed on the Gemonian stairs. This 'Year of the Four Emperors' showed how rapidly power could swing, and how precarious the title 'emperor' really was.",
@@ -635,9 +610,34 @@
         ]
       },
       "match_reason": "A weapon that unintentionally pushed rocket science toward space mirrors how trip-hop repurposed existing tools and samples in surprising ways—both blur boundaries between destruction and creation, old forms and new futures."
+    },
+    {
+      "hour": 12,
+      "fact_text": "The Christmas Meeting of 1888 on the Faroe Islands is often seen as the official birth of the Faroese independence movement. At a quiet winter gathering, speeches in the Faroese language lit a long, patient struggle for cultural recognition and self-rule atop wind-beaten cliffs in the North Atlantic.",
+      "fact_year": 1888,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Christmas_Meeting_of_1888",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #28 - Under Scottish Skies",
+        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "songs": [
+          "Paolo Nutini - Pencil Full of Lead",
+          "Lapse - Lady Bug",
+          "Joesef - Let's Stay Together",
+          "Vital Spark - Stone of Destiny"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Scottish Folk",
+          "Soul",
+          "Celtic Rock"
+        ]
+      },
+      "match_reason": "An independence movement born on remote North Atlantic islands pairs with an episode about another rugged, northerly land—both explore how peripheral places and local voices quietly shape national identity."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T11:00:01.116794+00:00"
+  "updated_at": "2025-12-22T12:00:01.155970+00:00"
 }
