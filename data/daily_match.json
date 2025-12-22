@@ -1,59 +1,34 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 22 December 2008, an earthen dike failed at the Kingston Fossil Plant in Tennessee, releasing 4.2 million cubic meters of coal fly ash slurry—the largest industrial spill in U.S. history. The gray wave buried homes, choked rivers, and turned a hidden by-product of electricity into a visible environmental reckoning.",
-    "fact_year": 2008,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingston_Fossil_Plant_coal_fly_ash_slurry_spill",
+    "hour": 5,
+    "fact_text": "Just after takeoff on 22 December 1999, Korean Air Cargo Flight 8509 crashed into the ground near Hatfield Forest in England due to instrument failure and miscommunication in the cockpit. The accident, which killed all four crew members, became a case study in how human factors and tiny errors can cascade into catastrophe.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Korean_Air_Cargo_Flight_8509",
     "episode": {
-      "id": 32,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 36,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A catastrophe born from the hidden costs of power generation connects with an episode about the unseen psychological costs of our plugged-in lives—both ask what our technologies leave in their wake."
+    "match_reason": "An air journey undone by miscoordination is contrasted with a sea journey defined by shared stories and cooperation—both highlight how travel depends on how well humans move together."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "Just after takeoff on 22 December 1999, Korean Air Cargo Flight 8509 crashed into the ground near Hatfield Forest in England due to instrument failure and miscommunication in the cockpit. The accident, which killed all four crew members, became a case study in how human factors and tiny errors can cascade into catastrophe.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Korean_Air_Cargo_Flight_8509",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An air journey undone by miscoordination is contrasted with a sea journey defined by shared stories and cooperation—both highlight how travel depends on how well humans move together."
-    },
     {
       "hour": 6,
       "fact_text": "On 22 December 1975, U.S. President Gerald Ford created the Strategic Petroleum Reserve, ordering that vast underground salt caverns along the Gulf Coast be filled with crude oil. Hidden beneath Louisiana and Texas, these artificial oil lakes became a kind of energy time capsule for future crises.",
@@ -635,9 +610,37 @@
         ]
       },
       "match_reason": "A catastrophe born from the hidden costs of power generation connects with an episode about the unseen psychological costs of our plugged-in lives—both ask what our technologies leave in their wake."
+    },
+    {
+      "hour": 5,
+      "fact_text": "Just after takeoff on 22 December 1999, Korean Air Cargo Flight 8509 crashed into the ground near Hatfield Forest in England due to instrument failure and miscommunication in the cockpit. The accident, which killed all four crew members, became a case study in how human factors and tiny errors can cascade into catastrophe.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Korean_Air_Cargo_Flight_8509",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An air journey undone by miscoordination is contrasted with a sea journey defined by shared stories and cooperation—both highlight how travel depends on how well humans move together."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T04:00:01.096602+00:00"
+  "updated_at": "2025-12-22T05:00:01.215702+00:00"
 }
