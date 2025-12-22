@@ -1,55 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "On 22 December 1939, as Britain entered World War II without consulting Indian leaders, Indian Muslims observed a 'Day of Deliverance' to celebrate the resignation of Indian National Congress ministries. The day exposed deep divisions over colonial rule, representation, and whose voice counted in deciding a subcontinent’s fate.",
-    "fact_year": 1939,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Day_of_Deliverance",
+    "hour": 19,
+    "fact_text": "On 22 December 1807, the Embargo Act was signed into U.S. law, abruptly banning American trade with foreign nations in an attempt to avoid war and pressure Britain and France. Instead, it quietly strangled American ports and merchants, showing how a border can be closed not with walls, but with paperwork.",
+    "fact_year": 1807,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Embargo_Act_of_1807",
     "episode": {
-      "id": 19,
-      "title": "Morning Drops #13 - Demystifying Reggaeton",
-      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+      "id": 25,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Renato - Chica de los Ojos Café",
-        "B. F. Yaviah - Si Tu Quieres Fumar",
-        "Calle 13 - Atrévete",
-        "Bad Bunny - DtMF"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Reggaeton",
-        "Latin Urban",
-        "Hip-Hop"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A politically charged 'Day of Deliverance' highlighting marginalized voices aligns with an episode unpacking the misunderstood roots of reggaeton—both question who gets to define a movement’s meaning."
+    "match_reason": "A law that freezes movement across borders sits opposite a story of hitchhiking through reopened frontiers—both show how policy and circumstance can suddenly close or reopen the world to travelers."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On 22 December 1807, the Embargo Act was signed into U.S. law, abruptly banning American trade with foreign nations in an attempt to avoid war and pressure Britain and France. Instead, it quietly strangled American ports and merchants, showing how a border can be closed not with walls, but with paperwork.",
-      "fact_year": 1807,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Embargo_Act_of_1807",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A law that freezes movement across borders sits opposite a story of hitchhiking through reopened frontiers—both show how policy and circumstance can suddenly close or reopen the world to travelers."
-    },
     {
       "hour": 20,
       "fact_text": "On 22 December 2008, the Tennessee coal ash spill turned a routine industrial waste pond into an instant manmade disaster, flooding valleys with toxic sludge. It forced engineers and policymakers to confront the invisible mountains of waste that quietly accumulate behind our power switches.",
@@ -634,9 +610,34 @@
         ]
       },
       "match_reason": "A politically charged 'Day of Deliverance' highlighting marginalized voices aligns with an episode unpacking the misunderstood roots of reggaeton—both question who gets to define a movement’s meaning."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On 22 December 1807, the Embargo Act was signed into U.S. law, abruptly banning American trade with foreign nations in an attempt to avoid war and pressure Britain and France. Instead, it quietly strangled American ports and merchants, showing how a border can be closed not with walls, but with paperwork.",
+      "fact_year": 1807,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Embargo_Act_of_1807",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A law that freezes movement across borders sits opposite a story of hitchhiking through reopened frontiers—both show how policy and circumstance can suddenly close or reopen the world to travelers."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T18:00:01.529769+00:00"
+  "updated_at": "2025-12-22T19:00:01.347255+00:00"
 }
