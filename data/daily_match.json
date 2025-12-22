@@ -1,64 +1,39 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "The Christmas Meeting of 1888 on the Faroe Islands is often seen as the official birth of the Faroese independence movement. At a quiet winter gathering, speeches in the Faroese language lit a long, patient struggle for cultural recognition and self-rule atop wind-beaten cliffs in the North Atlantic.",
-    "fact_year": 1888,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Christmas_Meeting_of_1888",
+    "hour": 13,
+    "fact_text": "In AD 69, amid civil war, the Roman general Vespasian was proclaimed emperor while his rival Vitellius tried and failed to abdicate, ultimately being killed on the Gemonian stairs. This 'Year of the Four Emperors' showed how rapidly power could swing, and how precarious the title 'emperor' really was.",
+    "fact_year": 69,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "An independence movement born on remote North Atlantic islands pairs with an episode about another rugged, northerly land—both explore how peripheral places and local voices quietly shape national identity."
+    "match_reason": "A chaotic year that redefined an empire matches the station’s own 'where it all began' episode—both mark turbulent, foundational turning points that set the tone for everything that follows."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In AD 69, amid civil war, the Roman general Vespasian was proclaimed emperor while his rival Vitellius tried and failed to abdicate, ultimately being killed on the Gemonian stairs. This 'Year of the Four Emperors' showed how rapidly power could swing, and how precarious the title 'emperor' really was.",
-      "fact_year": 69,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A chaotic year that redefined an empire matches the station’s own 'where it all began' episode—both mark turbulent, foundational turning points that set the tone for everything that follows."
-    },
     {
       "hour": 14,
       "fact_text": "On 22 December 2016, researchers announced that the rVSV-ZEBOV vaccine had shown 70–100% effectiveness against Ebola in trials, making it the first proven vaccine against the disease. A virus once known mainly for fear and grim headlines suddenly had a powerful scientific counterspell.",
@@ -635,9 +610,42 @@
         ]
       },
       "match_reason": "An independence movement born on remote North Atlantic islands pairs with an episode about another rugged, northerly land—both explore how peripheral places and local voices quietly shape national identity."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In AD 69, amid civil war, the Roman general Vespasian was proclaimed emperor while his rival Vitellius tried and failed to abdicate, ultimately being killed on the Gemonian stairs. This 'Year of the Four Emperors' showed how rapidly power could swing, and how precarious the title 'emperor' really was.",
+      "fact_year": 69,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A chaotic year that redefined an empire matches the station’s own 'where it all began' episode—both mark turbulent, foundational turning points that set the tone for everything that follows."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T12:00:01.155970+00:00"
+  "updated_at": "2025-12-22T13:00:01.287646+00:00"
 }
