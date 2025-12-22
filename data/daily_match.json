@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "When Beethoven took the stage in Vienna in 1808, he conducted music he could barely hear, relying on inner sound rather than ears. His Fifth Symphony's iconic four-note motif has since circled the globe, turning one winter night’s experiment into one of humanity’s most recognizable sonic signatures.",
-    "fact_year": 1808,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Symphony_No._5_(Beethoven)",
+    "hour": 23,
+    "fact_text": "In the Faroe Islands in 1888, a Christmas gathering quietly planted the seeds of a national awakening, showing how culture can be revolutionary without a single shot fired. On the same date across history, empires rose and fell, rockets were greenlit, and vaccines proved their power—reminding us that some days are crossroads where art, science, and politics all quietly pivot.",
+    "fact_year": 1888,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faroese_independence_movement",
     "episode": {
-      "id": 43,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 40,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "A composer reshaping Western classical music from the inside out pairs with an episode tracing Flamenco’s own evolution—both follow how a musical language grows from intense emotion into a global tradition."
+    "match_reason": "A day that secretly reshaped identities and futures matches an episode about disciplined practice and slow transformation—both suggest that quiet, daily effort can eventually move history."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "In the Faroe Islands in 1888, a Christmas gathering quietly planted the seeds of a national awakening, showing how culture can be revolutionary without a single shot fired. On the same date across history, empires rose and fell, rockets were greenlit, and vaccines proved their power—reminding us that some days are crossroads where art, science, and politics all quietly pivot.",
-      "fact_year": 1888,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faroese_independence_movement",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A day that secretly reshaped identities and futures matches an episode about disciplined practice and slow transformation—both suggest that quiet, daily effort can eventually move history."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -635,9 +609,34 @@
         ]
       },
       "match_reason": "A composer reshaping Western classical music from the inside out pairs with an episode tracing Flamenco’s own evolution—both follow how a musical language grows from intense emotion into a global tradition."
+    },
+    {
+      "hour": 23,
+      "fact_text": "In the Faroe Islands in 1888, a Christmas gathering quietly planted the seeds of a national awakening, showing how culture can be revolutionary without a single shot fired. On the same date across history, empires rose and fell, rockets were greenlit, and vaccines proved their power—reminding us that some days are crossroads where art, science, and politics all quietly pivot.",
+      "fact_year": 1888,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faroese_independence_movement",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A day that secretly reshaped identities and futures matches an episode about disciplined practice and slow transformation—both suggest that quiet, daily effort can eventually move history."
     }
   ],
   "generated_at": "2025-12-22T00:00:00.010246+00:00",
   "date": "2025-12-22",
-  "updated_at": "2025-12-22T22:00:01.298426+00:00"
+  "updated_at": "2025-12-22T23:00:01.237631+00:00"
 }
