@@ -1,53 +1,29 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "In 1968, the 82 surviving crew members of the USS Pueblo — after months of forced 'confessions' and propaganda — crossed back into South Korea on 23 December, each saluting the American flag before stepping onto allied soil. Their release came after intense negotiations, including a U.S. statement that it later publicly disavowed.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
+    "hour": 21,
+    "fact_text": "On 23 December 962 years after its founding, Aleppo again appears in history: but in 962 itself, its sack was part of a long cycle of siege and survival. The city's story reminds us how places can be repeatedly broken and rebuilt, carrying layer upon layer of memory beneath their streets.",
+    "fact_year": 962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo",
     "episode": {
-      "id": 12,
-      "title": "Morning Drops #06 - Friend's Home",
-      "description": "Yasmin and Gaia are reunited under the same roof to spend Easter Monday morning together, exploring that heartwarming 'just like home' feeling that comes from being surrounded by beloved friends.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-friends-home",
+      "id": 7,
+      "title": "Morning Drops #01 - Timeless Legacy",
+      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
       "songs": [
-        "Oumou Sangaré - Jah Rah Bee",
-        "James Mason - Free",
-        "Articolo 31 - Gente che spera",
-        "Articolo 31 - Spirale ovale"
+        "Roberta Flack - Killing me softly with his song",
+        "Stone, Angie & Raphael Saadiq - Brotha",
+        "Roy Ayers - Running Away (Extended)"
       ],
       "music-genres": [
-        "Afropop",
-        "Jazz-Funk",
-        "Italian Hip-Hop"
+        "Soul",
+        "R&B",
+        "Jazz-Funk"
       ]
     },
-    "match_reason": "The moment of finally crossing back 'home' after captivity connects with an episode about the warmth and safety of being under a familiar roof with people you trust."
+    "match_reason": "A city enduring across centuries of destruction parallels the idea of a 'timeless legacy', with classic soul and jazz-funk standing in for the culture that survives upheaval."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On 23 December 962 years after its founding, Aleppo again appears in history: but in 962 itself, its sack was part of a long cycle of siege and survival. The city's story reminds us how places can be repeatedly broken and rebuilt, carrying layer upon layer of memory beneath their streets.",
-      "fact_year": 962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo",
-      "episode": {
-        "id": 7,
-        "title": "Morning Drops #01 - Timeless Legacy",
-        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
-        "songs": [
-          "Roberta Flack - Killing me softly with his song",
-          "Stone, Angie & Raphael Saadiq - Brotha",
-          "Roy Ayers - Running Away (Extended)"
-        ],
-        "music-genres": [
-          "Soul",
-          "R&B",
-          "Jazz-Funk"
-        ]
-      },
-      "match_reason": "A city enduring across centuries of destruction parallels the idea of a 'timeless legacy', with classic soul and jazz-funk standing in for the culture that survives upheaval."
-    },
     {
       "hour": 22,
       "fact_text": "On 23 December 1936, Colombia’s accession to the Buenos Aires copyright treaty further enmeshed Latin America in a network of shared literary and musical protections. It anticipated a future where songs and stories would travel easier than ever — long before streaming, a legal rhythm was already in motion.",
@@ -646,9 +622,32 @@
         ]
       },
       "match_reason": "The moment of finally crossing back 'home' after captivity connects with an episode about the warmth and safety of being under a familiar roof with people you trust."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On 23 December 962 years after its founding, Aleppo again appears in history: but in 962 itself, its sack was part of a long cycle of siege and survival. The city's story reminds us how places can be repeatedly broken and rebuilt, carrying layer upon layer of memory beneath their streets.",
+      "fact_year": 962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo",
+      "episode": {
+        "id": 7,
+        "title": "Morning Drops #01 - Timeless Legacy",
+        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+        "songs": [
+          "Roberta Flack - Killing me softly with his song",
+          "Stone, Angie & Raphael Saadiq - Brotha",
+          "Roy Ayers - Running Away (Extended)"
+        ],
+        "music-genres": [
+          "Soul",
+          "R&B",
+          "Jazz-Funk"
+        ]
+      },
+      "match_reason": "A city enduring across centuries of destruction parallels the idea of a 'timeless legacy', with classic soul and jazz-funk standing in for the culture that survives upheaval."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T20:00:01.251705+00:00"
+  "updated_at": "2025-12-23T21:00:01.535370+00:00"
 }
