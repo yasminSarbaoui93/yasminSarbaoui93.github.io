@@ -1,49 +1,25 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On this day in 1936, Colombia joined the Buenos Aires Convention on copyrights, helping pave the way for Latin American creators to have their works recognized abroad. It was an early step toward the idea that a song or story could belong to its author no matter where it traveled.",
-    "fact_year": 1936,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Colombia",
+    "hour": 22,
+    "fact_text": "On this day in 1968, kidney transplantation stepped out of the realm of medical experiment and into practical reality with the first long-term successful operation. The surgery showed that a body could accept an organ as both foreign and its own—a biological negotiation still being explored today.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_E._Murray",
     "episode": {
-      "id": 35,
-      "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
-      "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Georges Moustaki - Le Métèque",
-        "Georges Brassens - Les Passants",
-        "Dalida - Bambino (Guaglione)",
-        "Biga*Ranx - My Face"
+        "song 1"
       ],
       "music-genres": [
-        "French Chanson",
-        "Italian Pop",
-        "Reggae"
+        "genre 1"
       ]
     },
-    "match_reason": "An early attempt to protect authors across borders fits with an episode about songs that exist in multiple national versions and shared cultural ownership."
+    "match_reason": "A pioneering but risky transplant, full of uncertainty and imperfection, aligns with an episode that celebrates flawed processes and fragile beauty."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On this day in 1968, kidney transplantation stepped out of the realm of medical experiment and into practical reality with the first long-term successful operation. The surgery showed that a body could accept an organ as both foreign and its own—a biological negotiation still being explored today.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_E._Murray",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A pioneering but risky transplant, full of uncertainty and imperfection, aligns with an episode that celebrates flawed processes and fragile beauty."
-    },
     {
       "hour": 23,
       "fact_text": "On December 23, 1986, the Rutan Voyager’s pilots finished their globe-circling flight utterly exhausted, having slept in snatches of minutes and endured fuel leaks and structural worries along the way. What looked like a single smooth line on a map was, in reality, a story of constant adjustment and quiet fear at high altitude.",
@@ -638,9 +614,28 @@
         ]
       },
       "match_reason": "An early attempt to protect authors across borders fits with an episode about songs that exist in multiple national versions and shared cultural ownership."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On this day in 1968, kidney transplantation stepped out of the realm of medical experiment and into practical reality with the first long-term successful operation. The surgery showed that a body could accept an organ as both foreign and its own—a biological negotiation still being explored today.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_E._Murray",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A pioneering but risky transplant, full of uncertainty and imperfection, aligns with an episode that celebrates flawed processes and fragile beauty."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.018765+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T21:00:01.575124+00:00"
+  "updated_at": "2025-12-23T22:00:01.323606+00:00"
 }
