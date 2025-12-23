@@ -1,59 +1,25 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1986, the experimental aircraft Rutan Voyager completed the first non-stop, unrefueled flight around the world, landing at Edwards Air Force Base after nine days in the air. Built largely from composite materials and flown by Dick Rutan and Jeana Yeager, it carried so much fuel that its wingtips nearly scraped the runway on takeoff, then finished the journey with barely any left.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rutan_Voyager",
+    "hour": 1,
+    "fact_text": "On 23 December 1954, surgeons Joseph Murray and J. Hartwell Harrison performed the first successful human kidney transplant in Boston. The operation, done between identical twin brothers, proved that organ transplantation could work and opened the door to modern transplant medicine.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "song 1"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "genre 1"
       ]
     },
-    "match_reason": "A record-breaking flight around the world pairs with an episode built around motion, roads, and the exhilaration of being constantly 'on the go'."
+    "match_reason": "Pioneering transplant surgery evokes themes of vulnerability, risk, and imperfect breakthroughs, resonating with an episode that celebrates imperfection and experimental paths to healing."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 23 December 1954, surgeons Joseph Murray and J. Hartwell Harrison performed the first successful human kidney transplant in Boston. The operation, done between identical twin brothers, proved that organ transplantation could work and opened the door to modern transplant medicine.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Pioneering transplant surgery evokes themes of vulnerability, risk, and imperfect breakthroughs, resonating with an episode that celebrates imperfection and experimental paths to healing."
-    },
     {
       "hour": 2,
       "fact_text": "In 2002, a U.S. MQ-1 Predator drone was shot down by an Iraqi MiG-25, marking the first known combat engagement between an unmanned aerial vehicle and a conventional piloted aircraft. The brief encounter over the no-fly zone foreshadowed a new era in which machines would increasingly share — and contest — the skies with humans.",
@@ -656,9 +622,28 @@
         ]
       },
       "match_reason": "A record-breaking flight around the world pairs with an episode built around motion, roads, and the exhilaration of being constantly 'on the go'."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 23 December 1954, surgeons Joseph Murray and J. Hartwell Harrison performed the first successful human kidney transplant in Boston. The operation, done between identical twin brothers, proved that organ transplantation could work and opened the door to modern transplant medicine.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Pioneering transplant surgery evokes themes of vulnerability, risk, and imperfect breakthroughs, resonating with an episode that celebrates imperfection and experimental paths to healing."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T00:00:53.542683+00:00"
+  "updated_at": "2025-12-23T01:00:01.054802+00:00"
 }
