@@ -1,66 +1,41 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 2002, a U.S. MQ-1 Predator drone was shot down by an Iraqi MiG-25, marking the first known combat engagement between an unmanned aerial vehicle and a conventional piloted aircraft. The brief encounter over the no-fly zone foreshadowed a new era in which machines would increasingly share — and contest — the skies with humans.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator",
+    "hour": 3,
+    "fact_text": "On this day in 1893, Engelbert Humperdinck's opera \"Hänsel und Gretel\" received its premiere, transforming a dark folk tale into a lushly orchestrated fairy-tale opera. Conducted by Richard Strauss, it became a holiday tradition in many countries, blending childhood wonder with a surprisingly sophisticated musical language.",
+    "fact_year": 1893,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Psychedelic Rock",
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
         "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "A drone-versus-jet encounter is a vivid symbol of our changing relationship with technology, echoing an episode that questions how machines mediate modern life and connection."
+    "match_reason": "A fairy-tale opera about lost children and temptation fits an episode about love’s vulnerability and the childlike emotions that art can awaken."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 1893, Engelbert Humperdinck's opera \"Hänsel und Gretel\" received its premiere, transforming a dark folk tale into a lushly orchestrated fairy-tale opera. Conducted by Richard Strauss, it became a holiday tradition in many countries, blending childhood wonder with a surprisingly sophisticated musical language.",
-      "fact_year": 1893,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "A fairy-tale opera about lost children and temptation fits an episode about love’s vulnerability and the childlike emotions that art can awaken."
-    },
     {
       "hour": 4,
       "fact_text": "In 1955, the first film adaptation of Väinö Linna's novel \"The Unknown Soldier\" premiered in Finland, depicting a Finnish infantry company during World War II from the viewpoint of ordinary soldiers. Its unvarnished portrayal of fear, camaraderie, and disillusionment helped reshape how Finns remembered the war.",
@@ -647,9 +622,44 @@
         ]
       },
       "match_reason": "A drone-versus-jet encounter is a vivid symbol of our changing relationship with technology, echoing an episode that questions how machines mediate modern life and connection."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1893, Engelbert Humperdinck's opera \"Hänsel und Gretel\" received its premiere, transforming a dark folk tale into a lushly orchestrated fairy-tale opera. Conducted by Richard Strauss, it became a holiday tradition in many countries, blending childhood wonder with a surprisingly sophisticated musical language.",
+      "fact_year": 1893,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "A fairy-tale opera about lost children and temptation fits an episode about love’s vulnerability and the childlike emotions that art can awaken."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T02:00:01.143114+00:00"
+  "updated_at": "2025-12-23T03:00:01.257248+00:00"
 }
