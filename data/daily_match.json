@@ -1,55 +1,30 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 1972, a magnitude 6.5 earthquake struck Managua, the capital of Nicaragua, killing more than 10,000 people and destroying much of the city’s historic center. The devastation not only reshaped the urban landscape but also intensified political unrest that would help fuel revolution later in the decade.",
-    "fact_year": 1972,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1972_Nicaragua_earthquake",
+    "hour": 15,
+    "fact_text": "On 23 December 2008, just hours after the death of President Lansana Conté, a military junta staged a coup d'état in Guinea. Announcing the dissolution of the government on state radio, they promised reform, illustrating how quickly power can change hands when a system is brittle.",
+    "fact_year": 2008,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2008_Guinean_coup_d%27%C3%A9tat",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "A city literally shaken and forced to rebuild pairs with an episode about shifting perspective and movement, using global and Latin-tinged sounds as a gentle counterpoint to the earth’s violence."
+    "match_reason": "A sudden power grab and promises of change echo the way reggaeton emerged from the margins to reshape cultural power structures and give voice to the street."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On 23 December 2008, just hours after the death of President Lansana Conté, a military junta staged a coup d'état in Guinea. Announcing the dissolution of the government on state radio, they promised reform, illustrating how quickly power can change hands when a system is brittle.",
-      "fact_year": 2008,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2008_Guinean_coup_d%27%C3%A9tat",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A sudden power grab and promises of change echo the way reggaeton emerged from the margins to reshape cultural power structures and give voice to the street."
-    },
     {
       "hour": 16,
       "fact_text": "In 2015, a bomb exploded at Istanbul’s Sabiha Gökçen International Airport, killing a cleaner and injuring others in a nighttime attack claimed days later by the Kurdistan Freedom Hawks. The blast underscored how even places of transit — liminal spaces between journeys — can become flashpoints in broader political conflicts.",
@@ -647,9 +622,33 @@
         ]
       },
       "match_reason": "A city literally shaken and forced to rebuild pairs with an episode about shifting perspective and movement, using global and Latin-tinged sounds as a gentle counterpoint to the earth’s violence."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On 23 December 2008, just hours after the death of President Lansana Conté, a military junta staged a coup d'état in Guinea. Announcing the dissolution of the government on state radio, they promised reform, illustrating how quickly power can change hands when a system is brittle.",
+      "fact_year": 2008,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2008_Guinean_coup_d%27%C3%A9tat",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A sudden power grab and promises of change echo the way reggaeton emerged from the margins to reshape cultural power structures and give voice to the street."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T14:00:01.171695+00:00"
+  "updated_at": "2025-12-23T15:00:01.120271+00:00"
 }
