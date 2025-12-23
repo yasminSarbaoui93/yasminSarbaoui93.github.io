@@ -1,55 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1955, the first film adaptation of Väinö Linna's novel \"The Unknown Soldier\" premiered in Finland, depicting a Finnish infantry company during World War II from the viewpoint of ordinary soldiers. Its unvarnished portrayal of fear, camaraderie, and disillusionment helped reshape how Finns remembered the war.",
-    "fact_year": 1955,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
+    "hour": 5,
+    "fact_text": "On 23 December 1783, George Washington resigned as commander-in-chief of the Continental Army in Annapolis, voluntarily giving up power after winning the American Revolutionary War. The act stunned European observers and set a powerful precedent for civilian control of the military and peaceful transitions of authority.",
+    "fact_year": 1783,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington%27s_resignation_as_commander-in-chief",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A stark war film about courage and defiance aligns with an episode celebrating rock musicians who push back against expectations and claim their own kind of battlefield."
+    "match_reason": "Washington’s quiet journey from wartime leader back to private citizen mirrors a reflective voyage; the episode’s seafaring, border-crossing mood fits a story about crossing from empire to independence."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 23 December 1783, George Washington resigned as commander-in-chief of the Continental Army in Annapolis, voluntarily giving up power after winning the American Revolutionary War. The act stunned European observers and set a powerful precedent for civilian control of the military and peaceful transitions of authority.",
-      "fact_year": 1783,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington%27s_resignation_as_commander-in-chief",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "Washington’s quiet journey from wartime leader back to private citizen mirrors a reflective voyage; the episode’s seafaring, border-crossing mood fits a story about crossing from empire to independence."
-    },
     {
       "hour": 6,
       "fact_text": "In 1990, Slovenians voted in a landmark referendum in which 88.5% of the entire electorate backed independence from Yugoslavia. This overwhelming mandate laid the groundwork for Slovenia’s secession the following year and signaled the acceleration of Yugoslavia’s disintegration.",
@@ -646,9 +622,34 @@
         ]
       },
       "match_reason": "A stark war film about courage and defiance aligns with an episode celebrating rock musicians who push back against expectations and claim their own kind of battlefield."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 23 December 1783, George Washington resigned as commander-in-chief of the Continental Army in Annapolis, voluntarily giving up power after winning the American Revolutionary War. The act stunned European observers and set a powerful precedent for civilian control of the military and peaceful transitions of authority.",
+      "fact_year": 1783,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington%27s_resignation_as_commander-in-chief",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "Washington’s quiet journey from wartime leader back to private citizen mirrors a reflective voyage; the episode’s seafaring, border-crossing mood fits a story about crossing from empire to independence."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T04:00:01.209559+00:00"
+  "updated_at": "2025-12-23T05:00:01.285809+00:00"
 }
