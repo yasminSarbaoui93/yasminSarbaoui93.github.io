@@ -1,56 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 23 December 1941, after fifteen days of fierce resistance, Wake Island fell to the Imperial Japanese Army and Navy. The tiny atoll, defended by a small U.S. garrison and civilian contractors, became a powerful early-war symbol of tenacity against overwhelming odds.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
+    "hour": 12,
+    "fact_text": "In 1968, after eleven months of captivity in North Korea, 82 crew members of the USS Pueblo were released and allowed to cross the \"Bridge of No Return\" into South Korea. Their capture on an intelligence-gathering mission had sparked an international crisis, and their staged, coded protest photographs became a subtle act of resistance.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "The intense, high-voltage struggle on a remote Pacific island matches an episode built from blistering guitars and battle-ready rock energy."
+    "match_reason": "A Cold War intelligence drama with hidden messages and psychological tension pairs with an atmospheric, cinematic trip-hop selection that lives in shadows and subtext."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1968, after eleven months of captivity in North Korea, 82 crew members of the USS Pueblo were released and allowed to cross the \"Bridge of No Return\" into South Korea. Their capture on an intelligence-gathering mission had sparked an international crisis, and their staged, coded protest photographs became a subtle act of resistance.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A Cold War intelligence drama with hidden messages and psychological tension pairs with an atmospheric, cinematic trip-hop selection that lives in shadows and subtext."
-    },
     {
       "hour": 13,
       "fact_text": "On this day in 1948, seven high-ranking Japanese military and political leaders convicted by the International Military Tribunal for the Far East were executed at Sugamo Prison. The trials, often called the \"Tokyo Trials\", grappled with the legal and moral questions of holding individuals accountable for systemic wartime atrocities.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "The intense, high-voltage struggle on a remote Pacific island matches an episode built from blistering guitars and battle-ready rock energy."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1968, after eleven months of captivity in North Korea, 82 crew members of the USS Pueblo were released and allowed to cross the \"Bridge of No Return\" into South Korea. Their capture on an intelligence-gathering mission had sparked an international crisis, and their staged, coded protest photographs became a subtle act of resistance.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A Cold War intelligence drama with hidden messages and psychological tension pairs with an atmospheric, cinematic trip-hop selection that lives in shadows and subtext."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T11:00:01.098351+00:00"
+  "updated_at": "2025-12-23T12:00:01.264967+00:00"
 }
