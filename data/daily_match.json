@@ -1,55 +1,30 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1893, Engelbert Humperdinck’s opera \"Hansel and Gretel\" premiered, turning a dark Grimm fairy tale into a lush, orchestral world that became a Christmas favorite in many countries. Its mix of innocence, danger, and dreamy forest magic made it an unlikely but lasting seasonal classic.",
-    "fact_year": 1893,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
+    "hour": 3,
+    "fact_text": "In 1955, the first film adaptation of Väinö Linna’s novel \"The Unknown Soldier\" premiered in Finland, bringing an unvarnished, soldier’s-eye view of World War II to the screen. Its gritty realism and focus on ordinary conscripts helped reshape how Finland remembered its own wartime experience.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #27 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A richly orchestrated fairy-tale opera fits with an episode of immersive, narrative-feeling jazz that paints its own wordless stories."
+    "match_reason": "A stark war film about courage and endurance pairs with a rock episode about defiance and resilience across generations."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1955, the first film adaptation of Väinö Linna’s novel \"The Unknown Soldier\" premiered in Finland, bringing an unvarnished, soldier’s-eye view of World War II to the screen. Its gritty realism and focus on ordinary conscripts helped reshape how Finland remembered its own wartime experience.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A stark war film about courage and endurance pairs with a rock episode about defiance and resilience across generations."
-    },
     {
       "hour": 4,
       "fact_text": "On December 23, 1783, George Washington did something rare for victorious generals: he voluntarily resigned his command of the Continental Army. By stepping away from power, he helped set the tone for a republic where leaders were meant to be temporary stewards, not permanent rulers.",
@@ -639,9 +614,33 @@
         ]
       },
       "match_reason": "A richly orchestrated fairy-tale opera fits with an episode of immersive, narrative-feeling jazz that paints its own wordless stories."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1955, the first film adaptation of Väinö Linna’s novel \"The Unknown Soldier\" premiered in Finland, bringing an unvarnished, soldier’s-eye view of World War II to the screen. Its gritty realism and focus on ordinary conscripts helped reshape how Finland remembered its own wartime experience.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A stark war film about courage and endurance pairs with a rock episode about defiance and resilience across generations."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.018765+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T02:00:01.238191+00:00"
+  "updated_at": "2025-12-23T03:00:01.042476+00:00"
 }
