@@ -1,59 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "During World War II, after 15 days of fierce resistance by a small U.S. garrison, Wake Island fell to the Imperial Japanese Army on December 23, 1941. The outnumbered defenders’ stand turned this tiny atoll into a symbol of stubborn, isolated resistance in the Pacific.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
+    "hour": 11,
+    "fact_text": "On December 23, 1968, 82 crew members from the U.S. spy ship USS Pueblo were finally released by North Korea after eleven months of captivity. The United States signed a forced confession to secure their freedom, only to publicly renounce it immediately afterward.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A remote island siege in the Pacific is counterbalanced by a peaceful modern voyage at sea, connecting through the shared, unpredictable moods of the ocean."
+    "match_reason": "A Cold War incident rooted in surveillance and information control echoes a modern reflection on technology, connection, and psychological captivity."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On December 23, 1968, 82 crew members from the U.S. spy ship USS Pueblo were finally released by North Korea after eleven months of captivity. The United States signed a forced confession to secure their freedom, only to publicly renounce it immediately afterward.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A Cold War incident rooted in surveillance and information control echoes a modern reflection on technology, connection, and psychological captivity."
-    },
     {
       "hour": 12,
       "fact_text": "On this day in 1948, seven high-ranking Japanese military and political leaders convicted by the International Military Tribunal for the Far East were executed at Sugamo Prison. It was Asia’s counterpart to Nuremberg, a legal experiment in prosecuting crimes that had never been formally named just a decade earlier.",
@@ -642,9 +614,34 @@
         ]
       },
       "match_reason": "A remote island siege in the Pacific is counterbalanced by a peaceful modern voyage at sea, connecting through the shared, unpredictable moods of the ocean."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On December 23, 1968, 82 crew members from the U.S. spy ship USS Pueblo were finally released by North Korea after eleven months of captivity. The United States signed a forced confession to secure their freedom, only to publicly renounce it immediately afterward.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Pueblo_(AGER-2)",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A Cold War incident rooted in surveillance and information control echoes a modern reflection on technology, connection, and psychological captivity."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.018765+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T10:00:01.275500+00:00"
+  "updated_at": "2025-12-23T11:00:01.056754+00:00"
 }
