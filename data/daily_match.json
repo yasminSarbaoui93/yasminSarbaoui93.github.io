@@ -1,65 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1893, Engelbert Humperdinck's opera \"Hänsel und Gretel\" received its premiere, transforming a dark folk tale into a lushly orchestrated fairy-tale opera. Conducted by Richard Strauss, it became a holiday tradition in many countries, blending childhood wonder with a surprisingly sophisticated musical language.",
-    "fact_year": 1893,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(opera)",
+    "hour": 4,
+    "fact_text": "In 1955, the first film adaptation of Väinö Linna's novel \"The Unknown Soldier\" premiered in Finland, depicting a Finnish infantry company during World War II from the viewpoint of ordinary soldiers. Its unvarnished portrayal of fear, camaraderie, and disillusionment helped reshape how Finns remembered the war.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A fairy-tale opera about lost children and temptation fits an episode about love’s vulnerability and the childlike emotions that art can awaken."
+    "match_reason": "A stark war film about courage and defiance aligns with an episode celebrating rock musicians who push back against expectations and claim their own kind of battlefield."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1955, the first film adaptation of Väinö Linna's novel \"The Unknown Soldier\" premiered in Finland, depicting a Finnish infantry company during World War II from the viewpoint of ordinary soldiers. Its unvarnished portrayal of fear, camaraderie, and disillusionment helped reshape how Finns remembered the war.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A stark war film about courage and defiance aligns with an episode celebrating rock musicians who push back against expectations and claim their own kind of battlefield."
-    },
     {
       "hour": 5,
       "fact_text": "On 23 December 1783, George Washington resigned as commander-in-chief of the Continental Army in Annapolis, voluntarily giving up power after winning the American Revolutionary War. The act stunned European observers and set a powerful precedent for civilian control of the military and peaceful transitions of authority.",
@@ -657,9 +622,33 @@
         ]
       },
       "match_reason": "A fairy-tale opera about lost children and temptation fits an episode about love’s vulnerability and the childlike emotions that art can awaken."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1955, the first film adaptation of Väinö Linna's novel \"The Unknown Soldier\" premiered in Finland, depicting a Finnish infantry company during World War II from the viewpoint of ordinary soldiers. Its unvarnished portrayal of fear, camaraderie, and disillusionment helped reshape how Finns remembered the war.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A stark war film about courage and defiance aligns with an episode celebrating rock musicians who push back against expectations and claim their own kind of battlefield."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T03:00:01.257248+00:00"
+  "updated_at": "2025-12-23T04:00:01.209559+00:00"
 }
