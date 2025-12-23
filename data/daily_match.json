@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1299, Ghazan Khan of the Ilkhanate defeated a Mamluk army at the Battle of Wadi al-Khaznadar near Homs, one of the last major Mongol victories in the Levant. The clash brought steppe cavalry tactics deep into the heart of the Middle East and briefly revived Mongol ambitions in Syria.",
-    "fact_year": 1299,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ilkhanate",
+    "hour": 11,
+    "fact_text": "On 23 December 1941, after fifteen days of fierce resistance, Wake Island fell to the Imperial Japanese Army and Navy. The tiny atoll, defended by a small U.S. garrison and civilian contractors, became a powerful early-war symbol of tenacity against overwhelming odds.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Mongol horsemen sweeping through desert frontiers connect naturally with Tuareg desert blues, both carrying stories of nomadic warfare, survival, and shifting empires in arid landscapes."
+    "match_reason": "The intense, high-voltage struggle on a remote Pacific island matches an episode built from blistering guitars and battle-ready rock energy."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 23 December 1941, after fifteen days of fierce resistance, Wake Island fell to the Imperial Japanese Army and Navy. The tiny atoll, defended by a small U.S. garrison and civilian contractors, became a powerful early-war symbol of tenacity against overwhelming odds.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The intense, high-voltage struggle on a remote Pacific island matches an episode built from blistering guitars and battle-ready rock energy."
-    },
     {
       "hour": 12,
       "fact_text": "In 1968, after eleven months of captivity in North Korea, 82 crew members of the USS Pueblo were released and allowed to cross the \"Bridge of No Return\" into South Korea. Their capture on an intelligence-gathering mission had sparked an international crisis, and their staged, coded protest photographs became a subtle act of resistance.",
@@ -646,9 +622,34 @@
         ]
       },
       "match_reason": "Mongol horsemen sweeping through desert frontiers connect naturally with Tuareg desert blues, both carrying stories of nomadic warfare, survival, and shifting empires in arid landscapes."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 23 December 1941, after fifteen days of fierce resistance, Wake Island fell to the Imperial Japanese Army and Navy. The tiny atoll, defended by a small U.S. garrison and civilian contractors, became a powerful early-war symbol of tenacity against overwhelming odds.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The intense, high-voltage struggle on a remote Pacific island matches an episode built from blistering guitars and battle-ready rock energy."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T10:00:01.214920+00:00"
+  "updated_at": "2025-12-23T11:00:01.098351+00:00"
 }
