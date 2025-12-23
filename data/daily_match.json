@@ -1,65 +1,40 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 23 December 1783, George Washington resigned as commander-in-chief of the Continental Army in Annapolis, voluntarily giving up power after winning the American Revolutionary War. The act stunned European observers and set a powerful precedent for civilian control of the military and peaceful transitions of authority.",
-    "fact_year": 1783,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington%27s_resignation_as_commander-in-chief",
+    "hour": 6,
+    "fact_text": "In 1990, Slovenians voted in a landmark referendum in which 88.5% of the entire electorate backed independence from Yugoslavia. This overwhelming mandate laid the groundwork for Slovenia’s secession the following year and signaled the acceleration of Yugoslavia’s disintegration.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1990_Slovenian_independence_referendum",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
+        "Progressive Rock",
+        "Post-Punk",
         "French Pop",
-        "Italian Singer-Songwriter"
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "Washington’s quiet journey from wartime leader back to private citizen mirrors a reflective voyage; the episode’s seafaring, border-crossing mood fits a story about crossing from empire to independence."
+    "match_reason": "A nation choosing a new destination for itself resonates with an episode framed as a journey into new territories and redefining collective identity through sound."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1990, Slovenians voted in a landmark referendum in which 88.5% of the entire electorate backed independence from Yugoslavia. This overwhelming mandate laid the groundwork for Slovenia’s secession the following year and signaled the acceleration of Yugoslavia’s disintegration.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1990_Slovenian_independence_referendum",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A nation choosing a new destination for itself resonates with an episode framed as a journey into new territories and redefining collective identity through sound."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1970, the Democratic Republic of the Congo was officially declared a one-party state under President Joseph-Désiré Mobutu. The move consolidated his power and ushered in decades of authoritarian rule under the banner of 'authenticité', a state ideology that tried to reshape cultural identity while silencing dissent.",
@@ -647,9 +622,43 @@
         ]
       },
       "match_reason": "Washington’s quiet journey from wartime leader back to private citizen mirrors a reflective voyage; the episode’s seafaring, border-crossing mood fits a story about crossing from empire to independence."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1990, Slovenians voted in a landmark referendum in which 88.5% of the entire electorate backed independence from Yugoslavia. This overwhelming mandate laid the groundwork for Slovenia’s secession the following year and signaled the acceleration of Yugoslavia’s disintegration.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1990_Slovenian_independence_referendum",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A nation choosing a new destination for itself resonates with an episode framed as a journey into new territories and redefining collective identity through sound."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T05:00:01.285809+00:00"
+  "updated_at": "2025-12-23T06:00:01.674318+00:00"
 }
