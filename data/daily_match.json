@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 2015, a bomb exploded at Istanbul’s Sabiha Gökçen International Airport, killing a cleaner and injuring others in a nighttime attack claimed days later by the Kurdistan Freedom Hawks. The blast underscored how even places of transit — liminal spaces between journeys — can become flashpoints in broader political conflicts.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2015_Sabiha_G%C3%B6k%C3%A7en_Airport_bombing",
+    "hour": 17,
+    "fact_text": "On this day in 1984, Aeroflot Flight 3519 crashed near Krasnoyarsk after an engine fire led to an attempted emergency landing, killing 110 of the 111 people on board. The accident, involving a Tupolev Tu-154, exposed maintenance issues and the risks of flying over vast, sparsely populated Siberian territory.",
+    "fact_year": 1984,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3519",
     "episode": {
-      "id": 38,
-      "title": "Morning Drops #32 - A Weekend In London",
-      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Dele Sosimi - E Go Betta",
-        "Jimmy Castor Bunch - It's Just Begun",
-        "Little Simz feat. Obongjayar - Lion",
-        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Funk",
-        "UK Hip-Hop",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "An airport bombing in a global hub city connects with an episode steeped in big-city movement and nightlife, highlighting how crowded urban spaces can hold both joy and vulnerability."
+    "match_reason": "A tragic aircraft fire over the cold expanses of Siberia contrasts with an Arctic voyage episode, linking themes of risk, remote frontiers, and the thin line between awe and danger in extreme environments."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On this day in 1984, Aeroflot Flight 3519 crashed near Krasnoyarsk after an engine fire led to an attempted emergency landing, killing 110 of the 111 people on board. The accident, involving a Tupolev Tu-154, exposed maintenance issues and the risks of flying over vast, sparsely populated Siberian territory.",
-      "fact_year": 1984,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3519",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A tragic aircraft fire over the cold expanses of Siberia contrasts with an Arctic voyage episode, linking themes of risk, remote frontiers, and the thin line between awe and danger in extreme environments."
-    },
     {
       "hour": 18,
       "fact_text": "In 1688, as the Glorious Revolution unfolded, King James II fled England for France after his army and political support evaporated, effectively abdicating the throne. His departure paved the way for William and Mary’s joint reign and helped entrench constitutional monarchy in Britain.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "An airport bombing in a global hub city connects with an episode steeped in big-city movement and nightlife, highlighting how crowded urban spaces can hold both joy and vulnerability."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On this day in 1984, Aeroflot Flight 3519 crashed near Krasnoyarsk after an engine fire led to an attempted emergency landing, killing 110 of the 111 people on board. The accident, involving a Tupolev Tu-154, exposed maintenance issues and the risks of flying over vast, sparsely populated Siberian territory.",
+      "fact_year": 1984,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_3519",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A tragic aircraft fire over the cold expanses of Siberia contrasts with an Arctic voyage episode, linking themes of risk, remote frontiers, and the thin line between awe and danger in extreme environments."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T16:00:01.266984+00:00"
+  "updated_at": "2025-12-23T17:00:01.094639+00:00"
 }
