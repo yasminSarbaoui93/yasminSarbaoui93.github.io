@@ -1,59 +1,34 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On December 23, 1299, the Mongol Ilkhan Ghazan defeated a Mamluk army at the Battle of Wadi al-Khaznadar near Homs. It was one of the few major Mongol victories against the Mamluks in the Levant, but the gains evaporated quickly as supply lines and alliances shifted.",
-    "fact_year": 1299,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ilkhanate",
+    "hour": 10,
+    "fact_text": "During World War II, after 15 days of fierce resistance by a small U.S. garrison, Wake Island fell to the Imperial Japanese Army on December 23, 1941. The outnumbered defenders’ stand turned this tiny atoll into a symbol of stubborn, isolated resistance in the Pacific.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A sweeping medieval clash across highlands and plains mirrors an episode rooted in mountainous landscapes and long-view reflections."
+    "match_reason": "A remote island siege in the Pacific is counterbalanced by a peaceful modern voyage at sea, connecting through the shared, unpredictable moods of the ocean."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "During World War II, after 15 days of fierce resistance by a small U.S. garrison, Wake Island fell to the Imperial Japanese Army on December 23, 1941. The outnumbered defenders’ stand turned this tiny atoll into a symbol of stubborn, isolated resistance in the Pacific.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A remote island siege in the Pacific is counterbalanced by a peaceful modern voyage at sea, connecting through the shared, unpredictable moods of the ocean."
-    },
     {
       "hour": 11,
       "fact_text": "On December 23, 1968, 82 crew members from the U.S. spy ship USS Pueblo were finally released by North Korea after eleven months of captivity. The United States signed a forced confession to secure their freedom, only to publicly renounce it immediately afterward.",
@@ -639,9 +614,37 @@
         ]
       },
       "match_reason": "A sweeping medieval clash across highlands and plains mirrors an episode rooted in mountainous landscapes and long-view reflections."
+    },
+    {
+      "hour": 10,
+      "fact_text": "During World War II, after 15 days of fierce resistance by a small U.S. garrison, Wake Island fell to the Imperial Japanese Army on December 23, 1941. The outnumbered defenders’ stand turned this tiny atoll into a symbol of stubborn, isolated resistance in the Pacific.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wake_Island",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A remote island siege in the Pacific is counterbalanced by a peaceful modern voyage at sea, connecting through the shared, unpredictable moods of the ocean."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.018765+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T09:00:01.065417+00:00"
+  "updated_at": "2025-12-23T10:00:01.275500+00:00"
 }
