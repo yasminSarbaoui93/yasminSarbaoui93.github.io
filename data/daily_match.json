@@ -1,65 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1986, the experimental aircraft Rutan Voyager completed the first nonstop, unrefueled flight around the world, landing after nine days in the air. Pilots Dick Rutan and Jeana Yeager had to carefully manage every drop of fuel, sometimes skimming just meters above the ocean to catch denser air and save energy.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rutan_Voyager",
+    "hour": 1,
+    "fact_text": "On December 23, 1954, surgeons J. Hartwell Harrison and Joseph Murray performed the first successful kidney transplant between identical twins in Boston. At a time when organ rejection was poorly understood, this operation quietly opened the door to modern transplant medicine.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A record-breaking nonstop flight around the planet pairs with an ‘on the move’ travel soundtrack built for momentum and long journeys."
+    "match_reason": "A delicate, life-giving surgery resonates with a gentle, contemplative downtempo set that feels like a slow, healing heartbeat."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On December 23, 1954, surgeons J. Hartwell Harrison and Joseph Murray performed the first successful kidney transplant between identical twins in Boston. At a time when organ rejection was poorly understood, this operation quietly opened the door to modern transplant medicine.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A delicate, life-giving surgery resonates with a gentle, contemplative downtempo set that feels like a slow, healing heartbeat."
-    },
     {
       "hour": 2,
       "fact_text": "In 1893, Engelbert Humperdinck’s opera \"Hansel and Gretel\" premiered, turning a dark Grimm fairy tale into a lush, orchestral world that became a Christmas favorite in many countries. Its mix of innocence, danger, and dreamy forest magic made it an unlikely but lasting seasonal classic.",
@@ -648,9 +614,34 @@
         ]
       },
       "match_reason": "A record-breaking nonstop flight around the planet pairs with an ‘on the move’ travel soundtrack built for momentum and long journeys."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On December 23, 1954, surgeons J. Hartwell Harrison and Joseph Murray performed the first successful kidney transplant between identical twins in Boston. At a time when organ rejection was poorly understood, this operation quietly opened the door to modern transplant medicine.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A delicate, life-giving surgery resonates with a gentle, contemplative downtempo set that feels like a slow, healing heartbeat."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.018765+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T00:00:50.991856+00:00"
+  "updated_at": "2025-12-23T01:00:01.238782+00:00"
 }
