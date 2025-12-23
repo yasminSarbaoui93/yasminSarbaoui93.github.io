@@ -1,50 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 23 December 1954, surgeons Joseph Murray and J. Hartwell Harrison performed the first successful human kidney transplant in Boston. The operation, done between identical twin brothers, proved that organ transplantation could work and opened the door to modern transplant medicine.",
-    "fact_year": 1954,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kidney_transplantation",
+    "hour": 2,
+    "fact_text": "In 2002, a U.S. MQ-1 Predator drone was shot down by an Iraqi MiG-25, marking the first known combat engagement between an unmanned aerial vehicle and a conventional piloted aircraft. The brief encounter over the no-fly zone foreshadowed a new era in which machines would increasingly share — and contest — the skies with humans.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "song 1"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "genre 1"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Pioneering transplant surgery evokes themes of vulnerability, risk, and imperfect breakthroughs, resonating with an episode that celebrates imperfection and experimental paths to healing."
+    "match_reason": "A drone-versus-jet encounter is a vivid symbol of our changing relationship with technology, echoing an episode that questions how machines mediate modern life and connection."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 2002, a U.S. MQ-1 Predator drone was shot down by an Iraqi MiG-25, marking the first known combat engagement between an unmanned aerial vehicle and a conventional piloted aircraft. The brief encounter over the no-fly zone foreshadowed a new era in which machines would increasingly share — and contest — the skies with humans.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A drone-versus-jet encounter is a vivid symbol of our changing relationship with technology, echoing an episode that questions how machines mediate modern life and connection."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1893, Engelbert Humperdinck's opera \"Hänsel und Gretel\" received its premiere, transforming a dark folk tale into a lushly orchestrated fairy-tale opera. Conducted by Richard Strauss, it became a holiday tradition in many countries, blending childhood wonder with a surprisingly sophisticated musical language.",
@@ -641,9 +622,34 @@
         ]
       },
       "match_reason": "Pioneering transplant surgery evokes themes of vulnerability, risk, and imperfect breakthroughs, resonating with an episode that celebrates imperfection and experimental paths to healing."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 2002, a U.S. MQ-1 Predator drone was shot down by an Iraqi MiG-25, marking the first known combat engagement between an unmanned aerial vehicle and a conventional piloted aircraft. The brief encounter over the no-fly zone foreshadowed a new era in which machines would increasingly share — and contest — the skies with humans.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/General_Atomics_MQ-1_Predator",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A drone-versus-jet encounter is a vivid symbol of our changing relationship with technology, echoing an episode that questions how machines mediate modern life and connection."
     }
   ],
   "generated_at": "2025-12-23T00:00:00.013139+00:00",
   "date": "2025-12-23",
-  "updated_at": "2025-12-23T01:00:01.054802+00:00"
+  "updated_at": "2025-12-23T02:00:01.143114+00:00"
 }
