@@ -1,53 +1,28 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On this day in 1946, scientists in the Soviet Union started the first self-sustaining nuclear chain reaction in Europe inside the F-1 research reactor. It was a quietly pivotal moment, proving they had mastered the invisible fire that powers both bombs and reactors.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)",
+    "hour": 6,
+    "fact_text": "On December 25, 1962, the Soviet Union carried out its final above-ground nuclear weapons test, just months before agreeing to the Partial Test Ban Treaty. After years of mushroom clouds in the sky, the world’s superpowers began moving their detonations underground, a small but real step toward limiting radioactive fallout.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1962_Soviet_nuclear_tests",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A nuclear chain reaction is the ultimate ‘electric shock’ to physics and politics alike; high-voltage blues rock fits the intensity and danger of unlocking atomic energy."
+    "match_reason": "Ending atmospheric tests is a kind of ‘unboxing’ from old doctrines of power; conscious rap’s questioning energy matches a planet slowly rethinking its relationship with nuclear fire."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On December 25, 1962, the Soviet Union carried out its final above-ground nuclear weapons test, just months before agreeing to the Partial Test Ban Treaty. After years of mushroom clouds in the sky, the world’s superpowers began moving their detonations underground, a small but real step toward limiting radioactive fallout.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1962_Soviet_nuclear_tests",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "Ending atmospheric tests is a kind of ‘unboxing’ from old doctrines of power; conscious rap’s questioning energy matches a planet slowly rethinking its relationship with nuclear fire."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1932, a magnitude 7.6 earthquake struck Gansu, China, collapsing cave dwellings and buildings and killing around 275 people. Hidden faults deep beneath the desert reminded humans that the solid Earth is constantly shifting under their feet.",
@@ -628,9 +603,31 @@
         ]
       },
       "match_reason": "A nuclear chain reaction is the ultimate ‘electric shock’ to physics and politics alike; high-voltage blues rock fits the intensity and danger of unlocking atomic energy."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On December 25, 1962, the Soviet Union carried out its final above-ground nuclear weapons test, just months before agreeing to the Partial Test Ban Treaty. After years of mushroom clouds in the sky, the world’s superpowers began moving their detonations underground, a small but real step toward limiting radioactive fallout.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1962_Soviet_nuclear_tests",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "Ending atmospheric tests is a kind of ‘unboxing’ from old doctrines of power; conscious rap’s questioning energy matches a planet slowly rethinking its relationship with nuclear fire."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T05:00:01.619199+00:00"
+  "updated_at": "2025-12-25T06:00:00.962163+00:00"
 }
