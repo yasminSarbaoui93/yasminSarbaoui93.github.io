@@ -1,67 +1,39 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 25 December 1492, Columbus’s flagship Santa María ran aground off what is now Haiti after the night watch fell asleep. The wreck forced the crew to dismantle the ship and build a fort, La Navidad, an accident that reshaped the first European foothold in the Americas.",
-    "fact_year": 1492,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship)",
+    "hour": 5,
+    "fact_text": "On 25 December 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s state broadcaster. Working with improvised equipment, the station became a lifeline for news, identity, and culture during a time of deep division.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Both stories unfold on wooden decks above deep water—one a cast of modern friends under sail, the other a fateful navigational mistake that stranded a 15th‑century crew far from home."
+    "match_reason": "Bayrak Radio’s improvised first broadcast as a voice for a community mirrors Sedna FM’s own ‘where it all began’ origin energy as an independent, culture‑driven radio project."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 25 December 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s state broadcaster. Working with improvised equipment, the station became a lifeline for news, identity, and culture during a time of deep division.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "Bayrak Radio’s improvised first broadcast as a voice for a community mirrors Sedna FM’s own ‘where it all began’ origin energy as an independent, culture‑driven radio project."
-    },
     {
       "hour": 6,
       "fact_text": "On 25 December 1758, a Saxon farmer‑astronomer named Johann Georg Palitzsch spotted a familiar fuzzy star in the sky—Halley’s Comet returning exactly when Edmond Halley had predicted decades after his death. It was the first time a comet’s return had been forecast, turning a terrifying omen into a triumph of celestial mechanics.",
@@ -655,9 +627,42 @@
         ]
       },
       "match_reason": "Both stories unfold on wooden decks above deep water—one a cast of modern friends under sail, the other a fateful navigational mistake that stranded a 15th‑century crew far from home."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 25 December 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s state broadcaster. Working with improvised equipment, the station became a lifeline for news, identity, and culture during a time of deep division.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "Bayrak Radio’s improvised first broadcast as a voice for a community mirrors Sedna FM’s own ‘where it all began’ origin energy as an independent, culture‑driven radio project."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009664+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T04:00:01.406423+00:00"
+  "updated_at": "2025-12-25T05:00:01.134858+00:00"
 }
