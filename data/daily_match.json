@@ -1,59 +1,34 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On this day in 1932, a magnitude 7.6 earthquake struck Gansu, China, collapsing cave dwellings and buildings and killing around 275 people. Hidden faults deep beneath the desert reminded humans that the solid Earth is constantly shifting under their feet.",
-    "fact_year": 1932,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
+    "hour": 8,
+    "fact_text": "On December 25, 1492, Columbus’s flagship Santa María ran aground on a reef off what is now Haiti after the crew failed to keep proper watch. The stranded timbers were dismantled to build a small fort, turning a navigational mistake into an improvised foothold in the Caribbean.",
+    "fact_year": 1492,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship)",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "An earthquake is the Earth’s own deep movement beneath the surface; an episode about ‘immersing’ and going below the obvious mirrors the hidden tectonic forces reshaping landscapes."
+    "match_reason": "A shipwreck and a week at sea both revolve around the ocean’s moods; a sailing-themed episode provides a human-scale echo to Columbus’s fateful night on the reef."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On December 25, 1492, Columbus’s flagship Santa María ran aground on a reef off what is now Haiti after the crew failed to keep proper watch. The stranded timbers were dismantled to build a small fort, turning a navigational mistake into an improvised foothold in the Caribbean.",
-      "fact_year": 1492,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship)",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A shipwreck and a week at sea both revolve around the ocean’s moods; a sailing-themed episode provides a human-scale echo to Columbus’s fateful night on the reef."
-    },
     {
       "hour": 9,
       "fact_text": "On this day in 1776, George Washington led the Continental Army across an ice-choked Delaware River under cover of night. The freezing surprise attack they launched the next morning at Trenton helped rescue a faltering revolution.",
@@ -628,9 +603,37 @@
         ]
       },
       "match_reason": "An earthquake is the Earth’s own deep movement beneath the surface; an episode about ‘immersing’ and going below the obvious mirrors the hidden tectonic forces reshaping landscapes."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On December 25, 1492, Columbus’s flagship Santa María ran aground on a reef off what is now Haiti after the crew failed to keep proper watch. The stranded timbers were dismantled to build a small fort, turning a navigational mistake into an improvised foothold in the Caribbean.",
+      "fact_year": 1492,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(ship)",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A shipwreck and a week at sea both revolve around the ocean’s moods; a sailing-themed episode provides a human-scale echo to Columbus’s fateful night on the reef."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T07:00:01.475964+00:00"
+  "updated_at": "2025-12-25T08:00:01.424943+00:00"
 }
