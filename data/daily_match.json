@@ -1,65 +1,40 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On December 25, 1758, Halley’s Comet reappeared right on schedule, just as Edmond Halley had predicted years after his death. It was the first time a comet’s return had been successfully forecast, turning a terrifying omen into a triumph of mathematics and celestial mechanics.",
-    "fact_year": 1758,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+    "hour": 3,
+    "fact_text": "On this day in 1968, Apollo 8 executed the first successful Trans-Earth Injection, a precise engine burn that flung three astronauts away from lunar orbit and back home across 380,000 kilometers of dark space. It was essentially a controlled fall from the Moon to Earth, navigated with slide rules and courage.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A slowly returning comet on a centuries-long orbit pairs with a ‘Slow Planet’ soundtrack—both invite us to feel cosmic time stretching out in calm, measured cycles."
+    "match_reason": "A trajectory home from lunar orbit fits a ‘Destination’ episode: Pink Floyd’s spacey tones and the idea of a collective voyage echo Apollo 8’s daring path back to Earth."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 1968, Apollo 8 executed the first successful Trans-Earth Injection, a precise engine burn that flung three astronauts away from lunar orbit and back home across 380,000 kilometers of dark space. It was essentially a controlled fall from the Moon to Earth, navigated with slide rules and courage.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A trajectory home from lunar orbit fits a ‘Destination’ episode: Pink Floyd’s spacey tones and the idea of a collective voyage echo Apollo 8’s daring path back to Earth."
-    },
     {
       "hour": 4,
       "fact_text": "On December 25, 2003, the British-built Beagle 2 lander went silent as it descended toward Mars, never transmitting from the surface. Over a decade later, orbital images revealed it had actually reached the planet and partially deployed, turning a presumed total loss into a story of bittersweet near-success.",
@@ -628,9 +603,43 @@
         ]
       },
       "match_reason": "A slowly returning comet on a centuries-long orbit pairs with a ‘Slow Planet’ soundtrack—both invite us to feel cosmic time stretching out in calm, measured cycles."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1968, Apollo 8 executed the first successful Trans-Earth Injection, a precise engine burn that flung three astronauts away from lunar orbit and back home across 380,000 kilometers of dark space. It was essentially a controlled fall from the Moon to Earth, navigated with slide rules and courage.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A trajectory home from lunar orbit fits a ‘Destination’ episode: Pink Floyd’s spacey tones and the idea of a collective voyage echo Apollo 8’s daring path back to Earth."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T02:00:01.339902+00:00"
+  "updated_at": "2025-12-25T03:00:01.199004+00:00"
 }
