@@ -1,55 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 25 December 1553, Mapuche forces led by the young strategist Lautaro ambushed and defeated Spanish conquistadors at the Battle of Tucapel in Chile. They captured and executed the colonial governor Pedro de Valdivia, proving that indigenous resistance could fracture imperial expansion.",
-    "fact_year": 1553,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
+    "hour": 12,
+    "fact_text": "On 25 December 1962, the Soviet Union conducted its final above‑ground nuclear weapons test, just months before signing the Partial Nuclear Test Ban Treaty. The blast marked the end of an era when humans regularly injected radioactive dust into the atmosphere in the name of geopolitical brinkmanship.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1962_Soviet_nuclear_tests",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The Mapuche uprising parallels Tuareg musical stories of land, resistance, and survival against colonizing forces, giving this battle a sonic echo in desert‑blues defiance."
+    "match_reason": "Just as the treaty forced a rethink of our relationship with nuclear technology, ‘Nomophobia’ questions our dependency on another powerful technology—our phones—and how we choose to live with it."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On 25 December 1962, the Soviet Union conducted its final above‑ground nuclear weapons test, just months before signing the Partial Nuclear Test Ban Treaty. The blast marked the end of an era when humans regularly injected radioactive dust into the atmosphere in the name of geopolitical brinkmanship.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1962_Soviet_nuclear_tests",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Just as the treaty forced a rethink of our relationship with nuclear technology, ‘Nomophobia’ questions our dependency on another powerful technology—our phones—and how we choose to live with it."
-    },
     {
       "hour": 13,
       "fact_text": "On 25 December 1814, Reverend Samuel Marsden held the first Christian service on New Zealand soil at Rangihoua Bay, preaching in English while Māori chiefs and communities watched and listened. The moment symbolized both cultural encounter and the beginning of profound, often painful transformations for indigenous Aotearoa.",
@@ -651,9 +627,34 @@
         ]
       },
       "match_reason": "The Mapuche uprising parallels Tuareg musical stories of land, resistance, and survival against colonizing forces, giving this battle a sonic echo in desert‑blues defiance."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On 25 December 1962, the Soviet Union conducted its final above‑ground nuclear weapons test, just months before signing the Partial Nuclear Test Ban Treaty. The blast marked the end of an era when humans regularly injected radioactive dust into the atmosphere in the name of geopolitical brinkmanship.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1962_Soviet_nuclear_tests",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Just as the treaty forced a rethink of our relationship with nuclear technology, ‘Nomophobia’ questions our dependency on another powerful technology—our phones—and how we choose to live with it."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009664+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T11:00:01.192428+00:00"
+  "updated_at": "2025-12-25T12:00:01.053147+00:00"
 }
