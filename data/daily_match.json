@@ -1,56 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On this day in 2016, a Russian military Tu-154 aircraft carrying the famed Alexandrov Ensemble—an army choir, orchestra, and dance troupe—crashed into the Black Sea, killing all 92 aboard. The disaster wiped out a large portion of a cultural institution in a single, heartbreaking moment.",
-    "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alexandrov_Ensemble",
+    "hour": 20,
+    "fact_text": "On December 25, 1932, the Changma earthquake didn’t just rattle buildings—it reshaped the landscape in Gansu, China, opening fissures and landslides across the desert edge. Many of those scars remain visible, quiet geological signatures of a violent winter morning.",
+    "fact_year": 1932,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "The loss of an entire choir of voices meets an episode honoring powerful singers; it’s a somber reminder of how fragile, and precious, human vocal traditions are."
+    "match_reason": "The sudden, physical shock of an earthquake mirrors the explosive, disciplined impact of Muay Thai kicks and punches; both are forces that change how bodies move through the world."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On December 25, 1932, the Changma earthquake didn’t just rattle buildings—it reshaped the landscape in Gansu, China, opening fissures and landslides across the desert edge. Many of those scars remain visible, quiet geological signatures of a violent winter morning.",
-      "fact_year": 1932,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "The sudden, physical shock of an earthquake mirrors the explosive, disciplined impact of Muay Thai kicks and punches; both are forces that change how bodies move through the world."
-    },
     {
       "hour": 21,
       "fact_text": "On this day in 1963, Turkish Cypriots answered exclusion from state media by wiring up their own transmitters and creating Bayrak Radio. Their improvised “pirate” station turned radio waves into a tool of identity, resilience, and defiance.",
@@ -628,9 +603,34 @@
         ]
       },
       "match_reason": "The loss of an entire choir of voices meets an episode honoring powerful singers; it’s a somber reminder of how fragile, and precious, human vocal traditions are."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On December 25, 1932, the Changma earthquake didn’t just rattle buildings—it reshaped the landscape in Gansu, China, opening fissures and landslides across the desert edge. Many of those scars remain visible, quiet geological signatures of a violent winter morning.",
+      "fact_year": 1932,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "The sudden, physical shock of an earthquake mirrors the explosive, disciplined impact of Muay Thai kicks and punches; both are forces that change how bodies move through the world."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T19:00:01.451031+00:00"
+  "updated_at": "2025-12-25T20:00:01.070011+00:00"
 }
