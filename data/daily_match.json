@@ -1,54 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On 25 December 1725, Johann Sebastian Bach premiered his Christmas cantata ‘Unser Mund sei voll Lachens’ (BWV 110) in Leipzig, using music to make the sound of laughter ripple through the choir. With trumpets, timpani, and playful vocal lines, he turned sacred celebration into a kind of orchestrated joy.",
-    "fact_year": 1725,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Unser_Mund_sei_voll_Lachens,_BWV_110",
+    "hour": 9,
+    "fact_text": "On 25 December 1932, a magnitude 7.6 earthquake struck Gansu, China, tearing open the ground and killing around 275 people in a sparsely populated region. The quake ruptured more than 150 kilometers of fault, a reminder that Earth’s crust is constantly shifting, even on a day humans mark for stillness.",
+    "fact_year": 1932,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A Baroque Christmas cantata that still moves listeners centuries later fits the idea of a ‘timeless legacy’ of music that keeps carrying joy and emotion across ages."
+    "match_reason": "An earthquake exposes the hidden motion beneath solid ground; the episode invites us to ‘go below the surface’ and feel deeper forces quietly shaping our world."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On 25 December 1932, a magnitude 7.6 earthquake struck Gansu, China, tearing open the ground and killing around 275 people in a sparsely populated region. The quake ruptured more than 150 kilometers of fault, a reminder that Earth’s crust is constantly shifting, even on a day humans mark for stillness.",
-      "fact_year": 1932,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "An earthquake exposes the hidden motion beneath solid ground; the episode invites us to ‘go below the surface’ and feel deeper forces quietly shaping our world."
-    },
     {
       "hour": 10,
       "fact_text": "On the night of 25 December 1776, George Washington led some 2,400 soldiers silently across an ice‑clogged Delaware River in a desperate winter gamble. Their surprise attack on Trenton the next morning turned a collapsing revolution into a revived cause.",
@@ -650,9 +627,34 @@
         ]
       },
       "match_reason": "A Baroque Christmas cantata that still moves listeners centuries later fits the idea of a ‘timeless legacy’ of music that keeps carrying joy and emotion across ages."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On 25 December 1932, a magnitude 7.6 earthquake struck Gansu, China, tearing open the ground and killing around 275 people in a sparsely populated region. The quake ruptured more than 150 kilometers of fault, a reminder that Earth’s crust is constantly shifting, even on a day humans mark for stillness.",
+      "fact_year": 1932,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1932_Changma_earthquake",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "An earthquake exposes the hidden motion beneath solid ground; the episode invites us to ‘go below the surface’ and feel deeper forces quietly shaping our world."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009664+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T08:00:01.226681+00:00"
+  "updated_at": "2025-12-25T09:00:01.044043+00:00"
 }
