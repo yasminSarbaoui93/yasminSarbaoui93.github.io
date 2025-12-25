@@ -1,64 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On the night of 25 December 1776, George Washington led some 2,400 soldiers silently across an ice‑clogged Delaware River in a desperate winter gamble. Their surprise attack on Trenton the next morning turned a collapsing revolution into a revived cause.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Continental_Army",
+    "hour": 11,
+    "fact_text": "On 25 December 1553, Mapuche forces led by the young strategist Lautaro ambushed and defeated Spanish conquistadors at the Battle of Tucapel in Chile. They captured and executed the colonial governor Pedro de Valdivia, proving that indigenous resistance could fracture imperial expansion.",
+    "fact_year": 1553,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "The icy river crossing was a literal reset—a ‘Zero Zero’ moment of moving against all odds—matching the episode’s theme of starting fresh and embracing the journey in motion."
+    "match_reason": "The Mapuche uprising parallels Tuareg musical stories of land, resistance, and survival against colonizing forces, giving this battle a sonic echo in desert‑blues defiance."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 25 December 1553, Mapuche forces led by the young strategist Lautaro ambushed and defeated Spanish conquistadors at the Battle of Tucapel in Chile. They captured and executed the colonial governor Pedro de Valdivia, proving that indigenous resistance could fracture imperial expansion.",
-      "fact_year": 1553,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The Mapuche uprising parallels Tuareg musical stories of land, resistance, and survival against colonizing forces, giving this battle a sonic echo in desert‑blues defiance."
-    },
     {
       "hour": 12,
       "fact_text": "On 25 December 1962, the Soviet Union conducted its final above‑ground nuclear weapons test, just months before signing the Partial Nuclear Test Ban Treaty. The blast marked the end of an era when humans regularly injected radioactive dust into the atmosphere in the name of geopolitical brinkmanship.",
@@ -661,9 +627,33 @@
         ]
       },
       "match_reason": "The icy river crossing was a literal reset—a ‘Zero Zero’ moment of moving against all odds—matching the episode’s theme of starting fresh and embracing the journey in motion."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 25 December 1553, Mapuche forces led by the young strategist Lautaro ambushed and defeated Spanish conquistadors at the Battle of Tucapel in Chile. They captured and executed the colonial governor Pedro de Valdivia, proving that indigenous resistance could fracture imperial expansion.",
+      "fact_year": 1553,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The Mapuche uprising parallels Tuareg musical stories of land, resistance, and survival against colonizing forces, giving this battle a sonic echo in desert‑blues defiance."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009664+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T10:00:01.087910+00:00"
+  "updated_at": "2025-12-25T11:00:01.192428+00:00"
 }
