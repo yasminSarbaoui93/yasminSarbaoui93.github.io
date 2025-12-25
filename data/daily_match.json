@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On this day in 2021, the James Webb Space Telescope launched, unfolding into a gold-eyed observatory designed to look back over 13 billion years in time. Its infrared gaze can peer through cosmic dust to watch the first galaxies ignite.",
-    "fact_year": 2021,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+    "hour": 2,
+    "fact_text": "On December 25, 1758, Halley’s Comet reappeared right on schedule, just as Edmond Halley had predicted years after his death. It was the first time a comet’s return had been successfully forecast, turning a terrifying omen into a triumph of mathematics and celestial mechanics.",
+    "fact_year": 1758,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Trip-Hop",
         "Downtempo",
-        "Electronic"
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "Webb rewrites how we ‘see’ the universe much like trip-hop rewrote how we hear rhythm and atmosphere—both are boundary-blurring, cinematic explorations of depth and shadow."
+    "match_reason": "A slowly returning comet on a centuries-long orbit pairs with a ‘Slow Planet’ soundtrack—both invite us to feel cosmic time stretching out in calm, measured cycles."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On December 25, 1758, Halley’s Comet reappeared right on schedule, just as Edmond Halley had predicted years after his death. It was the first time a comet’s return had been successfully forecast, turning a terrifying omen into a triumph of mathematics and celestial mechanics.",
-      "fact_year": 1758,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A slowly returning comet on a centuries-long orbit pairs with a ‘Slow Planet’ soundtrack—both invite us to feel cosmic time stretching out in calm, measured cycles."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1968, Apollo 8 executed the first successful Trans-Earth Injection, a precise engine burn that flung three astronauts away from lunar orbit and back home across 380,000 kilometers of dark space. It was essentially a controlled fall from the Moon to Earth, navigated with slide rules and courage.",
@@ -628,9 +603,34 @@
         ]
       },
       "match_reason": "Webb rewrites how we ‘see’ the universe much like trip-hop rewrote how we hear rhythm and atmosphere—both are boundary-blurring, cinematic explorations of depth and shadow."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On December 25, 1758, Halley’s Comet reappeared right on schedule, just as Edmond Halley had predicted years after his death. It was the first time a comet’s return had been successfully forecast, turning a terrifying omen into a triumph of mathematics and celestial mechanics.",
+      "fact_year": 1758,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley's_Comet",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A slowly returning comet on a centuries-long orbit pairs with a ‘Slow Planet’ soundtrack—both invite us to feel cosmic time stretching out in calm, measured cycles."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T01:00:01.092954+00:00"
+  "updated_at": "2025-12-25T02:00:01.339902+00:00"
 }
