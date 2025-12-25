@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On December 25, 2004, the Cassini spacecraft released the Huygens probe, sending a tiny robotic lander on a daring solo dive toward Saturn’s moon Titan. Three weeks later it would become the first craft to land in the outer Solar System, revealing alien orange skies and rivers of liquid hydrocarbons.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Huygens_(spacecraft)",
+    "hour": 1,
+    "fact_text": "On this day in 2021, the James Webb Space Telescope launched, unfolding into a gold-eyed observatory designed to look back over 13 billion years in time. Its infrared gaze can peer through cosmic dust to watch the first galaxies ignite.",
+    "fact_year": 2021,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A probe released into the vastness of Saturn’s system mirrors the episode’s theme of seeing emptiness as creative space and making a bold ‘space shift’ in perspective."
+    "match_reason": "Webb rewrites how we ‘see’ the universe much like trip-hop rewrote how we hear rhythm and atmosphere—both are boundary-blurring, cinematic explorations of depth and shadow."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 2021, the James Webb Space Telescope launched, unfolding into a gold-eyed observatory designed to look back over 13 billion years in time. Its infrared gaze can peer through cosmic dust to watch the first galaxies ignite.",
-      "fact_year": 2021,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Webb rewrites how we ‘see’ the universe much like trip-hop rewrote how we hear rhythm and atmosphere—both are boundary-blurring, cinematic explorations of depth and shadow."
-    },
     {
       "hour": 2,
       "fact_text": "On December 25, 1758, Halley’s Comet reappeared right on schedule, just as Edmond Halley had predicted years after his death. It was the first time a comet’s return had been successfully forecast, turning a terrifying omen into a triumph of mathematics and celestial mechanics.",
@@ -626,9 +603,34 @@
         ]
       },
       "match_reason": "A probe released into the vastness of Saturn’s system mirrors the episode’s theme of seeing emptiness as creative space and making a bold ‘space shift’ in perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 2021, the James Webb Space Telescope launched, unfolding into a gold-eyed observatory designed to look back over 13 billion years in time. Its infrared gaze can peer through cosmic dust to watch the first galaxies ignite.",
+      "fact_year": 2021,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Webb rewrites how we ‘see’ the universe much like trip-hop rewrote how we hear rhythm and atmosphere—both are boundary-blurring, cinematic explorations of depth and shadow."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T00:00:50.373668+00:00"
+  "updated_at": "2025-12-25T01:00:01.092954+00:00"
 }
