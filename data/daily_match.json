@@ -1,55 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On this day in 1776, George Washington led the Continental Army across an ice-choked Delaware River under cover of night. The freezing surprise attack they launched the next morning at Trenton helped rescue a faltering revolution.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "hour": 10,
+    "fact_text": "On December 25, 1553, Mapuche warriors under Lautaro ambushed and defeated Spanish forces at the Battle of Tucapel in Chile, capturing and executing governor Pedro de Valdivia. It was a stunning indigenous victory that showed an empire could be bloodied on its own expanding frontier.",
+    "fact_year": 1553,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "Washington’s nocturnal river crossing was both a physical journey and a strategic mindset shift; an episode about travel as ‘moving meditation’ parallels how motion can transform perspective and destiny."
+    "match_reason": "Mapuche resistance to conquest resonates with Tuareg music born from exile and defiance; both tell stories of indigenous peoples shaping their future against imperial pressure."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On December 25, 1553, Mapuche warriors under Lautaro ambushed and defeated Spanish forces at the Battle of Tucapel in Chile, capturing and executing governor Pedro de Valdivia. It was a stunning indigenous victory that showed an empire could be bloodied on its own expanding frontier.",
-      "fact_year": 1553,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Mapuche resistance to conquest resonates with Tuareg music born from exile and defiance; both tell stories of indigenous peoples shaping their future against imperial pressure."
-    },
     {
       "hour": 11,
       "fact_text": "On this day in 333, Roman emperor Constantine the Great elevated his youngest son Constans to the title of Caesar. The promotion was both a family affair and a political move, weaving the next generation into the complicated tapestry of imperial succession.",
@@ -628,9 +603,33 @@
         ]
       },
       "match_reason": "Washington’s nocturnal river crossing was both a physical journey and a strategic mindset shift; an episode about travel as ‘moving meditation’ parallels how motion can transform perspective and destiny."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On December 25, 1553, Mapuche warriors under Lautaro ambushed and defeated Spanish forces at the Battle of Tucapel in Chile, capturing and executing governor Pedro de Valdivia. It was a stunning indigenous victory that showed an empire could be bloodied on its own expanding frontier.",
+      "fact_year": 1553,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tucapel",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Mapuche resistance to conquest resonates with Tuareg music born from exile and defiance; both tell stories of indigenous peoples shaping their future against imperial pressure."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T09:00:01.045351+00:00"
+  "updated_at": "2025-12-25T10:00:01.170309+00:00"
 }
