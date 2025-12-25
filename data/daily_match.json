@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On this day in 333, Roman emperor Constantine the Great elevated his youngest son Constans to the title of Caesar. The promotion was both a family affair and a political move, weaving the next generation into the complicated tapestry of imperial succession.",
-    "fact_year": 333,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constans",
+    "hour": 12,
+    "fact_text": "On December 25, 1814, Reverend Samuel Marsden led the first Christian service held on land in New Zealand at Rangihoua Bay. The gathering was not just a sermon but an early point of cultural entanglement between Māori communities and European missionaries.",
+    "fact_year": 1814,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rangihoua_Bay",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "Imperial titles and mountain journeys both play with ideas of elevation and perspective; contemplative, expansive tracks mirror the lofty, precarious heights of Roman power."
+    "match_reason": "An island ceremony that reshaped cultural identity resonates with an island-themed episode about how place shapes family and belief; both are intimate stories set against sweeping coastlines."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On December 25, 1814, Reverend Samuel Marsden led the first Christian service held on land in New Zealand at Rangihoua Bay. The gathering was not just a sermon but an early point of cultural entanglement between Māori communities and European missionaries.",
-      "fact_year": 1814,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rangihoua_Bay",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "An island ceremony that reshaped cultural identity resonates with an island-themed episode about how place shapes family and belief; both are intimate stories set against sweeping coastlines."
-    },
     {
       "hour": 13,
       "fact_text": "On this day in 1724, Johann Sebastian Bach premiered his Christmas cantata \"Gelobet seist du, Jesu Christ\" (BWV 91) in Leipzig, building on Martin Luther’s 16th-century hymn. The piece wove familiar chorales into intricate new music, turning a communal song into a Baroque soundscape.",
@@ -628,9 +603,33 @@
         ]
       },
       "match_reason": "Imperial titles and mountain journeys both play with ideas of elevation and perspective; contemplative, expansive tracks mirror the lofty, precarious heights of Roman power."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On December 25, 1814, Reverend Samuel Marsden led the first Christian service held on land in New Zealand at Rangihoua Bay. The gathering was not just a sermon but an early point of cultural entanglement between Māori communities and European missionaries.",
+      "fact_year": 1814,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rangihoua_Bay",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "An island ceremony that reshaped cultural identity resonates with an island-themed episode about how place shapes family and belief; both are intimate stories set against sweeping coastlines."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T11:00:01.221385+00:00"
+  "updated_at": "2025-12-25T12:00:01.275802+00:00"
 }
