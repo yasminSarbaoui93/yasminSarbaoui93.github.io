@@ -1,63 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 25 December 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s state broadcaster. Working with improvised equipment, the station became a lifeline for news, identity, and culture during a time of deep division.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
+    "hour": 6,
+    "fact_text": "On 25 December 1758, a Saxon farmer‑astronomer named Johann Georg Palitzsch spotted a familiar fuzzy star in the sky—Halley’s Comet returning exactly when Edmond Halley had predicted decades after his death. It was the first time a comet’s return had been forecast, turning a terrifying omen into a triumph of celestial mechanics.",
+    "fact_year": 1758,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley%27s_Comet",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 31,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "Bayrak Radio’s improvised first broadcast as a voice for a community mirrors Sedna FM’s own ‘where it all began’ origin energy as an independent, culture‑driven radio project."
+    "match_reason": "A returning comet is like a celestial rhythm dropping back into the mix on schedule, matching the episode’s cyclical, meditative dub pulses and its sense of cosmic timing in the woods."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 25 December 1758, a Saxon farmer‑astronomer named Johann Georg Palitzsch spotted a familiar fuzzy star in the sky—Halley’s Comet returning exactly when Edmond Halley had predicted decades after his death. It was the first time a comet’s return had been forecast, turning a terrifying omen into a triumph of celestial mechanics.",
-      "fact_year": 1758,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley%27s_Comet",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "A returning comet is like a celestial rhythm dropping back into the mix on schedule, matching the episode’s cyclical, meditative dub pulses and its sense of cosmic timing in the woods."
-    },
     {
       "hour": 7,
       "fact_text": "On 25 December 1946, the Soviet Union achieved Europe’s first self‑sustaining nuclear chain reaction in the F‑1 research reactor near Moscow. The graphite‑moderated core quietly proved that controlled splitting of atoms could power both bombs and, eventually, cities.",
@@ -660,9 +627,33 @@
         ]
       },
       "match_reason": "Bayrak Radio’s improvised first broadcast as a voice for a community mirrors Sedna FM’s own ‘where it all began’ origin energy as an independent, culture‑driven radio project."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 25 December 1758, a Saxon farmer‑astronomer named Johann Georg Palitzsch spotted a familiar fuzzy star in the sky—Halley’s Comet returning exactly when Edmond Halley had predicted decades after his death. It was the first time a comet’s return had been forecast, turning a terrifying omen into a triumph of celestial mechanics.",
+      "fact_year": 1758,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Halley%27s_Comet",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "A returning comet is like a celestial rhythm dropping back into the mix on schedule, matching the episode’s cyclical, meditative dub pulses and its sense of cosmic timing in the woods."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009664+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T05:00:01.134858+00:00"
+  "updated_at": "2025-12-25T06:00:01.198281+00:00"
 }
