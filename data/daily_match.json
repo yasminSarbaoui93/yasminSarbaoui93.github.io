@@ -1,50 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On December 25, 2003, the British-built Beagle 2 lander went silent as it descended toward Mars, never transmitting from the surface. Over a decade later, orbital images revealed it had actually reached the planet and partially deployed, turning a presumed total loss into a story of bittersweet near-success.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beagle_2",
+    "hour": 5,
+    "fact_text": "On this day in 1946, scientists in the Soviet Union started the first self-sustaining nuclear chain reaction in Europe inside the F-1 research reactor. It was a quietly pivotal moment, proving they had mastered the invisible fire that powers both bombs and reactors.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "song 1"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "genre 1"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Beagle 2’s half-open lander on Mars is a literal space-age imperfection—broken yet beautiful—matching the episode’s Wabi Sabi meditation on things that didn’t go to plan but still matter."
+    "match_reason": "A nuclear chain reaction is the ultimate ‘electric shock’ to physics and politics alike; high-voltage blues rock fits the intensity and danger of unlocking atomic energy."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On this day in 1946, scientists in the Soviet Union started the first self-sustaining nuclear chain reaction in Europe inside the F-1 research reactor. It was a quietly pivotal moment, proving they had mastered the invisible fire that powers both bombs and reactors.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A nuclear chain reaction is the ultimate ‘electric shock’ to physics and politics alike; high-voltage blues rock fits the intensity and danger of unlocking atomic energy."
-    },
     {
       "hour": 6,
       "fact_text": "On December 25, 1962, the Soviet Union carried out its final above-ground nuclear weapons test, just months before agreeing to the Partial Test Ban Treaty. After years of mushroom clouds in the sky, the world’s superpowers began moving their detonations underground, a small but real step toward limiting radioactive fallout.",
@@ -622,9 +603,34 @@
         ]
       },
       "match_reason": "Beagle 2’s half-open lander on Mars is a literal space-age imperfection—broken yet beautiful—matching the episode’s Wabi Sabi meditation on things that didn’t go to plan but still matter."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On this day in 1946, scientists in the Soviet Union started the first self-sustaining nuclear chain reaction in Europe inside the F-1 research reactor. It was a quietly pivotal moment, proving they had mastered the invisible fire that powers both bombs and reactors.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A nuclear chain reaction is the ultimate ‘electric shock’ to physics and politics alike; high-voltage blues rock fits the intensity and danger of unlocking atomic energy."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T04:00:01.428520+00:00"
+  "updated_at": "2025-12-25T05:00:01.619199+00:00"
 }
