@@ -1,57 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 25 December 2004, the Cassini spacecraft released the Huygens probe toward Saturn’s moon Titan, aiming for the first landing on a world in the outer Solar System. Huygens would drift silently for 20 days before plunging into Titan’s orange haze and transmitting the only close-up pictures we have of this alien, river-carved moon.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+    "hour": 1,
+    "fact_text": "On 25 December 1968, Apollo 8 fired its engine behind the Moon in the first successful Trans-Earth injection, slinging three humans out of lunar orbit and onto a trajectory home. After becoming the first people to orbit another world, this precisely timed burn was the difference between a safe Earthrise and permanent exile in deep space.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A spacecraft literally shifting from Saturn orbit to Titan descent mirrors the mindset ‘space shift’—turning the emptiness between worlds into a corridor for discovery."
+    "match_reason": "The episode’s imagery of steering a boat home across open water mirrors Apollo 8’s delicate ‘celestial sailing’ back from lunar orbit."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 25 December 1968, Apollo 8 fired its engine behind the Moon in the first successful Trans-Earth injection, slinging three humans out of lunar orbit and onto a trajectory home. After becoming the first people to orbit another world, this precisely timed burn was the difference between a safe Earthrise and permanent exile in deep space.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "The episode’s imagery of steering a boat home across open water mirrors Apollo 8’s delicate ‘celestial sailing’ back from lunar orbit."
-    },
     {
       "hour": 2,
       "fact_text": "On 25 December 2003, the British-built Beagle 2 lander fell radio-silent just before its planned touchdown on Mars. For over a decade it was presumed shattered, until orbiters finally imaged it on the surface in 2015—intact but incompletely deployed, a tiny metal fossil of an almost-successful dream.",
@@ -650,9 +627,37 @@
         ]
       },
       "match_reason": "A spacecraft literally shifting from Saturn orbit to Titan descent mirrors the mindset ‘space shift’—turning the emptiness between worlds into a corridor for discovery."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 25 December 1968, Apollo 8 fired its engine behind the Moon in the first successful Trans-Earth injection, slinging three humans out of lunar orbit and onto a trajectory home. After becoming the first people to orbit another world, this precisely timed burn was the difference between a safe Earthrise and permanent exile in deep space.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "The episode’s imagery of steering a boat home across open water mirrors Apollo 8’s delicate ‘celestial sailing’ back from lunar orbit."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009664+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T00:00:53.477996+00:00"
+  "updated_at": "2025-12-25T01:00:01.182104+00:00"
 }
