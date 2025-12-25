@@ -1,63 +1,39 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On December 25, 1951, a bomb exploded beneath the Florida home of civil rights organizers Harry T. and Harriette Moore, killing Harry that night and fatally injuring Harriette. Their murder—on Christmas Day—was one of the first assassinations of prominent U.S. civil rights activists, and it sent shockwaves through the movement.",
-    "fact_year": 1951,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Murders_of_Harry_and_Harriette_Moore",
+    "hour": 17,
+    "fact_text": "On this day in 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s shared broadcasting service. With improvised equipment and limited power, the station became both a lifeline and a symbol of a community determined to tell its own story.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
     "episode": {
-      "id": 10,
-      "title": "Morning Drops #04 - Bars With Balls",
-      "description": "Yasmin dives into Women's Day through the voices of four incredible female rappers. Morning fire from the magic planet of Sedna FM — move your hands up and down with us. Hip hop culture through a feminine lens.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Ele A - Globo",
-        "Little Simz - Point and Kill (feat. Obongjayar)",
-        "Lil' Kim - Lighters Up",
-        "Queen Latifah - U.N.I.T.Y."
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
         "Hip-Hop",
-        "Afrobeats",
-        "Rap"
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The Moores’ story of Black resistance and a powerful activist woman aligns with an episode amplifying women’s voices in hip-hop; both confront injustice through courage and message-driven art."
+    "match_reason": "The birth of a community radio station fits Sedna FM’s own first broadcast; both are origin stories of voices building their own airwaves from scratch."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On this day in 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s shared broadcasting service. With improvised equipment and limited power, the station became both a lifeline and a symbol of a community determined to tell its own story.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The birth of a community radio station fits Sedna FM’s own first broadcast; both are origin stories of voices building their own airwaves from scratch."
-    },
     {
       "hour": 18,
       "fact_text": "On December 25, 1989, after a swift trial during the Romanian Revolution, Nicolae Ceaușescu and his wife Elena were executed, ending one of Eastern Europe’s most repressive regimes. The fall of their cult of personality was broadcast to a world watching state power unravel on live television.",
@@ -627,9 +603,42 @@
         ]
       },
       "match_reason": "The Moores’ story of Black resistance and a powerful activist woman aligns with an episode amplifying women’s voices in hip-hop; both confront injustice through courage and message-driven art."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On this day in 1963, Bayrak Radio began broadcasting for Turkish Cypriots after they were forced out of the island’s shared broadcasting service. With improvised equipment and limited power, the station became both a lifeline and a symbol of a community determined to tell its own story.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bayrak",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The birth of a community radio station fits Sedna FM’s own first broadcast; both are origin stories of voices building their own airwaves from scratch."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T16:00:01.447739+00:00"
+  "updated_at": "2025-12-25T17:00:01.339515+00:00"
 }
