@@ -1,59 +1,25 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1968, Apollo 8 executed the first successful Trans-Earth Injection, a precise engine burn that flung three astronauts away from lunar orbit and back home across 380,000 kilometers of dark space. It was essentially a controlled fall from the Moon to Earth, navigated with slide rules and courage.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+    "hour": 4,
+    "fact_text": "On December 25, 2003, the British-built Beagle 2 lander went silent as it descended toward Mars, never transmitting from the surface. Over a decade later, orbital images revealed it had actually reached the planet and partially deployed, turning a presumed total loss into a story of bittersweet near-success.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beagle_2",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "song 1"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "genre 1"
       ]
     },
-    "match_reason": "A trajectory home from lunar orbit fits a ‘Destination’ episode: Pink Floyd’s spacey tones and the idea of a collective voyage echo Apollo 8’s daring path back to Earth."
+    "match_reason": "Beagle 2’s half-open lander on Mars is a literal space-age imperfection—broken yet beautiful—matching the episode’s Wabi Sabi meditation on things that didn’t go to plan but still matter."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On December 25, 2003, the British-built Beagle 2 lander went silent as it descended toward Mars, never transmitting from the surface. Over a decade later, orbital images revealed it had actually reached the planet and partially deployed, turning a presumed total loss into a story of bittersweet near-success.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beagle_2",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Beagle 2’s half-open lander on Mars is a literal space-age imperfection—broken yet beautiful—matching the episode’s Wabi Sabi meditation on things that didn’t go to plan but still matter."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 1946, scientists in the Soviet Union started the first self-sustaining nuclear chain reaction in Europe inside the F-1 research reactor. It was a quietly pivotal moment, proving they had mastered the invisible fire that powers both bombs and reactors.",
@@ -637,9 +603,28 @@
         ]
       },
       "match_reason": "A trajectory home from lunar orbit fits a ‘Destination’ episode: Pink Floyd’s spacey tones and the idea of a collective voyage echo Apollo 8’s daring path back to Earth."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On December 25, 2003, the British-built Beagle 2 lander went silent as it descended toward Mars, never transmitting from the surface. Over a decade later, orbital images revealed it had actually reached the planet and partially deployed, turning a presumed total loss into a story of bittersweet near-success.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beagle_2",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Beagle 2’s half-open lander on Mars is a literal space-age imperfection—broken yet beautiful—matching the episode’s Wabi Sabi meditation on things that didn’t go to plan but still matter."
     }
   ],
   "generated_at": "2025-12-25T00:00:00.009741+00:00",
   "date": "2025-12-25",
-  "updated_at": "2025-12-25T03:00:01.199004+00:00"
+  "updated_at": "2025-12-25T04:00:01.428520+00:00"
 }
