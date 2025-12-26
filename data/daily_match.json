@@ -1,54 +1,29 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, an eight-dimensional number system. These strange, non-associative numbers would later find surprising connections to string theory and particle physics.",
-    "fact_year": 1843,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
+    "hour": 2,
+    "fact_text": "In 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" (BWV 40) in Leipzig. This work wove together theology and intricate counterpoint, turning a church service into a rich sonic architecture of faith and celebration.",
+    "fact_year": 1723,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 7,
+      "title": "Morning Drops #01 - Timeless Legacy",
+      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Roberta Flack - Killing me softly with his song",
+        "Stone, Angie & Raphael Saadiq - Brotha",
+        "Roy Ayers - Running Away (Extended)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Soul",
+        "R&B",
+        "Jazz-Funk"
       ]
     },
-    "match_reason": "Octonions stretch our idea of numbers into new dimensions, just as trip-hop stretches genre boundaries into hazy, multi-layered soundscapes."
+    "match_reason": "A Baroque Christmas cantata and soul standards share a core idea: music as a timeless vessel for emotion and spirituality."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" (BWV 40) in Leipzig. This work wove together theology and intricate counterpoint, turning a church service into a rich sonic architecture of faith and celebration.",
-      "fact_year": 1723,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
-      "episode": {
-        "id": 7,
-        "title": "Morning Drops #01 - Timeless Legacy",
-        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
-        "songs": [
-          "Roberta Flack - Killing me softly with his song",
-          "Stone, Angie & Raphael Saadiq - Brotha",
-          "Roy Ayers - Running Away (Extended)"
-        ],
-        "music-genres": [
-          "Soul",
-          "R&B",
-          "Jazz-Funk"
-        ]
-      },
-      "match_reason": "A Baroque Christmas cantata and soul standards share a core idea: music as a timeless vessel for emotion and spirituality."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1871, \"Thespis\"—the very first collaboration between W. S. Gilbert and Arthur Sullivan—debuted. Although much of the score is now lost, this comic opera quietly lit the fuse for a partnership that would reshape musical theatre.",
@@ -641,9 +616,32 @@
         ]
       },
       "match_reason": "Octonions stretch our idea of numbers into new dimensions, just as trip-hop stretches genre boundaries into hazy, multi-layered soundscapes."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" (BWV 40) in Leipzig. This work wove together theology and intricate counterpoint, turning a church service into a rich sonic architecture of faith and celebration.",
+      "fact_year": 1723,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
+      "episode": {
+        "id": 7,
+        "title": "Morning Drops #01 - Timeless Legacy",
+        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+        "songs": [
+          "Roberta Flack - Killing me softly with his song",
+          "Stone, Angie & Raphael Saadiq - Brotha",
+          "Roy Ayers - Running Away (Extended)"
+        ],
+        "music-genres": [
+          "Soul",
+          "R&B",
+          "Jazz-Funk"
+        ]
+      },
+      "match_reason": "A Baroque Christmas cantata and soul standards share a core idea: music as a timeless vessel for emotion and spirituality."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T01:00:01.193618+00:00"
+  "updated_at": "2025-12-26T02:00:01.163895+00:00"
 }
