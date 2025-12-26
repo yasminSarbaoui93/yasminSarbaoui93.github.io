@@ -1,54 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1941, Winston Churchill addressed a joint meeting of the U.S. Congress, only weeks after the attack on Pearl Harbor. His speech mixed humor with urgency, forging a powerful emotional bridge between two nations about to fight a global war together.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Winston_Churchill%27s_address_to_the_United_States_Congress_(1941)",
+    "hour": 11,
+    "fact_text": "On December 26, 1943, the German battleship Scharnhorst was sunk off Norway's North Cape after a fierce clash with the Royal Navy. In the polar night, radar, codebreaking, and icy seas turned a naval duel into a high-tech, high-stakes hunt in the dark.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Churchill’s oratory became part of a ‘timeless legacy’ of wartime speeches, fitting an episode devoted to enduring, classic voices that still resonate across generations."
+    "match_reason": "Both the sinking of Scharnhorst and this episode unfold in the same Arctic waters off Norway, tying wartime history to today’s quieter encounters with whales and frozen light."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On December 26, 1943, the German battleship Scharnhorst was sunk off Norway's North Cape after a fierce clash with the Royal Navy. In the polar night, radar, codebreaking, and icy seas turned a naval duel into a high-tech, high-stakes hunt in the dark.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the sinking of Scharnhorst and this episode unfold in the same Arctic waters off Norway, tying wartime history to today’s quieter encounters with whales and frozen light."
-    },
     {
       "hour": 12,
       "fact_text": "On December 26, 1972, as part of Operation Linebacker II, 120 American B-52 bombers launched in the largest single combat takeoff in Strategic Air Command history to attack Hanoi. The resulting \"Christmas Bombing\" became one of the Vietnam War’s most controversial episodes, raising questions about the limits of air power and the cost of escalation.",
@@ -655,9 +632,34 @@
         ]
       },
       "match_reason": "Churchill’s oratory became part of a ‘timeless legacy’ of wartime speeches, fitting an episode devoted to enduring, classic voices that still resonate across generations."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On December 26, 1943, the German battleship Scharnhorst was sunk off Norway's North Cape after a fierce clash with the Royal Navy. In the polar night, radar, codebreaking, and icy seas turned a naval duel into a high-tech, high-stakes hunt in the dark.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the sinking of Scharnhorst and this episode unfold in the same Arctic waters off Norway, tying wartime history to today’s quieter encounters with whales and frozen light."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T10:00:01.058348+00:00"
+  "updated_at": "2025-12-26T11:00:01.250221+00:00"
 }
