@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "Cyclone Lothar swept across Central Europe on December 26, 1999, with hurricane-force winds that toppled forests, crippled power grids, and caused billions in damage. In a matter of hours, ordinary winter weather turned into a lesson in how fragile human infrastructure can be.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Lothar",
+    "hour": 16,
+    "fact_text": "On December 26, 2003, a 6.6 magnitude earthquake struck Bam in southeastern Iran, collapsing ancient mud-brick structures and modern buildings alike. Tens of thousands died, and a 2,000‑year-old citadel—the world’s largest adobe structure—was left in ruins.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "Where Lothar shows the sudden, chaotic power of the atmosphere, this calm, travel-inspired selection offers a gentler way to feel wind, movement, and change."
+    "match_reason": "The quake reveals how vulnerable our cities are; Afrobeat, born in politically shaken cities, brings communal rhythm and resilience to landscapes marked by upheaval."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On December 26, 2003, a 6.6 magnitude earthquake struck Bam in southeastern Iran, collapsing ancient mud-brick structures and modern buildings alike. Tens of thousands died, and a 2,000‑year-old citadel—the world’s largest adobe structure—was left in ruins.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "The quake reveals how vulnerable our cities are; Afrobeat, born in politically shaken cities, brings communal rhythm and resilience to landscapes marked by upheaval."
-    },
     {
       "hour": 17,
       "fact_text": "On this day in 2004, a 9.1–9.3 magnitude megathrust earthquake off northern Sumatra triggered one of the largest tsunamis ever recorded. Waves crossed the Indian Ocean, devastating coastlines in at least 14 countries and reminding the planet how interconnected its oceans—and its people—really are.",
@@ -641,9 +616,33 @@
         ]
       },
       "match_reason": "Where Lothar shows the sudden, chaotic power of the atmosphere, this calm, travel-inspired selection offers a gentler way to feel wind, movement, and change."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On December 26, 2003, a 6.6 magnitude earthquake struck Bam in southeastern Iran, collapsing ancient mud-brick structures and modern buildings alike. Tens of thousands died, and a 2,000‑year-old citadel—the world’s largest adobe structure—was left in ruins.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "The quake reveals how vulnerable our cities are; Afrobeat, born in politically shaken cities, brings communal rhythm and resilience to landscapes marked by upheaval."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T15:00:01.320376+00:00"
+  "updated_at": "2025-12-26T16:00:01.221733+00:00"
 }
