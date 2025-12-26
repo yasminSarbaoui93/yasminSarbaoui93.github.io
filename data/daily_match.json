@@ -1,55 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On December 26, 1776, George Washington’s Continental Army crossed the icy Delaware River and struck Hessian forces at Trenton in a surprise dawn attack. This unlikely victory, won in freezing conditions after a string of defeats, helped revive the fading hopes of the American Revolution.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
+    "hour": 8,
+    "fact_text": "Also on this date in 1862, Union general William T. Sherman began landing troops for the Battle of Chickasaw Bayou, an early attempt to capture Vicksburg, Mississippi. The assault failed, but the campaign marked the beginning of a relentless Union push that would eventually split the Confederacy in two.",
+    "fact_year": 1862,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A risky surprise attack at dawn pairs with a high-voltage rock selection—both feel like jolts of electricity after a dark, uncertain night."
+    "match_reason": "Sherman’s determined, often controversial push mirrors the unapologetic force of women in rock—both challenge entrenched power with loud, relentless momentum."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "Also on this date in 1862, Union general William T. Sherman began landing troops for the Battle of Chickasaw Bayou, an early attempt to capture Vicksburg, Mississippi. The assault failed, but the campaign marked the beginning of a relentless Union push that would eventually split the Confederacy in two.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "Sherman’s determined, often controversial push mirrors the unapologetic force of women in rock—both challenge entrenched power with loud, relentless momentum."
-    },
     {
       "hour": 9,
       "fact_text": "On December 26, 1862, the United States carried out the largest mass execution in its history, hanging 38 Dakota men at Mankato, Minnesota after a rushed and deeply flawed series of trials. The event remains a searing symbol of broken treaties, colonial violence, and historical trauma for Dakota communities.",
@@ -641,9 +616,33 @@
         ]
       },
       "match_reason": "A risky surprise attack at dawn pairs with a high-voltage rock selection—both feel like jolts of electricity after a dark, uncertain night."
+    },
+    {
+      "hour": 8,
+      "fact_text": "Also on this date in 1862, Union general William T. Sherman began landing troops for the Battle of Chickasaw Bayou, an early attempt to capture Vicksburg, Mississippi. The assault failed, but the campaign marked the beginning of a relentless Union push that would eventually split the Confederacy in two.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "Sherman’s determined, often controversial push mirrors the unapologetic force of women in rock—both challenge entrenched power with loud, relentless momentum."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T07:00:01.408428+00:00"
+  "updated_at": "2025-12-26T08:00:01.169427+00:00"
 }
