@@ -1,65 +1,40 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On December 26, 1943, the German battleship Scharnhorst was sunk off Norway's North Cape after a fierce clash with the Royal Navy. In the polar night, radar, codebreaking, and icy seas turned a naval duel into a high-tech, high-stakes hunt in the dark.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
+    "hour": 12,
+    "fact_text": "On December 26, 1972, as part of Operation Linebacker II, 120 American B-52 bombers launched in the largest single combat takeoff in Strategic Air Command history to attack Hanoi. The resulting \"Christmas Bombing\" became one of the Vietnam War’s most controversial episodes, raising questions about the limits of air power and the cost of escalation.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Linebacker_II",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "Both the sinking of Scharnhorst and this episode unfold in the same Arctic waters off Norway, tying wartime history to today’s quieter encounters with whales and frozen light."
+    "match_reason": "The disorienting scale of a mass bomber launch contrasts with introspective tracks like Pink Floyd’s \"Breathe\", encouraging reflection on technology, war, and the destinations we choose."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On December 26, 1972, as part of Operation Linebacker II, 120 American B-52 bombers launched in the largest single combat takeoff in Strategic Air Command history to attack Hanoi. The resulting \"Christmas Bombing\" became one of the Vietnam War’s most controversial episodes, raising questions about the limits of air power and the cost of escalation.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Linebacker_II",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "The disorienting scale of a mass bomber launch contrasts with introspective tracks like Pink Floyd’s \"Breathe\", encouraging reflection on technology, war, and the destinations we choose."
-    },
     {
       "hour": 13,
       "fact_text": "In 1975, the Soviet Tupolev Tu-144 became the world’s first commercial supersonic airliner to enter passenger service, exceeding twice the speed of sound. For a brief moment, it turned the idea of crossing continents in a heartbeat from science fiction into reality, even as technical and economic challenges limited its career.",
@@ -657,9 +632,43 @@
         ]
       },
       "match_reason": "Both the sinking of Scharnhorst and this episode unfold in the same Arctic waters off Norway, tying wartime history to today’s quieter encounters with whales and frozen light."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On December 26, 1972, as part of Operation Linebacker II, 120 American B-52 bombers launched in the largest single combat takeoff in Strategic Air Command history to attack Hanoi. The resulting \"Christmas Bombing\" became one of the Vietnam War’s most controversial episodes, raising questions about the limits of air power and the cost of escalation.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Linebacker_II",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "The disorienting scale of a mass bomber launch contrasts with introspective tracks like Pink Floyd’s \"Breathe\", encouraging reflection on technology, war, and the destinations we choose."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T11:00:01.250221+00:00"
+  "updated_at": "2025-12-26T12:00:01.288256+00:00"
 }
