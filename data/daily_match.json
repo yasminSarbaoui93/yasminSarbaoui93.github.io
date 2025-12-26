@@ -1,70 +1,40 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On this day in 1999, the same storm season that brought Lothar was followed by Martin, revealing how Europe can face back-to-back extreme weather events. These storms became early warning signs of how vulnerable modern infrastructure and old forests are to changing climate patterns.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_windstorm#Lothar_and_Martin",
+    "hour": 21,
+    "fact_text": "On December 26, 1871, while \"Thespis\" introduced Gilbert and Sullivan’s partnership, it also playfully reimagined the Greek gods retiring and leaving mortals in charge. This whimsical premise quietly poked fun at authority and tradition, using myth to question who gets to rule.",
+    "fact_year": 1871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
         "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
+        "Classic Rock",
         "Funk",
         "Electronic"
       ]
     },
-    "match_reason": "As storms sweep across a continent, this episode’s gradual ‘crescendo’ from calm ambience to dancing rhythms mirrors how weather can build from stillness to powerful motion."
+    "match_reason": "A comic opera where gods take a break and roles are swapped fits neatly with an episode about alter-egos, role play, and reinventing who gets to be in charge."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On December 26, 1871, while \"Thespis\" introduced Gilbert and Sullivan’s partnership, it also playfully reimagined the Greek gods retiring and leaving mortals in charge. This whimsical premise quietly poked fun at authority and tradition, using myth to question who gets to rule.",
-      "fact_year": 1871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A comic opera where gods take a break and roles are swapped fits neatly with an episode about alter-egos, role play, and reinventing who gets to be in charge."
-    },
     {
       "hour": 22,
       "fact_text": "The Dakota War of 1862, culminating in the mass hanging at Mankato on December 26, grew out of broken treaties, hunger, and desperate attempts by Dakota people to reclaim control of their land and lives. Even today, memorial rides and ceremonies reframe the date as a time of remembrance and cultural resilience.",
@@ -662,9 +632,43 @@
         ]
       },
       "match_reason": "As storms sweep across a continent, this episode’s gradual ‘crescendo’ from calm ambience to dancing rhythms mirrors how weather can build from stillness to powerful motion."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On December 26, 1871, while \"Thespis\" introduced Gilbert and Sullivan’s partnership, it also playfully reimagined the Greek gods retiring and leaving mortals in charge. This whimsical premise quietly poked fun at authority and tradition, using myth to question who gets to rule.",
+      "fact_year": 1871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A comic opera where gods take a break and roles are swapped fits neatly with an episode about alter-egos, role play, and reinventing who gets to be in charge."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T20:00:01.231754+00:00"
+  "updated_at": "2025-12-26T21:00:01.273559+00:00"
 }
