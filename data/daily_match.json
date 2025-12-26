@@ -1,65 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On December 26, 1975, the Soviet Tu‑144, the world’s first commercial supersonic airliner, entered passenger service. It briefly flew faster than sound with paying passengers on board, a futuristic vision that proved dazzling—but economically and technically fragile.",
-    "fact_year": 1975,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+    "hour": 15,
+    "fact_text": "Cyclone Lothar swept across Central Europe on December 26, 1999, with hurricane-force winds that toppled forests, crippled power grids, and caused billions in damage. In a matter of hours, ordinary winter weather turned into a lesson in how fragile human infrastructure can be.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Lothar",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
         "New Wave"
       ]
     },
-    "match_reason": "A supersonic airliner built for speed matches an episode dedicated to motion, travel, and the exhilaration of moving quickly through the world."
+    "match_reason": "Where Lothar shows the sudden, chaotic power of the atmosphere, this calm, travel-inspired selection offers a gentler way to feel wind, movement, and change."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "Cyclone Lothar swept across Central Europe on December 26, 1999, with hurricane-force winds that toppled forests, crippled power grids, and caused billions in damage. In a matter of hours, ordinary winter weather turned into a lesson in how fragile human infrastructure can be.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Lothar",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "Where Lothar shows the sudden, chaotic power of the atmosphere, this calm, travel-inspired selection offers a gentler way to feel wind, movement, and change."
-    },
     {
       "hour": 16,
       "fact_text": "On December 26, 2003, a 6.6 magnitude earthquake struck Bam in southeastern Iran, collapsing ancient mud-brick structures and modern buildings alike. Tens of thousands died, and a 2,000‑year-old citadel—the world’s largest adobe structure—was left in ruins.",
@@ -650,9 +616,34 @@
         ]
       },
       "match_reason": "A supersonic airliner built for speed matches an episode dedicated to motion, travel, and the exhilaration of moving quickly through the world."
+    },
+    {
+      "hour": 15,
+      "fact_text": "Cyclone Lothar swept across Central Europe on December 26, 1999, with hurricane-force winds that toppled forests, crippled power grids, and caused billions in damage. In a matter of hours, ordinary winter weather turned into a lesson in how fragile human infrastructure can be.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Lothar",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "Where Lothar shows the sudden, chaotic power of the atmosphere, this calm, travel-inspired selection offers a gentler way to feel wind, movement, and change."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T14:00:01.387183+00:00"
+  "updated_at": "2025-12-26T15:00:01.320376+00:00"
 }
