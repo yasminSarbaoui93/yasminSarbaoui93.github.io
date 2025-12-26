@@ -1,52 +1,28 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "Also on this date in 1862, Union general William T. Sherman began landing troops for the Battle of Chickasaw Bayou, an early attempt to capture Vicksburg, Mississippi. The assault failed, but the campaign marked the beginning of a relentless Union push that would eventually split the Confederacy in two.",
+    "hour": 9,
+    "fact_text": "On December 26, 1862, the United States carried out the largest mass execution in its history, hanging 38 Dakota men at Mankato, Minnesota after a rushed and deeply flawed series of trials. The event remains a searing symbol of broken treaties, colonial violence, and historical trauma for Dakota communities.",
     "fact_year": 1862,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dakota_War_of_1862",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "Sherman’s determined, often controversial push mirrors the unapologetic force of women in rock—both challenge entrenched power with loud, relentless momentum."
+    "match_reason": "The Mankato hangings invite hard questions about injustice and identity; conscious rap from Kendrick Lamar provides a modern lens on historical and systemic violence."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On December 26, 1862, the United States carried out the largest mass execution in its history, hanging 38 Dakota men at Mankato, Minnesota after a rushed and deeply flawed series of trials. The event remains a searing symbol of broken treaties, colonial violence, and historical trauma for Dakota communities.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dakota_War_of_1862",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "The Mankato hangings invite hard questions about injustice and identity; conscious rap from Kendrick Lamar provides a modern lens on historical and systemic violence."
-    },
     {
       "hour": 10,
       "fact_text": "On this day in 1806, Russian forces managed to hold off Napoleon’s troops in the Battles of Pułtusk and Golymin, fought amid mud, snow, and chaos. These indecisive clashes showed that the seemingly unstoppable French war machine could be slowed and bloodied.",
@@ -640,9 +616,31 @@
         ]
       },
       "match_reason": "Sherman’s determined, often controversial push mirrors the unapologetic force of women in rock—both challenge entrenched power with loud, relentless momentum."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On December 26, 1862, the United States carried out the largest mass execution in its history, hanging 38 Dakota men at Mankato, Minnesota after a rushed and deeply flawed series of trials. The event remains a searing symbol of broken treaties, colonial violence, and historical trauma for Dakota communities.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dakota_War_of_1862",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "The Mankato hangings invite hard questions about injustice and identity; conscious rap from Kendrick Lamar provides a modern lens on historical and systemic violence."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T08:00:01.169427+00:00"
+  "updated_at": "2025-12-26T09:00:01.433443+00:00"
 }
