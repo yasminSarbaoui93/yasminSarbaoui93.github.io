@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1871, \"Thespis\"—the very first collaboration between W. S. Gilbert and Arthur Sullivan—debuted. Although much of the score is now lost, this comic opera quietly lit the fuse for a partnership that would reshape musical theatre.",
-    "fact_year": 1871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thespis_(opera)",
+    "hour": 4,
+    "fact_text": "On December 26, 1926, Jean Sibelius’s tone poem \"Tapiola\" received its world premiere. Inspired by the mythic Finnish forest god Tapio, the music conjures vast, wintry woodlands and the uncanny feeling of being watched by something ancient in the trees.",
+    "fact_year": 1926,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tapiola_(Sibelius)",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "Both the birth of Gilbert & Sullivan and the evolution of flamenco show how theatre and music traditions can be reinvented across generations."
+    "match_reason": "Sibelius’s forest tone poem and the episode’s fluid, immersive tracks both evoke the sensation of being surrounded—by trees, by water, by sound."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On December 26, 1926, Jean Sibelius’s tone poem \"Tapiola\" received its world premiere. Inspired by the mythic Finnish forest god Tapio, the music conjures vast, wintry woodlands and the uncanny feeling of being watched by something ancient in the trees.",
-      "fact_year": 1926,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tapiola_(Sibelius)",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "Sibelius’s forest tone poem and the episode’s fluid, immersive tracks both evoke the sensation of being surrounded—by trees, by water, by sound."
-    },
     {
       "hour": 5,
       "fact_text": "In 1963, the Beatles released \"I Want to Hold Your Hand\" and \"I Saw Her Standing There\" in the United States, igniting Beatlemania across the Atlantic. Within weeks, four young men from Liverpool were transforming global pop culture, one catchy chord progression at a time.",
@@ -641,9 +616,34 @@
         ]
       },
       "match_reason": "Both the birth of Gilbert & Sullivan and the evolution of flamenco show how theatre and music traditions can be reinvented across generations."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On December 26, 1926, Jean Sibelius’s tone poem \"Tapiola\" received its world premiere. Inspired by the mythic Finnish forest god Tapio, the music conjures vast, wintry woodlands and the uncanny feeling of being watched by something ancient in the trees.",
+      "fact_year": 1926,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tapiola_(Sibelius)",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "Sibelius’s forest tone poem and the episode’s fluid, immersive tracks both evoke the sensation of being surrounded—by trees, by water, by sound."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T03:00:01.400703+00:00"
+  "updated_at": "2025-12-26T04:00:01.346428+00:00"
 }
