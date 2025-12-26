@@ -1,55 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On December 26, 1926, Jean Sibelius’s tone poem \"Tapiola\" received its world premiere. Inspired by the mythic Finnish forest god Tapio, the music conjures vast, wintry woodlands and the uncanny feeling of being watched by something ancient in the trees.",
-    "fact_year": 1926,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tapiola_(Sibelius)",
+    "hour": 5,
+    "fact_text": "In 1963, the Beatles released \"I Want to Hold Your Hand\" and \"I Saw Her Standing There\" in the United States, igniting Beatlemania across the Atlantic. Within weeks, four young men from Liverpool were transforming global pop culture, one catchy chord progression at a time.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "Sibelius’s forest tone poem and the episode’s fluid, immersive tracks both evoke the sensation of being surrounded—by trees, by water, by sound."
+    "match_reason": "The Beatles and Arctic Monkeys both rewrote the story of British bands on the world stage; the episode’s focus on artistic evolution mirrors the Beatles’ own explosive transformation."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1963, the Beatles released \"I Want to Hold Your Hand\" and \"I Saw Her Standing There\" in the United States, igniting Beatlemania across the Atlantic. Within weeks, four young men from Liverpool were transforming global pop culture, one catchy chord progression at a time.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "The Beatles and Arctic Monkeys both rewrote the story of British bands on the world stage; the episode’s focus on artistic evolution mirrors the Beatles’ own explosive transformation."
-    },
     {
       "hour": 6,
       "fact_text": "On this day in 1871, \"Thespis\" wasn’t just new music—it was a playful reimagining of Greek gods taking a holiday and leaving humans to run Olympus. It showed early on how satire, myth, and melody could collide in ways that felt both ridiculous and strangely profound.",
@@ -641,9 +616,33 @@
         ]
       },
       "match_reason": "Sibelius’s forest tone poem and the episode’s fluid, immersive tracks both evoke the sensation of being surrounded—by trees, by water, by sound."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1963, the Beatles released \"I Want to Hold Your Hand\" and \"I Saw Her Standing There\" in the United States, igniting Beatlemania across the Atlantic. Within weeks, four young men from Liverpool were transforming global pop culture, one catchy chord progression at a time.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "The Beatles and Arctic Monkeys both rewrote the story of British bands on the world stage; the episode’s focus on artistic evolution mirrors the Beatles’ own explosive transformation."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T04:00:01.346428+00:00"
+  "updated_at": "2025-12-26T05:00:01.137821+00:00"
 }
