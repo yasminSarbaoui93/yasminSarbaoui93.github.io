@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On December 26, 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" in Leipzig. The piece weaves intricate counterpoint with festive joy, turning a winter church service into an almost cosmic celebration of light arriving in darkness.",
-    "fact_year": 1723,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
+    "hour": 4,
+    "fact_text": "On this day in 1871, \"Thespis\" debuted as the very first collaboration between W. S. Gilbert and Arthur Sullivan. Although much of its music is lost, it lit the spark for their later comic operas, where satire, catchy melodies, and theatrical flair would reshape British musical theatre.",
+    "fact_year": 1871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thespis_(opera)",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Bach’s cantata was written to frame a sacred holiday morning, and this sunlit jazz selection echoes that blend of contemplation, warmth, and slow-unfolding joy."
+    "match_reason": "Both Gilbert & Sullivan’s theatre and flamenco’s evolution tell stories of performance traditions being born and reinvented, blending humor, drama, and strong musical identities."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On this day in 1871, \"Thespis\" debuted as the very first collaboration between W. S. Gilbert and Arthur Sullivan. Although much of its music is lost, it lit the spark for their later comic operas, where satire, catchy melodies, and theatrical flair would reshape British musical theatre.",
-      "fact_year": 1871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thespis_(opera)",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Both Gilbert & Sullivan’s theatre and flamenco’s evolution tell stories of performance traditions being born and reinvented, blending humor, drama, and strong musical identities."
-    },
     {
       "hour": 5,
       "fact_text": "On December 26, 1926, audiences heard the world premiere of Jean Sibelius’s tone poem \"Tapiola\", a musical portrait of a vast, mythic Nordic forest. Its slow, shifting textures make the landscape itself feel alive, as though the wind and trees were quietly breathing and remembering.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "Bach’s cantata was written to frame a sacred holiday morning, and this sunlit jazz selection echoes that blend of contemplation, warmth, and slow-unfolding joy."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On this day in 1871, \"Thespis\" debuted as the very first collaboration between W. S. Gilbert and Arthur Sullivan. Although much of its music is lost, it lit the spark for their later comic operas, where satire, catchy melodies, and theatrical flair would reshape British musical theatre.",
+      "fact_year": 1871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thespis_(opera)",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Both Gilbert & Sullivan’s theatre and flamenco’s evolution tell stories of performance traditions being born and reinvented, blending humor, drama, and strong musical identities."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T03:00:01.175998+00:00"
+  "updated_at": "2025-12-26T04:00:01.126758+00:00"
 }
