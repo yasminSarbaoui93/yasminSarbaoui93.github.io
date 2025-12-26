@@ -1,66 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On this day in 1871, \"Thespis\" wasn’t just new music—it was a playful reimagining of Greek gods taking a holiday and leaving humans to run Olympus. It showed early on how satire, myth, and melody could collide in ways that felt both ridiculous and strangely profound.",
-    "fact_year": 1871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
+    "hour": 7,
+    "fact_text": "On December 26, 1776, George Washington’s Continental Army crossed the icy Delaware River and struck Hessian forces at Trenton in a surprise dawn attack. This unlikely victory, won in freezing conditions after a string of defeats, helped revive the fading hopes of the American Revolution.",
+    "fact_year": 1776,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
         "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Gilbert & Sullivan’s witty, emotional theatre lines up with an episode about love’s drama and vulnerability—both turn big feelings into memorable melodies."
+    "match_reason": "A risky surprise attack at dawn pairs with a high-voltage rock selection—both feel like jolts of electricity after a dark, uncertain night."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On December 26, 1776, George Washington’s Continental Army crossed the icy Delaware River and struck Hessian forces at Trenton in a surprise dawn attack. This unlikely victory, won in freezing conditions after a string of defeats, helped revive the fading hopes of the American Revolution.",
-      "fact_year": 1776,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A risky surprise attack at dawn pairs with a high-voltage rock selection—both feel like jolts of electricity after a dark, uncertain night."
-    },
     {
       "hour": 8,
       "fact_text": "Also on this date in 1862, Union general William T. Sherman began landing troops for the Battle of Chickasaw Bayou, an early attempt to capture Vicksburg, Mississippi. The assault failed, but the campaign marked the beginning of a relentless Union push that would eventually split the Confederacy in two.",
@@ -651,9 +616,34 @@
         ]
       },
       "match_reason": "Gilbert & Sullivan’s witty, emotional theatre lines up with an episode about love’s drama and vulnerability—both turn big feelings into memorable melodies."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On December 26, 1776, George Washington’s Continental Army crossed the icy Delaware River and struck Hessian forces at Trenton in a surprise dawn attack. This unlikely victory, won in freezing conditions after a string of defeats, helped revive the fading hopes of the American Revolution.",
+      "fact_year": 1776,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A risky surprise attack at dawn pairs with a high-voltage rock selection—both feel like jolts of electricity after a dark, uncertain night."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T06:00:01.055926+00:00"
+  "updated_at": "2025-12-26T07:00:01.408428+00:00"
 }
