@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1963, American listeners heard The Beatles’ “I Want to Hold Your Hand” and “I Saw Her Standing There” for the first time, sparking an explosive wave of Beatlemania across the Atlantic. Within weeks, four young musicians from Liverpool began transforming not just pop charts, but youth culture, fashion, and ideas about what a band could be.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
+    "hour": 3,
+    "fact_text": "On December 26, 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" in Leipzig. The piece weaves intricate counterpoint with festive joy, turning a winter church service into an almost cosmic celebration of light arriving in darkness.",
+    "fact_year": 1723,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "The Beatles rewired global pop in the 60s the way synthesizers and dance floors rewired it in the 80s; this episode’s celebration of era-defining hooks mirrors that first jolt of Beatlemania."
+    "match_reason": "Bach’s cantata was written to frame a sacred holiday morning, and this sunlit jazz selection echoes that blend of contemplation, warmth, and slow-unfolding joy."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On December 26, 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" in Leipzig. The piece weaves intricate counterpoint with festive joy, turning a winter church service into an almost cosmic celebration of light arriving in darkness.",
-      "fact_year": 1723,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "Bach’s cantata was written to frame a sacred holiday morning, and this sunlit jazz selection echoes that blend of contemplation, warmth, and slow-unfolding joy."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1871, \"Thespis\" debuted as the very first collaboration between W. S. Gilbert and Arthur Sullivan. Although much of its music is lost, it lit the spark for their later comic operas, where satire, catchy melodies, and theatrical flair would reshape British musical theatre.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "The Beatles rewired global pop in the 60s the way synthesizers and dance floors rewired it in the 80s; this episode’s celebration of era-defining hooks mirrors that first jolt of Beatlemania."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On December 26, 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" in Leipzig. The piece weaves intricate counterpoint with festive joy, turning a winter church service into an almost cosmic celebration of light arriving in darkness.",
+      "fact_year": 1723,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "Bach’s cantata was written to frame a sacred holiday morning, and this sunlit jazz selection echoes that blend of contemplation, warmth, and slow-unfolding joy."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T02:00:01.392931+00:00"
+  "updated_at": "2025-12-26T03:00:01.175998+00:00"
 }
