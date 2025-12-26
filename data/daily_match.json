@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "Also in 1862, the Battle of Chickasaw Bayou began as Union General William T. Sherman tried to open a path toward Vicksburg via swampy, maze-like terrain. The landscape itself became a formidable enemy, teaching both sides how rivers, bayous, and mud could shape the fate of a campaign.",
-    "fact_year": 1862,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
+    "hour": 9,
+    "fact_text": "On December 26, 1806, the Battles of Pułtusk and Golymin saw Russian forces halt Napoleon's advance in freezing, muddy Polish fields. The clash showed that even the seemingly unstoppable French army could be slowed by weather, terrain, and stubborn resistance.",
+    "fact_year": 1806,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pu%C5%82tusk_(1806)",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "This battle is a story of how geography alters plans and perceptions, fitting an episode centered on how new terrains—literal or emotional—quietly change the way we move and think."
+    "match_reason": "A key Napoleonic confrontation on Polish soil pairs with a musical road trip across modern Poland, connecting historical battlegrounds to today’s lived landscapes and sounds."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On December 26, 1806, the Battles of Pułtusk and Golymin saw Russian forces halt Napoleon's advance in freezing, muddy Polish fields. The clash showed that even the seemingly unstoppable French army could be slowed by weather, terrain, and stubborn resistance.",
-      "fact_year": 1806,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pu%C5%82tusk_(1806)",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A key Napoleonic confrontation on Polish soil pairs with a musical road trip across modern Poland, connecting historical battlegrounds to today’s lived landscapes and sounds."
-    },
     {
       "hour": 10,
       "fact_text": "On this day in 1941, Winston Churchill addressed a joint meeting of the U.S. Congress, only weeks after the attack on Pearl Harbor. His speech mixed humor with urgency, forging a powerful emotional bridge between two nations about to fight a global war together.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "This battle is a story of how geography alters plans and perceptions, fitting an episode centered on how new terrains—literal or emotional—quietly change the way we move and think."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On December 26, 1806, the Battles of Pułtusk and Golymin saw Russian forces halt Napoleon's advance in freezing, muddy Polish fields. The clash showed that even the seemingly unstoppable French army could be slowed by weather, terrain, and stubborn resistance.",
+      "fact_year": 1806,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pu%C5%82tusk_(1806)",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A key Napoleonic confrontation on Polish soil pairs with a musical road trip across modern Poland, connecting historical battlegrounds to today’s lived landscapes and sounds."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T08:00:01.388357+00:00"
+  "updated_at": "2025-12-26T09:00:01.254454+00:00"
 }
