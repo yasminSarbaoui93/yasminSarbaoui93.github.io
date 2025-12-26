@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On December 26, 1926, audiences heard the world premiere of Jean Sibelius’s tone poem \"Tapiola\", a musical portrait of a vast, mythic Nordic forest. Its slow, shifting textures make the landscape itself feel alive, as though the wind and trees were quietly breathing and remembering.",
-    "fact_year": 1926,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tapiola_(Sibelius)",
+    "hour": 6,
+    "fact_text": "The Battle of Trenton began on December 26, 1776, when George Washington led a daring night crossing of the icy Delaware River to surprise Hessian troops. This risky winter gamble transformed a seemingly doomed revolution into a story of resilience and unexpected momentum.",
+    "fact_year": 1776,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Sibelius’s forest landscape and this episode’s aquatic, floating textures both invite a deep immersion into environment—whether of trees or tides."
+    "match_reason": "A sudden, high-risk surprise attack that flipped the energy of a war pairs with a jolt-of-electricity rock set designed to shock you into motion."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "The Battle of Trenton began on December 26, 1776, when George Washington led a daring night crossing of the icy Delaware River to surprise Hessian troops. This risky winter gamble transformed a seemingly doomed revolution into a story of resilience and unexpected momentum.",
-      "fact_year": 1776,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden, high-risk surprise attack that flipped the energy of a war pairs with a jolt-of-electricity rock set designed to shock you into motion."
-    },
     {
       "hour": 7,
       "fact_text": "On December 26, 1862, in Mankato, Minnesota, the United States carried out the largest mass execution in its history, hanging 38 Dakota men after a rushed and deeply controversial trial process. The event remains a scar in Indigenous–U.S. relations and a stark reminder of how law, power, and injustice can intertwine.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "Sibelius’s forest landscape and this episode’s aquatic, floating textures both invite a deep immersion into environment—whether of trees or tides."
+    },
+    {
+      "hour": 6,
+      "fact_text": "The Battle of Trenton began on December 26, 1776, when George Washington led a daring night crossing of the icy Delaware River to surprise Hessian troops. This risky winter gamble transformed a seemingly doomed revolution into a story of resilience and unexpected momentum.",
+      "fact_year": 1776,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Trenton",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden, high-risk surprise attack that flipped the energy of a war pairs with a jolt-of-electricity rock set designed to shock you into motion."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T05:00:01.468917+00:00"
+  "updated_at": "2025-12-26T06:00:01.059575+00:00"
 }
