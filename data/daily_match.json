@@ -1,65 +1,41 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1963, the Beatles released \"I Want to Hold Your Hand\" and \"I Saw Her Standing There\" in the United States, igniting Beatlemania across the Atlantic. Within weeks, four young men from Liverpool were transforming global pop culture, one catchy chord progression at a time.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
+    "hour": 6,
+    "fact_text": "On this day in 1871, \"Thespis\" wasn’t just new music—it was a playful reimagining of Greek gods taking a holiday and leaving humans to run Olympus. It showed early on how satire, myth, and melody could collide in ways that felt both ridiculous and strangely profound.",
+    "fact_year": 1871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "The Beatles and Arctic Monkeys both rewrote the story of British bands on the world stage; the episode’s focus on artistic evolution mirrors the Beatles’ own explosive transformation."
+    "match_reason": "Gilbert & Sullivan’s witty, emotional theatre lines up with an episode about love’s drama and vulnerability—both turn big feelings into memorable melodies."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On this day in 1871, \"Thespis\" wasn’t just new music—it was a playful reimagining of Greek gods taking a holiday and leaving humans to run Olympus. It showed early on how satire, myth, and melody could collide in ways that felt both ridiculous and strangely profound.",
-      "fact_year": 1871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "Gilbert & Sullivan’s witty, emotional theatre lines up with an episode about love’s drama and vulnerability—both turn big feelings into memorable melodies."
-    },
     {
       "hour": 7,
       "fact_text": "On December 26, 1776, George Washington’s Continental Army crossed the icy Delaware River and struck Hessian forces at Trenton in a surprise dawn attack. This unlikely victory, won in freezing conditions after a string of defeats, helped revive the fading hopes of the American Revolution.",
@@ -640,9 +616,44 @@
         ]
       },
       "match_reason": "The Beatles and Arctic Monkeys both rewrote the story of British bands on the world stage; the episode’s focus on artistic evolution mirrors the Beatles’ own explosive transformation."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On this day in 1871, \"Thespis\" wasn’t just new music—it was a playful reimagining of Greek gods taking a holiday and leaving humans to run Olympus. It showed early on how satire, myth, and melody could collide in ways that felt both ridiculous and strangely profound.",
+      "fact_year": 1871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "Gilbert & Sullivan’s witty, emotional theatre lines up with an episode about love’s drama and vulnerability—both turn big feelings into memorable melodies."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T05:00:01.137821+00:00"
+  "updated_at": "2025-12-26T06:00:01.055926+00:00"
 }
