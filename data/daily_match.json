@@ -1,64 +1,30 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On December 26, 1871, while \"Thespis\" introduced Gilbert and Sullivan’s partnership, it also playfully reimagined the Greek gods retiring and leaving mortals in charge. This whimsical premise quietly poked fun at authority and tradition, using myth to question who gets to rule.",
-    "fact_year": 1871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
+    "hour": 22,
+    "fact_text": "The Dakota War of 1862, culminating in the mass hanging at Mankato on December 26, grew out of broken treaties, hunger, and desperate attempts by Dakota people to reclaim control of their land and lives. Even today, memorial rides and ceremonies reframe the date as a time of remembrance and cultural resilience.",
+    "fact_year": 1862,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mankato,_Minnesota",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A comic opera where gods take a break and roles are swapped fits neatly with an episode about alter-egos, role play, and reinventing who gets to be in charge."
+    "match_reason": "Both the Dakota story and Tuareg music tell of Indigenous peoples facing displacement, using memory, song, and ritual as acts of survival and resistance."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Dakota War of 1862, culminating in the mass hanging at Mankato on December 26, grew out of broken treaties, hunger, and desperate attempts by Dakota people to reclaim control of their land and lives. Even today, memorial rides and ceremonies reframe the date as a time of remembrance and cultural resilience.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mankato,_Minnesota",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Both the Dakota story and Tuareg music tell of Indigenous peoples facing displacement, using memory, song, and ritual as acts of survival and resistance."
-    },
     {
       "hour": 23,
       "fact_text": "On December 26, 2003, while Bam was reeling from its earthquake, people around the world were sharing images, stories, and calls for help faster than ever before. This convergence of catastrophe and global connectivity marked how disasters now unfold simultaneously on the ground and on screens.",
@@ -666,9 +632,33 @@
         ]
       },
       "match_reason": "A comic opera where gods take a break and roles are swapped fits neatly with an episode about alter-egos, role play, and reinventing who gets to be in charge."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Dakota War of 1862, culminating in the mass hanging at Mankato on December 26, grew out of broken treaties, hunger, and desperate attempts by Dakota people to reclaim control of their land and lives. Even today, memorial rides and ceremonies reframe the date as a time of remembrance and cultural resilience.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mankato,_Minnesota",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Both the Dakota story and Tuareg music tell of Indigenous peoples facing displacement, using memory, song, and ritual as acts of survival and resistance."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T21:00:01.273559+00:00"
+  "updated_at": "2025-12-26T22:00:01.266586+00:00"
 }
