@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1898, Marie and Pierre Curie announced they had isolated radium, a new element that glowed eerily in the dark and emitted heat seemingly forever. Their work not only opened the door to understanding radioactivity, but also quietly reshaped medicine, physics, and even the way humans thought about invisible forces in nature.",
-    "fact_year": 1898,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radium",
+    "hour": 1,
+    "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, a strange new number system extending beyond real numbers, complex numbers, and quaternions. Octonions break familiar rules like associativity, hinting that mathematics can be far weirder and more beautiful than everyday arithmetic suggests.",
+    "fact_year": 1843,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Radium revealed a hidden, atmospheric world of invisible energy, much like trip-hop reveals the shadowy, cinematic side of sound and emotion."
+    "match_reason": "Octonions stretch the very idea of what numbers can be, echoing this episode’s theme of questioning familiar systems—whether mathematical rules or our digital habits."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, a strange new number system extending beyond real numbers, complex numbers, and quaternions. Octonions break familiar rules like associativity, hinting that mathematics can be far weirder and more beautiful than everyday arithmetic suggests.",
-      "fact_year": 1843,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Octonions stretch the very idea of what numbers can be, echoing this episode’s theme of questioning familiar systems—whether mathematical rules or our digital habits."
-    },
     {
       "hour": 2,
       "fact_text": "In 1963, American listeners heard The Beatles’ “I Want to Hold Your Hand” and “I Saw Her Standing There” for the first time, sparking an explosive wave of Beatlemania across the Atlantic. Within weeks, four young musicians from Liverpool began transforming not just pop charts, but youth culture, fashion, and ideas about what a band could be.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "Radium revealed a hidden, atmospheric world of invisible energy, much like trip-hop reveals the shadowy, cinematic side of sound and emotion."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, a strange new number system extending beyond real numbers, complex numbers, and quaternions. Octonions break familiar rules like associativity, hinting that mathematics can be far weirder and more beautiful than everyday arithmetic suggests.",
+      "fact_year": 1843,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Octonions stretch the very idea of what numbers can be, echoing this episode’s theme of questioning familiar systems—whether mathematical rules or our digital habits."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T00:00:56.503147+00:00"
+  "updated_at": "2025-12-26T01:00:01.105650+00:00"
 }
