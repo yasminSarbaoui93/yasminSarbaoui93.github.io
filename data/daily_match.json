@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On this day, centuries of theatre and song converged again in small ways—like countless local performances of \"Thespis\"’ descendants in modern musical theatre. Every new chorus, even in a school play, traces a faint line back to that first Gilbert and Sullivan experiment.",
-    "fact_year": 1871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gilbert_and_Sullivan",
+    "hour": 23,
+    "fact_text": "And somewhere on December 26 every year, someone discovers Jean Sibelius’s \"Tapiola\" for the first time—pressing play and suddenly finding themselves in a sound-world of snow-laden branches and whispered northern myths. A 1926 premiere becomes a private, present-tense landscape in the listener’s mind.",
+    "fact_year": 1926,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Sibelius",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "From Victorian comic opera to modern coastal stages, musical theatre travels like a boat, picking up new languages and styles—mirrored by this Mediterranean-crossing playlist."
+    "match_reason": "Sibelius’s northern forests and the episode’s Arctic whales both live under the same pale polar light—quiet, vast, and hauntingly beautiful at the edge of the day."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "And somewhere on December 26 every year, someone discovers Jean Sibelius’s \"Tapiola\" for the first time—pressing play and suddenly finding themselves in a sound-world of snow-laden branches and whispered northern myths. A 1926 premiere becomes a private, present-tense landscape in the listener’s mind.",
-      "fact_year": 1926,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Sibelius",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Sibelius’s northern forests and the episode’s Arctic whales both live under the same pale polar light—quiet, vast, and hauntingly beautiful at the edge of the day."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -641,9 +615,34 @@
         ]
       },
       "match_reason": "From Victorian comic opera to modern coastal stages, musical theatre travels like a boat, picking up new languages and styles—mirrored by this Mediterranean-crossing playlist."
+    },
+    {
+      "hour": 23,
+      "fact_text": "And somewhere on December 26 every year, someone discovers Jean Sibelius’s \"Tapiola\" for the first time—pressing play and suddenly finding themselves in a sound-world of snow-laden branches and whispered northern myths. A 1926 premiere becomes a private, present-tense landscape in the listener’s mind.",
+      "fact_year": 1926,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Sibelius",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Sibelius’s northern forests and the episode’s Arctic whales both live under the same pale polar light—quiet, vast, and hauntingly beautiful at the edge of the day."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T22:00:01.103876+00:00"
+  "updated_at": "2025-12-26T23:00:01.029912+00:00"
 }
