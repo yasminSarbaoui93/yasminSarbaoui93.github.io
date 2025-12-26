@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1898, Marie and Pierre Curie announced that they had isolated a new element: radium. Glowing faintly in the dark and emitting mysterious radiation, this substance helped open the door to modern nuclear physics and cancer therapy—long before anyone fully understood its dangers.",
-    "fact_year": 1898,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radium",
+    "hour": 1,
+    "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, an eight-dimensional number system. These strange, non-associative numbers would later find surprising connections to string theory and particle physics.",
+    "fact_year": 1843,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Downtempo",
         "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Radium’s soft, eerie glow and invisible energy pairs with the episode’s gentle, atmospheric electronics, turning a quiet night into a contemplative reflection on unseen forces."
+    "match_reason": "Octonions stretch our idea of numbers into new dimensions, just as trip-hop stretches genre boundaries into hazy, multi-layered soundscapes."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, an eight-dimensional number system. These strange, non-associative numbers would later find surprising connections to string theory and particle physics.",
-      "fact_year": 1843,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Octonions stretch our idea of numbers into new dimensions, just as trip-hop stretches genre boundaries into hazy, multi-layered soundscapes."
-    },
     {
       "hour": 2,
       "fact_text": "In 1723, Johann Sebastian Bach led the first performance of his Christmas cantata \"Darzu ist erschienen der Sohn Gottes\" (BWV 40) in Leipzig. This work wove together theology and intricate counterpoint, turning a church service into a rich sonic architecture of faith and celebration.",
@@ -641,9 +616,34 @@
         ]
       },
       "match_reason": "Radium’s soft, eerie glow and invisible energy pairs with the episode’s gentle, atmospheric electronics, turning a quiet night into a contemplative reflection on unseen forces."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On December 26, 1843, John T. Graves wrote to his friend William Rowan Hamilton to announce his discovery of the octonions, an eight-dimensional number system. These strange, non-associative numbers would later find surprising connections to string theory and particle physics.",
+      "fact_year": 1843,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Octonion",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Octonions stretch our idea of numbers into new dimensions, just as trip-hop stretches genre boundaries into hazy, multi-layered soundscapes."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T00:00:53.277580+00:00"
+  "updated_at": "2025-12-26T01:00:01.193618+00:00"
 }
