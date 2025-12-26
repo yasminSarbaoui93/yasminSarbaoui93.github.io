@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1806, Russian forces managed to hold off Napoleon’s troops in the Battles of Pułtusk and Golymin, fought amid mud, snow, and chaos. These indecisive clashes showed that the seemingly unstoppable French war machine could be slowed and bloodied.",
-    "fact_year": 1806,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pu%C5%82tusk_(1806)",
+    "hour": 11,
+    "fact_text": "In 1943, the German battleship Scharnhorst was sunk off Norway’s North Cape after a fierce engagement with the Royal Navy. In Arctic darkness and brutal seas, radar-guided British ships hunted down one of Germany’s most feared surface raiders.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A Napoleonic battle on Polish soil connects naturally with an episode built around modern journeys across Poland and Eastern Europe’s musical landscape."
+    "match_reason": "Both the sinking of Scharnhorst and the orca dives unfold in the same harsh Arctic waters off Norway, one a story of war, the other of awe and reconciliation with the sea."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1943, the German battleship Scharnhorst was sunk off Norway’s North Cape after a fierce engagement with the Royal Navy. In Arctic darkness and brutal seas, radar-guided British ships hunted down one of Germany’s most feared surface raiders.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the sinking of Scharnhorst and the orca dives unfold in the same harsh Arctic waters off Norway, one a story of war, the other of awe and reconciliation with the sea."
-    },
     {
       "hour": 12,
       "fact_text": "On December 26, 1941, Winston Churchill became the first foreign leader to address a joint session of the U.S. Congress during wartime. Just weeks after Pearl Harbor, his speech helped cement a transatlantic alliance that would shape the rest of World War II.",
@@ -641,9 +616,34 @@
         ]
       },
       "match_reason": "A Napoleonic battle on Polish soil connects naturally with an episode built around modern journeys across Poland and Eastern Europe’s musical landscape."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1943, the German battleship Scharnhorst was sunk off Norway’s North Cape after a fierce engagement with the Royal Navy. In Arctic darkness and brutal seas, radar-guided British ships hunted down one of Germany’s most feared surface raiders.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_battleship_Scharnhorst",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the sinking of Scharnhorst and the orca dives unfold in the same harsh Arctic waters off Norway, one a story of war, the other of awe and reconciliation with the sea."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.013316+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T10:00:01.151167+00:00"
+  "updated_at": "2025-12-26T11:00:01.220439+00:00"
 }
