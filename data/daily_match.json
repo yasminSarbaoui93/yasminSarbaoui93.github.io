@@ -1,64 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The Dakota War of 1862, culminating in the mass hanging at Mankato on December 26, grew out of broken treaties, hunger, and desperate attempts by Dakota people to reclaim control of their land and lives. Even today, memorial rides and ceremonies reframe the date as a time of remembrance and cultural resilience.",
-    "fact_year": 1862,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mankato,_Minnesota",
+    "hour": 23,
+    "fact_text": "On December 26, 2003, while Bam was reeling from its earthquake, people around the world were sharing images, stories, and calls for help faster than ever before. This convergence of catastrophe and global connectivity marked how disasters now unfold simultaneously on the ground and on screens.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake#Media_coverage",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Both the Dakota story and Tuareg music tell of Indigenous peoples facing displacement, using memory, song, and ritual as acts of survival and resistance."
+    "match_reason": "A moment that exposed global interconnection—devastation, media, and collective response—pairs with Sedna FM’s very first broadcast, the starting node of its own small, connected universe."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On December 26, 2003, while Bam was reeling from its earthquake, people around the world were sharing images, stories, and calls for help faster than ever before. This convergence of catastrophe and global connectivity marked how disasters now unfold simultaneously on the ground and on screens.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake#Media_coverage",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A moment that exposed global interconnection—devastation, media, and collective response—pairs with Sedna FM’s very first broadcast, the starting node of its own small, connected universe."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -656,9 +631,42 @@
         ]
       },
       "match_reason": "Both the Dakota story and Tuareg music tell of Indigenous peoples facing displacement, using memory, song, and ritual as acts of survival and resistance."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On December 26, 2003, while Bam was reeling from its earthquake, people around the world were sharing images, stories, and calls for help faster than ever before. This convergence of catastrophe and global connectivity marked how disasters now unfold simultaneously on the ground and on screens.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake#Media_coverage",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A moment that exposed global interconnection—devastation, media, and collective response—pairs with Sedna FM’s very first broadcast, the starting node of its own small, connected universe."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T22:00:01.266586+00:00"
+  "updated_at": "2025-12-26T23:00:01.009598+00:00"
 }
