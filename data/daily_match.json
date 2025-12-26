@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On December 26, 2003, the city of Bam in southeastern Iran was shattered by a 6.6 magnitude earthquake that killed over 26,000 people and devastated its ancient mud-brick citadel. The disaster sparked massive rescue efforts and highlighted both the fragility of historic structures and the resilience of communities rebuilding from rubble.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Bam_earthquake",
+    "hour": 17,
+    "fact_text": "In 2004, a colossal 9.1–9.3 magnitude earthquake off northern Sumatra triggered one of the largest tsunamis in recorded history, sending walls of water racing across the Indian Ocean. Entire coastlines in Indonesia, Sri Lanka, India, Thailand, and beyond were reshaped in hours, and the disaster transformed how the world monitors and prepares for tsunamis.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "In the wake of a seismic shock, the reflective, slow-moving textures of this episode offer a sonic space for mourning, calm, and the long work of rebuilding."
+    "match_reason": "This episode’s Thai setting and coastal atmosphere directly echo one of the countries most affected by the 2004 tsunami, tying everyday life and music to a transformed shoreline."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 2004, a colossal 9.1–9.3 magnitude earthquake off northern Sumatra triggered one of the largest tsunamis in recorded history, sending walls of water racing across the Indian Ocean. Entire coastlines in Indonesia, Sri Lanka, India, Thailand, and beyond were reshaped in hours, and the disaster transformed how the world monitors and prepares for tsunamis.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "This episode’s Thai setting and coastal atmosphere directly echo one of the countries most affected by the 2004 tsunami, tying everyday life and music to a transformed shoreline."
-    },
     {
       "hour": 18,
       "fact_text": "On December 26, 2006, two powerful earthquakes near Hengchun, Taiwan, disrupted not only local life but also undersea cables that carried much of Asia’s internet traffic. In a few seconds, trembling rock under the ocean briefly slowed the digital pulse of an entire region.",
@@ -657,9 +632,34 @@
         ]
       },
       "match_reason": "In the wake of a seismic shock, the reflective, slow-moving textures of this episode offer a sonic space for mourning, calm, and the long work of rebuilding."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 2004, a colossal 9.1–9.3 magnitude earthquake off northern Sumatra triggered one of the largest tsunamis in recorded history, sending walls of water racing across the Indian Ocean. Entire coastlines in Indonesia, Sri Lanka, India, Thailand, and beyond were reshaped in hours, and the disaster transformed how the world monitors and prepares for tsunamis.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "This episode’s Thai setting and coastal atmosphere directly echo one of the countries most affected by the 2004 tsunami, tying everyday life and music to a transformed shoreline."
     }
   ],
   "generated_at": "2025-12-26T00:00:00.010106+00:00",
   "date": "2025-12-26",
-  "updated_at": "2025-12-26T16:00:01.244197+00:00"
+  "updated_at": "2025-12-26T17:00:01.040775+00:00"
 }
