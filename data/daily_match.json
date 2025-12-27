@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2004, a colossal flare from the magnetar SGR 1806-20 briefly outshone almost everything in the sky, releasing more energy in a tenth of a second than the Sun emits in 100,000 years. Earth's atmosphere absorbed the blast, but satellites and instruments picked up the brightest extrasolar event ever recorded.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SGR_1806%E2%88%9220",
+    "hour": 1,
+    "fact_text": "When Apollo 8 splashed down on December 27, 1968, it marked the safe return of the first humans to orbit another world. During the mission, the crew captured the iconic 'Earthrise' photograph, transforming how humanity saw its home planet—small, fragile, and shared.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A cosmic, mind-bending space event resonates with an episode about reimagining emptiness as creative space and shifting perspective."
+    "match_reason": "A daring voyage around the Moon aligns with an episode themed as a destination journey through sound and new territories."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "When Apollo 8 splashed down on December 27, 1968, it marked the safe return of the first humans to orbit another world. During the mission, the crew captured the iconic 'Earthrise' photograph, transforming how humanity saw its home planet—small, fragile, and shared.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A daring voyage around the Moon aligns with an episode themed as a destination journey through sound and new territories."
-    },
     {
       "hour": 2,
       "fact_text": "The 1939 Erzincan earthquake in eastern Turkey reached an estimated magnitude of 7.8 and a Mercalli intensity of XI, 'Extreme'. Entire neighborhoods were leveled in seconds, and temperatures well below freezing turned the aftermath into a race against both rubble and cold.",
@@ -638,9 +615,43 @@
         ]
       },
       "match_reason": "A cosmic, mind-bending space event resonates with an episode about reimagining emptiness as creative space and shifting perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "When Apollo 8 splashed down on December 27, 1968, it marked the safe return of the first humans to orbit another world. During the mission, the crew captured the iconic 'Earthrise' photograph, transforming how humanity saw its home planet—small, fragile, and shared.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A daring voyage around the Moon aligns with an episode themed as a destination journey through sound and new territories."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T00:00:56.949977+00:00"
+  "updated_at": "2025-12-27T01:00:01.152109+00:00"
 }
