@@ -1,53 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1911, the song \"Jana Gana Mana\" was first performed at the Indian National Congress session in Calcutta. Decades later, it would become India’s national anthem, a carefully crafted Sanskritized Bengali hymn designed to sound timeless and inclusive across hundreds of languages and cultures.",
-    "fact_year": 1911,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jana_Gana_Mana",
+    "hour": 8,
+    "fact_text": "In 1922, Japan’s Hōshō became the world’s first purpose-built aircraft carrier to be officially commissioned. Unlike earlier conversions, she was designed from the keel up for launching and recovering aircraft, quietly foreshadowing how flat-topped ships would dominate 20th-century naval warfare.",
+    "fact_year": 1922,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_H%C5%8Dsh%C5%8D",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 16,
+      "title": "Morning Drops #10 - The One With Many Names",
+      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Ghost - Spirit",
+        "Ghost - Mary on a Cross",
+        "Ghost - Dance Macabre",
+        "Ghost - Umbra"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Hard Rock",
+        "Heavy Metal",
+        "Arena Rock"
       ]
     },
-    "match_reason": "A national anthem crafted to endure across generations fits with an episode dedicated to 'timeless' musical legacies that never fade."
+    "match_reason": "A new kind of warship built as a mobile stage for aircraft connects with a band that turns the rock stage into ritualized theater; both reinvent what a platform can be used for."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1922, Japan’s Hōshō became the world’s first purpose-built aircraft carrier to be officially commissioned. Unlike earlier conversions, she was designed from the keel up for launching and recovering aircraft, quietly foreshadowing how flat-topped ships would dominate 20th-century naval warfare.",
-      "fact_year": 1922,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_H%C5%8Dsh%C5%8D",
-      "episode": {
-        "id": 16,
-        "title": "Morning Drops #10 - The One With Many Names",
-        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
-        "songs": [
-          "Ghost - Spirit",
-          "Ghost - Mary on a Cross",
-          "Ghost - Dance Macabre",
-          "Ghost - Umbra"
-        ],
-        "music-genres": [
-          "Hard Rock",
-          "Heavy Metal",
-          "Arena Rock"
-        ]
-      },
-      "match_reason": "A new kind of warship built as a mobile stage for aircraft connects with a band that turns the rock stage into ritualized theater; both reinvent what a platform can be used for."
-    },
     {
       "hour": 9,
       "fact_text": "In 1999, Burger King recalled millions of plastic Poké Ball toys after two young children suffocated while playing with the promotional containers. The incident turned a symbol of childhood fantasy into a stark reminder that even beloved pop culture can hide unexpected risks.",
@@ -632,9 +609,33 @@
         ]
       },
       "match_reason": "A national anthem crafted to endure across generations fits with an episode dedicated to 'timeless' musical legacies that never fade."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1922, Japan’s Hōshō became the world’s first purpose-built aircraft carrier to be officially commissioned. Unlike earlier conversions, she was designed from the keel up for launching and recovering aircraft, quietly foreshadowing how flat-topped ships would dominate 20th-century naval warfare.",
+      "fact_year": 1922,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_H%C5%8Dsh%C5%8D",
+      "episode": {
+        "id": 16,
+        "title": "Morning Drops #10 - The One With Many Names",
+        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+        "songs": [
+          "Ghost - Spirit",
+          "Ghost - Mary on a Cross",
+          "Ghost - Dance Macabre",
+          "Ghost - Umbra"
+        ],
+        "music-genres": [
+          "Hard Rock",
+          "Heavy Metal",
+          "Arena Rock"
+        ]
+      },
+      "match_reason": "A new kind of warship built as a mobile stage for aircraft connects with a band that turns the rock stage into ritualized theater; both reinvent what a platform can be used for."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T07:00:01.186656+00:00"
+  "updated_at": "2025-12-27T08:00:01.018825+00:00"
 }
