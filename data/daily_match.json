@@ -1,54 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending over three centuries of colonial rule under the Dutch East Indies. The struggle that led to this moment mixed diplomacy, guerrilla warfare, and cultural resistance across thousands of islands.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+    "hour": 12,
+    "fact_text": "The Laws of Burgos, issued in 1512, were the first comprehensive regulations that Spain imposed on its colonists regarding the treatment of Indigenous people in the Americas. While they aimed to limit abuses, they also formalized systems like the encomienda, revealing how law can both restrain and legitimize exploitation.",
+    "fact_year": 1512,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laws_of_Burgos",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A major decolonization milestone resonates with an episode focused on Afrobeat, a genre deeply tied to anti-colonial struggle, political voice, and cultural independence."
+    "match_reason": "A colonial legal code affecting Indigenous lives pairs with an episode about a people whose music carries stories of resilience, land, and resistance to imposed systems."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "The Laws of Burgos, issued in 1512, were the first comprehensive regulations that Spain imposed on its colonists regarding the treatment of Indigenous people in the Americas. While they aimed to limit abuses, they also formalized systems like the encomienda, revealing how law can both restrain and legitimize exploitation.",
-      "fact_year": 1512,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laws_of_Burgos",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A colonial legal code affecting Indigenous lives pairs with an episode about a people whose music carries stories of resilience, land, and resistance to imposed systems."
-    },
     {
       "hour": 13,
       "fact_text": "In 2007, disputed election results in Kenya triggered riots in Mombasa and across the country, spiraling into a wider political and humanitarian crisis. The violence exposed deep ethnic and regional tensions that had long simmered beneath the surface of democratic institutions.",
@@ -639,9 +615,33 @@
         ]
       },
       "match_reason": "A major decolonization milestone resonates with an episode focused on Afrobeat, a genre deeply tied to anti-colonial struggle, political voice, and cultural independence."
+    },
+    {
+      "hour": 12,
+      "fact_text": "The Laws of Burgos, issued in 1512, were the first comprehensive regulations that Spain imposed on its colonists regarding the treatment of Indigenous people in the Americas. While they aimed to limit abuses, they also formalized systems like the encomienda, revealing how law can both restrain and legitimize exploitation.",
+      "fact_year": 1512,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laws_of_Burgos",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A colonial legal code affecting Indigenous lives pairs with an episode about a people whose music carries stories of resilience, land, and resistance to imposed systems."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T11:00:01.110370+00:00"
+  "updated_at": "2025-12-27T12:00:01.004445+00:00"
 }
