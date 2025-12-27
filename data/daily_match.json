@@ -1,55 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending more than three centuries of Dutch colonial rule in the archipelago. The decision marked not only a political turning point, but also the beginning of a vast cultural reshaping as a new nation stitched together hundreds of islands and identities.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+    "hour": 12,
+    "fact_text": "Back in 1512, the Spanish Crown issued the Laws of Burgos, the first comprehensive code attempting to regulate how colonists treated Indigenous peoples in the Americas. Though deeply flawed and often ignored, these rules were an early, uneasy acknowledgement that conquest needed moral justification.",
+    "fact_year": 1512,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laws_of_Burgos",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A decolonization milestone aligns with an episode about Afrobeat’s postcolonial rise; both tell stories of regions reclaiming power and voice through culture."
+    "match_reason": "A colonial-era attempt to codify behavior toward Indigenous peoples is contrasted with a reflective travel-themed episode that invites gentler, more conscious ways of moving through other lands."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "Back in 1512, the Spanish Crown issued the Laws of Burgos, the first comprehensive code attempting to regulate how colonists treated Indigenous peoples in the Americas. Though deeply flawed and often ignored, these rules were an early, uneasy acknowledgement that conquest needed moral justification.",
-      "fact_year": 1512,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laws_of_Burgos",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A colonial-era attempt to codify behavior toward Indigenous peoples is contrasted with a reflective travel-themed episode that invites gentler, more conscious ways of moving through other lands."
-    },
     {
       "hour": 13,
       "fact_text": "In 2007, disputed election results in Kenya sparked riots in cities like Mombasa, quickly spiraling into a nationwide political and humanitarian crisis. For weeks, streets became battlegrounds where questions of identity, fairness, and power burned far hotter than any campaign slogan.",
@@ -633,9 +609,34 @@
         ]
       },
       "match_reason": "A decolonization milestone aligns with an episode about Afrobeat’s postcolonial rise; both tell stories of regions reclaiming power and voice through culture."
+    },
+    {
+      "hour": 12,
+      "fact_text": "Back in 1512, the Spanish Crown issued the Laws of Burgos, the first comprehensive code attempting to regulate how colonists treated Indigenous peoples in the Americas. Though deeply flawed and often ignored, these rules were an early, uneasy acknowledgement that conquest needed moral justification.",
+      "fact_year": 1512,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Laws_of_Burgos",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A colonial-era attempt to codify behavior toward Indigenous peoples is contrasted with a reflective travel-themed episode that invites gentler, more conscious ways of moving through other lands."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T11:00:01.031565+00:00"
+  "updated_at": "2025-12-27T12:00:01.075955+00:00"
 }
