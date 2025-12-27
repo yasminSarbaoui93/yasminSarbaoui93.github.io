@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On December 27, 1831, a 22-year-old Charles Darwin boarded HMS Beagle for what was meant to be a routine survey voyage. Instead, his five-year journey through oceans, islands, and strange ecosystems quietly planted the seeds of the theory of evolution by natural selection.",
-    "fact_year": 1831,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle",
+    "hour": 4,
+    "fact_text": "Radio City Music Hall opened its doors in 1932 as the 'Showplace of the Nation', combining cutting-edge Art Deco design with elaborate stagecraft. Its enormous stage and hidden hydraulic elevators allowed entire sets to rise and vanish like magic, redefining what live entertainment could look like.",
+    "fact_year": 1932,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #39 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
+        "Disco",
+        "Synthpop",
         "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "French Pop"
       ]
     },
-    "match_reason": "Darwin’s ocean voyage and deep engagement with the natural world pair with an episode about immersion, water-like flow, and going below the surface."
+    "match_reason": "A legendary performance hall built for spectacle and dance meshes with an 80s-club-themed episode celebrating stages, lights, and movement."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "Radio City Music Hall opened its doors in 1932 as the 'Showplace of the Nation', combining cutting-edge Art Deco design with elaborate stagecraft. Its enormous stage and hidden hydraulic elevators allowed entire sets to rise and vanish like magic, redefining what live entertainment could look like.",
-      "fact_year": 1932,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A legendary performance hall built for spectacle and dance meshes with an 80s-club-themed episode celebrating stages, lights, and movement."
-    },
     {
       "hour": 5,
       "fact_text": "The Cave of Swallows in Mexico, first documented by outsiders in 1966, plunges more than 370 meters straight down—taller than the Eiffel Tower. Every morning, thousands of birds spiral out of the darkness in a living vortex, while humans rappel from the rim into the world’s largest known cave shaft.",
@@ -640,9 +615,34 @@
         ]
       },
       "match_reason": "Darwin’s ocean voyage and deep engagement with the natural world pair with an episode about immersion, water-like flow, and going below the surface."
+    },
+    {
+      "hour": 4,
+      "fact_text": "Radio City Music Hall opened its doors in 1932 as the 'Showplace of the Nation', combining cutting-edge Art Deco design with elaborate stagecraft. Its enormous stage and hidden hydraulic elevators allowed entire sets to rise and vanish like magic, redefining what live entertainment could look like.",
+      "fact_year": 1932,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A legendary performance hall built for spectacle and dance meshes with an 80s-club-themed episode celebrating stages, lights, and movement."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T03:00:01.241839+00:00"
+  "updated_at": "2025-12-27T04:00:01.203279+00:00"
 }
