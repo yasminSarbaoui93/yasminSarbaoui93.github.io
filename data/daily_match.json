@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1966, explorers in Mexico revealed the Cave of Swallows, a gigantic vertical shaft plunging roughly 370 meters straight down. Its entrance is so vast that hot-air balloons and BASE jumpers have descended inside, turning a hidden geological wound into a cathedral of air and swifts.",
-    "fact_year": 1966,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
+    "hour": 6,
+    "fact_text": "When “Show Boat” opened on Broadway in 1927, it blurred the line between light musical comedy and serious drama. By weaving complex characters, social issues, and a continuous score, it helped invent the modern American musical as a story you feel rather than a string of songs you hum.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Show_Boat",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A sheer plunge into Earth’s depths pairs with an episode about plunging into cold oceans; both explore vertical journeys into hidden worlds filled with animals and echoing space."
+    "match_reason": "A groundbreaking musical that reshaped theatre culture aligns with a deep-dive into flamenco’s evolution; both show how music and narrative traditions transform over time."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "When “Show Boat” opened on Broadway in 1927, it blurred the line between light musical comedy and serious drama. By weaving complex characters, social issues, and a continuous score, it helped invent the modern American musical as a story you feel rather than a string of songs you hum.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Show_Boat",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A groundbreaking musical that reshaped theatre culture aligns with a deep-dive into flamenco’s evolution; both show how music and narrative traditions transform over time."
-    },
     {
       "hour": 7,
       "fact_text": "In 1911, the song \"Jana Gana Mana\" was first performed at the Indian National Congress session in Calcutta. Decades later, it would become India’s national anthem, a carefully crafted Sanskritized Bengali hymn designed to sound timeless and inclusive across hundreds of languages and cultures.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "A sheer plunge into Earth’s depths pairs with an episode about plunging into cold oceans; both explore vertical journeys into hidden worlds filled with animals and echoing space."
+    },
+    {
+      "hour": 6,
+      "fact_text": "When “Show Boat” opened on Broadway in 1927, it blurred the line between light musical comedy and serious drama. By weaving complex characters, social issues, and a continuous score, it helped invent the modern American musical as a story you feel rather than a string of songs you hum.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Show_Boat",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A groundbreaking musical that reshaped theatre culture aligns with a deep-dive into flamenco’s evolution; both show how music and narrative traditions transform over time."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T05:00:01.184999+00:00"
+  "updated_at": "2025-12-27T06:00:01.020676+00:00"
 }
