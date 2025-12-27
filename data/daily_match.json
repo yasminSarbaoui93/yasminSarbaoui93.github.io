@@ -1,61 +1,36 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "By December 27, 1989, the Romanian Revolution had effectively ended as scattered gunfire in Bucharest fell silent and the communist regime collapsed. It was one of the few Eastern European uprisings that turned violently against its leadership, culminating in the swift trial and execution of Nicolae Ceaușescu.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Romanian_Revolution",
+    "hour": 20,
+    "fact_text": "The same day Romania’s revolution quieted, a massive solar flare from the magnetar SGR 1806-20 would, fifteen years later, briefly alter Earth’s ionosphere—reminding us that even distant cosmic events can touch our skies. For a fraction of a second, the invisible radiation reshaped the way radio waves traveled around our planet.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Magnetar",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
         "Electronic"
       ]
     },
-    "match_reason": "A dark, cinematic political upheaval matches the moody, boundary-blurring atmosphere of trip-hop, a genre often used to soundtrack tension and transition."
+    "match_reason": "A star’s violent outburst altering radio paths fits an evening episode that literally opens with 'Solar Wind' and drifts through cosmic, atmospheric soundscapes."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "The same day Romania’s revolution quieted, a massive solar flare from the magnetar SGR 1806-20 would, fifteen years later, briefly alter Earth’s ionosphere—reminding us that even distant cosmic events can touch our skies. For a fraction of a second, the invisible radiation reshaped the way radio waves traveled around our planet.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Magnetar",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A star’s violent outburst altering radio paths fits an evening episode that literally opens with 'Solar Wind' and drifts through cosmic, atmospheric soundscapes."
-    },
     {
       "hour": 21,
       "fact_text": "Hidden within the Laws of Burgos was a rule that Indigenous people were to be taught Christian doctrine in their own languages, an early nod to linguistic diversity even within an oppressive system. It inadvertently preserved and documented native tongues even as colonization threatened to erase them.",
@@ -640,9 +615,39 @@
         ]
       },
       "match_reason": "A dark, cinematic political upheaval matches the moody, boundary-blurring atmosphere of trip-hop, a genre often used to soundtrack tension and transition."
+    },
+    {
+      "hour": 20,
+      "fact_text": "The same day Romania’s revolution quieted, a massive solar flare from the magnetar SGR 1806-20 would, fifteen years later, briefly alter Earth’s ionosphere—reminding us that even distant cosmic events can touch our skies. For a fraction of a second, the invisible radiation reshaped the way radio waves traveled around our planet.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Magnetar",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A star’s violent outburst altering radio paths fits an evening episode that literally opens with 'Solar Wind' and drifts through cosmic, atmospheric soundscapes."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T19:00:01.368374+00:00"
+  "updated_at": "2025-12-27T20:00:01.166126+00:00"
 }
