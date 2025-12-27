@@ -1,60 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "The same day Romania’s revolution quieted, a massive solar flare from the magnetar SGR 1806-20 would, fifteen years later, briefly alter Earth’s ionosphere—reminding us that even distant cosmic events can touch our skies. For a fraction of a second, the invisible radiation reshaped the way radio waves traveled around our planet.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Magnetar",
+    "hour": 21,
+    "fact_text": "Hidden within the Laws of Burgos was a rule that Indigenous people were to be taught Christian doctrine in their own languages, an early nod to linguistic diversity even within an oppressive system. It inadvertently preserved and documented native tongues even as colonization threatened to erase them.",
+    "fact_year": 1512,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "A star’s violent outburst altering radio paths fits an evening episode that literally opens with 'Solar Wind' and drifts through cosmic, atmospheric soundscapes."
+    "match_reason": "An unexpected space where Indigenous languages persist matches an episode honoring a specific regional culture and language—Sardegna—as a vessel of memory and identity."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Hidden within the Laws of Burgos was a rule that Indigenous people were to be taught Christian doctrine in their own languages, an early nod to linguistic diversity even within an oppressive system. It inadvertently preserved and documented native tongues even as colonization threatened to erase them.",
-      "fact_year": 1512,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "An unexpected space where Indigenous languages persist matches an episode honoring a specific regional culture and language—Sardegna—as a vessel of memory and identity."
-    },
     {
       "hour": 22,
       "fact_text": "The capture of Bagram Airfield in 1996 didn’t just shift who controlled a strategic runway; it foreshadowed decades in which that same strip of concrete would host wildly different flags. From Taliban fighters to NATO jets, the airfield became a stage where global geopolitics literally took off and landed.",
@@ -645,9 +615,33 @@
         ]
       },
       "match_reason": "A star’s violent outburst altering radio paths fits an evening episode that literally opens with 'Solar Wind' and drifts through cosmic, atmospheric soundscapes."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Hidden within the Laws of Burgos was a rule that Indigenous people were to be taught Christian doctrine in their own languages, an early nod to linguistic diversity even within an oppressive system. It inadvertently preserved and documented native tongues even as colonization threatened to erase them.",
+      "fact_year": 1512,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "An unexpected space where Indigenous languages persist matches an episode honoring a specific regional culture and language—Sardegna—as a vessel of memory and identity."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T20:00:01.166126+00:00"
+  "updated_at": "2025-12-27T21:00:01.322186+00:00"
 }
