@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "Radio City Music Hall opened its doors in 1932 as the 'Showplace of the Nation', combining cutting-edge Art Deco design with elaborate stagecraft. Its enormous stage and hidden hydraulic elevators allowed entire sets to rise and vanish like magic, redefining what live entertainment could look like.",
-    "fact_year": 1932,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall",
+    "hour": 5,
+    "fact_text": "The Cave of Swallows in Mexico, first documented by outsiders in 1966, plunges more than 370 meters straight down—taller than the Eiffel Tower. Every morning, thousands of birds spiral out of the darkness in a living vortex, while humans rappel from the rim into the world’s largest known cave shaft.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A legendary performance hall built for spectacle and dance meshes with an 80s-club-themed episode celebrating stages, lights, and movement."
+    "match_reason": "A vast vertical cavern filled with birds and daring descents echoes the episode’s spirit of entering extreme natural spaces and encountering wild animals up close."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "The Cave of Swallows in Mexico, first documented by outsiders in 1966, plunges more than 370 meters straight down—taller than the Eiffel Tower. Every morning, thousands of birds spiral out of the darkness in a living vortex, while humans rappel from the rim into the world’s largest known cave shaft.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A vast vertical cavern filled with birds and daring descents echoes the episode’s spirit of entering extreme natural spaces and encountering wild animals up close."
-    },
     {
       "hour": 6,
       "fact_text": "When 'Show Boat' premiered on Broadway in 1927, it broke with the lighthearted revues of its time by weaving a serious story about race, love, and time into its songs. Its integrated narrative structure helped define the modern American musical, where music and plot are inseparable.",
@@ -640,9 +615,34 @@
         ]
       },
       "match_reason": "A legendary performance hall built for spectacle and dance meshes with an 80s-club-themed episode celebrating stages, lights, and movement."
+    },
+    {
+      "hour": 5,
+      "fact_text": "The Cave of Swallows in Mexico, first documented by outsiders in 1966, plunges more than 370 meters straight down—taller than the Eiffel Tower. Every morning, thousands of birds spiral out of the darkness in a living vortex, while humans rappel from the rim into the world’s largest known cave shaft.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A vast vertical cavern filled with birds and daring descents echoes the episode’s spirit of entering extreme natural spaces and encountering wild animals up close."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T04:00:01.203279+00:00"
+  "updated_at": "2025-12-27T05:00:01.152738+00:00"
 }
