@@ -1,65 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The capture of Bagram Airfield in 1996 didn’t just shift who controlled a strategic runway; it foreshadowed decades in which that same strip of concrete would host wildly different flags. From Taliban fighters to NATO jets, the airfield became a stage where global geopolitics literally took off and landed.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Taliban",
+    "hour": 23,
+    "fact_text": "When 'Jana Gana Mana' was first sung in 1911, some listeners misunderstood it as praise for a British monarch. Tagore later clarified that its 'Ruler of the Minds of People' was not a king, but a spiritual, universal guiding presence—showing how lyrics can carry layered meanings, especially in political times.",
+    "fact_year": 1911,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_anthem",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A strategic airfield at the center of global power plays mirrors how infrastructure—like our phones and networks—quietly shapes the way we connect, control, and are controlled."
+    "match_reason": "An anthem’s layered, contested meaning pairs with the station’s first ever episode—a foundational mix about voice, identity, and how songs can mean different things to different people."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "When 'Jana Gana Mana' was first sung in 1911, some listeners misunderstood it as praise for a British monarch. Tagore later clarified that its 'Ruler of the Minds of People' was not a king, but a spiritual, universal guiding presence—showing how lyrics can carry layered meanings, especially in political times.",
-      "fact_year": 1911,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_anthem",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "An anthem’s layered, contested meaning pairs with the station’s first ever episode—a foundational mix about voice, identity, and how songs can mean different things to different people."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -640,9 +614,42 @@
         ]
       },
       "match_reason": "A strategic airfield at the center of global power plays mirrors how infrastructure—like our phones and networks—quietly shapes the way we connect, control, and are controlled."
+    },
+    {
+      "hour": 23,
+      "fact_text": "When 'Jana Gana Mana' was first sung in 1911, some listeners misunderstood it as praise for a British monarch. Tagore later clarified that its 'Ruler of the Minds of People' was not a king, but a spiritual, universal guiding presence—showing how lyrics can carry layered meanings, especially in political times.",
+      "fact_year": 1911,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_anthem",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "An anthem’s layered, contested meaning pairs with the station’s first ever episode—a foundational mix about voice, identity, and how songs can mean different things to different people."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T22:00:00.986768+00:00"
+  "updated_at": "2025-12-27T23:00:01.242603+00:00"
 }
