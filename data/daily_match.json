@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "When Apollo 8 splashed down on December 27, 1968, it marked the safe return of the first humans to orbit another world. During the mission, the crew captured the iconic 'Earthrise' photograph, transforming how humanity saw its home planet—small, fragile, and shared.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+    "hour": 2,
+    "fact_text": "The 1939 Erzincan earthquake in eastern Turkey reached an estimated magnitude of 7.8 and a Mercalli intensity of XI, 'Extreme'. Entire neighborhoods were leveled in seconds, and temperatures well below freezing turned the aftermath into a race against both rubble and cold.",
+    "fact_year": 1939,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1939_Erzincan_earthquake",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A daring voyage around the Moon aligns with an episode themed as a destination journey through sound and new territories."
+    "match_reason": "The sudden, devastating force of an earthquake mirrors the jolt and raw power evoked by an 'Electric Shock' rock selection."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "The 1939 Erzincan earthquake in eastern Turkey reached an estimated magnitude of 7.8 and a Mercalli intensity of XI, 'Extreme'. Entire neighborhoods were leveled in seconds, and temperatures well below freezing turned the aftermath into a race against both rubble and cold.",
-      "fact_year": 1939,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1939_Erzincan_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden, devastating force of an earthquake mirrors the jolt and raw power evoked by an 'Electric Shock' rock selection."
-    },
     {
       "hour": 3,
       "fact_text": "On December 27, 1831, a 22-year-old Charles Darwin boarded HMS Beagle for what was meant to be a routine survey voyage. Instead, his five-year journey through oceans, islands, and strange ecosystems quietly planted the seeds of the theory of evolution by natural selection.",
@@ -649,9 +615,34 @@
         ]
       },
       "match_reason": "A daring voyage around the Moon aligns with an episode themed as a destination journey through sound and new territories."
+    },
+    {
+      "hour": 2,
+      "fact_text": "The 1939 Erzincan earthquake in eastern Turkey reached an estimated magnitude of 7.8 and a Mercalli intensity of XI, 'Extreme'. Entire neighborhoods were leveled in seconds, and temperatures well below freezing turned the aftermath into a race against both rubble and cold.",
+      "fact_year": 1939,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1939_Erzincan_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden, devastating force of an earthquake mirrors the jolt and raw power evoked by an 'Electric Shock' rock selection."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T01:00:01.152109+00:00"
+  "updated_at": "2025-12-27T02:00:01.151926+00:00"
 }
