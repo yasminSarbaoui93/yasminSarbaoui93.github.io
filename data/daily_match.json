@@ -1,52 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On December 27, 1996, Taliban forces captured Bagram Airfield, tightening their ring around Kabul and reshaping Afghanistan’s political map. The airbase would later become a symbol of shifting powers, hosting forces from different nations over decades of conflict.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
+    "hour": 11,
+    "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending over three centuries of colonial rule under the Dutch East Indies. The struggle that led to this moment mixed diplomacy, guerrilla warfare, and cultural resistance across thousands of islands.",
+    "fact_year": 1949,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A story of power, control, and contested territory aligns with an episode using conscious rap to challenge narratives and break out of imposed boxes."
+    "match_reason": "A major decolonization milestone resonates with an episode focused on Afrobeat, a genre deeply tied to anti-colonial struggle, political voice, and cultural independence."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending over three centuries of colonial rule under the Dutch East Indies. The struggle that led to this moment mixed diplomacy, guerrilla warfare, and cultural resistance across thousands of islands.",
-      "fact_year": 1949,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A major decolonization milestone resonates with an episode focused on Afrobeat, a genre deeply tied to anti-colonial struggle, political voice, and cultural independence."
-    },
     {
       "hour": 12,
       "fact_text": "The Laws of Burgos, issued in 1512, were the first comprehensive regulations that Spain imposed on its colonists regarding the treatment of Indigenous people in the Americas. While they aimed to limit abuses, they also formalized systems like the encomienda, revealing how law can both restrain and legitimize exploitation.",
@@ -637,9 +615,33 @@
         ]
       },
       "match_reason": "A story of power, control, and contested territory aligns with an episode using conscious rap to challenge narratives and break out of imposed boxes."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending over three centuries of colonial rule under the Dutch East Indies. The struggle that led to this moment mixed diplomacy, guerrilla warfare, and cultural resistance across thousands of islands.",
+      "fact_year": 1949,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A major decolonization milestone resonates with an episode focused on Afrobeat, a genre deeply tied to anti-colonial struggle, political voice, and cultural independence."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T10:00:01.400399+00:00"
+  "updated_at": "2025-12-27T11:00:01.110370+00:00"
 }
