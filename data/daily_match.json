@@ -1,54 +1,29 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Mombasa, mentioned in the 2007 Kenyan crisis, is also one of East Africa’s oldest port cities, where monsoon winds once carried traders from Arabia, India, and beyond. Its Swahili culture grew from centuries of maritime exchange, blending languages, foods, and faiths along the Indian Ocean coast.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mombasa",
+    "hour": 21,
+    "fact_text": "Kabul, encircled in 1996’s fighting, sits at a high altitude along ancient trade and invasion routes through the Hindu Kush. Its history is a palimpsest of empires — Persian, Mughal, British, Soviet, and more — all leaving traces in its architecture, languages, and daily life.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kabul",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 8,
+      "title": "Morning Drops #02 - Waves of the Maghreb",
+      "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Hedi Jouini - Lamouni",
+        "Rachid Taha - Ya Rayah",
+        "Nass El Ghiwane - El Madi Fate"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Maghreb",
+        "Chaabi",
+        "Raï"
       ]
     },
-    "match_reason": "An ocean-crossroads city shaped by centuries of seafaring connects with an episode that sails the Mediterranean through coastal music; both are about ports where cultures meet by boat."
+    "match_reason": "A city defined by layered empires and crossroads culture pairs with an episode exploring another crossroads region, the Maghreb, offering parallel stories of 'East' meeting 'West' through sound."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Kabul, encircled in 1996’s fighting, sits at a high altitude along ancient trade and invasion routes through the Hindu Kush. Its history is a palimpsest of empires — Persian, Mughal, British, Soviet, and more — all leaving traces in its architecture, languages, and daily life.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kabul",
-      "episode": {
-        "id": 8,
-        "title": "Morning Drops #02 - Waves of the Maghreb",
-        "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
-        "songs": [
-          "Hedi Jouini - Lamouni",
-          "Rachid Taha - Ya Rayah",
-          "Nass El Ghiwane - El Madi Fate"
-        ],
-        "music-genres": [
-          "Maghreb",
-          "Chaabi",
-          "Raï"
-        ]
-      },
-      "match_reason": "A city defined by layered empires and crossroads culture pairs with an episode exploring another crossroads region, the Maghreb, offering parallel stories of 'East' meeting 'West' through sound."
-    },
     {
       "hour": 22,
       "fact_text": "The Dutch East Indies, dissolved when Indonesia gained independence in 1949, was once a sprawling colonial patchwork of islands, spices, and forced labor. Its legacy still echoes in modern shipping routes, food, and even place names, long after the imperial maps were redrawn.",
@@ -634,9 +609,32 @@
         ]
       },
       "match_reason": "An ocean-crossroads city shaped by centuries of seafaring connects with an episode that sails the Mediterranean through coastal music; both are about ports where cultures meet by boat."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Kabul, encircled in 1996’s fighting, sits at a high altitude along ancient trade and invasion routes through the Hindu Kush. Its history is a palimpsest of empires — Persian, Mughal, British, Soviet, and more — all leaving traces in its architecture, languages, and daily life.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kabul",
+      "episode": {
+        "id": 8,
+        "title": "Morning Drops #02 - Waves of the Maghreb",
+        "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
+        "songs": [
+          "Hedi Jouini - Lamouni",
+          "Rachid Taha - Ya Rayah",
+          "Nass El Ghiwane - El Madi Fate"
+        ],
+        "music-genres": [
+          "Maghreb",
+          "Chaabi",
+          "Raï"
+        ]
+      },
+      "match_reason": "A city defined by layered empires and crossroads culture pairs with an episode exploring another crossroads region, the Maghreb, offering parallel stories of 'East' meeting 'West' through sound."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T20:00:01.174263+00:00"
+  "updated_at": "2025-12-27T21:00:01.195776+00:00"
 }
