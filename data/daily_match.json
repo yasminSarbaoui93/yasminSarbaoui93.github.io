@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1999, Burger King recalled millions of plastic Poké Ball toys after two young children suffocated while playing with the promotional containers. The incident turned a symbol of childhood fantasy into a stark reminder that even beloved pop culture can hide unexpected risks.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burger_King_Pok%C3%A9mon_container_recall",
+    "hour": 10,
+    "fact_text": "On December 27, 1996, Taliban forces recaptured Bagram Airfield, tightening their grip around Kabul during Afghanistan’s long civil conflict. The air base, originally built with Cold War ambitions, kept shifting hands and meanings as different powers fought to control the skies above the country.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
     "episode": {
-      "id": 13,
-      "title": "Morning Drops #03 - secret_mp3_player_1",
-      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Sean Paul - Get Busy",
-        "Blink-182 - I Miss You",
-        "Black Eyed Peas - My Humps",
-        "Britney Spears - Toxic"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Dancehall",
-        "Pop Punk",
+        "Afrobeat",
         "Pop",
-        "Dance-Pop"
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "A story about late-90s/early-2000s children’s merch and hidden danger pairs with an episode drenched in the same era’s pop nostalgia, mixing sugar and a hint of shadow."
+    "match_reason": "A story rooted in conflict and military power is juxtaposed with an episode about martial arts as discipline and personal strength, flipping warlike movement into mindful practice."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On December 27, 1996, Taliban forces recaptured Bagram Airfield, tightening their grip around Kabul during Afghanistan’s long civil conflict. The air base, originally built with Cold War ambitions, kept shifting hands and meanings as different powers fought to control the skies above the country.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A story rooted in conflict and military power is juxtaposed with an episode about martial arts as discipline and personal strength, flipping warlike movement into mindful practice."
-    },
     {
       "hour": 11,
       "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending more than three centuries of Dutch colonial rule in the archipelago. The decision marked not only a political turning point, but also the beginning of a vast cultural reshaping as a new nation stitched together hundreds of islands and identities.",
@@ -634,9 +609,34 @@
         ]
       },
       "match_reason": "A story about late-90s/early-2000s children’s merch and hidden danger pairs with an episode drenched in the same era’s pop nostalgia, mixing sugar and a hint of shadow."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On December 27, 1996, Taliban forces recaptured Bagram Airfield, tightening their grip around Kabul during Afghanistan’s long civil conflict. The air base, originally built with Cold War ambitions, kept shifting hands and meanings as different powers fought to control the skies above the country.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A story rooted in conflict and military power is juxtaposed with an episode about martial arts as discipline and personal strength, flipping warlike movement into mindful practice."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T09:00:01.217771+00:00"
+  "updated_at": "2025-12-27T10:00:01.196212+00:00"
 }
