@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On December 27, 1968, Apollo 8’s command module splashed down safely in the Pacific Ocean, completing humanity’s first crewed orbit of the Moon. The mission gave us the iconic ‘Earthrise’ photograph, a fragile blue world rising over a barren lunar horizon that reshaped how many people saw our planet.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_8",
+    "hour": 2,
+    "fact_text": "In 1939, the Erzincan earthquake struck eastern Turkey with such violence that entire neighborhoods were leveled in seconds. Registering a magnitude of 7.8 and a Mercalli intensity of XI, it reshaped both the land and the country’s approach to seismic safety.",
+    "fact_year": 1939,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1939_Erzincan_earthquake",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A pioneering voyage around the Moon syncs with a themed musical ‘destination’ journey that feels like leaving Earth together through sound."
+    "match_reason": "A sudden, destructive jolt from beneath the Earth is paired with high-voltage rock that channels raw, seismic energy into sound."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1939, the Erzincan earthquake struck eastern Turkey with such violence that entire neighborhoods were leveled in seconds. Registering a magnitude of 7.8 and a Mercalli intensity of XI, it reshaped both the land and the country’s approach to seismic safety.",
-      "fact_year": 1939,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1939_Erzincan_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden, destructive jolt from beneath the Earth is paired with high-voltage rock that channels raw, seismic energy into sound."
-    },
     {
       "hour": 3,
       "fact_text": "On December 27, 1831, a young Charles Darwin stepped aboard HMS Beagle for a voyage that would last nearly five years. The trip transformed him from a curious student into a pioneering naturalist, planting the seeds of the theory of evolution through countless observations of plants, animals, and landscapes.",
@@ -643,9 +609,34 @@
         ]
       },
       "match_reason": "A pioneering voyage around the Moon syncs with a themed musical ‘destination’ journey that feels like leaving Earth together through sound."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1939, the Erzincan earthquake struck eastern Turkey with such violence that entire neighborhoods were leveled in seconds. Registering a magnitude of 7.8 and a Mercalli intensity of XI, it reshaped both the land and the country’s approach to seismic safety.",
+      "fact_year": 1939,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1939_Erzincan_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden, destructive jolt from beneath the Earth is paired with high-voltage rock that channels raw, seismic energy into sound."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T01:00:01.243525+00:00"
+  "updated_at": "2025-12-27T02:00:01.097940+00:00"
 }
