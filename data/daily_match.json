@@ -1,57 +1,34 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "Kabul, encircled in 1996’s fighting, sits at a high altitude along ancient trade and invasion routes through the Hindu Kush. Its history is a palimpsest of empires — Persian, Mughal, British, Soviet, and more — all leaving traces in its architecture, languages, and daily life.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kabul",
+    "hour": 22,
+    "fact_text": "The Dutch East Indies, dissolved when Indonesia gained independence in 1949, was once a sprawling colonial patchwork of islands, spices, and forced labor. Its legacy still echoes in modern shipping routes, food, and even place names, long after the imperial maps were redrawn.",
+    "fact_year": 1949,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
     "episode": {
-      "id": 8,
-      "title": "Morning Drops #02 - Waves of the Maghreb",
-      "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Hedi Jouini - Lamouni",
-        "Rachid Taha - Ya Rayah",
-        "Nass El Ghiwane - El Madi Fate"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Maghreb",
-        "Chaabi",
-        "Raï"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A city defined by layered empires and crossroads culture pairs with an episode exploring another crossroads region, the Maghreb, offering parallel stories of 'East' meeting 'West' through sound."
+    "match_reason": "A maritime colonial empire built on long sea voyages is reimagined through an intimate modern sailing trip; both stories ride ocean routes, but with very different ethics and moods."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Dutch East Indies, dissolved when Indonesia gained independence in 1949, was once a sprawling colonial patchwork of islands, spices, and forced labor. Its legacy still echoes in modern shipping routes, food, and even place names, long after the imperial maps were redrawn.",
-      "fact_year": 1949,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A maritime colonial empire built on long sea voyages is reimagined through an intimate modern sailing trip; both stories ride ocean routes, but with very different ethics and moods."
-    },
     {
       "hour": 23,
       "fact_text": "The broader Indigenous peoples of the Americas, referenced in the Laws of Burgos, include hundreds of distinct nations with their own sciences, architectures, and ecological knowledge systems. From terraced Andean agriculture to sustainable forest management in Amazonia, many of their innovations are only now being fully appreciated.",
@@ -632,9 +609,37 @@
         ]
       },
       "match_reason": "A city defined by layered empires and crossroads culture pairs with an episode exploring another crossroads region, the Maghreb, offering parallel stories of 'East' meeting 'West' through sound."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Dutch East Indies, dissolved when Indonesia gained independence in 1949, was once a sprawling colonial patchwork of islands, spices, and forced labor. Its legacy still echoes in modern shipping routes, food, and even place names, long after the imperial maps were redrawn.",
+      "fact_year": 1949,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A maritime colonial empire built on long sea voyages is reimagined through an intimate modern sailing trip; both stories ride ocean routes, but with very different ethics and moods."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T21:00:01.195776+00:00"
+  "updated_at": "2025-12-27T22:00:00.978554+00:00"
 }
