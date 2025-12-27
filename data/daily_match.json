@@ -1,55 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On December 27, 1996, Taliban forces recaptured Bagram Airfield, tightening their grip around Kabul during Afghanistan’s long civil conflict. The air base, originally built with Cold War ambitions, kept shifting hands and meanings as different powers fought to control the skies above the country.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
+    "hour": 11,
+    "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending more than three centuries of Dutch colonial rule in the archipelago. The decision marked not only a political turning point, but also the beginning of a vast cultural reshaping as a new nation stitched together hundreds of islands and identities.",
+    "fact_year": 1949,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A story rooted in conflict and military power is juxtaposed with an episode about martial arts as discipline and personal strength, flipping warlike movement into mindful practice."
+    "match_reason": "A decolonization milestone aligns with an episode about Afrobeat’s postcolonial rise; both tell stories of regions reclaiming power and voice through culture."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending more than three centuries of Dutch colonial rule in the archipelago. The decision marked not only a political turning point, but also the beginning of a vast cultural reshaping as a new nation stitched together hundreds of islands and identities.",
-      "fact_year": 1949,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A decolonization milestone aligns with an episode about Afrobeat’s postcolonial rise; both tell stories of regions reclaiming power and voice through culture."
-    },
     {
       "hour": 12,
       "fact_text": "Back in 1512, the Spanish Crown issued the Laws of Burgos, the first comprehensive code attempting to regulate how colonists treated Indigenous peoples in the Americas. Though deeply flawed and often ignored, these rules were an early, uneasy acknowledgement that conquest needed moral justification.",
@@ -634,9 +609,33 @@
         ]
       },
       "match_reason": "A story rooted in conflict and military power is juxtaposed with an episode about martial arts as discipline and personal strength, flipping warlike movement into mindful practice."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending more than three centuries of Dutch colonial rule in the archipelago. The decision marked not only a political turning point, but also the beginning of a vast cultural reshaping as a new nation stitched together hundreds of islands and identities.",
+      "fact_year": 1949,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A decolonization milestone aligns with an episode about Afrobeat’s postcolonial rise; both tell stories of regions reclaiming power and voice through culture."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T10:00:01.196212+00:00"
+  "updated_at": "2025-12-27T11:00:01.031565+00:00"
 }
