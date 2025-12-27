@@ -1,64 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1932, Radio City Music Hall opened its doors in New York City as the “Showplace of the Nation.” Beneath its glittering Art Deco curves, it pioneered a new kind of entertainment palace where cinema, stage shows, and music merged into an immersive spectacle.",
-    "fact_year": 1932,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall",
+    "hour": 5,
+    "fact_text": "In 1966, explorers in Mexico revealed the Cave of Swallows, a gigantic vertical shaft plunging roughly 370 meters straight down. Its entrance is so vast that hot-air balloons and BASE jumpers have descended inside, turning a hidden geological wound into a cathedral of air and swifts.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The grand opening of an iconic music hall mirrors Sedna’s own first episode: both are launch stages where a diverse show of sounds begins."
+    "match_reason": "A sheer plunge into Earth’s depths pairs with an episode about plunging into cold oceans; both explore vertical journeys into hidden worlds filled with animals and echoing space."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1966, explorers in Mexico revealed the Cave of Swallows, a gigantic vertical shaft plunging roughly 370 meters straight down. Its entrance is so vast that hot-air balloons and BASE jumpers have descended inside, turning a hidden geological wound into a cathedral of air and swifts.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A sheer plunge into Earth’s depths pairs with an episode about plunging into cold oceans; both explore vertical journeys into hidden worlds filled with animals and echoing space."
-    },
     {
       "hour": 6,
       "fact_text": "When “Show Boat” opened on Broadway in 1927, it blurred the line between light musical comedy and serious drama. By weaving complex characters, social issues, and a continuous score, it helped invent the modern American musical as a story you feel rather than a string of songs you hum.",
@@ -642,9 +609,34 @@
         ]
       },
       "match_reason": "The grand opening of an iconic music hall mirrors Sedna’s own first episode: both are launch stages where a diverse show of sounds begins."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1966, explorers in Mexico revealed the Cave of Swallows, a gigantic vertical shaft plunging roughly 370 meters straight down. Its entrance is so vast that hot-air balloons and BASE jumpers have descended inside, turning a hidden geological wound into a cathedral of air and swifts.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cave_of_Swallows",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A sheer plunge into Earth’s depths pairs with an episode about plunging into cold oceans; both explore vertical journeys into hidden worlds filled with animals and echoing space."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.011988+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T04:00:01.052637+00:00"
+  "updated_at": "2025-12-27T05:00:01.184999+00:00"
 }
