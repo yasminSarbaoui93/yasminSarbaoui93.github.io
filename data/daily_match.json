@@ -1,53 +1,28 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1999, Burger King recalled millions of plastic Poké Ball toys after several children suffocated or nearly suffocated when the halves sealed over their noses and mouths. It became a strange meeting point between fast food, pop culture, and the evolution of modern product safety standards.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burger_King_Pok%C3%A9mon_container_recall",
+    "hour": 10,
+    "fact_text": "On December 27, 1996, Taliban forces captured Bagram Airfield, tightening their ring around Kabul and reshaping Afghanistan’s political map. The airbase would later become a symbol of shifting powers, hosting forces from different nations over decades of conflict.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
     "episode": {
-      "id": 13,
-      "title": "Morning Drops #03 - secret_mp3_player_1",
-      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Sean Paul - Get Busy",
-        "Blink-182 - I Miss You",
-        "Black Eyed Peas - My Humps",
-        "Britney Spears - Toxic"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Dancehall",
-        "Pop Punk",
-        "Pop",
-        "Dance-Pop"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A late-90s Pokémon-themed fast food craze fits with an early-2000s nostalgia episode celebrating the pop culture of that era."
+    "match_reason": "A story of power, control, and contested territory aligns with an episode using conscious rap to challenge narratives and break out of imposed boxes."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On December 27, 1996, Taliban forces captured Bagram Airfield, tightening their ring around Kabul and reshaping Afghanistan’s political map. The airbase would later become a symbol of shifting powers, hosting forces from different nations over decades of conflict.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A story of power, control, and contested territory aligns with an episode using conscious rap to challenge narratives and break out of imposed boxes."
-    },
     {
       "hour": 11,
       "fact_text": "In 1949, the Netherlands formally recognized Indonesia’s independence, ending over three centuries of colonial rule under the Dutch East Indies. The struggle that led to this moment mixed diplomacy, guerrilla warfare, and cultural resistance across thousands of islands.",
@@ -640,9 +615,31 @@
         ]
       },
       "match_reason": "A late-90s Pokémon-themed fast food craze fits with an early-2000s nostalgia episode celebrating the pop culture of that era."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On December 27, 1996, Taliban forces captured Bagram Airfield, tightening their ring around Kabul and reshaping Afghanistan’s political map. The airbase would later become a symbol of shifting powers, hosting forces from different nations over decades of conflict.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bagram_Airfield",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A story of power, control, and contested territory aligns with an episode using conscious rap to challenge narratives and break out of imposed boxes."
     }
   ],
   "generated_at": "2025-12-27T00:00:00.009020+00:00",
   "date": "2025-12-27",
-  "updated_at": "2025-12-27T09:00:01.094862+00:00"
+  "updated_at": "2025-12-27T10:00:01.400399+00:00"
 }
