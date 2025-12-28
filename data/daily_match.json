@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On December 28, 1895, the Lumière brothers held the first public screening of projected motion pictures for a paying audience at Paris’s Grand Café. Viewers watched short scenes—a train arriving, workers leaving a factory—yet some reportedly flinched from the screen, stunned by the illusion of life captured and replayed.",
-    "fact_year": 1895,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
+    "hour": 12,
+    "fact_text": "On December 28, 2019, a massive truck bomb exploded at a busy checkpoint in Mogadishu, Somalia, killing at least 85 people and injuring many more. The attack, claimed by Al‑Shabaab, tore through ordinary routines—workers commuting, students traveling—showing how fragile everyday life can be in cities marked by long-running conflict.",
+    "fact_year": 2019,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2019_Mogadishu_bombing",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "The Lumières’ cinema invented a new way to watch moving images together; this clubby, synth-driven episode celebrates the later age when machines and visuals turned music into cinematic nightlife experiences."
+    "match_reason": "Reggae and dub have long offered solace and quiet resistance in the face of violence; this spacious, rootsy selection acts as a gentle sonic vigil for a city often caught between hope and harm."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On December 28, 2019, a massive truck bomb exploded at a busy checkpoint in Mogadishu, Somalia, killing at least 85 people and injuring many more. The attack, claimed by Al‑Shabaab, tore through ordinary routines—workers commuting, students traveling—showing how fragile everyday life can be in cities marked by long-running conflict.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2019_Mogadishu_bombing",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "Reggae and dub have long offered solace and quiet resistance in the face of violence; this spacious, rootsy selection acts as a gentle sonic vigil for a city often caught between hope and harm."
-    },
     {
       "hour": 13,
       "fact_text": "In 2009, a suicide bomber struck a procession of Shia Muslims observing the Day of Ashura in Karachi, Pakistan, killing 43 people. The attack targeted a deeply symbolic day of mourning and remembrance, turning a spiritual ritual into a moment of collective trauma that still lingers in the city’s memory.",
@@ -647,9 +622,33 @@
         ]
       },
       "match_reason": "The Lumières’ cinema invented a new way to watch moving images together; this clubby, synth-driven episode celebrates the later age when machines and visuals turned music into cinematic nightlife experiences."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On December 28, 2019, a massive truck bomb exploded at a busy checkpoint in Mogadishu, Somalia, killing at least 85 people and injuring many more. The attack, claimed by Al‑Shabaab, tore through ordinary routines—workers commuting, students traveling—showing how fragile everyday life can be in cities marked by long-running conflict.",
+      "fact_year": 2019,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2019_Mogadishu_bombing",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "Reggae and dub have long offered solace and quiet resistance in the face of violence; this spacious, rootsy selection acts as a gentle sonic vigil for a city often caught between hope and harm."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T11:00:01.224416+00:00"
+  "updated_at": "2025-12-28T12:00:01.433888+00:00"
 }
