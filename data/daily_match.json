@@ -1,55 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 28 December 1902, the Syracuse Athletic Club beat the New York Philadelphians 5–0 in what is considered the first indoor professional American football game, played under the roof of Madison Square Garden. Fans watched a rough outdoor sport squeezed into an arena lit by new electric lamps, an early experiment in turning stadium sport into enclosed spectacle.",
-    "fact_year": 1902,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_Series_of_Football_(1902%E2%80%9303)",
+    "hour": 5,
+    "fact_text": "On 28 December 1835, Seminole leader Osceola led his warriors in Florida into what became the Second Seminole War against the United States. The conflict was fueled by resistance to forced removal from their lands, and Osceola’s guerrilla tactics turned the swamps and hammocks into a maze for the U.S. Army.",
+    "fact_year": 1835,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osceola",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "An industrial-age indoor football experiment in New York fits with a city-focused episode about Sheffield’s steel and stadium-ready sounds, all about how urban spaces reshape noise, play, and crowds."
+    "match_reason": "Osceola’s fight against displacement mirrors the Tuareg narratives of land, resistance, and survival; the desert blues here becomes an echo of another indigenous struggle to stay rooted."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 28 December 1835, Seminole leader Osceola led his warriors in Florida into what became the Second Seminole War against the United States. The conflict was fueled by resistance to forced removal from their lands, and Osceola’s guerrilla tactics turned the swamps and hammocks into a maze for the U.S. Army.",
-      "fact_year": 1835,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osceola",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Osceola’s fight against displacement mirrors the Tuareg narratives of land, resistance, and survival; the desert blues here becomes an echo of another indigenous struggle to stay rooted."
-    },
     {
       "hour": 6,
       "fact_text": "On 28 December 1918, while imprisoned in Holloway, Irish revolutionary Constance Markievicz became the first woman ever elected to the British House of Commons. She never took her seat in London, instead honoring Sinn Féin’s policy of abstention and helping to found Ireland’s revolutionary parliament.",
@@ -651,9 +626,33 @@
         ]
       },
       "match_reason": "An industrial-age indoor football experiment in New York fits with a city-focused episode about Sheffield’s steel and stadium-ready sounds, all about how urban spaces reshape noise, play, and crowds."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 28 December 1835, Seminole leader Osceola led his warriors in Florida into what became the Second Seminole War against the United States. The conflict was fueled by resistance to forced removal from their lands, and Osceola’s guerrilla tactics turned the swamps and hammocks into a maze for the U.S. Army.",
+      "fact_year": 1835,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osceola",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Osceola’s fight against displacement mirrors the Tuareg narratives of land, resistance, and survival; the desert blues here becomes an echo of another indigenous struggle to stay rooted."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.011089+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T04:00:01.171130+00:00"
+  "updated_at": "2025-12-28T05:00:01.384800+00:00"
 }
