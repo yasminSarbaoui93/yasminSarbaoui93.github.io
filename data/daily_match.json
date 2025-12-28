@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "Also on 28 December 1895, the Lumière brothers held the first public screening for a paying audience in a Paris café basement. The short, flickering films of workers leaving a factory and trains arriving were enough to make some viewers duck for cover, convinced the locomotive would burst out of the screen.",
-    "fact_year": 1895,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
+    "hour": 2,
+    "fact_text": "On 28 December 1908, a massive magnitude 7.1 earthquake struck the Strait of Messina between Sicily and mainland Italy. In less than a minute it flattened whole neighborhoods, triggered a tsunami, and killed as many as 80,000 people, making it one of Europe’s deadliest quakes.",
+    "fact_year": 1908,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "The first cinema audience sat in a café and watched moving images powered by new machines; this 80s-club set celebrates another era when machines and screens reshaped how people gathered to watch, dance, and feel hypnotized by light and sound."
+    "match_reason": "A seismic catastrophe on Italy’s southern coast meets an introspective, travel-themed episode with Italian folk-rock colors—inviting reflection on how landscapes, and lives, can shift in an instant."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 28 December 1908, a massive magnitude 7.1 earthquake struck the Strait of Messina between Sicily and mainland Italy. In less than a minute it flattened whole neighborhoods, triggered a tsunami, and killed as many as 80,000 people, making it one of Europe’s deadliest quakes.",
-      "fact_year": 1908,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A seismic catastrophe on Italy’s southern coast meets an introspective, travel-themed episode with Italian folk-rock colors—inviting reflection on how landscapes, and lives, can shift in an instant."
-    },
     {
       "hour": 3,
       "fact_text": "On 28 December 893, a powerful earthquake destroyed the Armenian city of Dvin, then a thriving medieval capital and trading hub. The disaster reshaped the region’s political and cultural landscape, leaving ruins that still tell stories of a lost urban world.",
@@ -651,9 +626,34 @@
         ]
       },
       "match_reason": "The first cinema audience sat in a café and watched moving images powered by new machines; this 80s-club set celebrates another era when machines and screens reshaped how people gathered to watch, dance, and feel hypnotized by light and sound."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 28 December 1908, a massive magnitude 7.1 earthquake struck the Strait of Messina between Sicily and mainland Italy. In less than a minute it flattened whole neighborhoods, triggered a tsunami, and killed as many as 80,000 people, making it one of Europe’s deadliest quakes.",
+      "fact_year": 1908,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A seismic catastrophe on Italy’s southern coast meets an introspective, travel-themed episode with Italian folk-rock colors—inviting reflection on how landscapes, and lives, can shift in an instant."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.011089+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T01:00:01.127132+00:00"
+  "updated_at": "2025-12-28T02:00:01.240975+00:00"
 }
