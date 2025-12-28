@@ -1,54 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On December 28, 1958, the NFL Championship between the Baltimore Colts and the New York Giants became the league’s first sudden-death overtime game, later dubbed \"The Greatest Game Ever Played.\" Broadcast on national television, its dramatic finish helped transform American football from a regional pastime into a national obsession.",
-    "fact_year": 1958,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1958_NFL_Championship_Game",
+    "hour": 16,
+    "fact_text": "On December 28, 1944, Montreal Canadiens star Maurice \"Rocket\" Richard became the first NHL player to record eight points in a single game, scoring five goals and three assists. His explosive performance helped cement his mythic status in Quebec, where he symbolized both sporting brilliance and cultural pride.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Richard",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "Sudden-death overtime turned an empty stretch of extra time into thrilling possibility; this upbeat, forward-driving set about rethinking \"space\" matches the adrenaline and mindset shift of that historic game."
+    "match_reason": "Richard’s eight-point night was pure flow state on ice; fluid, improvisational jazz in this episode mirrors the same sense of effortless momentum and skillful play."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On December 28, 1944, Montreal Canadiens star Maurice \"Rocket\" Richard became the first NHL player to record eight points in a single game, scoring five goals and three assists. His explosive performance helped cement his mythic status in Quebec, where he symbolized both sporting brilliance and cultural pride.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Richard",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "Richard’s eight-point night was pure flow state on ice; fluid, improvisational jazz in this episode mirrors the same sense of effortless momentum and skillful play."
-    },
     {
       "hour": 17,
       "fact_text": "On December 28, 1918, while imprisoned in London’s Holloway jail, Constance Markievicz became the first woman elected as a Member of Parliament to the British House of Commons. She refused to take her seat in line with Sinn Féin’s abstentionist policy, turning her election into a symbolic victory for Irish independence and women’s political representation.",
@@ -645,9 +622,34 @@
         ]
       },
       "match_reason": "Sudden-death overtime turned an empty stretch of extra time into thrilling possibility; this upbeat, forward-driving set about rethinking \"space\" matches the adrenaline and mindset shift of that historic game."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On December 28, 1944, Montreal Canadiens star Maurice \"Rocket\" Richard became the first NHL player to record eight points in a single game, scoring five goals and three assists. His explosive performance helped cement his mythic status in Quebec, where he symbolized both sporting brilliance and cultural pride.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Richard",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "Richard’s eight-point night was pure flow state on ice; fluid, improvisational jazz in this episode mirrors the same sense of effortless momentum and skillful play."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T15:00:01.014767+00:00"
+  "updated_at": "2025-12-28T16:00:01.064486+00:00"
 }
