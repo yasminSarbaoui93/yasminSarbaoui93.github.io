@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 2009, a suicide bomber struck a procession of Shia Muslims observing the Day of Ashura in Karachi, Pakistan, killing 43 people. The attack targeted a deeply symbolic day of mourning and remembrance, turning a spiritual ritual into a moment of collective trauma that still lingers in the city’s memory.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Karachi_bombing",
+    "hour": 14,
+    "fact_text": "On December 28, 1967, Muriel Siebert became the first woman to own a seat on the New York Stock Exchange, after a grueling search for sponsors and a fight to secure a bank loan. On a trading floor where thousands of men shouted orders, her presence quietly rewrote the rules of who could stand at the center of global finance.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muriel_Siebert",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
       ]
     },
-    "match_reason": "A violent attack on a religious ritual needs music that understands sorrow and resilience; flamenco’s history of lament, faith, and fierce dignity echoes the emotional intensity of Ashura."
+    "match_reason": "Siebert’s breakthrough on Wall Street mirrors the bold, trailblazing energy of the women celebrated in this episode—each commanding spaces where they were never meant to lead."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On December 28, 1967, Muriel Siebert became the first woman to own a seat on the New York Stock Exchange, after a grueling search for sponsors and a fight to secure a bank loan. On a trading floor where thousands of men shouted orders, her presence quietly rewrote the rules of who could stand at the center of global finance.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muriel_Siebert",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "Siebert’s breakthrough on Wall Street mirrors the bold, trailblazing energy of the women celebrated in this episode—each commanding spaces where they were never meant to lead."
-    },
     {
       "hour": 15,
       "fact_text": "On December 28, 1958, the NFL Championship between the Baltimore Colts and the New York Giants became the league’s first sudden-death overtime game, later dubbed \"The Greatest Game Ever Played.\" Broadcast on national television, its dramatic finish helped transform American football from a regional pastime into a national obsession.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "A violent attack on a religious ritual needs music that understands sorrow and resilience; flamenco’s history of lament, faith, and fierce dignity echoes the emotional intensity of Ashura."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On December 28, 1967, Muriel Siebert became the first woman to own a seat on the New York Stock Exchange, after a grueling search for sponsors and a fight to secure a bank loan. On a trading floor where thousands of men shouted orders, her presence quietly rewrote the rules of who could stand at the center of global finance.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muriel_Siebert",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "Siebert’s breakthrough on Wall Street mirrors the bold, trailblazing energy of the women celebrated in this episode—each commanding spaces where they were never meant to lead."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T13:00:01.115527+00:00"
+  "updated_at": "2025-12-28T14:00:01.089856+00:00"
 }
