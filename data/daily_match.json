@@ -1,55 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On December 28, 1956, communist leader Chin Peng met with Malayan and Singaporean leaders in the town of Baling to negotiate an end to the Malayan Emergency. The talks ultimately failed, but the meeting is remembered as an unusual moment when jungle guerrillas and colonial-era politicians sat at the same table trying to imagine peace.",
-    "fact_year": 1956,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chin_Peng",
+    "hour": 9,
+    "fact_text": "On December 28, 1835, Seminole leader Osceola led his warriors into what became the Second Seminole War against the United States. Fighting to resist forced relocation, the Seminole used swamps, forests, and intimate knowledge of Florida’s terrain as allies, turning the landscape itself into a form of quiet rebellion.",
+    "fact_year": 1835,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osceola",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "The Baling talks unfolded in Southeast Asia’s humid tension between conflict and calm; this Thailand-based episode shares that regional atmosphere of discipline, negotiation, and the fight between force and restraint."
+    "match_reason": "The Seminole struggle against displacement resonates with Tuareg songs of exile and resistance; despite different continents and ecosystems, both stories are about indigenous people turning their land into a living shield."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On December 28, 1835, Seminole leader Osceola led his warriors into what became the Second Seminole War against the United States. Fighting to resist forced relocation, the Seminole used swamps, forests, and intimate knowledge of Florida’s terrain as allies, turning the landscape itself into a form of quiet rebellion.",
-      "fact_year": 1835,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osceola",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The Seminole struggle against displacement resonates with Tuareg songs of exile and resistance; despite different continents and ecosystems, both stories are about indigenous people turning their land into a living shield."
-    },
     {
       "hour": 10,
       "fact_text": "In 1943, Soviet authorities launched Operation Ulussy, forcibly deporting the entire Kalmyk nation from their homeland to Siberia and Central Asia. Whole communities were packed into cattle trains in the winter, and their autonomous republic was wiped from maps—an attempt to erase a people by scattering them across vast, frozen distances.",
@@ -647,9 +622,33 @@
         ]
       },
       "match_reason": "The Baling talks unfolded in Southeast Asia’s humid tension between conflict and calm; this Thailand-based episode shares that regional atmosphere of discipline, negotiation, and the fight between force and restraint."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On December 28, 1835, Seminole leader Osceola led his warriors into what became the Second Seminole War against the United States. Fighting to resist forced relocation, the Seminole used swamps, forests, and intimate knowledge of Florida’s terrain as allies, turning the landscape itself into a form of quiet rebellion.",
+      "fact_year": 1835,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Osceola",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The Seminole struggle against displacement resonates with Tuareg songs of exile and resistance; despite different continents and ecosystems, both stories are about indigenous people turning their land into a living shield."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T08:00:01.095125+00:00"
+  "updated_at": "2025-12-28T09:00:01.507887+00:00"
 }
