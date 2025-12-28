@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 28 December 1944, Maurice “Rocket” Richard became the first player in NHL history to score eight points in a single game, with five goals and three assists. His explosive performance cemented his myth as a player whose speed and intensity seemed to bend hockey’s limits.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Richard",
+    "hour": 10,
+    "fact_text": "On 28 December 1956, Chin Peng, David Marshall, and Tunku Abdul Rahman met in Baling, Malaya, trying to negotiate an end to the Malayan Emergency. The talks ultimately failed, but the meeting brought guerrilla leaders, colonial authorities, and future national leaders face-to-face at a pivotal moment in Southeast Asia’s decolonization.",
+    "fact_year": 1956,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chin_Peng",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "Richard’s record-breaking night on the ice feels like a lightning strike in sport history; a blast of electric blues-rock mirrors that sense of speed, surge, and pure kinetic energy."
+    "match_reason": "The Baling Talks sit within a broader Southeast Asian story of conflict, negotiation, and discipline; an episode shaped by Thai training camps and regional sounds offers an atmospheric regional echo to this political standoff."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 28 December 1956, Chin Peng, David Marshall, and Tunku Abdul Rahman met in Baling, Malaya, trying to negotiate an end to the Malayan Emergency. The talks ultimately failed, but the meeting brought guerrilla leaders, colonial authorities, and future national leaders face-to-face at a pivotal moment in Southeast Asia’s decolonization.",
-      "fact_year": 1956,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chin_Peng",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "The Baling Talks sit within a broader Southeast Asian story of conflict, negotiation, and discipline; an episode shaped by Thai training camps and regional sounds offers an atmospheric regional echo to this political standoff."
-    },
     {
       "hour": 11,
       "fact_text": "On 28 December 1958, the NFL Championship between the Baltimore Colts and the New York Giants went into the league’s first sudden-death overtime. The dramatic finish, watched by millions on television, became known as “The Greatest Game Ever Played” and helped catapult American football into a national obsession.",
@@ -651,9 +626,34 @@
         ]
       },
       "match_reason": "Richard’s record-breaking night on the ice feels like a lightning strike in sport history; a blast of electric blues-rock mirrors that sense of speed, surge, and pure kinetic energy."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 28 December 1956, Chin Peng, David Marshall, and Tunku Abdul Rahman met in Baling, Malaya, trying to negotiate an end to the Malayan Emergency. The talks ultimately failed, but the meeting brought guerrilla leaders, colonial authorities, and future national leaders face-to-face at a pivotal moment in Southeast Asia’s decolonization.",
+      "fact_year": 1956,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chin_Peng",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "The Baling Talks sit within a broader Southeast Asian story of conflict, negotiation, and discipline; an episode shaped by Thai training camps and regional sounds offers an atmospheric regional echo to this political standoff."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.011089+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T09:00:01.022804+00:00"
+  "updated_at": "2025-12-28T10:00:01.171715+00:00"
 }
