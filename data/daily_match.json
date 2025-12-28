@@ -1,54 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 28 December 1918, while imprisoned in Holloway, Irish revolutionary Constance Markievicz became the first woman ever elected to the British House of Commons. She never took her seat in London, instead honoring Sinn Féin’s policy of abstention and helping to found Ireland’s revolutionary parliament.",
-    "fact_year": 1918,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constance_Markievicz",
+    "hour": 7,
+    "fact_text": "On 28 December 1941, Operation Anthropoid began—the daring Allied mission to assassinate Reinhard Heydrich, one of the most powerful and feared Nazi officials. Two Czech agents were parachuted into occupied territory, setting in motion one of World War II’s most audacious resistance operations.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
     "episode": {
-      "id": 10,
-      "title": "Morning Drops #04 - Bars With Balls",
-      "description": "Yasmin dives into Women's Day through the voices of four incredible female rappers. Morning fire from the magic planet of Sedna FM — move your hands up and down with us. Hip hop culture through a feminine lens.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Ele A - Globo",
-        "Little Simz - Point and Kill (feat. Obongjayar)",
-        "Lil' Kim - Lighters Up",
-        "Queen Latifah - U.N.I.T.Y."
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeats",
-        "Rap"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "Markievicz broke a political barrier for women under extreme pressure; an episode centered on powerful female voices in rap amplifies that same fearless energy and insistence on being heard."
+    "match_reason": "A high-risk act of resistance calls for distorted guitars and defiant voices; the Women of Rock episode channels the same raw courage and refusal to submit to authoritarian power."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 28 December 1941, Operation Anthropoid began—the daring Allied mission to assassinate Reinhard Heydrich, one of the most powerful and feared Nazi officials. Two Czech agents were parachuted into occupied territory, setting in motion one of World War II’s most audacious resistance operations.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A high-risk act of resistance calls for distorted guitars and defiant voices; the Women of Rock episode channels the same raw courage and refusal to submit to authoritarian power."
-    },
     {
       "hour": 8,
       "fact_text": "On 28 December 1943, Soviet authorities launched Operation Ulussy—the mass deportation of the Kalmyk people to Siberia and Central Asia. Entire communities were loaded into cattle cars in winter, accused of collective treason, and forbidden to return to their homeland for more than a decade.",
@@ -650,9 +626,33 @@
         ]
       },
       "match_reason": "Markievicz broke a political barrier for women under extreme pressure; an episode centered on powerful female voices in rap amplifies that same fearless energy and insistence on being heard."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 28 December 1941, Operation Anthropoid began—the daring Allied mission to assassinate Reinhard Heydrich, one of the most powerful and feared Nazi officials. Two Czech agents were parachuted into occupied territory, setting in motion one of World War II’s most audacious resistance operations.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A high-risk act of resistance calls for distorted guitars and defiant voices; the Women of Rock episode channels the same raw courage and refusal to submit to authoritarian power."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.011089+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T06:00:01.103506+00:00"
+  "updated_at": "2025-12-28T07:00:01.418110+00:00"
 }
