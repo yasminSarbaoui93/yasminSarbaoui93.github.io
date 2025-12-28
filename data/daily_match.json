@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On December 28, 1908, a 7.1 magnitude earthquake devastated the Italian city of Messina and surrounding areas in Southern Italy. The quake and resulting tsunami nearly erased entire communities, reshaping coastlines and prompting new thinking about how humans build in the shadow of Earth’s restless tectonic forces.",
-    "fact_year": 1908,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
+    "hour": 2,
+    "fact_text": "In 893, a powerful earthquake destroyed the ancient Armenian city of Dvin, then a thriving capital and trading hub. The disaster not only shattered buildings but also shifted political and cultural power in the region, leaving archaeologists today to read its ruins like seismographs etched in stone.",
+    "fact_year": 893,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/893_Dvin_earthquake",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "This episode is rooted in Italian landscapes and emotions; pairing it with the Messina earthquake honors Sicily’s fragile beauty and the stories written into its terrain."
+    "match_reason": "A vanished capital invites reflection on how landscapes and cities change; this \"moving meditation\" soundtrack mirrors the slow shifts—tectonic or emotional—that reshape where we call home."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 893, a powerful earthquake destroyed the ancient Armenian city of Dvin, then a thriving capital and trading hub. The disaster not only shattered buildings but also shifted political and cultural power in the region, leaving archaeologists today to read its ruins like seismographs etched in stone.",
-      "fact_year": 893,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/893_Dvin_earthquake",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A vanished capital invites reflection on how landscapes and cities change; this \"moving meditation\" soundtrack mirrors the slow shifts—tectonic or emotional—that reshape where we call home."
-    },
     {
       "hour": 3,
       "fact_text": "In 1989, a magnitude 5.6 earthquake struck Newcastle, New South Wales, one of Australia’s worst natural disasters in an urban area. Unusually, much of the damage came not from immense magnitude but from shallow depth and vulnerable buildings, a reminder that even moderate quakes can reveal hidden weaknesses in human design.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "This episode is rooted in Italian landscapes and emotions; pairing it with the Messina earthquake honors Sicily’s fragile beauty and the stories written into its terrain."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 893, a powerful earthquake destroyed the ancient Armenian city of Dvin, then a thriving capital and trading hub. The disaster not only shattered buildings but also shifted political and cultural power in the region, leaving archaeologists today to read its ruins like seismographs etched in stone.",
+      "fact_year": 893,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/893_Dvin_earthquake",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A vanished capital invites reflection on how landscapes and cities change; this \"moving meditation\" soundtrack mirrors the slow shifts—tectonic or emotional—that reshape where we call home."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T01:00:01.160419+00:00"
+  "updated_at": "2025-12-28T02:00:01.115922+00:00"
 }
