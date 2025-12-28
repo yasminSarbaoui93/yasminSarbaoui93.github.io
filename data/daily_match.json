@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1943, Soviet authorities launched Operation Ulussy, forcibly deporting the entire Kalmyk nation from their homeland to Siberia and Central Asia. Whole communities were packed into cattle trains in the winter, and their autonomous republic was wiped from maps—an attempt to erase a people by scattering them across vast, frozen distances.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Deportation_of_the_Kalmyks",
+    "hour": 11,
+    "fact_text": "On December 28, 1895, the Lumière brothers held the first public screening of projected motion pictures for a paying audience at Paris’s Grand Café. Viewers watched short scenes—a train arriving, workers leaving a factory—yet some reportedly flinched from the screen, stunned by the illusion of life captured and replayed.",
+    "fact_year": 1895,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "After a story of forced, brutal movement, a \"Slow Planet\" offers a sonic counter-ritual: calm, spacious tracks that invite listeners to sit with the weight of displacement and imagine gentler migrations."
+    "match_reason": "The Lumières’ cinema invented a new way to watch moving images together; this clubby, synth-driven episode celebrates the later age when machines and visuals turned music into cinematic nightlife experiences."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On December 28, 1895, the Lumière brothers held the first public screening of projected motion pictures for a paying audience at Paris’s Grand Café. Viewers watched short scenes—a train arriving, workers leaving a factory—yet some reportedly flinched from the screen, stunned by the illusion of life captured and replayed.",
-      "fact_year": 1895,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "The Lumières’ cinema invented a new way to watch moving images together; this clubby, synth-driven episode celebrates the later age when machines and visuals turned music into cinematic nightlife experiences."
-    },
     {
       "hour": 12,
       "fact_text": "On December 28, 2019, a massive truck bomb exploded at a busy checkpoint in Mogadishu, Somalia, killing at least 85 people and injuring many more. The attack, claimed by Al‑Shabaab, tore through ordinary routines—workers commuting, students traveling—showing how fragile everyday life can be in cities marked by long-running conflict.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "After a story of forced, brutal movement, a \"Slow Planet\" offers a sonic counter-ritual: calm, spacious tracks that invite listeners to sit with the weight of displacement and imagine gentler migrations."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On December 28, 1895, the Lumière brothers held the first public screening of projected motion pictures for a paying audience at Paris’s Grand Café. Viewers watched short scenes—a train arriving, workers leaving a factory—yet some reportedly flinched from the screen, stunned by the illusion of life captured and replayed.",
+      "fact_year": 1895,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "The Lumières’ cinema invented a new way to watch moving images together; this clubby, synth-driven episode celebrates the later age when machines and visuals turned music into cinematic nightlife experiences."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T10:00:01.336270+00:00"
+  "updated_at": "2025-12-28T11:00:01.224416+00:00"
 }
