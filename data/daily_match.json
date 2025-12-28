@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 28 December 1895, Wilhelm Röntgen published the first paper describing a mysterious new kind of radiation that could see through flesh but not bone. His ghostly images of hands and metal objects stunned the scientific world and transformed medicine almost overnight.",
+    "hour": 1,
+    "fact_text": "Also on 28 December 1895, the Lumière brothers held the first public screening for a paying audience in a Paris café basement. The short, flickering films of workers leaving a factory and trains arriving were enough to make some viewers duck for cover, convinced the locomotive would burst out of the screen.",
     "fact_year": 1895,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Röntgen’s discovery of X-rays was literally a new kind of invisible electricity; a high-voltage breakthrough pairs well with an episode themed around electrifying shocks and charged guitar energy."
+    "match_reason": "The first cinema audience sat in a café and watched moving images powered by new machines; this 80s-club set celebrates another era when machines and screens reshaped how people gathered to watch, dance, and feel hypnotized by light and sound."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "Also on 28 December 1895, the Lumière brothers held the first public screening for a paying audience in a Paris café basement. The short, flickering films of workers leaving a factory and trains arriving were enough to make some viewers duck for cover, convinced the locomotive would burst out of the screen.",
-      "fact_year": 1895,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "The first cinema audience sat in a café and watched moving images powered by new machines; this 80s-club set celebrates another era when machines and screens reshaped how people gathered to watch, dance, and feel hypnotized by light and sound."
-    },
     {
       "hour": 2,
       "fact_text": "On 28 December 1908, a massive magnitude 7.1 earthquake struck the Strait of Messina between Sicily and mainland Italy. In less than a minute it flattened whole neighborhoods, triggered a tsunami, and killed as many as 80,000 people, making it one of Europe’s deadliest quakes.",
@@ -651,9 +626,34 @@
         ]
       },
       "match_reason": "Röntgen’s discovery of X-rays was literally a new kind of invisible electricity; a high-voltage breakthrough pairs well with an episode themed around electrifying shocks and charged guitar energy."
+    },
+    {
+      "hour": 1,
+      "fact_text": "Also on 28 December 1895, the Lumière brothers held the first public screening for a paying audience in a Paris café basement. The short, flickering films of workers leaving a factory and trains arriving were enough to make some viewers duck for cover, convinced the locomotive would burst out of the screen.",
+      "fact_year": 1895,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "The first cinema audience sat in a café and watched moving images powered by new machines; this 80s-club set celebrates another era when machines and screens reshaped how people gathered to watch, dance, and feel hypnotized by light and sound."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.011089+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T00:00:43.854168+00:00"
+  "updated_at": "2025-12-28T01:00:01.127132+00:00"
 }
