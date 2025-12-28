@@ -1,63 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "December 28 is also the feast of the Holy Innocents in Christian tradition, a day of somber remembrance that has ironically become associated in some countries with pranks and playful hoaxes. It’s a reminder that cultural rituals can morph in unexpected ways, layering laughter over darker stories that lie underneath.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Innocents",
+    "hour": 23,
+    "fact_text": "Taken together, the events of December 28 trace an unexpected constellation: breakthroughs in science, firsts in politics and finance, devastating quakes, legendary games, and quiet acts of resistance. The date becomes less a line on a calendar and more a prism, showing how history can hold joy, risk, loss, and discovery all at once.",
+    "fact_year": 2019,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_28",
     "episode": {
-      "id": 15,
-      "title": "Morning Drops #09 - Birthday Cake",
-      "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Artist Name - Song Title",
-        "Artist Name - Song Title",
-        "Artist Name - Song Title",
-        "Artist Name - Song Title"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Eclectic",
-        "Celebratory"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A day that evolved from mourning into mischief and play pairs well with a loose, celebratory birthday-themed episode, both blending solemn origins with joyful, slightly chaotic energy."
+    "match_reason": "A day that acts like a \"bomb\" of different histories deserves the raw, origin-story energy of Sedna FM’s first episode, weaving multiple genres into one big, human tapestry—just like the date itself."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Taken together, the events of December 28 trace an unexpected constellation: breakthroughs in science, firsts in politics and finance, devastating quakes, legendary games, and quiet acts of resistance. The date becomes less a line on a calendar and more a prism, showing how history can hold joy, risk, loss, and discovery all at once.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_28",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A day that acts like a \"bomb\" of different histories deserves the raw, origin-story energy of Sedna FM’s first episode, weaving multiple genres into one big, human tapestry—just like the date itself."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -645,9 +621,42 @@
         ]
       },
       "match_reason": "A day that evolved from mourning into mischief and play pairs well with a loose, celebratory birthday-themed episode, both blending solemn origins with joyful, slightly chaotic energy."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Taken together, the events of December 28 trace an unexpected constellation: breakthroughs in science, firsts in politics and finance, devastating quakes, legendary games, and quiet acts of resistance. The date becomes less a line on a calendar and more a prism, showing how history can hold joy, risk, loss, and discovery all at once.",
+      "fact_year": 2019,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_28",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A day that acts like a \"bomb\" of different histories deserves the raw, origin-story energy of Sedna FM’s first episode, weaving multiple genres into one big, human tapestry—just like the date itself."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T22:00:01.180453+00:00"
+  "updated_at": "2025-12-28T23:00:01.279343+00:00"
 }
