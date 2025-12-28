@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1895, Wilhelm Röntgen quietly published a paper describing a strange new radiation that could see through flesh to reveal bones and metal. He had discovered X‑rays, and the first images—like his wife’s hand with its wedding ring—felt almost supernatural, opening an entirely new window into the hidden structures of matter and medicine.",
-    "fact_year": 1895,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray",
+    "hour": 1,
+    "fact_text": "On December 28, 1908, a 7.1 magnitude earthquake devastated the Italian city of Messina and surrounding areas in Southern Italy. The quake and resulting tsunami nearly erased entire communities, reshaping coastlines and prompting new thinking about how humans build in the shadow of Earth’s restless tectonic forces.",
+    "fact_year": 1908,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The discovery of X‑rays was literally a new kind of invisible electricity; an \"electric shock\" to physics that fits the charged, high-voltage mood of this episode."
+    "match_reason": "This episode is rooted in Italian landscapes and emotions; pairing it with the Messina earthquake honors Sicily’s fragile beauty and the stories written into its terrain."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On December 28, 1908, a 7.1 magnitude earthquake devastated the Italian city of Messina and surrounding areas in Southern Italy. The quake and resulting tsunami nearly erased entire communities, reshaping coastlines and prompting new thinking about how humans build in the shadow of Earth’s restless tectonic forces.",
-      "fact_year": 1908,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "This episode is rooted in Italian landscapes and emotions; pairing it with the Messina earthquake honors Sicily’s fragile beauty and the stories written into its terrain."
-    },
     {
       "hour": 2,
       "fact_text": "In 893, a powerful earthquake destroyed the ancient Armenian city of Dvin, then a thriving capital and trading hub. The disaster not only shattered buildings but also shifted political and cultural power in the region, leaving archaeologists today to read its ruins like seismographs etched in stone.",
@@ -647,9 +622,34 @@
         ]
       },
       "match_reason": "The discovery of X‑rays was literally a new kind of invisible electricity; an \"electric shock\" to physics that fits the charged, high-voltage mood of this episode."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On December 28, 1908, a 7.1 magnitude earthquake devastated the Italian city of Messina and surrounding areas in Southern Italy. The quake and resulting tsunami nearly erased entire communities, reshaping coastlines and prompting new thinking about how humans build in the shadow of Earth’s restless tectonic forces.",
+      "fact_year": 1908,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1908_Messina_earthquake",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "This episode is rooted in Italian landscapes and emotions; pairing it with the Messina earthquake honors Sicily’s fragile beauty and the stories written into its terrain."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T00:00:48.214692+00:00"
+  "updated_at": "2025-12-28T01:00:01.160419+00:00"
 }
