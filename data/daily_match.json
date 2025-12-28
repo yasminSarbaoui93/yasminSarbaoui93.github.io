@@ -1,55 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On December 28, 2019, a massive truck bomb exploded at a busy checkpoint in Mogadishu, Somalia, killing at least 85 people and injuring many more. The attack, claimed by Al‑Shabaab, tore through ordinary routines—workers commuting, students traveling—showing how fragile everyday life can be in cities marked by long-running conflict.",
-    "fact_year": 2019,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2019_Mogadishu_bombing",
+    "hour": 13,
+    "fact_text": "In 2009, a suicide bomber struck a procession of Shia Muslims observing the Day of Ashura in Karachi, Pakistan, killing 43 people. The attack targeted a deeply symbolic day of mourning and remembrance, turning a spiritual ritual into a moment of collective trauma that still lingers in the city’s memory.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Karachi_bombing",
     "episode": {
-      "id": 29,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Reggae and dub have long offered solace and quiet resistance in the face of violence; this spacious, rootsy selection acts as a gentle sonic vigil for a city often caught between hope and harm."
+    "match_reason": "A violent attack on a religious ritual needs music that understands sorrow and resilience; flamenco’s history of lament, faith, and fierce dignity echoes the emotional intensity of Ashura."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 2009, a suicide bomber struck a procession of Shia Muslims observing the Day of Ashura in Karachi, Pakistan, killing 43 people. The attack targeted a deeply symbolic day of mourning and remembrance, turning a spiritual ritual into a moment of collective trauma that still lingers in the city’s memory.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Karachi_bombing",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A violent attack on a religious ritual needs music that understands sorrow and resilience; flamenco’s history of lament, faith, and fierce dignity echoes the emotional intensity of Ashura."
-    },
     {
       "hour": 14,
       "fact_text": "On December 28, 1967, Muriel Siebert became the first woman to own a seat on the New York Stock Exchange, after a grueling search for sponsors and a fight to secure a bank loan. On a trading floor where thousands of men shouted orders, her presence quietly rewrote the rules of who could stand at the center of global finance.",
@@ -646,9 +622,34 @@
         ]
       },
       "match_reason": "Reggae and dub have long offered solace and quiet resistance in the face of violence; this spacious, rootsy selection acts as a gentle sonic vigil for a city often caught between hope and harm."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 2009, a suicide bomber struck a procession of Shia Muslims observing the Day of Ashura in Karachi, Pakistan, killing 43 people. The attack targeted a deeply symbolic day of mourning and remembrance, turning a spiritual ritual into a moment of collective trauma that still lingers in the city’s memory.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Karachi_bombing",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A violent attack on a religious ritual needs music that understands sorrow and resilience; flamenco’s history of lament, faith, and fierce dignity echoes the emotional intensity of Ashura."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T12:00:01.433888+00:00"
+  "updated_at": "2025-12-28T13:00:01.115527+00:00"
 }
