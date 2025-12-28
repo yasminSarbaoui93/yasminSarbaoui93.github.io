@@ -1,59 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On December 28, 2014, Indonesia AirAsia Flight 8501 vanished from radar and crashed into the Karimata Strait during stormy weather. The tragedy prompted investigations into pilot training, weather radar use, and how quickly ice and turbulence can turn routine flights into complex emergencies.",
-    "fact_year": 2014,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Indonesia_AirAsia_Flight_8501",
+    "hour": 5,
+    "fact_text": "In 1973, the United States enacted the Endangered Species Act, one of the world’s strongest laws for protecting plants and animals at risk of extinction. It treats species and their habitats almost like patients in intensive care, forcing governments to put recovery plans and ecosystems ahead of short-term profit.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Endangered_Species_Act_of_1973",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Both stories unfold over water and involve navigating changing conditions; this seafaring, reflective episode provides a gentle, human counterpoint to a difficult aviation disaster."
+    "match_reason": "This law is about safeguarding wild lives and their habitats; an episode immersed in the world of orcas and whales channels the same awe and urgency for protecting species on the edge."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1973, the United States enacted the Endangered Species Act, one of the world’s strongest laws for protecting plants and animals at risk of extinction. It treats species and their habitats almost like patients in intensive care, forcing governments to put recovery plans and ecosystems ahead of short-term profit.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Endangered_Species_Act_of_1973",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "This law is about safeguarding wild lives and their habitats; an episode immersed in the world of orcas and whales channels the same awe and urgency for protecting species on the edge."
-    },
     {
       "hour": 6,
       "fact_text": "On December 28, 1941, Operation Anthropoid quietly began: a daring plan by Czechoslovak resistance fighters to assassinate Reinhard Heydrich, one of the most powerful Nazi officials. The mission, carried out months later in Prague, showed how a small group of determined people could shake an empire—at immense personal cost.",
@@ -650,9 +622,34 @@
         ]
       },
       "match_reason": "Both stories unfold over water and involve navigating changing conditions; this seafaring, reflective episode provides a gentle, human counterpoint to a difficult aviation disaster."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1973, the United States enacted the Endangered Species Act, one of the world’s strongest laws for protecting plants and animals at risk of extinction. It treats species and their habitats almost like patients in intensive care, forcing governments to put recovery plans and ecosystems ahead of short-term profit.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Endangered_Species_Act_of_1973",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "This law is about safeguarding wild lives and their habitats; an episode immersed in the world of orcas and whales channels the same awe and urgency for protecting species on the edge."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T04:00:01.230984+00:00"
+  "updated_at": "2025-12-28T05:00:01.435412+00:00"
 }
