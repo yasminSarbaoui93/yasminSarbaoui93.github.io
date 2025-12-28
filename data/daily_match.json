@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On 28 December 1967, Muriel Siebert became the first woman to own a seat on the New York Stock Exchange, breaking through one of Wall Street’s most exclusive boys’ clubs. She had to secure backing from male colleagues and negotiate a loan just to buy her way onto the trading floor.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muriel_Siebert",
+    "hour": 13,
+    "fact_text": "On 28 December 1972, the United States held what was scheduled to be its final day for drafting young men through the Selective Service System. A national day of mourning for Harry S. Truman closed many federal offices, meaning about 300 men who were supposed to report simply never did—and then the draft was never restarted.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Selective_Service_System",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Siebert’s lone figure on the NYSE floor fits perfectly with an episode celebrating women who carved out space in male-dominated industries, all powered by unapologetically strong female voices."
+    "match_reason": "A generation’s relationship with the state and compulsory service quietly shifts on a day of bureaucratic absence; Nomophobia similarly explores how our bonds to big unseen systems (like tech) can dissolve or loosen when the connection suddenly breaks."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On 28 December 1972, the United States held what was scheduled to be its final day for drafting young men through the Selective Service System. A national day of mourning for Harry S. Truman closed many federal offices, meaning about 300 men who were supposed to report simply never did—and then the draft was never restarted.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Selective_Service_System",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A generation’s relationship with the state and compulsory service quietly shifts on a day of bureaucratic absence; Nomophobia similarly explores how our bonds to big unseen systems (like tech) can dissolve or loosen when the connection suddenly breaks."
-    },
     {
       "hour": 14,
       "fact_text": "On 28 December 1973, U.S. President Richard Nixon signed the Endangered Species Act into law. It gave unprecedented protection to threatened plants and animals, recognizing that human activity could push entire species to the brink—and that governments could choose to pull them back.",
@@ -651,9 +626,34 @@
         ]
       },
       "match_reason": "Siebert’s lone figure on the NYSE floor fits perfectly with an episode celebrating women who carved out space in male-dominated industries, all powered by unapologetically strong female voices."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On 28 December 1972, the United States held what was scheduled to be its final day for drafting young men through the Selective Service System. A national day of mourning for Harry S. Truman closed many federal offices, meaning about 300 men who were supposed to report simply never did—and then the draft was never restarted.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Selective_Service_System",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A generation’s relationship with the state and compulsory service quietly shifts on a day of bureaucratic absence; Nomophobia similarly explores how our bonds to big unseen systems (like tech) can dissolve or loosen when the connection suddenly breaks."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.011089+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T12:00:01.186469+00:00"
+  "updated_at": "2025-12-28T13:00:01.158346+00:00"
 }
