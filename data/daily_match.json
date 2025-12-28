@@ -1,55 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1973, the United States enacted the Endangered Species Act, one of the world’s strongest laws for protecting plants and animals at risk of extinction. It treats species and their habitats almost like patients in intensive care, forcing governments to put recovery plans and ecosystems ahead of short-term profit.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Endangered_Species_Act_of_1973",
+    "hour": 6,
+    "fact_text": "On December 28, 1941, Operation Anthropoid quietly began: a daring plan by Czechoslovak resistance fighters to assassinate Reinhard Heydrich, one of the most powerful Nazi officials. The mission, carried out months later in Prague, showed how a small group of determined people could shake an empire—at immense personal cost.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "This law is about safeguarding wild lives and their habitats; an episode immersed in the world of orcas and whales channels the same awe and urgency for protecting species on the edge."
+    "match_reason": "The operation was an act of fearless resistance; loud, defiant rock anthems by pioneering women mirror that spirit of standing up to overwhelming power."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On December 28, 1941, Operation Anthropoid quietly began: a daring plan by Czechoslovak resistance fighters to assassinate Reinhard Heydrich, one of the most powerful Nazi officials. The mission, carried out months later in Prague, showed how a small group of determined people could shake an empire—at immense personal cost.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "The operation was an act of fearless resistance; loud, defiant rock anthems by pioneering women mirror that spirit of standing up to overwhelming power."
-    },
     {
       "hour": 7,
       "fact_text": "In 2006, during the War in Somalia, Ethiopian troops and Somalia's Transitional Federal Government forces entered Mogadishu with almost no resistance. The seemingly quiet capture of a capital masked deep fractures, setting the stage for years of insurgency, shifting alliances, and the complex urban warfare that would follow.",
@@ -647,9 +622,33 @@
         ]
       },
       "match_reason": "This law is about safeguarding wild lives and their habitats; an episode immersed in the world of orcas and whales channels the same awe and urgency for protecting species on the edge."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On December 28, 1941, Operation Anthropoid quietly began: a daring plan by Czechoslovak resistance fighters to assassinate Reinhard Heydrich, one of the most powerful Nazi officials. The mission, carried out months later in Prague, showed how a small group of determined people could shake an empire—at immense personal cost.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "The operation was an act of fearless resistance; loud, defiant rock anthems by pioneering women mirror that spirit of standing up to overwhelming power."
     }
   ],
   "generated_at": "2025-12-28T00:00:00.027968+00:00",
   "date": "2025-12-28",
-  "updated_at": "2025-12-28T05:00:01.435412+00:00"
+  "updated_at": "2025-12-28T06:00:01.170415+00:00"
 }
