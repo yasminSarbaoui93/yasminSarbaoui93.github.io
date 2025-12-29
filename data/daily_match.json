@@ -1,64 +1,30 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On December 29, 1930, Cecil B. DeMille’s Hollywood was still young, but 60 years later on this date another kind of spectacle soared: by 1990, the modern blockbuster era had normalized global cinematic empires driven by sound, image, and marketing. The roots of that transformation trace back to early features like *The Squaw Man* and forward to the multimedia franchises that now dominate our screens.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles",
+    "hour": 22,
+    "fact_text": "On December 29, 1996, Guatemala’s peace accord ended not only open warfare but also one of Latin America’s most notorious episodes of state terror against Indigenous peoples. Truth commissions later described entire villages razed and languages nearly silenced, making the agreement a fragile first step toward preserving cultures that had nearly been erased.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_National_Revolutionary_Unity",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "The evolution from early silent features to sprawling cinematic universes mirrors this episode’s sense of journey and expansion into new sonic territories."
+    "match_reason": "A Central American peace process centered on marginalized voices pairs with an episode that retraces how a marginalized Caribbean-Latin sound became globally heard, both reclaiming narrative and rhythm."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On December 29, 1996, Guatemala’s peace accord ended not only open warfare but also one of Latin America’s most notorious episodes of state terror against Indigenous peoples. Truth commissions later described entire villages razed and languages nearly silenced, making the agreement a fragile first step toward preserving cultures that had nearly been erased.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_National_Revolutionary_Unity",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A Central American peace process centered on marginalized voices pairs with an episode that retraces how a marginalized Caribbean-Latin sound became globally heard, both reclaiming narrative and rhythm."
-    },
     {
       "hour": 23,
       "fact_text": "On December 29, 2020, while much of the world focused on a pandemic, the Petrinja earthquake’s strongest jolts caused the ground to slip sideways by up to 20 centimeters along a fault. Satellites later captured the sudden reshaping of the landscape from orbit, turning a brief roar underfoot into a visible scar from space.",
@@ -648,9 +614,33 @@
         ]
       },
       "match_reason": "The evolution from early silent features to sprawling cinematic universes mirrors this episode’s sense of journey and expansion into new sonic territories."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On December 29, 1996, Guatemala’s peace accord ended not only open warfare but also one of Latin America’s most notorious episodes of state terror against Indigenous peoples. Truth commissions later described entire villages razed and languages nearly silenced, making the agreement a fragile first step toward preserving cultures that had nearly been erased.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_National_Revolutionary_Unity",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A Central American peace process centered on marginalized voices pairs with an episode that retraces how a marginalized Caribbean-Latin sound became globally heard, both reclaiming narrative and rhythm."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T21:00:01.562698+00:00"
+  "updated_at": "2025-12-29T22:00:01.453939+00:00"
 }
