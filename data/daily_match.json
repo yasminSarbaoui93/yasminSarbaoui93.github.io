@@ -1,65 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On 29 December 2006, the United Kingdom finally repaid the last installment of the massive Anglo‑American loan that had helped it recover from World War II. The debt, agreed in 1946, took 60 years and several deferred payments to settle, a reminder of how long war’s financial shadows can linger.",
-    "fact_year": 2006,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-American_loan",
+    "hour": 15,
+    "fact_text": "On 29 December 2012, Red Wings Airlines Flight 9268, a Tupolev Tu‑204, overshot the runway at Moscow’s Vnukovo International Airport and crashed into a road embankment by the M3 highway. The accident, attributed in part to a failure of the thrust‑reverser system and pilot response, highlighted ongoing concerns about safety culture in some sectors of Russian aviation.",
+    "fact_year": 2012,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "Closing a 60‑year financial journey after war suits an episode about long voyages, continuity, and moving into new territories over time."
+    "match_reason": "A Russian aircraft tragedy is matched with a travel‑story episode that weaves in Eastern European and Russian sounds, exploring journeys and their risks."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On 29 December 2012, Red Wings Airlines Flight 9268, a Tupolev Tu‑204, overshot the runway at Moscow’s Vnukovo International Airport and crashed into a road embankment by the M3 highway. The accident, attributed in part to a failure of the thrust‑reverser system and pilot response, highlighted ongoing concerns about safety culture in some sectors of Russian aviation.",
-      "fact_year": 2012,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A Russian aircraft tragedy is matched with a travel‑story episode that weaves in Eastern European and Russian sounds, exploring journeys and their risks."
-    },
     {
       "hour": 16,
       "fact_text": "On 29 December 2013, seven‑time Formula One world champion Michael Schumacher suffered a severe head injury while skiing off‑piste in the French Alps. Despite wearing a helmet, he struck a rock, and the accident abruptly turned a life defined by speed and precision into a long, private fight for recovery.",
@@ -652,9 +618,34 @@
         ]
       },
       "match_reason": "Closing a 60‑year financial journey after war suits an episode about long voyages, continuity, and moving into new territories over time."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On 29 December 2012, Red Wings Airlines Flight 9268, a Tupolev Tu‑204, overshot the runway at Moscow’s Vnukovo International Airport and crashed into a road embankment by the M3 highway. The accident, attributed in part to a failure of the thrust‑reverser system and pilot response, highlighted ongoing concerns about safety culture in some sectors of Russian aviation.",
+      "fact_year": 2012,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A Russian aircraft tragedy is matched with a travel‑story episode that weaves in Eastern European and Russian sounds, exploring journeys and their risks."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T14:00:01.431751+00:00"
+  "updated_at": "2025-12-29T15:00:01.227144+00:00"
 }
