@@ -1,61 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In the night of 29–30 December 1940, the Luftwaffe’s \"Second Great Fire of London\" rained tens of thousands of incendiary bombs onto the city. The resulting inferno destroyed entire blocks around St Paul’s Cathedral and produced some of the most haunting wartime images of London in flames.",
-    "fact_year": 1940,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_Great_Fire_of_London",
+    "hour": 10,
+    "fact_text": "On 29 December 1937, the Irish Free State was formally replaced when a new constitution came into force, renaming the state simply \"Ireland\" (Éire). The document asserted greater independence from Britain and reshaped the country’s institutions, while leaving its full republican status still to be resolved.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constitution_of_Ireland",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 34,
+      "title": "Morning Drops #28 - Under Scottish Skies",
+      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Paolo Nutini - Pencil Full of Lead",
+        "Lapse - Lady Bug",
+        "Joesef - Let's Stay Together",
+        "Vital Spark - Stone of Destiny"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Indie Rock",
+        "Scottish Folk",
+        "Soul",
+        "Celtic Rock"
       ]
     },
-    "match_reason": "A night of spreading fire and ominous skies is paired with an episode that starts dark and slow, then gradually releases tension into movement."
+    "match_reason": "A constitutional transition toward fuller sovereignty fits an episode about quiet shifts in identity and the grounding power of Celtic landscapes."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 29 December 1937, the Irish Free State was formally replaced when a new constitution came into force, renaming the state simply \"Ireland\" (Éire). The document asserted greater independence from Britain and reshaped the country’s institutions, while leaving its full republican status still to be resolved.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constitution_of_Ireland",
-      "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
-        "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
-        ]
-      },
-      "match_reason": "A constitutional transition toward fuller sovereignty fits an episode about quiet shifts in identity and the grounding power of Celtic landscapes."
-    },
     {
       "hour": 11,
       "fact_text": "On 29 December 1972, Eastern Air Lines Flight 401, a Lockheed L‑1011 TriStar, crashed into the Florida Everglades after its crew became distracted by a faulty landing-gear indicator light. The wide‑body jet gradually descended unnoticed into the dark wetlands, in one of the first major accidents linked to cockpit fixation and human‑factors issues.",
@@ -648,9 +618,34 @@
         ]
       },
       "match_reason": "A night of spreading fire and ominous skies is paired with an episode that starts dark and slow, then gradually releases tension into movement."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 29 December 1937, the Irish Free State was formally replaced when a new constitution came into force, renaming the state simply \"Ireland\" (Éire). The document asserted greater independence from Britain and reshaped the country’s institutions, while leaving its full republican status still to be resolved.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constitution_of_Ireland",
+      "episode": {
+        "id": 34,
+        "title": "Morning Drops #28 - Under Scottish Skies",
+        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "songs": [
+          "Paolo Nutini - Pencil Full of Lead",
+          "Lapse - Lady Bug",
+          "Joesef - Let's Stay Together",
+          "Vital Spark - Stone of Destiny"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Scottish Folk",
+          "Soul",
+          "Celtic Rock"
+        ]
+      },
+      "match_reason": "A constitutional transition toward fuller sovereignty fits an episode about quiet shifts in identity and the grounding power of Celtic landscapes."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T09:00:01.309140+00:00"
+  "updated_at": "2025-12-29T10:00:01.121281+00:00"
 }
