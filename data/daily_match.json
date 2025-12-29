@@ -1,55 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On December 29, 1996, Guatemala signed a peace accord with the Guatemalan National Revolutionary Unity, ending a brutal 36-year civil war. The conflict had claimed over 200,000 lives, many of them Indigenous civilians, and the agreement marked a fragile hope for justice and reconciliation.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War",
+    "hour": 18,
+    "fact_text": "On December 29, 1989, seven-time Formula One champion Michael Schumacher suffered a severe head injury while skiing in the French Alps, far from any racetrack. The accident instantly transformed one of motorsport’s most visible lives into one of its most private and mysterious recoveries.",
+    "fact_year": 2013,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A peace accord closing a long civil war pairs with Afrobeat’s history as a politically charged, liberation-oriented music, both channeling struggle into the possibility of freer futures."
+    "match_reason": "An elite athlete’s life-changing accident on snow-covered slopes fits the episode’s cold, cinematic journeys into extreme nature and the thin line between awe and danger."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On December 29, 1989, seven-time Formula One champion Michael Schumacher suffered a severe head injury while skiing in the French Alps, far from any racetrack. The accident instantly transformed one of motorsport’s most visible lives into one of its most private and mysterious recoveries.",
-      "fact_year": 2013,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "An elite athlete’s life-changing accident on snow-covered slopes fits the episode’s cold, cinematic journeys into extreme nature and the thin line between awe and danger."
-    },
     {
       "hour": 19,
       "fact_text": "On December 29, 2013, Michael Schumacher, one of the most successful Formula One drivers in history, suffered a catastrophic head injury while skiing off-piste in Méribel, France. Despite wearing a helmet, he struck a rock, and his long, guarded recovery has since unfolded far from the public eye he once dominated.",
@@ -638,9 +614,34 @@
         ]
       },
       "match_reason": "A peace accord closing a long civil war pairs with Afrobeat’s history as a politically charged, liberation-oriented music, both channeling struggle into the possibility of freer futures."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On December 29, 1989, seven-time Formula One champion Michael Schumacher suffered a severe head injury while skiing in the French Alps, far from any racetrack. The accident instantly transformed one of motorsport’s most visible lives into one of its most private and mysterious recoveries.",
+      "fact_year": 2013,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "An elite athlete’s life-changing accident on snow-covered slopes fits the episode’s cold, cinematic journeys into extreme nature and the thin line between awe and danger."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T17:00:01.264372+00:00"
+  "updated_at": "2025-12-29T18:00:01.426943+00:00"
 }
