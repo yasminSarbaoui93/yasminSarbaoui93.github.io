@@ -1,58 +1,30 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On December 29, 1812, the wooden frigate USS Constitution, nicknamed “Old Ironsides,” defeated HMS Java off the coast of Brazil after a brutal three-hour battle. The British cannonballs bounced so harmlessly off her thick hull that stunned sailors swore they were striking iron, cementing one of the most enduring ship nicknames in history.",
-    "fact_year": 1812,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Constitution",
+    "hour": 3,
+    "fact_text": "On December 29, 1607, English explorer John Smith claimed that Pocahontas, the young daughter of the Powhatan leader, dramatically saved his life by placing her head upon his as executioners prepared to strike. Whether myth, diplomacy, or memory-warped storytelling, the episode became a powerful symbol of cross-cultural encounter and survival.",
+    "fact_year": 1607,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pocahontas",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A legendary naval duel on the open ocean pairs naturally with an episode recorded at sea, both steeped in salt water, wind, and stories carried by waves."
+    "match_reason": "Both the Pocahontas story and Tuareg music sit at the crossroads of oral tradition, contested memory, and indigenous survival against expanding empires."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On December 29, 1607, English explorer John Smith claimed that Pocahontas, the young daughter of the Powhatan leader, dramatically saved his life by placing her head upon his as executioners prepared to strike. Whether myth, diplomacy, or memory-warped storytelling, the episode became a powerful symbol of cross-cultural encounter and survival.",
-      "fact_year": 1607,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pocahontas",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Both the Pocahontas story and Tuareg music sit at the crossroads of oral tradition, contested memory, and indigenous survival against expanding empires."
-    },
     {
       "hour": 4,
       "fact_text": "On December 29, 1778, British forces under Lieutenant Colonel Archibald Campbell captured Savannah, Georgia, in a swift and devastating blow during the American Revolutionary War. The fall of the vital port city showed how control of a single harbor could reshape an entire theater of war.",
@@ -642,9 +614,33 @@
         ]
       },
       "match_reason": "A legendary naval duel on the open ocean pairs naturally with an episode recorded at sea, both steeped in salt water, wind, and stories carried by waves."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On December 29, 1607, English explorer John Smith claimed that Pocahontas, the young daughter of the Powhatan leader, dramatically saved his life by placing her head upon his as executioners prepared to strike. Whether myth, diplomacy, or memory-warped storytelling, the episode became a powerful symbol of cross-cultural encounter and survival.",
+      "fact_year": 1607,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pocahontas",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Both the Pocahontas story and Tuareg music sit at the crossroads of oral tradition, contested memory, and indigenous survival against expanding empires."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T02:00:01.482644+00:00"
+  "updated_at": "2025-12-29T03:00:01.427526+00:00"
 }
