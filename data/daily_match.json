@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On December 29, 1972, Eastern Air Lines Flight 401 crashed into the Florida Everglades after the crew became fixated on a faulty landing-gear indicator light and failed to notice their slow descent. The tragedy spurred major changes in cockpit resource management, transforming how pilots share attention and responsibilities in modern aviation.",
-    "fact_year": 1972,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401",
+    "hour": 14,
+    "fact_text": "On December 29, 2012, a Tupolev Tu-204 operating Red Wings Airlines Flight 9268 overran the runway at Moscow’s Vnukovo Airport and crashed into a highway embankment, killing five of the eight crew. The accident highlighted the lethal consequences of mismanaged speed and thrust during landing on modern jets.",
+    "fact_year": 2012,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Psychedelic Rock",
+        "Polish Rock",
         "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A fatal crash caused by fixation on a tiny light parallels our modern over-focus on devices; both stories ask what we miss when our attention is hijacked."
+    "match_reason": "A modern travel disaster involving a Russian-built jet near Eastern Europe sits alongside an episode about overland journeys through that region, contrasting risk and the gentler side of travel."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On December 29, 2012, a Tupolev Tu-204 operating Red Wings Airlines Flight 9268 overran the runway at Moscow’s Vnukovo Airport and crashed into a highway embankment, killing five of the eight crew. The accident highlighted the lethal consequences of mismanaged speed and thrust during landing on modern jets.",
-      "fact_year": 2012,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A modern travel disaster involving a Russian-built jet near Eastern Europe sits alongside an episode about overland journeys through that region, contrasting risk and the gentler side of travel."
-    },
     {
       "hour": 15,
       "fact_text": "On December 29, 2024, Jeju Air Flight 2216 crashed into a wall at Muan International Airport in South Korea, killing 179 of the 181 people onboard. It became the deadliest aircraft accident on South Korean soil, a grim reminder that even in an age of ultra-safe aviation, a single approach can change hundreds of lives.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "A fatal crash caused by fixation on a tiny light parallels our modern over-focus on devices; both stories ask what we miss when our attention is hijacked."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On December 29, 2012, a Tupolev Tu-204 operating Red Wings Airlines Flight 9268 overran the runway at Moscow’s Vnukovo Airport and crashed into a highway embankment, killing five of the eight crew. The accident highlighted the lethal consequences of mismanaged speed and thrust during landing on modern jets.",
+      "fact_year": 2012,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A modern travel disaster involving a Russian-built jet near Eastern Europe sits alongside an episode about overland journeys through that region, contrasting risk and the gentler side of travel."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T13:00:01.116543+00:00"
+  "updated_at": "2025-12-29T14:00:01.623706+00:00"
 }
