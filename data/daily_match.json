@@ -1,54 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On December 29, 2020, a magnitude 6.4 earthquake struck near Petrinja in Croatia, collapsing buildings and killing seven people. The tremor rippled across neighboring countries, a reminder that the ground beneath Central Europe is still restless and very much alive.",
-    "fact_year": 2020,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2020_Petrinja_earthquake",
+    "hour": 17,
+    "fact_text": "On December 29, 1996, Guatemala signed a peace accord with the Guatemalan National Revolutionary Unity, ending a brutal 36-year civil war. The conflict had claimed over 200,000 lives, many of them Indigenous civilians, and the agreement marked a fragile hope for justice and reconciliation.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War",
     "episode": {
-      "id": 29,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "The deep, rolling shockwaves of an earthquake echo the low-frequency rumble of dub, with both reminding us of hidden forces pulsing below the surface."
+    "match_reason": "A peace accord closing a long civil war pairs with Afrobeat’s history as a politically charged, liberation-oriented music, both channeling struggle into the possibility of freer futures."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On December 29, 1996, Guatemala signed a peace accord with the Guatemalan National Revolutionary Unity, ending a brutal 36-year civil war. The conflict had claimed over 200,000 lives, many of them Indigenous civilians, and the agreement marked a fragile hope for justice and reconciliation.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A peace accord closing a long civil war pairs with Afrobeat’s history as a politically charged, liberation-oriented music, both channeling struggle into the possibility of freer futures."
-    },
     {
       "hour": 18,
       "fact_text": "On December 29, 1989, seven-time Formula One champion Michael Schumacher suffered a severe head injury while skiing in the French Alps, far from any racetrack. The accident instantly transformed one of motorsport’s most visible lives into one of its most private and mysterious recoveries.",
@@ -638,9 +614,33 @@
         ]
       },
       "match_reason": "The deep, rolling shockwaves of an earthquake echo the low-frequency rumble of dub, with both reminding us of hidden forces pulsing below the surface."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On December 29, 1996, Guatemala signed a peace accord with the Guatemalan National Revolutionary Unity, ending a brutal 36-year civil war. The conflict had claimed over 200,000 lives, many of them Indigenous civilians, and the agreement marked a fragile hope for justice and reconciliation.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_Civil_War",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A peace accord closing a long civil war pairs with Afrobeat’s history as a politically charged, liberation-oriented music, both channeling struggle into the possibility of freer futures."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T16:00:01.285326+00:00"
+  "updated_at": "2025-12-29T17:00:01.264372+00:00"
 }
