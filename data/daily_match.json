@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On December 29, 2006, the United Kingdom quietly made its final payment on the massive Anglo-American loan that had helped it survive and rebuild after World War II. The last installment marked the end of a 61-year financial echo of the war, long after most of the generation that fought it had gone.",
-    "fact_year": 2006,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-American_loan",
+    "hour": 13,
+    "fact_text": "On December 29, 1972, Eastern Air Lines Flight 401 crashed into the Florida Everglades after the crew became fixated on a faulty landing-gear indicator light and failed to notice their slow descent. The tragedy spurred major changes in cockpit resource management, transforming how pilots share attention and responsibilities in modern aviation.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
+        "Psychedelic Rock",
         "Electronic",
-        "Chillout"
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The slow, decades-long unwinding of wartime debt matches an episode about deceleration and long arcs, both emphasizing patience and gradual release."
+    "match_reason": "A fatal crash caused by fixation on a tiny light parallels our modern over-focus on devices; both stories ask what we miss when our attention is hijacked."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On December 29, 1972, Eastern Air Lines Flight 401 crashed into the Florida Everglades after the crew became fixated on a faulty landing-gear indicator light and failed to notice their slow descent. The tragedy spurred major changes in cockpit resource management, transforming how pilots share attention and responsibilities in modern aviation.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A fatal crash caused by fixation on a tiny light parallels our modern over-focus on devices; both stories ask what we miss when our attention is hijacked."
-    },
     {
       "hour": 14,
       "fact_text": "On December 29, 2012, a Tupolev Tu-204 operating Red Wings Airlines Flight 9268 overran the runway at Moscow’s Vnukovo Airport and crashed into a highway embankment, killing five of the eight crew. The accident highlighted the lethal consequences of mismanaged speed and thrust during landing on modern jets.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "The slow, decades-long unwinding of wartime debt matches an episode about deceleration and long arcs, both emphasizing patience and gradual release."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On December 29, 1972, Eastern Air Lines Flight 401 crashed into the Florida Everglades after the crew became fixated on a faulty landing-gear indicator light and failed to notice their slow descent. The tragedy spurred major changes in cockpit resource management, transforming how pilots share attention and responsibilities in modern aviation.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A fatal crash caused by fixation on a tiny light parallels our modern over-focus on devices; both stories ask what we miss when our attention is hijacked."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T12:00:01.610923+00:00"
+  "updated_at": "2025-12-29T13:00:01.116543+00:00"
 }
