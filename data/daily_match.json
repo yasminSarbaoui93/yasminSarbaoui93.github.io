@@ -1,54 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 29 December 1607, English explorer John Smith claimed that Pocahontas, the young daughter of Powhatan leader Wahunsenacawh, intervened to save his life during a ritual execution. Whether myth, misinterpretation, or precise memory, the story became one of the most enduring and debated encounters between European settlers and Indigenous Americans.",
-    "fact_year": 1607,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pocahontas",
+    "hour": 4,
+    "fact_text": "On 29 December 1778, during the American Revolutionary War, British forces under Archibald Campbell captured Savannah, Georgia, in a swift and decisive attack. The little‑known battle turned the city into a crucial British base in the southern theater of the war, reshaping strategies on both sides.",
+    "fact_year": 1778,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "Both center on contested origin stories and how place, memory, and narrative shape identity across cultures."
+    "match_reason": "A colonial‑era clash in the Americas links to an episode unpacking how colonial histories shaped modern Latin/Caribbean sounds."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 29 December 1778, during the American Revolutionary War, British forces under Archibald Campbell captured Savannah, Georgia, in a swift and decisive attack. The little‑known battle turned the city into a crucial British base in the southern theater of the war, reshaping strategies on both sides.",
-      "fact_year": 1778,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A colonial‑era clash in the Americas links to an episode unpacking how colonial histories shaped modern Latin/Caribbean sounds."
-    },
     {
       "hour": 5,
       "fact_text": "On 29 December 1862, Union forces under General William T. Sherman were bloodily repulsed by Confederate troops at the Battle of Chickasaw Bayou near Vicksburg. The swampy terrain, miscommunication, and underestimated defenses turned the Union’s ambitious river assault into a costly failure.",
@@ -642,9 +618,33 @@
         ]
       },
       "match_reason": "Both center on contested origin stories and how place, memory, and narrative shape identity across cultures."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 29 December 1778, during the American Revolutionary War, British forces under Archibald Campbell captured Savannah, Georgia, in a swift and decisive attack. The little‑known battle turned the city into a crucial British base in the southern theater of the war, reshaping strategies on both sides.",
+      "fact_year": 1778,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A colonial‑era clash in the Americas links to an episode unpacking how colonial histories shaped modern Latin/Caribbean sounds."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T03:00:01.097306+00:00"
+  "updated_at": "2025-12-29T04:00:01.166410+00:00"
 }
