@@ -1,64 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 29 December 1913, Cecil B. DeMille began shooting *The Squaw Man*, widely regarded as Hollywood’s first feature-length film. The production helped lure the American film industry from the East Coast to the sunlit ranchlands of California, setting the stage for Hollywood’s rise as the global capital of cinema.",
-    "fact_year": 1913,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Squaw_Man_(1914_film)",
+    "hour": 1,
+    "fact_text": "On 29 December 1860, HMS Warrior was launched as the world’s first ocean‑going iron‑hulled, armored warship driven by both sails and a screw propeller. Her radical mix of iron hull, steam power, and heavy guns instantly rendered wooden warships obsolete, forcing navies everywhere into a new technological era.",
+    "fact_year": 1860,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A 'where it all began' cinema milestone pairs with Sedna’s own first, foundational episode."
+    "match_reason": "A shocking leap in naval technology fits the electrified, high‑voltage rock of “Electric Shock.”"
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 29 December 1860, HMS Warrior was launched as the world’s first ocean‑going iron‑hulled, armored warship driven by both sails and a screw propeller. Her radical mix of iron hull, steam power, and heavy guns instantly rendered wooden warships obsolete, forcing navies everywhere into a new technological era.",
-      "fact_year": 1860,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A shocking leap in naval technology fits the electrified, high‑voltage rock of “Electric Shock.”"
-    },
     {
       "hour": 2,
       "fact_text": "On 29 December 1812, the American frigate USS Constitution defeated HMS Java off the coast of Brazil after a fierce three‑hour battle. Nicknamed “Old Ironsides” because enemy cannonballs seemed to bounce off her thick wooden hull, the ship became a symbol of resilience and naval ingenuity.",
@@ -651,9 +618,34 @@
         ]
       },
       "match_reason": "A 'where it all began' cinema milestone pairs with Sedna’s own first, foundational episode."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 29 December 1860, HMS Warrior was launched as the world’s first ocean‑going iron‑hulled, armored warship driven by both sails and a screw propeller. Her radical mix of iron hull, steam power, and heavy guns instantly rendered wooden warships obsolete, forcing navies everywhere into a new technological era.",
+      "fact_year": 1860,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A shocking leap in naval technology fits the electrified, high‑voltage rock of “Electric Shock.”"
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T00:01:01.961897+00:00"
+  "updated_at": "2025-12-29T01:00:01.644403+00:00"
 }
