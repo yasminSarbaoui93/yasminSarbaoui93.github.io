@@ -1,55 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On December 29, 1607, English explorer John Smith claimed that Pocahontas, the young daughter of the Powhatan leader, dramatically saved his life by placing her head upon his as executioners prepared to strike. Whether myth, diplomacy, or memory-warped storytelling, the episode became a powerful symbol of cross-cultural encounter and survival.",
-    "fact_year": 1607,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pocahontas",
+    "hour": 4,
+    "fact_text": "On December 29, 1778, British forces under Lieutenant Colonel Archibald Campbell captured Savannah, Georgia, in a swift and devastating blow during the American Revolutionary War. The fall of the vital port city showed how control of a single harbor could reshape an entire theater of war.",
+    "fact_year": 1778,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "Both the Pocahontas story and Tuareg music sit at the crossroads of oral tradition, contested memory, and indigenous survival against expanding empires."
+    "match_reason": "A war-torn port city whose fate shaped history connects with an episode about how one city’s character is etched into its sound and stories."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On December 29, 1778, British forces under Lieutenant Colonel Archibald Campbell captured Savannah, Georgia, in a swift and devastating blow during the American Revolutionary War. The fall of the vital port city showed how control of a single harbor could reshape an entire theater of war.",
-      "fact_year": 1778,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A war-torn port city whose fate shaped history connects with an episode about how one city’s character is etched into its sound and stories."
-    },
     {
       "hour": 5,
       "fact_text": "On December 29, 1862, Union troops under William T. Sherman were bloodily repulsed at the Battle of Chickasaw Bayou near Vicksburg. The swamps, bluffs, and dense thickets turned into a natural fortress, proving that terrain and environment can be as decisive as cannons and commands.",
@@ -638,9 +614,34 @@
         ]
       },
       "match_reason": "Both the Pocahontas story and Tuareg music sit at the crossroads of oral tradition, contested memory, and indigenous survival against expanding empires."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On December 29, 1778, British forces under Lieutenant Colonel Archibald Campbell captured Savannah, Georgia, in a swift and devastating blow during the American Revolutionary War. The fall of the vital port city showed how control of a single harbor could reshape an entire theater of war.",
+      "fact_year": 1778,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A war-torn port city whose fate shaped history connects with an episode about how one city’s character is etched into its sound and stories."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T03:00:01.427526+00:00"
+  "updated_at": "2025-12-29T04:00:01.402555+00:00"
 }
