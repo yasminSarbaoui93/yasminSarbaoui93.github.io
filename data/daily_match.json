@@ -1,55 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 29 December 1862, Union forces under General William T. Sherman were bloodily repulsed by Confederate troops at the Battle of Chickasaw Bayou near Vicksburg. The swampy terrain, miscommunication, and underestimated defenses turned the Union’s ambitious river assault into a costly failure.",
-    "fact_year": 1862,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
+    "hour": 6,
+    "fact_text": "On 29 December 1874, General Arsenio Martínez Campos led a pronunciamiento at Sagunto, overturning Spain’s First Republic and restoring the Bourbon monarchy under Alfonso XII. Remarkably, the coup was brief and almost bloodless, yet it reshaped Spain’s political order for decades.",
+    "fact_year": 1874,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Spanish_Republic",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #26 - Canserbero",
-      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Canserbero - Mañana será otro día",
-        "Canserbero - Querer Querernos",
-        "Canserbero - Jeremías",
-        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Latin Rap",
-        "Hip-Hop",
-        "Conscious Rap"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A grim military defeat and reflective, socially conscious rap both dwell on tragedy, consequence, and the cost of conflict."
+    "match_reason": "A turning point in Spanish political history is paired with an episode tracing one of Spain’s most defining cultural traditions."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 29 December 1874, General Arsenio Martínez Campos led a pronunciamiento at Sagunto, overturning Spain’s First Republic and restoring the Bourbon monarchy under Alfonso XII. Remarkably, the coup was brief and almost bloodless, yet it reshaped Spain’s political order for decades.",
-      "fact_year": 1874,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Spanish_Republic",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A turning point in Spanish political history is paired with an episode tracing one of Spain’s most defining cultural traditions."
-    },
     {
       "hour": 7,
       "fact_text": "On 29 December 1930, philosopher‑poet Muhammad Iqbal delivered his famous Allahabad Address, articulating the \"two‑nation theory\" and envisioning a separate Muslim homeland in northwest India. His poetic yet political speech became a foundational text in the long and contested story of Pakistan’s creation.",
@@ -642,9 +618,34 @@
         ]
       },
       "match_reason": "A grim military defeat and reflective, socially conscious rap both dwell on tragedy, consequence, and the cost of conflict."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 29 December 1874, General Arsenio Martínez Campos led a pronunciamiento at Sagunto, overturning Spain’s First Republic and restoring the Bourbon monarchy under Alfonso XII. Remarkably, the coup was brief and almost bloodless, yet it reshaped Spain’s political order for decades.",
+      "fact_year": 1874,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Spanish_Republic",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A turning point in Spanish political history is paired with an episode tracing one of Spain’s most defining cultural traditions."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T05:00:01.008700+00:00"
+  "updated_at": "2025-12-29T06:00:01.479249+00:00"
 }
