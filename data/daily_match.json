@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On December 29, 1778, British forces under Lieutenant Colonel Archibald Campbell captured Savannah, Georgia, in a swift and devastating blow during the American Revolutionary War. The fall of the vital port city showed how control of a single harbor could reshape an entire theater of war.",
-    "fact_year": 1778,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "hour": 5,
+    "fact_text": "On December 29, 1862, Union troops under William T. Sherman were bloodily repulsed at the Battle of Chickasaw Bayou near Vicksburg. The swamps, bluffs, and dense thickets turned into a natural fortress, proving that terrain and environment can be as decisive as cannons and commands.",
+    "fact_year": 1862,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 45,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A war-torn port city whose fate shaped history connects with an episode about how one city’s character is etched into its sound and stories."
+    "match_reason": "A desperate, emotional battlefield defeat mirrors Flamenco’s raw intensity and its roots in struggle, grief, and resilience."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On December 29, 1862, Union troops under William T. Sherman were bloodily repulsed at the Battle of Chickasaw Bayou near Vicksburg. The swamps, bluffs, and dense thickets turned into a natural fortress, proving that terrain and environment can be as decisive as cannons and commands.",
-      "fact_year": 1862,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A desperate, emotional battlefield defeat mirrors Flamenco’s raw intensity and its roots in struggle, grief, and resilience."
-    },
     {
       "hour": 6,
       "fact_text": "On December 29, 1874, General Arsenio Martínez Campos staged a military coup at Sagunto that toppled Spain’s short-lived First Republic. Within days, the Bourbon monarchy was restored and young Alfonso XII was proclaimed king, resetting Spain’s political experiment with a single decisive act.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "A war-torn port city whose fate shaped history connects with an episode about how one city’s character is etched into its sound and stories."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On December 29, 1862, Union troops under William T. Sherman were bloodily repulsed at the Battle of Chickasaw Bayou near Vicksburg. The swamps, bluffs, and dense thickets turned into a natural fortress, proving that terrain and environment can be as decisive as cannons and commands.",
+      "fact_year": 1862,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chickasaw_Bayou",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A desperate, emotional battlefield defeat mirrors Flamenco’s raw intensity and its roots in struggle, grief, and resilience."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T04:00:01.402555+00:00"
+  "updated_at": "2025-12-29T05:00:01.115176+00:00"
 }
