@@ -1,63 +1,38 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On December 29, 1874, General Arsenio Martínez Campos staged a military coup at Sagunto that toppled Spain’s short-lived First Republic. Within days, the Bourbon monarchy was restored and young Alfonso XII was proclaimed king, resetting Spain’s political experiment with a single decisive act.",
-    "fact_year": 1874,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Spanish_Republic",
+    "hour": 7,
+    "fact_text": "On December 29, 1930, philosopher-poet Muhammad Iqbal delivered his famous Allahabad address, outlining the idea that Muslims in British India constituted a distinct nation. His vision of an autonomous Muslim-majority region would, years later, become a foundational intellectual step toward the creation of Pakistan.",
+    "fact_year": 1930,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A sudden political pivot in Spain aligns with an episode about changing direction and perspective, with Iberian-flavored sounds hinting at Spanish histories."
+    "match_reason": "Iqbal’s speech was about envisioning identity and self-determination; this episode’s focus on inner beauty and authentic self mirrors that search for collective and individual identity."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On December 29, 1930, philosopher-poet Muhammad Iqbal delivered his famous Allahabad address, outlining the idea that Muslims in British India constituted a distinct nation. His vision of an autonomous Muslim-majority region would, years later, become a foundational intellectual step toward the creation of Pakistan.",
-      "fact_year": 1930,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Iqbal’s speech was about envisioning identity and self-determination; this episode’s focus on inner beauty and authentic self mirrors that search for collective and individual identity."
-    },
     {
       "hour": 8,
       "fact_text": "On December 29, 1934, Japan formally renounced the Washington and London Naval Treaties, freeing itself from interwar limits on battleships and cruisers. The quiet legal act signaled a loud strategic intent: an arms buildup that would help propel the Pacific into world war.",
@@ -639,9 +614,41 @@
         ]
       },
       "match_reason": "A sudden political pivot in Spain aligns with an episode about changing direction and perspective, with Iberian-flavored sounds hinting at Spanish histories."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On December 29, 1930, philosopher-poet Muhammad Iqbal delivered his famous Allahabad address, outlining the idea that Muslims in British India constituted a distinct nation. His vision of an autonomous Muslim-majority region would, years later, become a foundational intellectual step toward the creation of Pakistan.",
+      "fact_year": 1930,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Iqbal’s speech was about envisioning identity and self-determination; this episode’s focus on inner beauty and authentic self mirrors that search for collective and individual identity."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T06:00:01.375936+00:00"
+  "updated_at": "2025-12-29T07:00:01.437257+00:00"
 }
