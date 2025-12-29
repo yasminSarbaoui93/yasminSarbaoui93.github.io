@@ -1,50 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On December 29, 1989, Japan’s Nikkei 225 stock index hit its all-time high of 38,957.44, the glittering peak of an extraordinary asset bubble. Land in Tokyo’s prime districts was briefly estimated to be worth more than all the real estate in the United States, a surreal moment before a decade-long economic hangover.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_asset_price_bubble",
+    "hour": 12,
+    "fact_text": "On December 29, 2006, the United Kingdom quietly made its final payment on the massive Anglo-American loan that had helped it survive and rebuild after World War II. The last installment marked the end of a 61-year financial echo of the war, long after most of the generation that fought it had gone.",
+    "fact_year": 2006,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-American_loan",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "song 1"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "genre 1"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "The excess and polished illusion of Japan’s bubble economy contrasts with the episode’s wabi-sabi philosophy of imperfection, offering a gentle counterpoint to speculative perfectionism."
+    "match_reason": "The slow, decades-long unwinding of wartime debt matches an episode about deceleration and long arcs, both emphasizing patience and gradual release."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On December 29, 2006, the United Kingdom quietly made its final payment on the massive Anglo-American loan that had helped it survive and rebuild after World War II. The last installment marked the end of a 61-year financial echo of the war, long after most of the generation that fought it had gone.",
-      "fact_year": 2006,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-American_loan",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "The slow, decades-long unwinding of wartime debt matches an episode about deceleration and long arcs, both emphasizing patience and gradual release."
-    },
     {
       "hour": 13,
       "fact_text": "On December 29, 1972, Eastern Air Lines Flight 401 crashed into the Florida Everglades after the crew became fixated on a faulty landing-gear indicator light and failed to notice their slow descent. The tragedy spurred major changes in cockpit resource management, transforming how pilots share attention and responsibilities in modern aviation.",
@@ -633,9 +614,34 @@
         ]
       },
       "match_reason": "The excess and polished illusion of Japan’s bubble economy contrasts with the episode’s wabi-sabi philosophy of imperfection, offering a gentle counterpoint to speculative perfectionism."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On December 29, 2006, the United Kingdom quietly made its final payment on the massive Anglo-American loan that had helped it survive and rebuild after World War II. The last installment marked the end of a 61-year financial echo of the war, long after most of the generation that fought it had gone.",
+      "fact_year": 2006,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-American_loan",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "The slow, decades-long unwinding of wartime debt matches an episode about deceleration and long arcs, both emphasizing patience and gradual release."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T11:00:01.210611+00:00"
+  "updated_at": "2025-12-29T12:00:01.610923+00:00"
 }
