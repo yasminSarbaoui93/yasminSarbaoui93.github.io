@@ -1,63 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On 29 December 1930, philosopher‑poet Muhammad Iqbal delivered his famous Allahabad Address, articulating the \"two‑nation theory\" and envisioning a separate Muslim homeland in northwest India. His poetic yet political speech became a foundational text in the long and contested story of Pakistan’s creation.",
-    "fact_year": 1930,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+    "hour": 8,
+    "fact_text": "On 29 December 1934, Japan gave formal notice that it would leave the Washington and London Naval Treaties, freeing itself from limits on warship construction. This quiet legal withdrawal signaled a loud strategic shift, accelerating a new arms race on the oceans in the run‑up to World War II.",
+    "fact_year": 1934,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Washington_Naval_Treaty",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Iqbal’s vision of identity and self‑definition resonates with an episode centered on inner voice and embracing who you are."
+    "match_reason": "A break from international constraints and a new arms race mirrors the episode’s theme of machines changing the rules—in this case, how we dance."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On 29 December 1934, Japan gave formal notice that it would leave the Washington and London Naval Treaties, freeing itself from limits on warship construction. This quiet legal withdrawal signaled a loud strategic shift, accelerating a new arms race on the oceans in the run‑up to World War II.",
-      "fact_year": 1934,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Washington_Naval_Treaty",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A break from international constraints and a new arms race mirrors the episode’s theme of machines changing the rules—in this case, how we dance."
-    },
     {
       "hour": 9,
       "fact_text": "In the night of 29–30 December 1940, the Luftwaffe’s \"Second Great Fire of London\" rained tens of thousands of incendiary bombs onto the city. The resulting inferno destroyed entire blocks around St Paul’s Cathedral and produced some of the most haunting wartime images of London in flames.",
@@ -650,9 +618,34 @@
         ]
       },
       "match_reason": "Iqbal’s vision of identity and self‑definition resonates with an episode centered on inner voice and embracing who you are."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On 29 December 1934, Japan gave formal notice that it would leave the Washington and London Naval Treaties, freeing itself from limits on warship construction. This quiet legal withdrawal signaled a loud strategic shift, accelerating a new arms race on the oceans in the run‑up to World War II.",
+      "fact_year": 1934,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Washington_Naval_Treaty",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A break from international constraints and a new arms race mirrors the episode’s theme of machines changing the rules—in this case, how we dance."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T07:00:01.433482+00:00"
+  "updated_at": "2025-12-29T08:00:01.404704+00:00"
 }
