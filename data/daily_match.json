@@ -1,63 +1,38 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 29 December 1874, General Arsenio Martínez Campos led a pronunciamiento at Sagunto, overturning Spain’s First Republic and restoring the Bourbon monarchy under Alfonso XII. Remarkably, the coup was brief and almost bloodless, yet it reshaped Spain’s political order for decades.",
-    "fact_year": 1874,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Spanish_Republic",
+    "hour": 7,
+    "fact_text": "On 29 December 1930, philosopher‑poet Muhammad Iqbal delivered his famous Allahabad Address, articulating the \"two‑nation theory\" and envisioning a separate Muslim homeland in northwest India. His poetic yet political speech became a foundational text in the long and contested story of Pakistan’s creation.",
+    "fact_year": 1930,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A turning point in Spanish political history is paired with an episode tracing one of Spain’s most defining cultural traditions."
+    "match_reason": "Iqbal’s vision of identity and self‑definition resonates with an episode centered on inner voice and embracing who you are."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 29 December 1930, philosopher‑poet Muhammad Iqbal delivered his famous Allahabad Address, articulating the \"two‑nation theory\" and envisioning a separate Muslim homeland in northwest India. His poetic yet political speech became a foundational text in the long and contested story of Pakistan’s creation.",
-      "fact_year": 1930,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Iqbal’s vision of identity and self‑definition resonates with an episode centered on inner voice and embracing who you are."
-    },
     {
       "hour": 8,
       "fact_text": "On 29 December 1934, Japan gave formal notice that it would leave the Washington and London Naval Treaties, freeing itself from limits on warship construction. This quiet legal withdrawal signaled a loud strategic shift, accelerating a new arms race on the oceans in the run‑up to World War II.",
@@ -643,9 +618,41 @@
         ]
       },
       "match_reason": "A turning point in Spanish political history is paired with an episode tracing one of Spain’s most defining cultural traditions."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 29 December 1930, philosopher‑poet Muhammad Iqbal delivered his famous Allahabad Address, articulating the \"two‑nation theory\" and envisioning a separate Muslim homeland in northwest India. His poetic yet political speech became a foundational text in the long and contested story of Pakistan’s creation.",
+      "fact_year": 1930,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Iqbal’s vision of identity and self‑definition resonates with an episode centered on inner voice and embracing who you are."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T06:00:01.479249+00:00"
+  "updated_at": "2025-12-29T07:00:01.433482+00:00"
 }
