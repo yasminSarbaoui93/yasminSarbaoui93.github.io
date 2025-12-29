@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On December 29, 2024, Jeju Air Flight 2216 crashed into a wall at Muan International Airport in South Korea, killing 179 of the 181 people onboard. It became the deadliest aircraft accident on South Korean soil, a grim reminder that even in an age of ultra-safe aviation, a single approach can change hundreds of lives.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jeju_Air_Flight_2216",
+    "hour": 16,
+    "fact_text": "On December 29, 2020, a magnitude 6.4 earthquake struck near Petrinja in Croatia, collapsing buildings and killing seven people. The tremor rippled across neighboring countries, a reminder that the ground beneath Central Europe is still restless and very much alive.",
+    "fact_year": 2020,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2020_Petrinja_earthquake",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "A catastrophic flight within East Asia contrasts with an episode about intentional movement and bodily discipline in another Asian sky-and-sea landscape, underscoring the fragility of travel."
+    "match_reason": "The deep, rolling shockwaves of an earthquake echo the low-frequency rumble of dub, with both reminding us of hidden forces pulsing below the surface."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On December 29, 2020, a magnitude 6.4 earthquake struck near Petrinja in Croatia, collapsing buildings and killing seven people. The tremor rippled across neighboring countries, a reminder that the ground beneath Central Europe is still restless and very much alive.",
-      "fact_year": 2020,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2020_Petrinja_earthquake",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "The deep, rolling shockwaves of an earthquake echo the low-frequency rumble of dub, with both reminding us of hidden forces pulsing below the surface."
-    },
     {
       "hour": 17,
       "fact_text": "On December 29, 1996, Guatemala signed a peace accord with the Guatemalan National Revolutionary Unity, ending a brutal 36-year civil war. The conflict had claimed over 200,000 lives, many of them Indigenous civilians, and the agreement marked a fragile hope for justice and reconciliation.",
@@ -639,9 +614,33 @@
         ]
       },
       "match_reason": "A catastrophic flight within East Asia contrasts with an episode about intentional movement and bodily discipline in another Asian sky-and-sea landscape, underscoring the fragility of travel."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On December 29, 2020, a magnitude 6.4 earthquake struck near Petrinja in Croatia, collapsing buildings and killing seven people. The tremor rippled across neighboring countries, a reminder that the ground beneath Central Europe is still restless and very much alive.",
+      "fact_year": 2020,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2020_Petrinja_earthquake",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "The deep, rolling shockwaves of an earthquake echo the low-frequency rumble of dub, with both reminding us of hidden forces pulsing below the surface."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T15:00:01.385424+00:00"
+  "updated_at": "2025-12-29T16:00:01.285326+00:00"
 }
