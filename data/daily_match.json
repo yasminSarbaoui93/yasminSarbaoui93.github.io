@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 29 December 2012, Red Wings Airlines Flight 9268, a Tupolev Tu‑204, overshot the runway at Moscow’s Vnukovo International Airport and crashed into a road embankment by the M3 highway. The accident, attributed in part to a failure of the thrust‑reverser system and pilot response, highlighted ongoing concerns about safety culture in some sectors of Russian aviation.",
-    "fact_year": 2012,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268",
+    "hour": 16,
+    "fact_text": "On 29 December 2013, seven‑time Formula One world champion Michael Schumacher suffered a severe head injury while skiing off‑piste in the French Alps. Despite wearing a helmet, he struck a rock, and the accident abruptly turned a life defined by speed and precision into a long, private fight for recovery.",
+    "fact_year": 2013,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 41,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A Russian aircraft tragedy is matched with a travel‑story episode that weaves in Eastern European and Russian sounds, exploring journeys and their risks."
+    "match_reason": "High‑speed risk, resilience, and defying limits echo through both Schumacher’s story and the unapologetic energy of rock trailblazers."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 29 December 2013, seven‑time Formula One world champion Michael Schumacher suffered a severe head injury while skiing off‑piste in the French Alps. Despite wearing a helmet, he struck a rock, and the accident abruptly turned a life defined by speed and precision into a long, private fight for recovery.",
-      "fact_year": 2013,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "High‑speed risk, resilience, and defying limits echo through both Schumacher’s story and the unapologetic energy of rock trailblazers."
-    },
     {
       "hour": 17,
       "fact_text": "On 29 December 2020, a magnitude 6.4 earthquake struck near the town of Petrinja in Croatia’s Sisak‑Moslavina County. The shallow quake collapsed buildings, killed seven people, and was powerful enough to be felt across several neighboring countries.",
@@ -643,9 +618,33 @@
         ]
       },
       "match_reason": "A Russian aircraft tragedy is matched with a travel‑story episode that weaves in Eastern European and Russian sounds, exploring journeys and their risks."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 29 December 2013, seven‑time Formula One world champion Michael Schumacher suffered a severe head injury while skiing off‑piste in the French Alps. Despite wearing a helmet, he struck a rock, and the accident abruptly turned a life defined by speed and precision into a long, private fight for recovery.",
+      "fact_year": 2013,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Schumacher",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "High‑speed risk, resilience, and defying limits echo through both Schumacher’s story and the unapologetic energy of rock trailblazers."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T15:00:01.227144+00:00"
+  "updated_at": "2025-12-29T16:00:01.202017+00:00"
 }
