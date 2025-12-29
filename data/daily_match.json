@@ -1,64 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On December 29, 1913, Cecil B. DeMille began filming *The Squaw Man*, widely regarded as Hollywood’s first feature-length film. Shot in a barn near Los Angeles, the low-budget experiment unexpectedly launched both DeMille’s career and Hollywood’s rise as the world’s movie capital.",
-    "fact_year": 1913,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Squaw_Man_(1914_film)",
+    "hour": 1,
+    "fact_text": "On December 29, 1860, HMS Warrior was launched as the Royal Navy’s first iron-hulled, armored warship powered by a screw propeller. Her radical mix of iron armor and steam propulsion instantly rendered every wooden warship afloat obsolete, forcing navies worldwide into a frantic era of technological catch-up.",
+    "fact_year": 1860,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the fact and the episode mark bold first chapters: Hollywood’s first feature film and Sedna FM’s inaugural broadcast, each setting a creative universe in motion."
+    "match_reason": "Warrior’s iron and steam were a literal shock to the naval world, echoed by the episode’s ‘electric shock’ theme and high-voltage rock guitars."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On December 29, 1860, HMS Warrior was launched as the Royal Navy’s first iron-hulled, armored warship powered by a screw propeller. Her radical mix of iron armor and steam propulsion instantly rendered every wooden warship afloat obsolete, forcing navies worldwide into a frantic era of technological catch-up.",
-      "fact_year": 1860,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "Warrior’s iron and steam were a literal shock to the naval world, echoed by the episode’s ‘electric shock’ theme and high-voltage rock guitars."
-    },
     {
       "hour": 2,
       "fact_text": "On December 29, 1812, the wooden frigate USS Constitution, nicknamed “Old Ironsides,” defeated HMS Java off the coast of Brazil after a brutal three-hour battle. The British cannonballs bounced so harmlessly off her thick hull that stunned sailors swore they were striking iron, cementing one of the most enduring ship nicknames in history.",
@@ -647,9 +614,34 @@
         ]
       },
       "match_reason": "Both the fact and the episode mark bold first chapters: Hollywood’s first feature film and Sedna FM’s inaugural broadcast, each setting a creative universe in motion."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On December 29, 1860, HMS Warrior was launched as the Royal Navy’s first iron-hulled, armored warship powered by a screw propeller. Her radical mix of iron armor and steam propulsion instantly rendered every wooden warship afloat obsolete, forcing navies worldwide into a frantic era of technological catch-up.",
+      "fact_year": 1860,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "Warrior’s iron and steam were a literal shock to the naval world, echoed by the episode’s ‘electric shock’ theme and high-voltage rock guitars."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T00:01:09.233457+00:00"
+  "updated_at": "2025-12-29T01:00:01.061690+00:00"
 }
