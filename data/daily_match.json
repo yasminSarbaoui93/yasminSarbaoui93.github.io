@@ -1,59 +1,34 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 29 December 1860, HMS Warrior was launched as the world’s first ocean‑going iron‑hulled, armored warship driven by both sails and a screw propeller. Her radical mix of iron hull, steam power, and heavy guns instantly rendered wooden warships obsolete, forcing navies everywhere into a new technological era.",
-    "fact_year": 1860,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Warrior_(1860)",
+    "hour": 2,
+    "fact_text": "On 29 December 1812, the American frigate USS Constitution defeated HMS Java off the coast of Brazil after a fierce three‑hour battle. Nicknamed “Old Ironsides” because enemy cannonballs seemed to bounce off her thick wooden hull, the ship became a symbol of resilience and naval ingenuity.",
+    "fact_year": 1812,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Constitution",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A shocking leap in naval technology fits the electrified, high‑voltage rock of “Electric Shock.”"
+    "match_reason": "A legendary sea battle and an iconic sailing ship echo the episode’s ocean voyage and wave‑drifting mood."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 29 December 1812, the American frigate USS Constitution defeated HMS Java off the coast of Brazil after a fierce three‑hour battle. Nicknamed “Old Ironsides” because enemy cannonballs seemed to bounce off her thick wooden hull, the ship became a symbol of resilience and naval ingenuity.",
-      "fact_year": 1812,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Constitution",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A legendary sea battle and an iconic sailing ship echo the episode’s ocean voyage and wave‑drifting mood."
-    },
     {
       "hour": 3,
       "fact_text": "On 29 December 1607, English explorer John Smith claimed that Pocahontas, the young daughter of Powhatan leader Wahunsenacawh, intervened to save his life during a ritual execution. Whether myth, misinterpretation, or precise memory, the story became one of the most enduring and debated encounters between European settlers and Indigenous Americans.",
@@ -643,9 +618,37 @@
         ]
       },
       "match_reason": "A shocking leap in naval technology fits the electrified, high‑voltage rock of “Electric Shock.”"
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 29 December 1812, the American frigate USS Constitution defeated HMS Java off the coast of Brazil after a fierce three‑hour battle. Nicknamed “Old Ironsides” because enemy cannonballs seemed to bounce off her thick wooden hull, the ship became a symbol of resilience and naval ingenuity.",
+      "fact_year": 1812,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Constitution",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A legendary sea battle and an iconic sailing ship echo the episode’s ocean voyage and wave‑drifting mood."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.008372+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T01:00:01.644403+00:00"
+  "updated_at": "2025-12-29T02:00:01.227655+00:00"
 }
