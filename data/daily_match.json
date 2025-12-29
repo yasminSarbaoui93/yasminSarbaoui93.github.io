@@ -1,62 +1,40 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On December 29, 2023, South Africa filed a landmark case at the International Court of Justice accusing Israel of genocide in its operations in the Gaza Strip. The move invoked the 1948 Genocide Convention and positioned a post-apartheid state as a key legal voice in one of the world’s most contentious conflicts.",
-    "fact_year": 2023,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Africa's_genocide_case_against_Israel",
+    "hour": 21,
+    "fact_text": "On December 29, 1930, Cecil B. DeMille’s Hollywood was still young, but 60 years later on this date another kind of spectacle soared: by 1990, the modern blockbuster era had normalized global cinematic empires driven by sound, image, and marketing. The roots of that transformation trace back to early features like *The Squaw Man* and forward to the multimedia franchises that now dominate our screens.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A legal case that challenges how the world names and frames mass violence aligns with an episode about dismantling labels and confronting uncomfortable truths, amplified by politically sharp hip-hop."
+    "match_reason": "The evolution from early silent features to sprawling cinematic universes mirrors this episode’s sense of journey and expansion into new sonic territories."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On December 29, 1930, Cecil B. DeMille’s Hollywood was still young, but 60 years later on this date another kind of spectacle soared: by 1990, the modern blockbuster era had normalized global cinematic empires driven by sound, image, and marketing. The roots of that transformation trace back to early features like *The Squaw Man* and forward to the multimedia franchises that now dominate our screens.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "The evolution from early silent features to sprawling cinematic universes mirrors this episode’s sense of journey and expansion into new sonic territories."
-    },
     {
       "hour": 22,
       "fact_text": "On December 29, 1996, Guatemala’s peace accord ended not only open warfare but also one of Latin America’s most notorious episodes of state terror against Indigenous peoples. Truth commissions later described entire villages razed and languages nearly silenced, making the agreement a fragile first step toward preserving cultures that had nearly been erased.",
@@ -636,9 +614,43 @@
         ]
       },
       "match_reason": "A legal case that challenges how the world names and frames mass violence aligns with an episode about dismantling labels and confronting uncomfortable truths, amplified by politically sharp hip-hop."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On December 29, 1930, Cecil B. DeMille’s Hollywood was still young, but 60 years later on this date another kind of spectacle soared: by 1990, the modern blockbuster era had normalized global cinematic empires driven by sound, image, and marketing. The roots of that transformation trace back to early features like *The Squaw Man* and forward to the multimedia franchises that now dominate our screens.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "The evolution from early silent features to sprawling cinematic universes mirrors this episode’s sense of journey and expansion into new sonic territories."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T20:00:01.443579+00:00"
+  "updated_at": "2025-12-29T21:00:01.562698+00:00"
 }
