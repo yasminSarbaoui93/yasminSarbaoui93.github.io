@@ -1,54 +1,29 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On December 29, 1996, Guatemala’s peace accord ended not only open warfare but also one of Latin America’s most notorious episodes of state terror against Indigenous peoples. Truth commissions later described entire villages razed and languages nearly silenced, making the agreement a fragile first step toward preserving cultures that had nearly been erased.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guatemalan_National_Revolutionary_Unity",
+    "hour": 23,
+    "fact_text": "On December 29, 2020, while much of the world focused on a pandemic, the Petrinja earthquake’s strongest jolts caused the ground to slip sideways by up to 20 centimeters along a fault. Satellites later captured the sudden reshaping of the landscape from orbit, turning a brief roar underfoot into a visible scar from space.",
+    "fact_year": 2020,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Petrinja",
     "episode": {
-      "id": 19,
-      "title": "Morning Drops #13 - Demystifying Reggaeton",
-      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Renato - Chica de los Ojos Café",
-        "B. F. Yaviah - Si Tu Quieres Fumar",
-        "Calle 13 - Atrévete",
-        "Bad Bunny - DtMF"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Reggaeton",
-        "Latin Urban",
-        "Hip-Hop"
+        "Indie Rock",
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "A Central American peace process centered on marginalized voices pairs with an episode that retraces how a marginalized Caribbean-Latin sound became globally heard, both reclaiming narrative and rhythm."
+    "match_reason": "A quake that literally shifts the ground and is later seen from space resonates with an episode about shifting perspectives and turning apparent emptiness into space for new creation."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On December 29, 2020, while much of the world focused on a pandemic, the Petrinja earthquake’s strongest jolts caused the ground to slip sideways by up to 20 centimeters along a fault. Satellites later captured the sudden reshaping of the landscape from orbit, turning a brief roar underfoot into a visible scar from space.",
-      "fact_year": 2020,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Petrinja",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "A quake that literally shifts the ground and is later seen from space resonates with an episode about shifting perspectives and turning apparent emptiness into space for new creation."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -638,9 +613,32 @@
         ]
       },
       "match_reason": "A Central American peace process centered on marginalized voices pairs with an episode that retraces how a marginalized Caribbean-Latin sound became globally heard, both reclaiming narrative and rhythm."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On December 29, 2020, while much of the world focused on a pandemic, the Petrinja earthquake’s strongest jolts caused the ground to slip sideways by up to 20 centimeters along a fault. Satellites later captured the sudden reshaping of the landscape from orbit, turning a brief roar underfoot into a visible scar from space.",
+      "fact_year": 2020,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Petrinja",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "A quake that literally shifts the ground and is later seen from space resonates with an episode about shifting perspectives and turning apparent emptiness into space for new creation."
     }
   ],
   "generated_at": "2025-12-29T00:00:00.010312+00:00",
   "date": "2025-12-29",
-  "updated_at": "2025-12-29T22:00:01.453939+00:00"
+  "updated_at": "2025-12-29T23:00:01.854045+00:00"
 }
