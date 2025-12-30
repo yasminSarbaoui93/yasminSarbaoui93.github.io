@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1902, Robert Falcon Scott's Discovery Expedition pushed human presence farther toward Earth's southern pole than ever before, reaching 82°17′S. The team battled frostbite, blizzards, and uncharted ice to extend the known edge of the map, turning Antarctica from a blank space into a place of data, samples, and stories.",
-    "fact_year": 1902,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Discovery_Expedition",
+    "hour": 1,
+    "fact_text": "On the very last days of 2005, Tropical Storm Zeta spun to life in the open Atlantic, tying the record for the latest-forming tropical cyclone in the North Atlantic. It defied the usual hurricane season boundaries and lingered into the new year, a reminder that Earth’s atmosphere doesn’t always follow our calendars.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the Antarctic expedition and the orca dives explore the planet’s icy extremes, pairing polar exploration with a calm, cinematic soundscape of cold light and vast seascapes."
+    "match_reason": "A late-season tropical storm is like an unexpected electrical surge in the atmosphere, fitting the episode’s high-energy, stormy, guitar-driven ‘electric shock’ mood."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On the very last days of 2005, Tropical Storm Zeta spun to life in the open Atlantic, tying the record for the latest-forming tropical cyclone in the North Atlantic. It defied the usual hurricane season boundaries and lingered into the new year, a reminder that Earth’s atmosphere doesn’t always follow our calendars.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A late-season tropical storm is like an unexpected electrical surge in the atmosphere, fitting the episode’s high-energy, stormy, guitar-driven ‘electric shock’ mood."
-    },
     {
       "hour": 2,
       "fact_text": "In 1890, just days after the Wounded Knee Massacre, Lakota warriors confronted the U.S. Army again in the Drexel Mission Fight. It was a brief but fierce clash near a Catholic mission, symbolizing the desperate final resistance of a people under violent pressure and the collision of Indigenous, military, and religious worlds.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "Both the Antarctic expedition and the orca dives explore the planet’s icy extremes, pairing polar exploration with a calm, cinematic soundscape of cold light and vast seascapes."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On the very last days of 2005, Tropical Storm Zeta spun to life in the open Atlantic, tying the record for the latest-forming tropical cyclone in the North Atlantic. It defied the usual hurricane season boundaries and lingered into the new year, a reminder that Earth’s atmosphere doesn’t always follow our calendars.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A late-season tropical storm is like an unexpected electrical surge in the atmosphere, fitting the episode’s high-energy, stormy, guitar-driven ‘electric shock’ mood."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T00:00:49.560998+00:00"
+  "updated_at": "2025-12-30T01:00:01.227091+00:00"
 }
