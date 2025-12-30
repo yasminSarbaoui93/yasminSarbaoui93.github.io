@@ -1,64 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1853, the United States agreed to the Gadsden Purchase, buying a strip of land from Mexico largely to lay smoother railroad tracks across the desert Southwest. A few lines on a map reshaped future train routes, borders, and the stories of the people living in that arid corridor.",
-    "fact_year": 1853,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gadsden_Purchase",
+    "hour": 12,
+    "fact_text": "In December 2013, armed groups attacked key buildings in Kinshasa, Democratic Republic of the Congo, leaving more than 100 people dead. The brief but brutal assault exposed deep political tensions beneath the daily noise of a megacity.",
+    "fact_year": 2013,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2013_Kinshasa_attacks",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A land deal made to smooth the way for railroads matches an episode about being 'on the go'; both are about carving new routes for movement and connecting distant places."
+    "match_reason": "An urban political crisis in a central African capital is paired with an episode celebrating African musical movements; Afrobeat’s political edge and pan-African pulse provide a resonant, hopeful counterpoint."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In December 2013, armed groups attacked key buildings in Kinshasa, Democratic Republic of the Congo, leaving more than 100 people dead. The brief but brutal assault exposed deep political tensions beneath the daily noise of a megacity.",
-      "fact_year": 2013,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2013_Kinshasa_attacks",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "An urban political crisis in a central African capital is paired with an episode celebrating African musical movements; Afrobeat’s political edge and pan-African pulse provide a resonant, hopeful counterpoint."
-    },
     {
       "hour": 13,
       "fact_text": "In 1993, Israel established full diplomatic relations with Vatican City and upgraded its ties with Ireland. For a nation long at the center of religious and geopolitical debate, these new relationships signaled shifts in dialogue, recognition, and the quiet work of diplomacy.",
@@ -655,9 +621,33 @@
         ]
       },
       "match_reason": "A land deal made to smooth the way for railroads matches an episode about being 'on the go'; both are about carving new routes for movement and connecting distant places."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In December 2013, armed groups attacked key buildings in Kinshasa, Democratic Republic of the Congo, leaving more than 100 people dead. The brief but brutal assault exposed deep political tensions beneath the daily noise of a megacity.",
+      "fact_year": 2013,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2013_Kinshasa_attacks",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "An urban political crisis in a central African capital is paired with an episode celebrating African musical movements; Afrobeat’s political edge and pan-African pulse provide a resonant, hopeful counterpoint."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T11:00:01.209877+00:00"
+  "updated_at": "2025-12-30T12:00:01.566342+00:00"
 }
