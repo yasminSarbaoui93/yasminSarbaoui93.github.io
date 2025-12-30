@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 2009, a rupture on China’s Lanzhou–Zhengzhou–Changsha pipeline spilled about 150,000 liters of diesel into the Wei River. The slick drifted downstream toward the Yellow River, turning a vital waterway into an emergency cleanup zone and illustrating how quickly industrial systems can ripple through entire ecosystems.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lanzhou%E2%80%93Zhengzhou%E2%80%93Changsha_pipeline",
+    "hour": 7,
+    "fact_text": "The Hurricane Creek mine disaster in 1970, near Hyden, Kentucky, killed 38 coal miners in an explosion linked to poor safety practices. It came just days after a new federal mine safety act, brutally underscoring that laws on paper mean little without enforcement deep underground.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hurricane_Creek_mine_disaster",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A pipeline spill is a consequence of our fossil-fuel, tech-dependent world; this episode questions our dependence on modern systems, making the pairing a reflection on hidden costs of infrastructure."
+    "match_reason": "The dark, introspective textures of trip-hop mirror the somber, subterranean atmosphere of mining and tragedy, offering a moody sonic space for reflection."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "The Hurricane Creek mine disaster in 1970, near Hyden, Kentucky, killed 38 coal miners in an explosion linked to poor safety practices. It came just days after a new federal mine safety act, brutally underscoring that laws on paper mean little without enforcement deep underground.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hurricane_Creek_mine_disaster",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The dark, introspective textures of trip-hop mirror the somber, subterranean atmosphere of mining and tragedy, offering a moody sonic space for reflection."
-    },
     {
       "hour": 8,
       "fact_text": "During Queen Anne’s War in 1702, Governor James Moore of Carolina abandoned his siege of St. Augustine after failing to breach the Spanish defenses. The retreat left behind burned settlements, angry colonists, and a reminder that imperial ambitions often ran aground on local realities and stubborn fortresses.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A pipeline spill is a consequence of our fossil-fuel, tech-dependent world; this episode questions our dependence on modern systems, making the pairing a reflection on hidden costs of infrastructure."
+    },
+    {
+      "hour": 7,
+      "fact_text": "The Hurricane Creek mine disaster in 1970, near Hyden, Kentucky, killed 38 coal miners in an explosion linked to poor safety practices. It came just days after a new federal mine safety act, brutally underscoring that laws on paper mean little without enforcement deep underground.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hurricane_Creek_mine_disaster",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The dark, introspective textures of trip-hop mirror the somber, subterranean atmosphere of mining and tragedy, offering a moody sonic space for reflection."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T06:00:01.100260+00:00"
+  "updated_at": "2025-12-30T07:00:01.123709+00:00"
 }
