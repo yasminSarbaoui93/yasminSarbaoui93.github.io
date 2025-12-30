@@ -1,65 +1,40 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1916, Charles IV and Zita were crowned in Budapest in what became the final coronation of a Hungarian monarch. The ceremony, steeped in medieval ritual with sacred crown and oaths, unfolded even as the First World War was quietly eroding the empire beneath their feet.",
-    "fact_year": 1916,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
+    "hour": 11,
+    "fact_text": "The Gadsden Purchase, agreed in 1853, saw the United States buy a strip of land from Mexico to ease the construction of a southern transcontinental railroad. That seemingly narrow band of desert reshaped borders in the Southwest and helped define the future routes of steel, trade, and migration.",
+    "fact_year": 1853,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gadsden_Purchase",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "A slow, ceremonious jazz selection mirrors the ritual pace and layered formality of a royal coronation, contrasting its calm beauty with the empire’s fragile reality."
+    "match_reason": "A land deal made to lay railway tracks fits perfectly with an ‘on the move’ travel soundtrack, echoing trains, roads, and long journeys across the Southwest."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "The Gadsden Purchase, agreed in 1853, saw the United States buy a strip of land from Mexico to ease the construction of a southern transcontinental railroad. That seemingly narrow band of desert reshaped borders in the Southwest and helped define the future routes of steel, trade, and migration.",
-      "fact_year": 1853,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gadsden_Purchase",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A land deal made to lay railway tracks fits perfectly with an ‘on the move’ travel soundtrack, echoing trains, roads, and long journeys across the Southwest."
-    },
     {
       "hour": 12,
       "fact_text": "In 2013, armed followers of religious leader Paul Joseph Mukungubila attacked key sites in Kinshasa, including the airport and state broadcaster, leaving more than a hundred people dead. The sudden violence laid bare the tensions simmering beneath the surface in the Democratic Republic of the Congo’s bustling capital.",
@@ -652,9 +627,43 @@
         ]
       },
       "match_reason": "A slow, ceremonious jazz selection mirrors the ritual pace and layered formality of a royal coronation, contrasting its calm beauty with the empire’s fragile reality."
+    },
+    {
+      "hour": 11,
+      "fact_text": "The Gadsden Purchase, agreed in 1853, saw the United States buy a strip of land from Mexico to ease the construction of a southern transcontinental railroad. That seemingly narrow band of desert reshaped borders in the Southwest and helped define the future routes of steel, trade, and migration.",
+      "fact_year": 1853,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gadsden_Purchase",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A land deal made to lay railway tracks fits perfectly with an ‘on the move’ travel soundtrack, echoing trains, roads, and long journeys across the Southwest."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T10:00:01.301636+00:00"
+  "updated_at": "2025-12-30T11:00:01.334887+00:00"
 }
