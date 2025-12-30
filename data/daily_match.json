@@ -1,48 +1,25 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "As the USSR arose in 1922, its new government poured resources into science and technology, ultimately propelling the first satellite and the first human into space. A political union birthed a cosmic one, connecting human history to orbital pathways.",
-    "fact_year": 1922,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics",
+    "hour": 22,
+    "fact_text": "Romania’s forced royal abdication in 1947 symbolized the early tightening of the Iron Curtain across Eastern Europe. A single monarch’s departure marked a broader shift toward secret police, surveillance, and life under a very different kind of scrutiny.",
+    "fact_year": 1947,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "song 1"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "genre 1"
       ]
     },
-    "match_reason": "The state that would launch Sputnik and Gagarin fits naturally with an episode about rethinking 'space'; both encourage looking at the void—outer or inner—as potential for creation."
+    "match_reason": "The abrupt replacement of an old order with a rigid new system is contrasted with an episode celebrating imperfection and softness; against harsh historical control, Wabi-Sabi offers a gentler philosophy of change."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "Romania’s forced royal abdication in 1947 symbolized the early tightening of the Iron Curtain across Eastern Europe. A single monarch’s departure marked a broader shift toward secret police, surveillance, and life under a very different kind of scrutiny.",
-      "fact_year": 1947,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "The abrupt replacement of an old order with a rigid new system is contrasted with an episode celebrating imperfection and softness; against harsh historical control, Wabi-Sabi offers a gentler philosophy of change."
-    },
     {
       "hour": 23,
       "fact_text": "Even as frontier treaties were signed and empires rose, many of the world’s great rivers—from the Yellow to the Mississippi—were quietly carrying silt, nutrients, and stories toward the sea. Every flood and meander has been a silent editor of human geography.",
@@ -644,9 +621,28 @@
         ]
       },
       "match_reason": "The state that would launch Sputnik and Gagarin fits naturally with an episode about rethinking 'space'; both encourage looking at the void—outer or inner—as potential for creation."
+    },
+    {
+      "hour": 22,
+      "fact_text": "Romania’s forced royal abdication in 1947 symbolized the early tightening of the Iron Curtain across Eastern Europe. A single monarch’s departure marked a broader shift toward secret police, surveillance, and life under a very different kind of scrutiny.",
+      "fact_year": 1947,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "The abrupt replacement of an old order with a rigid new system is contrasted with an episode celebrating imperfection and softness; against harsh historical control, Wabi-Sabi offers a gentler philosophy of change."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T21:00:01.249452+00:00"
+  "updated_at": "2025-12-30T22:00:01.222048+00:00"
 }
