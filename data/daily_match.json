@@ -1,55 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1922, the Union of Soviet Socialist Republics (USSR) was officially formed, stitching together multiple republics into a single, ideologically driven superstate. From that moment, world politics, science, art, and space exploration would be reshaped by decisions made in Moscow.",
-    "fact_year": 1922,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_Union",
+    "hour": 17,
+    "fact_text": "In 1897, the British Colony of Natal formally annexed Zululand, ending the Zulu Kingdom’s independence. A powerful African state known for its disciplined warriors and rich culture was absorbed into a colonial framework drawn far from its homelands.",
+    "fact_year": 1897,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zulu_Kingdom",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "The creation of a vast union that blended many cultures into one state parallels trip-hop’s boundary-blurring fusion of influences; both are experiments in merging disparate elements into a single, powerful entity."
+    "match_reason": "The annexation of an African kingdom is paired with an episode celebrating African musical power; Afrobeat’s assertive rhythms answer the history of domination with cultural force and pride."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1897, the British Colony of Natal formally annexed Zululand, ending the Zulu Kingdom’s independence. A powerful African state known for its disciplined warriors and rich culture was absorbed into a colonial framework drawn far from its homelands.",
-      "fact_year": 1897,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zulu_Kingdom",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "The annexation of an African kingdom is paired with an episode celebrating African musical power; Afrobeat’s assertive rhythms answer the history of domination with cultural force and pride."
-    },
     {
       "hour": 18,
       "fact_text": "In 1896, Ernie McLea scored the first hat-trick in Stanley Cup history—and netted the Cup-winning goal—in a 6–5 thriller for the Montreal Victorias over the Winnipeg Victorias. On frozen ice, he carved his name into sports history with three flashes of timing, skill, and nerve.",
@@ -646,9 +621,33 @@
         ]
       },
       "match_reason": "The creation of a vast union that blended many cultures into one state parallels trip-hop’s boundary-blurring fusion of influences; both are experiments in merging disparate elements into a single, powerful entity."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1897, the British Colony of Natal formally annexed Zululand, ending the Zulu Kingdom’s independence. A powerful African state known for its disciplined warriors and rich culture was absorbed into a colonial framework drawn far from its homelands.",
+      "fact_year": 1897,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zulu_Kingdom",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "The annexation of an African kingdom is paired with an episode celebrating African musical power; Afrobeat’s assertive rhythms answer the history of domination with cultural force and pride."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T16:00:01.187627+00:00"
+  "updated_at": "2025-12-30T17:00:01.429317+00:00"
 }
