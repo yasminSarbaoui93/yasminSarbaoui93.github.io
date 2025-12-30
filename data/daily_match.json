@@ -1,56 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "The Hurricane Creek mine disaster in 1970, near Hyden, Kentucky, killed 38 coal miners in an explosion linked to poor safety practices. It came just days after a new federal mine safety act, brutally underscoring that laws on paper mean little without enforcement deep underground.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hurricane_Creek_mine_disaster",
+    "hour": 8,
+    "fact_text": "During Queen Anne’s War in 1702, Governor James Moore of Carolina abandoned his siege of St. Augustine after failing to breach the Spanish defenses. The retreat left behind burned settlements, angry colonists, and a reminder that imperial ambitions often ran aground on local realities and stubborn fortresses.",
+    "fact_year": 1702,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Anne%27s_War",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The dark, introspective textures of trip-hop mirror the somber, subterranean atmosphere of mining and tragedy, offering a moody sonic space for reflection."
+    "match_reason": "A coastal siege and retreat connect to an episode with a sailors’ song (“Ma come fanno i marinai”) and rugged landscapes, tying together fortresses, ships, and difficult terrain."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "During Queen Anne’s War in 1702, Governor James Moore of Carolina abandoned his siege of St. Augustine after failing to breach the Spanish defenses. The retreat left behind burned settlements, angry colonists, and a reminder that imperial ambitions often ran aground on local realities and stubborn fortresses.",
-      "fact_year": 1702,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Anne%27s_War",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A coastal siege and retreat connect to an episode with a sailors’ song (“Ma come fanno i marinai”) and rugged landscapes, tying together fortresses, ships, and difficult terrain."
-    },
     {
       "hour": 9,
       "fact_text": "In 1066, a mob in Granada stormed the royal palace, crucified the Jewish vizier Joseph ibn Naghrela, and massacred much of the city’s Jewish community. This eruption of violence in a culturally rich, multi-religious city shows how quickly a cosmopolitan center can turn into a site of persecution.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "The dark, introspective textures of trip-hop mirror the somber, subterranean atmosphere of mining and tragedy, offering a moody sonic space for reflection."
+    },
+    {
+      "hour": 8,
+      "fact_text": "During Queen Anne’s War in 1702, Governor James Moore of Carolina abandoned his siege of St. Augustine after failing to breach the Spanish defenses. The retreat left behind burned settlements, angry colonists, and a reminder that imperial ambitions often ran aground on local realities and stubborn fortresses.",
+      "fact_year": 1702,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Anne%27s_War",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A coastal siege and retreat connect to an episode with a sailors’ song (“Ma come fanno i marinai”) and rugged landscapes, tying together fortresses, ships, and difficult terrain."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T07:00:01.123709+00:00"
+  "updated_at": "2025-12-30T08:00:01.649295+00:00"
 }
