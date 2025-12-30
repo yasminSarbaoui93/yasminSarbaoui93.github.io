@@ -1,60 +1,36 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 1954, Finland created its National Bureau of Investigation to bring criminal investigation and intelligence work under one roof. The agency became the country’s central node for untangling complex cases, from organized crime to cyber threats, turning scattered clues into national-level insight.",
-    "fact_year": 1954,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland)",
+    "hour": 15,
+    "fact_text": "During the Second Italo-Ethiopian War in 1935, the Italian Air Force bombed a Swedish Red Cross hospital at Dolo. The attack on a marked medical facility shocked international observers and became a chilling example of how modern warfare can erase the assumed safety of humanitarian spaces.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dolo_hospital_airstrike",
     "episode": {
-      "id": 10,
-      "title": "Morning Drops #04 - Bars With Balls",
-      "description": "Yasmin dives into Women's Day through the voices of four incredible female rappers. Morning fire from the magic planet of Sedna FM — move your hands up and down with us. Hip hop culture through a feminine lens.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Ele A - Globo",
-        "Little Simz - Point and Kill (feat. Obongjayar)",
-        "Lil' Kim - Lighters Up",
-        "Queen Latifah - U.N.I.T.Y."
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeats",
-        "Rap"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "An investigative bureau built to confront crime aligns with hip-hop that calls out injustice and street realities, linking institutional response with voices from the ground."
+    "match_reason": "A brutal airstrike in Ethiopia is paired with an episode traveling sonically across North Africa and sub-Saharan landscapes, juxtaposing war’s violence with the region’s living cultures and rhythms."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "During the Second Italo-Ethiopian War in 1935, the Italian Air Force bombed a Swedish Red Cross hospital at Dolo. The attack on a marked medical facility shocked international observers and became a chilling example of how modern warfare can erase the assumed safety of humanitarian spaces.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dolo_hospital_airstrike",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A brutal airstrike in Ethiopia is paired with an episode traveling sonically across North Africa and sub-Saharan landscapes, juxtaposing war’s violence with the region’s living cultures and rhythms."
-    },
     {
       "hour": 16,
       "fact_text": "On December 30, 1922, the Union of Soviet Socialist Republics (USSR) was officially formed, uniting multiple republics under a single federal socialist state. What began as a revolutionary experiment in governance would grow into a superpower that shaped much of the 20th century’s political and scientific landscape.",
@@ -651,9 +627,39 @@
         ]
       },
       "match_reason": "An investigative bureau built to confront crime aligns with hip-hop that calls out injustice and street realities, linking institutional response with voices from the ground."
+    },
+    {
+      "hour": 15,
+      "fact_text": "During the Second Italo-Ethiopian War in 1935, the Italian Air Force bombed a Swedish Red Cross hospital at Dolo. The attack on a marked medical facility shocked international observers and became a chilling example of how modern warfare can erase the assumed safety of humanitarian spaces.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dolo_hospital_airstrike",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A brutal airstrike in Ethiopia is paired with an episode traveling sonically across North Africa and sub-Saharan landscapes, juxtaposing war’s violence with the region’s living cultures and rhythms."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T14:00:01.321213+00:00"
+  "updated_at": "2025-12-30T15:00:01.602564+00:00"
 }
