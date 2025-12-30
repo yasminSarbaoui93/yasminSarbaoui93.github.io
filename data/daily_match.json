@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1935, during the Second Italo-Ethiopian War, the Italian Air Force bombed a Swedish Red Cross hospital at Dolo, Ethiopia. Even a marked humanitarian refuge could not escape the reach of modern aerial warfare.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dolo_hospital_airstrike",
+    "hour": 16,
+    "fact_text": "In 1922, the Union of Soviet Socialist Republics (USSR) was officially formed, stitching together multiple republics into a single, ideologically driven superstate. From that moment, world politics, science, art, and space exploration would be reshaped by decisions made in Moscow.",
+    "fact_year": 1922,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_Union",
     "episode": {
-      "id": 21,
-      "title": "Morning Drops #15 - Unfreezing",
-      "description": "A short, honest Morning Drop with no grand theme — just four tracks, a bit of voice, and the decision to not wait for the 'right' moment. Room to breathe today.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unfreezing",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Jelisa - Friendly Pressure",
-        "Jane Birkin & Serge Gainsbourg - Je t’aime… moi non plus",
-        "Feng Suave - Maybe Another Time",
-        "Bernard Badie - In Love (DJ Quad's at Night Mix)"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
         "Trip-Hop",
-        "French Pop",
-        "Indie",
-        "Deep House"
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A wartime attack on a place meant for healing contrasts with an episode about 'room to breathe'; the gentle, introspective mood becomes a quiet memorial and a reminder of spaces that should remain safe."
+    "match_reason": "The creation of a vast union that blended many cultures into one state parallels trip-hop’s boundary-blurring fusion of influences; both are experiments in merging disparate elements into a single, powerful entity."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1922, the Union of Soviet Socialist Republics (USSR) was officially formed, stitching together multiple republics into a single, ideologically driven superstate. From that moment, world politics, science, art, and space exploration would be reshaped by decisions made in Moscow.",
-      "fact_year": 1922,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_Union",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The creation of a vast union that blended many cultures into one state parallels trip-hop’s boundary-blurring fusion of influences; both are experiments in merging disparate elements into a single, powerful entity."
-    },
     {
       "hour": 17,
       "fact_text": "In 1897, the British Colony of Natal formally annexed Zululand, ending the Zulu Kingdom’s independence. A powerful African state known for its disciplined warriors and rich culture was absorbed into a colonial framework drawn far from its homelands.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "A wartime attack on a place meant for healing contrasts with an episode about 'room to breathe'; the gentle, introspective mood becomes a quiet memorial and a reminder of spaces that should remain safe."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1922, the Union of Soviet Socialist Republics (USSR) was officially formed, stitching together multiple republics into a single, ideologically driven superstate. From that moment, world politics, science, art, and space exploration would be reshaped by decisions made in Moscow.",
+      "fact_year": 1922,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The creation of a vast union that blended many cultures into one state parallels trip-hop’s boundary-blurring fusion of influences; both are experiments in merging disparate elements into a single, powerful entity."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T15:00:01.294626+00:00"
+  "updated_at": "2025-12-30T16:00:01.187627+00:00"
 }
