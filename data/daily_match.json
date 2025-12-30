@@ -1,64 +1,40 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In December 2013, armed groups attacked key buildings in Kinshasa, Democratic Republic of the Congo, leaving more than 100 people dead. The brief but brutal assault exposed deep political tensions beneath the daily noise of a megacity.",
-    "fact_year": 2013,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2013_Kinshasa_attacks",
+    "hour": 13,
+    "fact_text": "In 1993, Israel established full diplomatic relations with Vatican City and upgraded its ties with Ireland. For a nation long at the center of religious and geopolitical debate, these new relationships signaled shifts in dialogue, recognition, and the quiet work of diplomacy.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Diplomatic_recognition",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "An urban political crisis in a central African capital is paired with an episode celebrating African musical movements; Afrobeat’s political edge and pan-African pulse provide a resonant, hopeful counterpoint."
+    "match_reason": "Shifts in international relationships fit an episode framed as a 'destination' and voyage; both are about crossing borders, opening channels, and reimagining connections between places and cultures."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1993, Israel established full diplomatic relations with Vatican City and upgraded its ties with Ireland. For a nation long at the center of religious and geopolitical debate, these new relationships signaled shifts in dialogue, recognition, and the quiet work of diplomacy.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Diplomatic_recognition",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "Shifts in international relationships fit an episode framed as a 'destination' and voyage; both are about crossing borders, opening channels, and reimagining connections between places and cultures."
-    },
     {
       "hour": 14,
       "fact_text": "In 1954, Finland created its National Bureau of Investigation to bring together criminal investigation and intelligence under one agency. It marked a move toward more coordinated, science-informed policing in a country known for quiet efficiency.",
@@ -645,9 +621,43 @@
         ]
       },
       "match_reason": "An urban political crisis in a central African capital is paired with an episode celebrating African musical movements; Afrobeat’s political edge and pan-African pulse provide a resonant, hopeful counterpoint."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1993, Israel established full diplomatic relations with Vatican City and upgraded its ties with Ireland. For a nation long at the center of religious and geopolitical debate, these new relationships signaled shifts in dialogue, recognition, and the quiet work of diplomacy.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Diplomatic_recognition",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "Shifts in international relationships fit an episode framed as a 'destination' and voyage; both are about crossing borders, opening channels, and reimagining connections between places and cultures."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T12:00:01.566342+00:00"
+  "updated_at": "2025-12-30T13:00:01.447234+00:00"
 }
