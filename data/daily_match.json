@@ -1,55 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1970, an explosion ripped through the Hurricane Creek mine near Hyden, Kentucky, killing 38 miners. The disaster exposed the hidden human cost of coal and helped fuel calls for stricter mine safety regulations deep beneath the Appalachian hills.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hurricane_Creek_mine_disaster",
+    "hour": 8,
+    "fact_text": "In 1702, during Queen Anne's War, Governor James Moore of Carolina was forced to abandon his ambitious siege of St. Augustine in Spanish Florida. Swamps, disease, and logistical failure proved as decisive as cannons in deciding the fate of a colonial campaign.",
+    "fact_year": 1702,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Anne%27s_War",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "The raw energy and defiance of rock echo the struggle of miners working in dangerous conditions; both are about loud voices pushing back against systems that would rather stay quiet."
+    "match_reason": "A failed colonial expedition through foreign territory is contrasted with an episode about travel as mindful exploration; both involve journeys reshaping perspective, though with very different intentions."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1702, during Queen Anne's War, Governor James Moore of Carolina was forced to abandon his ambitious siege of St. Augustine in Spanish Florida. Swamps, disease, and logistical failure proved as decisive as cannons in deciding the fate of a colonial campaign.",
-      "fact_year": 1702,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Anne%27s_War",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A failed colonial expedition through foreign territory is contrasted with an episode about travel as mindful exploration; both involve journeys reshaping perspective, though with very different intentions."
-    },
     {
       "hour": 9,
       "fact_text": "In 1066, a Muslim mob in Granada stormed the royal palace, crucified the Jewish vizier Joseph ibn Naghrela, and massacred much of the city’s Jewish community. The Granada massacre shattered a fragile coexistence and stands as a stark reminder of how quickly tolerance can collapse into violence.",
@@ -645,9 +621,34 @@
         ]
       },
       "match_reason": "The raw energy and defiance of rock echo the struggle of miners working in dangerous conditions; both are about loud voices pushing back against systems that would rather stay quiet."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1702, during Queen Anne's War, Governor James Moore of Carolina was forced to abandon his ambitious siege of St. Augustine in Spanish Florida. Swamps, disease, and logistical failure proved as decisive as cannons in deciding the fate of a colonial campaign.",
+      "fact_year": 1702,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Anne%27s_War",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A failed colonial expedition through foreign territory is contrasted with an episode about travel as mindful exploration; both involve journeys reshaping perspective, though with very different intentions."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T07:00:01.398212+00:00"
+  "updated_at": "2025-12-30T08:00:01.081650+00:00"
 }
