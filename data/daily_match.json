@@ -1,73 +1,39 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 1993, Israel established full diplomatic relations with Vatican City and upgraded its ties with Ireland. For a nation long at the center of religious and geopolitical debate, these new relationships signaled shifts in dialogue, recognition, and the quiet work of diplomacy.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Diplomatic_recognition",
+    "hour": 14,
+    "fact_text": "In 1954, Finland created its National Bureau of Investigation to bring together criminal investigation and intelligence under one agency. It marked a move toward more coordinated, science-informed policing in a country known for quiet efficiency.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland)",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Hip-Hop",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Shifts in international relationships fit an episode framed as a 'destination' and voyage; both are about crossing borders, opening channels, and reimagining connections between places and cultures."
+    "match_reason": "An agency built to piece together clues and stories pairs with a first, sprawling Sedna mix that feels like a narrative investigation through many musical worlds; both are about connecting fragments into a bigger picture."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 1954, Finland created its National Bureau of Investigation to bring together criminal investigation and intelligence under one agency. It marked a move toward more coordinated, science-informed policing in a country known for quiet efficiency.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland)",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "An agency built to piece together clues and stories pairs with a first, sprawling Sedna mix that feels like a narrative investigation through many musical worlds; both are about connecting fragments into a bigger picture."
-    },
     {
       "hour": 15,
       "fact_text": "In 1935, during the Second Italo-Ethiopian War, the Italian Air Force bombed a Swedish Red Cross hospital at Dolo, Ethiopia. Even a marked humanitarian refuge could not escape the reach of modern aerial warfare.",
@@ -655,9 +621,42 @@
         ]
       },
       "match_reason": "Shifts in international relationships fit an episode framed as a 'destination' and voyage; both are about crossing borders, opening channels, and reimagining connections between places and cultures."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 1954, Finland created its National Bureau of Investigation to bring together criminal investigation and intelligence under one agency. It marked a move toward more coordinated, science-informed policing in a country known for quiet efficiency.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_Bureau_of_Investigation_(Finland)",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "An agency built to piece together clues and stories pairs with a first, sprawling Sedna mix that feels like a narrative investigation through many musical worlds; both are about connecting fragments into a bigger picture."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T13:00:01.447234+00:00"
+  "updated_at": "2025-12-30T14:00:01.237891+00:00"
 }
