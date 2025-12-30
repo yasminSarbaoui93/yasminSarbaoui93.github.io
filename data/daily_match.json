@@ -1,55 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On December 30, 1947, King Michael I of Romania was forced to abdicate under Soviet-backed pressure, marking the abrupt end of the Romanian monarchy. The young king signed away his crown at gunpoint, and the country shifted overnight into a people’s republic, closing a centuries-long chapter of royal rule.",
-    "fact_year": 1947,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_I_of_Romania",
+    "hour": 5,
+    "fact_text": "In 1816, the Treaty of St. Louis was proclaimed between the United States and the united Ottawa, Ojibwa, and Potawatomi tribes. Signed in the aftermath of the War of 1812, it ceded vast tracts of Indigenous land around the Great Lakes, reshaping maps while deepening the fracture between paper treaties and lived realities.",
+    "fact_year": 1816,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_St._Louis_(1816)",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "The fall of a monarch under authoritarian pressure contrasts with rock’s defiant cry of ‘no permission needed’, making this a story of power lost set against music about reclaiming power."
+    "match_reason": "A treaty that redraws borders fits with an episode about movement, travel, and changing perspectives, highlighting how lines on a map alter journeys and homes."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1816, the Treaty of St. Louis was proclaimed between the United States and the united Ottawa, Ojibwa, and Potawatomi tribes. Signed in the aftermath of the War of 1812, it ceded vast tracts of Indigenous land around the Great Lakes, reshaping maps while deepening the fracture between paper treaties and lived realities.",
-      "fact_year": 1816,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_St._Louis_(1816)",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A treaty that redraws borders fits with an episode about movement, travel, and changing perspectives, highlighting how lines on a map alter journeys and homes."
-    },
     {
       "hour": 6,
       "fact_text": "In 2009, a rupture on China’s Lanzhou–Zhengzhou–Changsha pipeline spilled about 150,000 liters of diesel into the Wei River. The slick drifted downstream toward the Yellow River, turning a vital waterway into an emergency cleanup zone and illustrating how quickly industrial systems can ripple through entire ecosystems.",
@@ -651,9 +627,34 @@
         ]
       },
       "match_reason": "The fall of a monarch under authoritarian pressure contrasts with rock’s defiant cry of ‘no permission needed’, making this a story of power lost set against music about reclaiming power."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1816, the Treaty of St. Louis was proclaimed between the United States and the united Ottawa, Ojibwa, and Potawatomi tribes. Signed in the aftermath of the War of 1812, it ceded vast tracts of Indigenous land around the Great Lakes, reshaping maps while deepening the fracture between paper treaties and lived realities.",
+      "fact_year": 1816,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_St._Louis_(1816)",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A treaty that redraws borders fits with an episode about movement, travel, and changing perspectives, highlighting how lines on a map alter journeys and homes."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T04:00:01.784154+00:00"
+  "updated_at": "2025-12-30T05:00:01.527870+00:00"
 }
