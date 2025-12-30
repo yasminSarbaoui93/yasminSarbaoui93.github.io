@@ -1,58 +1,34 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1890, just days after the Wounded Knee Massacre, Lakota warriors and U.S. Army troops clashed again in the Drexel Mission Fight. The skirmish unfolded in the shadow of a massacre, in a landscape where spiritual survival and resistance were as important as physical defense.",
-    "fact_year": 1890,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
+    "hour": 3,
+    "fact_text": "In 2006, the Indonesian ferry MV Senopati Nusantara sank in a violent storm in the Java Sea, taking at least 400 lives. The tragedy revealed not only the sea’s power but also how everyday journeys can suddenly turn into historic disasters.",
+    "fact_year": 2006,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Senopati_Nusantara",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "An Indigenous resistance battle on the Great Plains resonates with Tuareg music born from desert struggle, exile, and survival; both carry stories of colonization and enduring cultural spirit."
+    "match_reason": "A story of a ferry lost to stormy seas is paired with an episode recorded on a sailing boat; both revolve around life on the water and the fragile line between calm voyages and danger."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 2006, the Indonesian ferry MV Senopati Nusantara sank in a violent storm in the Java Sea, taking at least 400 lives. The tragedy revealed not only the sea’s power but also how everyday journeys can suddenly turn into historic disasters.",
-      "fact_year": 2006,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Senopati_Nusantara",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A story of a ferry lost to stormy seas is paired with an episode recorded on a sailing boat; both revolve around life on the water and the fragile line between calm voyages and danger."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1947, King Michael I of Romania was forced to abdicate under pressure from a Soviet-backed Communist government. With a signature under duress, a centuries-old monarchy vanished almost overnight into the new realities of the Cold War.",
@@ -645,9 +621,37 @@
         ]
       },
       "match_reason": "An Indigenous resistance battle on the Great Plains resonates with Tuareg music born from desert struggle, exile, and survival; both carry stories of colonization and enduring cultural spirit."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 2006, the Indonesian ferry MV Senopati Nusantara sank in a violent storm in the Java Sea, taking at least 400 lives. The tragedy revealed not only the sea’s power but also how everyday journeys can suddenly turn into historic disasters.",
+      "fact_year": 2006,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Senopati_Nusantara",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A story of a ferry lost to stormy seas is paired with an episode recorded on a sailing boat; both revolve around life on the water and the fragile line between calm voyages and danger."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T02:00:01.617914+00:00"
+  "updated_at": "2025-12-30T03:00:01.606744+00:00"
 }
