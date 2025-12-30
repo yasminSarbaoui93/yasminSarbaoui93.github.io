@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1816, the Treaty of St. Louis was proclaimed between the United States and the united Ottawa, Ojibwa, and Potawatomi tribes. Signed in the aftermath of the War of 1812, it ceded vast tracts of Indigenous land around the Great Lakes, reshaping maps while deepening the fracture between paper treaties and lived realities.",
-    "fact_year": 1816,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_St._Louis_(1816)",
+    "hour": 6,
+    "fact_text": "In 2009, a rupture on China’s Lanzhou–Zhengzhou–Changsha pipeline spilled about 150,000 liters of diesel into the Wei River. The slick drifted downstream toward the Yellow River, turning a vital waterway into an emergency cleanup zone and illustrating how quickly industrial systems can ripple through entire ecosystems.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lanzhou%E2%80%93Zhengzhou%E2%80%93Changsha_pipeline",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A treaty that redraws borders fits with an episode about movement, travel, and changing perspectives, highlighting how lines on a map alter journeys and homes."
+    "match_reason": "A pipeline spill is a consequence of our fossil-fuel, tech-dependent world; this episode questions our dependence on modern systems, making the pairing a reflection on hidden costs of infrastructure."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 2009, a rupture on China’s Lanzhou–Zhengzhou–Changsha pipeline spilled about 150,000 liters of diesel into the Wei River. The slick drifted downstream toward the Yellow River, turning a vital waterway into an emergency cleanup zone and illustrating how quickly industrial systems can ripple through entire ecosystems.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lanzhou%E2%80%93Zhengzhou%E2%80%93Changsha_pipeline",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A pipeline spill is a consequence of our fossil-fuel, tech-dependent world; this episode questions our dependence on modern systems, making the pairing a reflection on hidden costs of infrastructure."
-    },
     {
       "hour": 7,
       "fact_text": "The Hurricane Creek mine disaster in 1970, near Hyden, Kentucky, killed 38 coal miners in an explosion linked to poor safety practices. It came just days after a new federal mine safety act, brutally underscoring that laws on paper mean little without enforcement deep underground.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A treaty that redraws borders fits with an episode about movement, travel, and changing perspectives, highlighting how lines on a map alter journeys and homes."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 2009, a rupture on China’s Lanzhou–Zhengzhou–Changsha pipeline spilled about 150,000 liters of diesel into the Wei River. The slick drifted downstream toward the Yellow River, turning a vital waterway into an emergency cleanup zone and illustrating how quickly industrial systems can ripple through entire ecosystems.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lanzhou%E2%80%93Zhengzhou%E2%80%93Changsha_pipeline",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A pipeline spill is a consequence of our fossil-fuel, tech-dependent world; this episode questions our dependence on modern systems, making the pairing a reflection on hidden costs of infrastructure."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T05:00:01.527870+00:00"
+  "updated_at": "2025-12-30T06:00:01.100260+00:00"
 }
