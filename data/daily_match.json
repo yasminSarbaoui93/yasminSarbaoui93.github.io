@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1902, during the Discovery Expedition, Robert Falcon Scott and his team pushed into the unknown Antarctic interior to reach a new 'Farthest South' at 82°17′S. Their sledging journey combined polar endurance with science, mapping an alien-white world that no human had seen before.",
-    "fact_year": 1902,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Discovery_Expedition",
+    "hour": 1,
+    "fact_text": "On the very edge of the calendar year in 2005, Tropical Storm Zeta spun to life in the open Atlantic. Forming so late that it tied the record for the latest North Atlantic tropical cyclone, it showed that ocean and atmosphere don’t pay much attention to human ideas of 'storm season.'",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Polar exploration in Antarctica pairs with an episode about Arctic seas and whales; both evoke cold frontiers, vast water, and quiet, awe-filled encounters with Earth's extremes."
+    "match_reason": "A sudden late-season storm mirrors the episode’s 'electric shock' jolt—both are bursts of raw atmospheric energy arriving when you least expect them."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On the very edge of the calendar year in 2005, Tropical Storm Zeta spun to life in the open Atlantic. Forming so late that it tied the record for the latest North Atlantic tropical cyclone, it showed that ocean and atmosphere don’t pay much attention to human ideas of 'storm season.'",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden late-season storm mirrors the episode’s 'electric shock' jolt—both are bursts of raw atmospheric energy arriving when you least expect them."
-    },
     {
       "hour": 2,
       "fact_text": "In 1890, just days after the Wounded Knee Massacre, Lakota warriors and U.S. Army troops clashed again in the Drexel Mission Fight. The skirmish unfolded in the shadow of a massacre, in a landscape where spiritual survival and resistance were as important as physical defense.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "Polar exploration in Antarctica pairs with an episode about Arctic seas and whales; both evoke cold frontiers, vast water, and quiet, awe-filled encounters with Earth's extremes."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On the very edge of the calendar year in 2005, Tropical Storm Zeta spun to life in the open Atlantic. Forming so late that it tied the record for the latest North Atlantic tropical cyclone, it showed that ocean and atmosphere don’t pay much attention to human ideas of 'storm season.'",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden late-season storm mirrors the episode’s 'electric shock' jolt—both are bursts of raw atmospheric energy arriving when you least expect them."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T00:00:49.802562+00:00"
+  "updated_at": "2025-12-30T01:00:01.353159+00:00"
 }
