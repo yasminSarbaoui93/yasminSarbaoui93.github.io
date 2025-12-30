@@ -1,55 +1,30 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On the very last days of 2005, Tropical Storm Zeta spun to life in the open Atlantic, tying the record for the latest-forming tropical cyclone in the North Atlantic. It defied the usual hurricane season boundaries and lingered into the new year, a reminder that Earth’s atmosphere doesn’t always follow our calendars.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+    "hour": 2,
+    "fact_text": "In 1890, just days after the Wounded Knee Massacre, Lakota warriors confronted the U.S. Army again in the Drexel Mission Fight. It was a brief but fierce clash near a Catholic mission, symbolizing the desperate final resistance of a people under violent pressure and the collision of Indigenous, military, and religious worlds.",
+    "fact_year": 1890,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A late-season tropical storm is like an unexpected electrical surge in the atmosphere, fitting the episode’s high-energy, stormy, guitar-driven ‘electric shock’ mood."
+    "match_reason": "The Lakota struggle and Tuareg music both speak of Indigenous resistance, dispossession, and survival on vast lands, echoing the same spirit of memory and endurance."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1890, just days after the Wounded Knee Massacre, Lakota warriors confronted the U.S. Army again in the Drexel Mission Fight. It was a brief but fierce clash near a Catholic mission, symbolizing the desperate final resistance of a people under violent pressure and the collision of Indigenous, military, and religious worlds.",
-      "fact_year": 1890,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The Lakota struggle and Tuareg music both speak of Indigenous resistance, dispossession, and survival on vast lands, echoing the same spirit of memory and endurance."
-    },
     {
       "hour": 3,
       "fact_text": "In 2006, the Indonesian ferry MV Senopati Nusantara sank during a violent storm in the Java Sea, taking at least 400 lives. Overloaded decks, rough monsoon seas, and aging infrastructure converged into a maritime disaster that exposed the human cost of everyday travel in archipelagic nations.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "A late-season tropical storm is like an unexpected electrical surge in the atmosphere, fitting the episode’s high-energy, stormy, guitar-driven ‘electric shock’ mood."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1890, just days after the Wounded Knee Massacre, Lakota warriors confronted the U.S. Army again in the Drexel Mission Fight. It was a brief but fierce clash near a Catholic mission, symbolizing the desperate final resistance of a people under violent pressure and the collision of Indigenous, military, and religious worlds.",
+      "fact_year": 1890,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The Lakota struggle and Tuareg music both speak of Indigenous resistance, dispossession, and survival on vast lands, echoing the same spirit of memory and endurance."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T01:00:01.227091+00:00"
+  "updated_at": "2025-12-30T02:00:01.162992+00:00"
 }
