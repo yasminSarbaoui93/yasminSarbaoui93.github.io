@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1066, a mob in Granada stormed the royal palace, crucified the Jewish vizier Joseph ibn Naghrela, and massacred much of the city’s Jewish community. This eruption of violence in a culturally rich, multi-religious city shows how quickly a cosmopolitan center can turn into a site of persecution.",
-    "fact_year": 1066,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1066_Granada_massacre",
+    "hour": 10,
+    "fact_text": "In 1916, Charles IV and Zita were crowned in Budapest in what became the final coronation of a Hungarian monarch. The ceremony, steeped in medieval ritual with sacred crown and oaths, unfolded even as the First World War was quietly eroding the empire beneath their feet.",
+    "fact_year": 1916,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "The massacre unfolded in medieval Andalusia, the same soil that later birthed flamenco; this episode’s deep dive into Andalusian music offers a cultural counterpoint to a grim moment in the region’s past."
+    "match_reason": "A slow, ceremonious jazz selection mirrors the ritual pace and layered formality of a royal coronation, contrasting its calm beauty with the empire’s fragile reality."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1916, Charles IV and Zita were crowned in Budapest in what became the final coronation of a Hungarian monarch. The ceremony, steeped in medieval ritual with sacred crown and oaths, unfolded even as the First World War was quietly eroding the empire beneath their feet.",
-      "fact_year": 1916,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A slow, ceremonious jazz selection mirrors the ritual pace and layered formality of a royal coronation, contrasting its calm beauty with the empire’s fragile reality."
-    },
     {
       "hour": 11,
       "fact_text": "The Gadsden Purchase, agreed in 1853, saw the United States buy a strip of land from Mexico to ease the construction of a southern transcontinental railroad. That seemingly narrow band of desert reshaped borders in the Southwest and helped define the future routes of steel, trade, and migration.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "The massacre unfolded in medieval Andalusia, the same soil that later birthed flamenco; this episode’s deep dive into Andalusian music offers a cultural counterpoint to a grim moment in the region’s past."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1916, Charles IV and Zita were crowned in Budapest in what became the final coronation of a Hungarian monarch. The ceremony, steeped in medieval ritual with sacred crown and oaths, unfolded even as the First World War was quietly eroding the empire beneath their feet.",
+      "fact_year": 1916,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A slow, ceremonious jazz selection mirrors the ritual pace and layered formality of a royal coronation, contrasting its calm beauty with the empire’s fragile reality."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T09:00:01.589948+00:00"
+  "updated_at": "2025-12-30T10:00:01.301636+00:00"
 }
