@@ -1,54 +1,29 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "In 2006, Tropical Storm Zeta lingered into the new year and became one of the longest-lasting January storms on record, stubbornly spinning in the Atlantic for days. It was a reminder that nature doesn’t reset its clock neatly when our calendar flips.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+    "hour": 21,
+    "fact_text": "As the USSR arose in 1922, its new government poured resources into science and technology, ultimately propelling the first satellite and the first human into space. A political union birthed a cosmic one, connecting human history to orbital pathways.",
+    "fact_year": 1922,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
+        "Indie Rock",
         "Electronic",
-        "Chillout"
+        "Garage Rock"
       ]
     },
-    "match_reason": "A storm that refuses to be rushed off the calendar meets an episode about slowing down the planet; both subvert our expectations of time and season, stretching out the moment."
+    "match_reason": "The state that would launch Sputnik and Gagarin fits naturally with an episode about rethinking 'space'; both encourage looking at the void—outer or inner—as potential for creation."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "As the USSR arose in 1922, its new government poured resources into science and technology, ultimately propelling the first satellite and the first human into space. A political union birthed a cosmic one, connecting human history to orbital pathways.",
-      "fact_year": 1922,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "The state that would launch Sputnik and Gagarin fits naturally with an episode about rethinking 'space'; both encourage looking at the void—outer or inner—as potential for creation."
-    },
     {
       "hour": 22,
       "fact_text": "Romania’s forced royal abdication in 1947 symbolized the early tightening of the Iron Curtain across Eastern Europe. A single monarch’s departure marked a broader shift toward secret police, surveillance, and life under a very different kind of scrutiny.",
@@ -646,9 +621,32 @@
         ]
       },
       "match_reason": "A storm that refuses to be rushed off the calendar meets an episode about slowing down the planet; both subvert our expectations of time and season, stretching out the moment."
+    },
+    {
+      "hour": 21,
+      "fact_text": "As the USSR arose in 1922, its new government poured resources into science and technology, ultimately propelling the first satellite and the first human into space. A political union birthed a cosmic one, connecting human history to orbital pathways.",
+      "fact_year": 1922,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_Union_of_Soviet_Socialist_Republics",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "The state that would launch Sputnik and Gagarin fits naturally with an episode about rethinking 'space'; both encourage looking at the void—outer or inner—as potential for creation."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T20:00:01.413649+00:00"
+  "updated_at": "2025-12-30T21:00:01.250185+00:00"
 }
