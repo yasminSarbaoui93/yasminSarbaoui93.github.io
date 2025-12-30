@@ -1,56 +1,36 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "Romania’s forced royal abdication in 1947 symbolized the early tightening of the Iron Curtain across Eastern Europe. A single monarch’s departure marked a broader shift toward secret police, surveillance, and life under a very different kind of scrutiny.",
-    "fact_year": 1947,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
+    "hour": 23,
+    "fact_text": "Even as frontier treaties were signed and empires rose, many of the world’s great rivers—from the Yellow to the Mississippi—were quietly carrying silt, nutrients, and stories toward the sea. Every flood and meander has been a silent editor of human geography.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_River",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "song 1"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "genre 1"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The abrupt replacement of an old order with a rigid new system is contrasted with an episode celebrating imperfection and softness; against harsh historical control, Wabi-Sabi offers a gentler philosophy of change."
+    "match_reason": "A meditation on great rivers and their long journeys to the sea flows naturally into an 'Evening Flow' that drifts from medina alleys to sub-Saharan grooves; both are about currents that start quietly and end in joyful motion."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Even as frontier treaties were signed and empires rose, many of the world’s great rivers—from the Yellow to the Mississippi—were quietly carrying silt, nutrients, and stories toward the sea. Every flood and meander has been a silent editor of human geography.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_River",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A meditation on great rivers and their long journeys to the sea flows naturally into an 'Evening Flow' that drifts from medina alleys to sub-Saharan grooves; both are about currents that start quietly and end in joyful motion."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -640,9 +620,39 @@
         ]
       },
       "match_reason": "The abrupt replacement of an old order with a rigid new system is contrasted with an episode celebrating imperfection and softness; against harsh historical control, Wabi-Sabi offers a gentler philosophy of change."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Even as frontier treaties were signed and empires rose, many of the world’s great rivers—from the Yellow to the Mississippi—were quietly carrying silt, nutrients, and stories toward the sea. Every flood and meander has been a silent editor of human geography.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_River",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A meditation on great rivers and their long journeys to the sea flows naturally into an 'Evening Flow' that drifts from medina alleys to sub-Saharan grooves; both are about currents that start quietly and end in joyful motion."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.021960+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T22:00:01.181644+00:00"
+  "updated_at": "2025-12-30T23:00:01.431506+00:00"
 }
