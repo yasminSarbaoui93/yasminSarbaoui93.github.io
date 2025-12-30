@@ -1,58 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 2006, the Indonesian ferry MV Senopati Nusantara sank during a violent storm in the Java Sea, taking at least 400 lives. Overloaded decks, rough monsoon seas, and aging infrastructure converged into a maritime disaster that exposed the human cost of everyday travel in archipelagic nations.",
-    "fact_year": 2006,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Senopati_Nusantara",
+    "hour": 4,
+    "fact_text": "On December 30, 1947, King Michael I of Romania was forced to abdicate under Soviet-backed pressure, marking the abrupt end of the Romanian monarchy. The young king signed away his crown at gunpoint, and the country shifted overnight into a people’s republic, closing a centuries-long chapter of royal rule.",
+    "fact_year": 1947,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_I_of_Romania",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A ferry tragedy at sea contrasts starkly with a gentle sailing trip; pairing them invites reflection on the sea’s beauty and its dangers, with ocean-themed tracks as a bittersweet backdrop."
+    "match_reason": "The fall of a monarch under authoritarian pressure contrasts with rock’s defiant cry of ‘no permission needed’, making this a story of power lost set against music about reclaiming power."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On December 30, 1947, King Michael I of Romania was forced to abdicate under Soviet-backed pressure, marking the abrupt end of the Romanian monarchy. The young king signed away his crown at gunpoint, and the country shifted overnight into a people’s republic, closing a centuries-long chapter of royal rule.",
-      "fact_year": 1947,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_I_of_Romania",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "The fall of a monarch under authoritarian pressure contrasts with rock’s defiant cry of ‘no permission needed’, making this a story of power lost set against music about reclaiming power."
-    },
     {
       "hour": 5,
       "fact_text": "In 1816, the Treaty of St. Louis was proclaimed between the United States and the united Ottawa, Ojibwa, and Potawatomi tribes. Signed in the aftermath of the War of 1812, it ceded vast tracts of Indigenous land around the Great Lakes, reshaping maps while deepening the fracture between paper treaties and lived realities.",
@@ -655,9 +627,33 @@
         ]
       },
       "match_reason": "A ferry tragedy at sea contrasts starkly with a gentle sailing trip; pairing them invites reflection on the sea’s beauty and its dangers, with ocean-themed tracks as a bittersweet backdrop."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On December 30, 1947, King Michael I of Romania was forced to abdicate under Soviet-backed pressure, marking the abrupt end of the Romanian monarchy. The young king signed away his crown at gunpoint, and the country shifted overnight into a people’s republic, closing a centuries-long chapter of royal rule.",
+      "fact_year": 1947,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Michael_I_of_Romania",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "The fall of a monarch under authoritarian pressure contrasts with rock’s defiant cry of ‘no permission needed’, making this a story of power lost set against music about reclaiming power."
     }
   ],
   "generated_at": "2025-12-30T00:00:00.009149+00:00",
   "date": "2025-12-30",
-  "updated_at": "2025-12-30T03:00:01.406988+00:00"
+  "updated_at": "2025-12-30T04:00:01.784154+00:00"
 }
