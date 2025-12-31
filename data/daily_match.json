@@ -1,52 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On the last day of 1983, Benjamin Ward was appointed New York City’s first Black police commissioner. Rising from a childhood in Brooklyn public housing to lead the NYPD, his appointment quietly rewrote who could be seen as the public face of authority in America’s largest city.",
-    "fact_year": 1983,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
+    "hour": 12,
+    "fact_text": "On December 31, 1981, a coup in Ghana swept away President Hilla Limann’s civilian government and installed the Provisional National Defence Council, led by Air Force officer Jerry Rawlings. It was Rawlings’s second seizure of power, and it pulled the country back into revolutionary rhetoric and military rule.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "Breaking racial barriers at the top of the NYPD fits an episode dedicated to dismantling labels and challenging expectations about identity."
+    "match_reason": "A Ghanaian coup and debates over power fit with an Afrobeat-focused episode steeped in West African music that has long critiqued politics and authority."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On December 31, 1981, a coup in Ghana swept away President Hilla Limann’s civilian government and installed the Provisional National Defence Council, led by Air Force officer Jerry Rawlings. It was Rawlings’s second seizure of power, and it pulled the country back into revolutionary rhetoric and military rule.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A Ghanaian coup and debates over power fit with an Afrobeat-focused episode steeped in West African music that has long critiqued politics and authority."
-    },
     {
       "hour": 13,
       "fact_text": "On New Year’s Eve 1853, Victorian scientists and dignitaries held a dinner party inside a life-size model of the dinosaur Iguanodon in south London. Guests sat around a table where the dinosaur’s belly would have been, toasting inside a creature they had only just begun to understand.",
@@ -630,9 +608,33 @@
         ]
       },
       "match_reason": "Breaking racial barriers at the top of the NYPD fits an episode dedicated to dismantling labels and challenging expectations about identity."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On December 31, 1981, a coup in Ghana swept away President Hilla Limann’s civilian government and installed the Provisional National Defence Council, led by Air Force officer Jerry Rawlings. It was Rawlings’s second seizure of power, and it pulled the country back into revolutionary rhetoric and military rule.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A Ghanaian coup and debates over power fit with an Afrobeat-focused episode steeped in West African music that has long critiqued politics and authority."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T11:00:01.408342+00:00"
+  "updated_at": "2025-12-31T12:00:01.205074+00:00"
 }
