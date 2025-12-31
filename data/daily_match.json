@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On December 31, 1992, Czechoslovakia dissolved without a shot fired, splitting into the Czech Republic and Slovakia in what became known as the Velvet Divorce. It was a rare example of a multinational state gently agreeing to become two, more clearly defined homes.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dissolution_of_Czechoslovakia",
+    "hour": 15,
+    "fact_text": "On the last day of 1968, the Soviet-built Tupolev Tu-144 took its first flight, beating Concorde to become the world’s first civilian supersonic airliner. For a brief moment, it turned the idea of crossing continents faster than sound from science fiction into scheduled service.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A peaceful separation into two nations connects with an episode sailing between different homelands, asking what it means to belong to more than one place."
+    "match_reason": "A supersonic jet and an 80s club both celebrate machines that changed how fast we move—through air and across dance floors—with futuristic glamour."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On the last day of 1968, the Soviet-built Tupolev Tu-144 took its first flight, beating Concorde to become the world’s first civilian supersonic airliner. For a brief moment, it turned the idea of crossing continents faster than sound from science fiction into scheduled service.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A supersonic jet and an 80s club both celebrate machines that changed how fast we move—through air and across dance floors—with futuristic glamour."
-    },
     {
       "hour": 16,
       "fact_text": "In 1670, after secretly probing Spanish defenses along the Chilean coast, the English expedition led by John Narborough slipped out of Corral Bay on December 31. Four of his men, sent ashore under a flag of truce, were seized and never returned, vanishing into the machinery of colonial rivalries.",
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "A peaceful separation into two nations connects with an episode sailing between different homelands, asking what it means to belong to more than one place."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On the last day of 1968, the Soviet-built Tupolev Tu-144 took its first flight, beating Concorde to become the world’s first civilian supersonic airliner. For a brief moment, it turned the idea of crossing continents faster than sound from science fiction into scheduled service.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A supersonic jet and an 80s club both celebrate machines that changed how fast we move—through air and across dance floors—with futuristic glamour."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T14:00:01.453077+00:00"
+  "updated_at": "2025-12-31T15:00:01.677545+00:00"
 }
