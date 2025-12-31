@@ -1,59 +1,29 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On 31 December 2009, a partial lunar eclipse coincided with a blue moon, turning a routine year’s end into a layered astronomical event. While the eclipse itself was subtle to the naked eye, its timing made it a favorite for skywatchers marking the decade’s close with telescopes and cameras.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/December_2009_lunar_eclipse",
+    "hour": 21,
+    "fact_text": "On 31 December 1961, RTÉ Television began broadcasting in Ireland, transforming how Irish people experienced New Year’s celebrations and national rituals. For the first time, many households could watch countdowns, concerts, and messages from leaders in real time from their own living rooms.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_in_the_Republic_of_Ireland",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 15,
+      "title": "Morning Drops #09 - Birthday Cake",
+      "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Artist Name - Song Title",
+        "Artist Name - Song Title",
+        "Artist Name - Song Title",
+        "Artist Name - Song Title"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Eclectic",
+        "Celebratory"
       ]
     },
-    "match_reason": "An evening sky event that slowly deepens in mood pairs well with an \"Evening Flows\" set that starts mysterious and crescendos into dance under the same moon."
+    "match_reason": "The arrival of national TV turning New Year’s into a shared televised party pairs with a celebratory, birthday‑themed episode all about collective festivities."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On 31 December 1961, RTÉ Television began broadcasting in Ireland, transforming how Irish people experienced New Year’s celebrations and national rituals. For the first time, many households could watch countdowns, concerts, and messages from leaders in real time from their own living rooms.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_in_the_Republic_of_Ireland",
-      "episode": {
-        "id": 15,
-        "title": "Morning Drops #09 - Birthday Cake",
-        "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
-        "songs": [
-          "Artist Name - Song Title",
-          "Artist Name - Song Title",
-          "Artist Name - Song Title",
-          "Artist Name - Song Title"
-        ],
-        "music-genres": [
-          "Eclectic",
-          "Celebratory"
-        ]
-      },
-      "match_reason": "The arrival of national TV turning New Year’s into a shared televised party pairs with a celebratory, birthday‑themed episode all about collective festivities."
-    },
     {
       "hour": 22,
       "fact_text": "On 31 December 2011, when GRAIL’s first spacecraft slipped into lunar orbit, mission planners were already preparing its twin for a follow‑up insertion the next day. The paired orbits allowed scientists to measure minuscule gravity differences, revealing hidden structures like buried impact basins and magma intrusions beneath the Moon’s surface.",
@@ -643,9 +613,32 @@
         ]
       },
       "match_reason": "An evening sky event that slowly deepens in mood pairs well with an \"Evening Flows\" set that starts mysterious and crescendos into dance under the same moon."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On 31 December 1961, RTÉ Television began broadcasting in Ireland, transforming how Irish people experienced New Year’s celebrations and national rituals. For the first time, many households could watch countdowns, concerts, and messages from leaders in real time from their own living rooms.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_in_the_Republic_of_Ireland",
+      "episode": {
+        "id": 15,
+        "title": "Morning Drops #09 - Birthday Cake",
+        "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
+        "songs": [
+          "Artist Name - Song Title",
+          "Artist Name - Song Title",
+          "Artist Name - Song Title",
+          "Artist Name - Song Title"
+        ],
+        "music-genres": [
+          "Eclectic",
+          "Celebratory"
+        ]
+      },
+      "match_reason": "The arrival of national TV turning New Year’s into a shared televised party pairs with a celebratory, birthday‑themed episode all about collective festivities."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T20:00:01.297978+00:00"
+  "updated_at": "2025-12-31T21:00:01.420668+00:00"
 }
