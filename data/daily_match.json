@@ -1,54 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 31 December 1225, the centuries‑old Lý dynasty of Vietnam came to an end when the young Trần Thái Tông, husband of the last Lý ruler, was placed on the throne. The transfer of power marked the start of the Trần dynasty, which would later repel Mongol invasions and become known for both military strength and Buddhist scholarship.",
-    "fact_year": 1225,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%BD_dynasty",
+    "hour": 10,
+    "fact_text": "On 31 December 2010, an outbreak of 36 tornadoes tore through parts of the Midwestern and Southern United States, including areas of Arkansas, Missouri, Illinois, and Oklahoma. The New Year’s Eve storms killed nine people and caused over $113 million in damage, a stark reminder of nature’s disruptive power on a night usually reserved for celebration.",
+    "fact_year": 2010,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "A dynastic shift steeped in court intrigue and future resistance echoes an episode about a people whose music carries memory, authority, and stories of survival against empires."
+    "match_reason": "An intense storm system disrupting New Year’s Eve is balanced by a dub-and-reggae episode about weathering chaos with slow, grounding rhythms and nature around you."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 31 December 2010, an outbreak of 36 tornadoes tore through parts of the Midwestern and Southern United States, including areas of Arkansas, Missouri, Illinois, and Oklahoma. The New Year’s Eve storms killed nine people and caused over $113 million in damage, a stark reminder of nature’s disruptive power on a night usually reserved for celebration.",
-      "fact_year": 2010,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "An intense storm system disrupting New Year’s Eve is balanced by a dub-and-reggae episode about weathering chaos with slow, grounding rhythms and nature around you."
-    },
     {
       "hour": 11,
       "fact_text": "On 31 December 1983, Benjamin Ward was appointed New York City’s first African American police commissioner. Rising from a childhood in Brooklyn public housing to lead the nation’s largest police force, his appointment symbolized both progress and the ongoing tension between communities and law enforcement.",
@@ -637,9 +613,33 @@
         ]
       },
       "match_reason": "A dynastic shift steeped in court intrigue and future resistance echoes an episode about a people whose music carries memory, authority, and stories of survival against empires."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 31 December 2010, an outbreak of 36 tornadoes tore through parts of the Midwestern and Southern United States, including areas of Arkansas, Missouri, Illinois, and Oklahoma. The New Year’s Eve storms killed nine people and caused over $113 million in damage, a stark reminder of nature’s disruptive power on a night usually reserved for celebration.",
+      "fact_year": 2010,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "An intense storm system disrupting New Year’s Eve is balanced by a dub-and-reggae episode about weathering chaos with slow, grounding rhythms and nature around you."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T09:00:01.289720+00:00"
+  "updated_at": "2025-12-31T10:00:01.625560+00:00"
 }
