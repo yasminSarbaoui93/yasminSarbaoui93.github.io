@@ -1,59 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On the final day of 1942, the USS Essex was commissioned as the lead ship of a new class of aircraft carriers that would dominate the Pacific. These floating airfields turned the open ocean into a launchpad, extending a nation’s reach thousands of kilometers beyond its shores.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Essex_(CV-9)",
+    "hour": 7,
+    "fact_text": "New Year’s Eve 1956 brought Romanians their first television broadcast from Bucharest, a flickering monochrome window on a world still tightly controlled by the state. For viewers gathered around communal sets, it was the birth of a medium that would both mirror and subtly challenge their reality.",
+    "fact_year": 1956,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "The commissioning of a mighty carrier fits an episode literally recorded at sea, both anchored in life aboard ships and journeys across water."
+    "match_reason": "A city’s story told through its first TV station pairs with an episode that tells another city’s story through its bands and sounds."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "New Year’s Eve 1956 brought Romanians their first television broadcast from Bucharest, a flickering monochrome window on a world still tightly controlled by the state. For viewers gathered around communal sets, it was the birth of a medium that would both mirror and subtly challenge their reality.",
-      "fact_year": 1956,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A city’s story told through its first TV station pairs with an episode that tells another city’s story through its bands and sounds."
-    },
     {
       "hour": 8,
       "fact_text": "On December 31, 1951, the Marshall Plan officially ended after pouring over US$13.3 billion into war-scarred Western Europe. Beyond rebuilding bridges and factories, it rewired economies and alliances, laying foundations for the European Union and a new global order.",
@@ -636,9 +608,34 @@
         ]
       },
       "match_reason": "The commissioning of a mighty carrier fits an episode literally recorded at sea, both anchored in life aboard ships and journeys across water."
+    },
+    {
+      "hour": 7,
+      "fact_text": "New Year’s Eve 1956 brought Romanians their first television broadcast from Bucharest, a flickering monochrome window on a world still tightly controlled by the state. For viewers gathered around communal sets, it was the birth of a medium that would both mirror and subtly challenge their reality.",
+      "fact_year": 1956,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A city’s story told through its first TV station pairs with an episode that tells another city’s story through its bands and sounds."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T06:00:01.674010+00:00"
+  "updated_at": "2025-12-31T07:00:01.219918+00:00"
 }
