@@ -1,54 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On 31 December 1951, the Marshall Plan officially expired after distributing more than US$13.3 billion to help rebuild Western Europe after World War II. Beyond infrastructure and industry, the aid program rewired political alliances and laid economic foundations for what would become the European Union.",
-    "fact_year": 1951,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan",
+    "hour": 9,
+    "fact_text": "On 31 December 1225, the centuries‑old Lý dynasty of Vietnam came to an end when the young Trần Thái Tông, husband of the last Lý ruler, was placed on the throne. The transfer of power marked the start of the Trần dynasty, which would later repel Mongol invasions and become known for both military strength and Buddhist scholarship.",
+    "fact_year": 1225,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%BD_dynasty",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A massive postwar reconstruction project that reshaped geopolitics parallels the rise of Afrobeat as a postcolonial cultural force; both are about rebuilding and redefining futures."
+    "match_reason": "A dynastic shift steeped in court intrigue and future resistance echoes an episode about a people whose music carries memory, authority, and stories of survival against empires."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On 31 December 1225, the centuries‑old Lý dynasty of Vietnam came to an end when the young Trần Thái Tông, husband of the last Lý ruler, was placed on the throne. The transfer of power marked the start of the Trần dynasty, which would later repel Mongol invasions and become known for both military strength and Buddhist scholarship.",
-      "fact_year": 1225,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%BD_dynasty",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A dynastic shift steeped in court intrigue and future resistance echoes an episode about a people whose music carries memory, authority, and stories of survival against empires."
-    },
     {
       "hour": 10,
       "fact_text": "On 31 December 2010, an outbreak of 36 tornadoes tore through parts of the Midwestern and Southern United States, including areas of Arkansas, Missouri, Illinois, and Oklahoma. The New Year’s Eve storms killed nine people and caused over $113 million in damage, a stark reminder of nature’s disruptive power on a night usually reserved for celebration.",
@@ -637,9 +613,33 @@
         ]
       },
       "match_reason": "A massive postwar reconstruction project that reshaped geopolitics parallels the rise of Afrobeat as a postcolonial cultural force; both are about rebuilding and redefining futures."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On 31 December 1225, the centuries‑old Lý dynasty of Vietnam came to an end when the young Trần Thái Tông, husband of the last Lý ruler, was placed on the throne. The transfer of power marked the start of the Trần dynasty, which would later repel Mongol invasions and become known for both military strength and Buddhist scholarship.",
+      "fact_year": 1225,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%BD_dynasty",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A dynastic shift steeped in court intrigue and future resistance echoes an episode about a people whose music carries memory, authority, and stories of survival against empires."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T08:00:01.329143+00:00"
+  "updated_at": "2025-12-31T09:00:01.289720+00:00"
 }
