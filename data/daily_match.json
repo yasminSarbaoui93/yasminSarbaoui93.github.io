@@ -1,53 +1,28 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On December 31, 2010, a swarm of 36 tornadoes tore across parts of the Midwest and southern United States, some spinning up in the early hours of the New Year. The outbreak killed nine people and caused over US$113 million in damage, a reminder that the atmosphere doesn’t pause for holidays.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
+    "hour": 11,
+    "fact_text": "On the last day of 1983, Benjamin Ward was appointed New York City’s first Black police commissioner. Rising from a childhood in Brooklyn public housing to lead the NYPD, his appointment quietly rewrote who could be seen as the public face of authority in America’s largest city.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "The raw, swirling power of a tornado outbreak echoes the physical intensity and controlled chaos of fight training on a tropical island."
+    "match_reason": "Breaking racial barriers at the top of the NYPD fits an episode dedicated to dismantling labels and challenging expectations about identity."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On the last day of 1983, Benjamin Ward was appointed New York City’s first Black police commissioner. Rising from a childhood in Brooklyn public housing to lead the NYPD, his appointment quietly rewrote who could be seen as the public face of authority in America’s largest city.",
-      "fact_year": 1983,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "Breaking racial barriers at the top of the NYPD fits an episode dedicated to dismantling labels and challenging expectations about identity."
-    },
     {
       "hour": 12,
       "fact_text": "On December 31, 1981, a coup in Ghana swept away President Hilla Limann’s civilian government and installed the Provisional National Defence Council, led by Air Force officer Jerry Rawlings. It was Rawlings’s second seizure of power, and it pulled the country back into revolutionary rhetoric and military rule.",
@@ -633,9 +608,31 @@
         ]
       },
       "match_reason": "The raw, swirling power of a tornado outbreak echoes the physical intensity and controlled chaos of fight training on a tropical island."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On the last day of 1983, Benjamin Ward was appointed New York City’s first Black police commissioner. Rising from a childhood in Brooklyn public housing to lead the NYPD, his appointment quietly rewrote who could be seen as the public face of authority in America’s largest city.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "Breaking racial barriers at the top of the NYPD fits an episode dedicated to dismantling labels and challenging expectations about identity."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T10:00:01.483699+00:00"
+  "updated_at": "2025-12-31T11:00:01.408342+00:00"
 }
