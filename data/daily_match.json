@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On the last day of 1968, the Soviet-built Tupolev Tu-144 took its first flight, beating Concorde to become the world’s first civilian supersonic airliner. For a brief moment, it turned the idea of crossing continents faster than sound from science fiction into scheduled service.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+    "hour": 16,
+    "fact_text": "In 1670, after secretly probing Spanish defenses along the Chilean coast, the English expedition led by John Narborough slipped out of Corral Bay on December 31. Four of his men, sent ashore under a flag of truce, were seized and never returned, vanishing into the machinery of colonial rivalries.",
+    "fact_year": 1670,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A supersonic jet and an 80s club both celebrate machines that changed how fast we move—through air and across dance floors—with futuristic glamour."
+    "match_reason": "A risky sea expedition, shifting borders, and hostage-taking mirror an episode about overland journeys, uncertain frontiers, and the stories travel leaves behind."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1670, after secretly probing Spanish defenses along the Chilean coast, the English expedition led by John Narborough slipped out of Corral Bay on December 31. Four of his men, sent ashore under a flag of truce, were seized and never returned, vanishing into the machinery of colonial rivalries.",
-      "fact_year": 1670,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A risky sea expedition, shifting borders, and hostage-taking mirror an episode about overland journeys, uncertain frontiers, and the stories travel leaves behind."
-    },
     {
       "hour": 17,
       "fact_text": "On December 31, 406, waves of Vandals, Alans, and Suebi tribes crossed a frozen Rhine, surging into Roman Gaul. The river that had long been a frontier turned, for one winter night, into a solid bridge that accelerated the unraveling of the Western Roman Empire.",
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "A supersonic jet and an 80s club both celebrate machines that changed how fast we move—through air and across dance floors—with futuristic glamour."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1670, after secretly probing Spanish defenses along the Chilean coast, the English expedition led by John Narborough slipped out of Corral Bay on December 31. Four of his men, sent ashore under a flag of truce, were seized and never returned, vanishing into the machinery of colonial rivalries.",
+      "fact_year": 1670,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A risky sea expedition, shifting borders, and hostage-taking mirror an episode about overland journeys, uncertain frontiers, and the stories travel leaves behind."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T15:00:01.677545+00:00"
+  "updated_at": "2025-12-31T16:00:01.289715+00:00"
 }
