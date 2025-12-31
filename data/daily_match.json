@@ -1,66 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 31 December 2011, when GRAIL’s first spacecraft slipped into lunar orbit, mission planners were already preparing its twin for a follow‑up insertion the next day. The paired orbits allowed scientists to measure minuscule gravity differences, revealing hidden structures like buried impact basins and magma intrusions beneath the Moon’s surface.",
+    "hour": 23,
+    "fact_text": "On 31 December 2011, as people on Earth prepared for New Year’s fireworks, GRAIL’s first probe quietly slipped behind the Moon’s limb, its radio link measuring gravity shifts no human could feel. The mission turned the Moon from a familiar face in the sky into a detailed gravitational map, showing that even well‑known worlds still have deeply hidden stories.",
     "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Satellite",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Twin spacecraft mapping a celestial body during a delicate orbital dance aligns with a \"Destination\"-themed voyage through spacey, exploratory soundscapes."
+    "match_reason": "A silent robotic satellite circling the Moon while we stare at our screens echoes an episode questioning our relationship with invisible technologies orbiting our lives."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 31 December 2011, as people on Earth prepared for New Year’s fireworks, GRAIL’s first probe quietly slipped behind the Moon’s limb, its radio link measuring gravity shifts no human could feel. The mission turned the Moon from a familiar face in the sky into a detailed gravitational map, showing that even well‑known worlds still have deeply hidden stories.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Satellite",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A silent robotic satellite circling the Moon while we stare at our screens echoes an episode questioning our relationship with invisible technologies orbiting our lives."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -647,9 +612,34 @@
         ]
       },
       "match_reason": "Twin spacecraft mapping a celestial body during a delicate orbital dance aligns with a \"Destination\"-themed voyage through spacey, exploratory soundscapes."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 31 December 2011, as people on Earth prepared for New Year’s fireworks, GRAIL’s first probe quietly slipped behind the Moon’s limb, its radio link measuring gravity shifts no human could feel. The mission turned the Moon from a familiar face in the sky into a detailed gravitational map, showing that even well‑known worlds still have deeply hidden stories.",
+      "fact_year": 2011,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Satellite",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A silent robotic satellite circling the Moon while we stare at our screens echoes an episode questioning our relationship with invisible technologies orbiting our lives."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T22:00:01.379547+00:00"
+  "updated_at": "2025-12-31T23:00:01.269389+00:00"
 }
