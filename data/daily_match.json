@@ -1,58 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 31 December 1670, the English expedition led by John Narborough departed Chile’s Corral Bay after charting parts of the southern coast and clashing diplomatically with Spanish authorities. Four of his men were seized and never returned, a stark reminder that early scientific voyages of \"discovery\" were also entangled with imperial rivalry and human loss.",
-    "fact_year": 1670,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
+    "hour": 17,
+    "fact_text": "On 31 December 406, groups of Vandals, Alans, and Suebians famously crossed the frozen Rhine River into Roman Gaul. The crossing overwhelmed local defenses and opened a path for migrating and raiding peoples, accelerating the unraveling of imperial authority in Western Europe.",
+    "fact_year": 406,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vandals",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "A 17th‑century naval expedition navigating treacherous coasts pairs naturally with a modern sailing‑boat episode, both built around life at sea and the stories it carries."
+    "match_reason": "A mass crossing that transformed the map of Europe parallels an episode about long‑term transformation and evolution, trading imperial \"order\" for new, unexpected identities."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On 31 December 406, groups of Vandals, Alans, and Suebians famously crossed the frozen Rhine River into Roman Gaul. The crossing overwhelmed local defenses and opened a path for migrating and raiding peoples, accelerating the unraveling of imperial authority in Western Europe.",
-      "fact_year": 406,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vandals",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "A mass crossing that transformed the map of Europe parallels an episode about long‑term transformation and evolution, trading imperial \"order\" for new, unexpected identities."
-    },
     {
       "hour": 18,
       "fact_text": "On 31 December 1999, the United States formally handed control of the Panama Canal and its surrounding Zone to Panama, fulfilling the 1977 Torrijos–Carter Treaties. The transfer returned a strategically vital waterway to Panamanian sovereignty and symbolized a shift away from 20th‑century U.S. territorial control in Latin America.",
@@ -641,9 +613,33 @@
         ]
       },
       "match_reason": "A 17th‑century naval expedition navigating treacherous coasts pairs naturally with a modern sailing‑boat episode, both built around life at sea and the stories it carries."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On 31 December 406, groups of Vandals, Alans, and Suebians famously crossed the frozen Rhine River into Roman Gaul. The crossing overwhelmed local defenses and opened a path for migrating and raiding peoples, accelerating the unraveling of imperial authority in Western Europe.",
+      "fact_year": 406,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vandals",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "A mass crossing that transformed the map of Europe parallels an episode about long‑term transformation and evolution, trading imperial \"order\" for new, unexpected identities."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T16:00:01.277337+00:00"
+  "updated_at": "2025-12-31T17:00:01.286598+00:00"
 }
