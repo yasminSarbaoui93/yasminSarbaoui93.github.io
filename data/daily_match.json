@@ -1,63 +1,40 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On 31 December 1961, RTÉ Television began broadcasting in Ireland, transforming how Irish people experienced New Year’s celebrations and national rituals. For the first time, many households could watch countdowns, concerts, and messages from leaders in real time from their own living rooms.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Television_in_the_Republic_of_Ireland",
+    "hour": 22,
+    "fact_text": "On 31 December 2011, when GRAIL’s first spacecraft slipped into lunar orbit, mission planners were already preparing its twin for a follow‑up insertion the next day. The paired orbits allowed scientists to measure minuscule gravity differences, revealing hidden structures like buried impact basins and magma intrusions beneath the Moon’s surface.",
+    "fact_year": 2011,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
     "episode": {
-      "id": 15,
-      "title": "Morning Drops #09 - Birthday Cake",
-      "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Artist Name - Song Title",
-        "Artist Name - Song Title",
-        "Artist Name - Song Title",
-        "Artist Name - Song Title"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Eclectic",
-        "Celebratory"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "The arrival of national TV turning New Year’s into a shared televised party pairs with a celebratory, birthday‑themed episode all about collective festivities."
+    "match_reason": "Twin spacecraft mapping a celestial body during a delicate orbital dance aligns with a \"Destination\"-themed voyage through spacey, exploratory soundscapes."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On 31 December 2011, when GRAIL’s first spacecraft slipped into lunar orbit, mission planners were already preparing its twin for a follow‑up insertion the next day. The paired orbits allowed scientists to measure minuscule gravity differences, revealing hidden structures like buried impact basins and magma intrusions beneath the Moon’s surface.",
-      "fact_year": 2011,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "Twin spacecraft mapping a celestial body during a delicate orbital dance aligns with a \"Destination\"-themed voyage through spacey, exploratory soundscapes."
-    },
     {
       "hour": 23,
       "fact_text": "On 31 December 2011, as people on Earth prepared for New Year’s fireworks, GRAIL’s first probe quietly slipped behind the Moon’s limb, its radio link measuring gravity shifts no human could feel. The mission turned the Moon from a familiar face in the sky into a detailed gravitational map, showing that even well‑known worlds still have deeply hidden stories.",
@@ -636,9 +613,43 @@
         ]
       },
       "match_reason": "The arrival of national TV turning New Year’s into a shared televised party pairs with a celebratory, birthday‑themed episode all about collective festivities."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On 31 December 2011, when GRAIL’s first spacecraft slipped into lunar orbit, mission planners were already preparing its twin for a follow‑up insertion the next day. The paired orbits allowed scientists to measure minuscule gravity differences, revealing hidden structures like buried impact basins and magma intrusions beneath the Moon’s surface.",
+      "fact_year": 2011,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "Twin spacecraft mapping a celestial body during a delicate orbital dance aligns with a \"Destination\"-themed voyage through spacey, exploratory soundscapes."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T21:00:01.420668+00:00"
+  "updated_at": "2025-12-31T22:00:01.379547+00:00"
 }
