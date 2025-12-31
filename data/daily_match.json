@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On the last day of 1225, a boy emperor named Trần Thái Tông took the throne in Đại Việt (Vietnam), ending the Lý dynasty after more than two centuries. His enthronement, intertwined with a political marriage, quietly flipped the script of power and began the long-lived Trần dynasty.",
-    "fact_year": 1225,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%BD_dynasty",
+    "hour": 10,
+    "fact_text": "On December 31, 2010, a swarm of 36 tornadoes tore across parts of the Midwest and southern United States, some spinning up in the early hours of the New Year. The outbreak killed nine people and caused over US$113 million in damage, a reminder that the atmosphere doesn’t pause for holidays.",
+    "fact_year": 2010,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "An imperial transition shaped by family ties mirrors an episode where friends gather to share stories and songs, tracing how relationships quietly redirect life's path."
+    "match_reason": "The raw, swirling power of a tornado outbreak echoes the physical intensity and controlled chaos of fight training on a tropical island."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On December 31, 2010, a swarm of 36 tornadoes tore across parts of the Midwest and southern United States, some spinning up in the early hours of the New Year. The outbreak killed nine people and caused over US$113 million in damage, a reminder that the atmosphere doesn’t pause for holidays.",
-      "fact_year": 2010,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "The raw, swirling power of a tornado outbreak echoes the physical intensity and controlled chaos of fight training on a tropical island."
-    },
     {
       "hour": 11,
       "fact_text": "On the last day of 1983, Benjamin Ward was appointed New York City’s first Black police commissioner. Rising from a childhood in Brooklyn public housing to lead the NYPD, his appointment quietly rewrote who could be seen as the public face of authority in America’s largest city.",
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "An imperial transition shaped by family ties mirrors an episode where friends gather to share stories and songs, tracing how relationships quietly redirect life's path."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On December 31, 2010, a swarm of 36 tornadoes tore across parts of the Midwest and southern United States, some spinning up in the early hours of the New Year. The outbreak killed nine people and caused over US$113 million in damage, a reminder that the atmosphere doesn’t pause for holidays.",
+      "fact_year": 2010,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "The raw, swirling power of a tornado outbreak echoes the physical intensity and controlled chaos of fight training on a tropical island."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T09:00:01.534617+00:00"
+  "updated_at": "2025-12-31T10:00:01.483699+00:00"
 }
