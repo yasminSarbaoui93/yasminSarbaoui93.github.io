@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On December 31, 1942, in the freezing Barents Sea, outgunned British escorts fended off a powerful German fleet to protect an Arctic convoy of merchant ships. The surprising defeat of the Kriegsmarine helped cost Germany’s Grand Admiral Erich Raeder his job and reshaped Nazi naval strategy.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Barents_Sea",
+    "hour": 4,
+    "fact_text": "In a snowstorm on the last day of 1775, American revolutionaries tried to capture Quebec City, only to be driven back by British defenders on the frozen heights. The failed assault showed how weather, terrain, and timing could be as decisive as cannons in shaping a revolution.",
+    "fact_year": 1775,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A tense naval battle amid Arctic storms matches the high-voltage, guitar-driven intensity of an 'Electric Shock' rock set."
+    "match_reason": "A snow-blinded assault on Quebec and the harsh northern cold resonate with an Arctic-themed episode steeped in icy light and cinematic calm."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In a snowstorm on the last day of 1775, American revolutionaries tried to capture Quebec City, only to be driven back by British defenders on the frozen heights. The failed assault showed how weather, terrain, and timing could be as decisive as cannons in shaping a revolution.",
-      "fact_year": 1775,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775)",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A snow-blinded assault on Quebec and the harsh northern cold resonate with an Arctic-themed episode steeped in icy light and cinematic calm."
-    },
     {
       "hour": 5,
       "fact_text": "On December 31, 1961, Irish homes saw the first flicker of RTÉ Television, transforming a largely radio-based culture into one with moving images in the living room. For many viewers, that New Year’s Eve broadcast was their first glimpse of their own country framed through the lens of television.",
@@ -633,9 +608,34 @@
         ]
       },
       "match_reason": "A tense naval battle amid Arctic storms matches the high-voltage, guitar-driven intensity of an 'Electric Shock' rock set."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In a snowstorm on the last day of 1775, American revolutionaries tried to capture Quebec City, only to be driven back by British defenders on the frozen heights. The failed assault showed how weather, terrain, and timing could be as decisive as cannons in shaping a revolution.",
+      "fact_year": 1775,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775)",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A snow-blinded assault on Quebec and the harsh northern cold resonate with an Arctic-themed episode steeped in icy light and cinematic calm."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T03:00:01.433340+00:00"
+  "updated_at": "2025-12-31T04:00:01.162964+00:00"
 }
