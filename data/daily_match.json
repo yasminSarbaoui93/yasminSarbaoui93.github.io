@@ -1,55 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "On the last day of 1999, the United States formally handed control of the Panama Canal and its surrounding zone to Panama, honoring treaties signed in 1977. A century-old emblem of American engineering and power became a reclaimed artery in the hands of a much smaller nation.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Panama_Canal",
+    "hour": 19,
+    "fact_text": "On New Year’s Eve 1994, Russian forces launched a brutal assault on Grozny, the capital of Chechnya, in a bid to crush separatism. The urban battle that followed turned entire neighborhoods into rubble and showed how modern war could swallow a city street by street.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Grozny_(1994%E2%80%931995)",
     "episode": {
-      "id": 19,
-      "title": "Morning Drops #13 - Demystifying Reggaeton",
-      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Renato - Chica de los Ojos Café",
-        "B. F. Yaviah - Si Tu Quieres Fumar",
-        "Calle 13 - Atrévete",
-        "Bad Bunny - DtMF"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Reggaeton",
-        "Latin Urban",
-        "Hip-Hop"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The return of the Panama Canal to Panamanian control connects directly with an episode tracing reggaeton’s roots in Panama and its cultural waterways."
+    "match_reason": "The devastation of a city and the anxieties of hyperconnected life both question what 'security' and 'control' really mean, pairing a physical siege with a psychological one."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On New Year’s Eve 1994, Russian forces launched a brutal assault on Grozny, the capital of Chechnya, in a bid to crush separatism. The urban battle that followed turned entire neighborhoods into rubble and showed how modern war could swallow a city street by street.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Grozny_(1994%E2%80%931995)",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The devastation of a city and the anxieties of hyperconnected life both question what 'security' and 'control' really mean, pairing a physical siege with a psychological one."
-    },
     {
       "hour": 20,
       "fact_text": "By the end of 1947, the Cold War had begun, and on December 31, 1951, the Marshall Plan formally concluded its mission to rebuild Western Europe. Its billions tied economies together so tightly that ideological conflict had to be waged with propaganda, proxies, and spies rather than open war.",
@@ -632,9 +608,34 @@
         ]
       },
       "match_reason": "The return of the Panama Canal to Panamanian control connects directly with an episode tracing reggaeton’s roots in Panama and its cultural waterways."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On New Year’s Eve 1994, Russian forces launched a brutal assault on Grozny, the capital of Chechnya, in a bid to crush separatism. The urban battle that followed turned entire neighborhoods into rubble and showed how modern war could swallow a city street by street.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Grozny_(1994%E2%80%931995)",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The devastation of a city and the anxieties of hyperconnected life both question what 'security' and 'control' really mean, pairing a physical siege with a psychological one."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T18:00:01.409305+00:00"
+  "updated_at": "2025-12-31T19:00:01.379844+00:00"
 }
