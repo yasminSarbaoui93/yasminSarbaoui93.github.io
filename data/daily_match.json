@@ -1,68 +1,34 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 31 December 1968, the Soviet Tupolev Tu‑144 made its first flight, becoming the world’s first civilian supersonic transport to take to the skies. Nicknamed \"Concordski\" in the West, the jet was an audacious attempt to turn Cold War aerospace rivalry into faster‑than‑sound passenger travel.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+    "hour": 16,
+    "fact_text": "On 31 December 1670, the English expedition led by John Narborough departed Chile’s Corral Bay after charting parts of the southern coast and clashing diplomatically with Spanish authorities. Four of his men were seized and never returned, a stark reminder that early scientific voyages of \"discovery\" were also entangled with imperial rivalry and human loss.",
+    "fact_year": 1670,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A supersonic airliner built for ultra‑fast journeys matches an upbeat travel‑soundtrack episode made for movement, momentum, and starting fresh at high speed."
+    "match_reason": "A 17th‑century naval expedition navigating treacherous coasts pairs naturally with a modern sailing‑boat episode, both built around life at sea and the stories it carries."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 31 December 1670, the English expedition led by John Narborough departed Chile’s Corral Bay after charting parts of the southern coast and clashing diplomatically with Spanish authorities. Four of his men were seized and never returned, a stark reminder that early scientific voyages of \"discovery\" were also entangled with imperial rivalry and human loss.",
-      "fact_year": 1670,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A 17th‑century naval expedition navigating treacherous coasts pairs naturally with a modern sailing‑boat episode, both built around life at sea and the stories it carries."
-    },
     {
       "hour": 17,
       "fact_text": "On 31 December 406, groups of Vandals, Alans, and Suebians famously crossed the frozen Rhine River into Roman Gaul. The crossing overwhelmed local defenses and opened a path for migrating and raiding peoples, accelerating the unraveling of imperial authority in Western Europe.",
@@ -647,9 +613,37 @@
         ]
       },
       "match_reason": "A supersonic airliner built for ultra‑fast journeys matches an upbeat travel‑soundtrack episode made for movement, momentum, and starting fresh at high speed."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 31 December 1670, the English expedition led by John Narborough departed Chile’s Corral Bay after charting parts of the southern coast and clashing diplomatically with Spanish authorities. Four of his men were seized and never returned, a stark reminder that early scientific voyages of \"discovery\" were also entangled with imperial rivalry and human loss.",
+      "fact_year": 1670,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/English_expedition_to_Valdivia",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A 17th‑century naval expedition navigating treacherous coasts pairs naturally with a modern sailing‑boat episode, both built around life at sea and the stories it carries."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T15:00:01.263792+00:00"
+  "updated_at": "2025-12-31T16:00:01.277337+00:00"
 }
