@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 31 December 2011, NASA placed the first of its twin GRAIL spacecraft into orbit around the Moon, beginning a mission to map the lunar gravity field with unprecedented precision. By tracking tiny changes in distance between the two probes as they flew over mountains, craters, and hidden mass concentrations, scientists could effectively X‑ray the Moon’s interior structure.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/GRAIL",
+    "hour": 1,
+    "fact_text": "On 31 December 1994, the remote Phoenix and Line Islands of Kiribati skipped this date entirely by jumping the International Date Line, leaping from UTC−11/−10 to UTC+13/+14. Overnight, they went from being among the last places on Earth to greet the new day to some of the very first, effectively editing a whole calendar day out of local history.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kiribati",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A lunar gravity mission that turns emptiness into data fits the \"Space Shift\" theme of reimagining empty space as a place to create and discover."
+    "match_reason": "A whole country shifting its position in time resonates with an episode about travel, perspective shifts, and quietly stepping out of your usual rhythm."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 31 December 1994, the remote Phoenix and Line Islands of Kiribati skipped this date entirely by jumping the International Date Line, leaping from UTC−11/−10 to UTC+13/+14. Overnight, they went from being among the last places on Earth to greet the new day to some of the very first, effectively editing a whole calendar day out of local history.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kiribati",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A whole country shifting its position in time resonates with an episode about travel, perspective shifts, and quietly stepping out of your usual rhythm."
-    },
     {
       "hour": 2,
       "fact_text": "On 31 December 2009, the night sky hosted both a blue moon and a partial lunar eclipse, a rare combination of calendar quirk and celestial geometry. As the second full moon of the month slipped into Earth’s shadow, observers saw a subtly dimmed lunar disc marking the year’s end with an astronomical encore.",
@@ -636,9 +613,34 @@
         ]
       },
       "match_reason": "A lunar gravity mission that turns emptiness into data fits the \"Space Shift\" theme of reimagining empty space as a place to create and discover."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 31 December 1994, the remote Phoenix and Line Islands of Kiribati skipped this date entirely by jumping the International Date Line, leaping from UTC−11/−10 to UTC+13/+14. Overnight, they went from being among the last places on Earth to greet the new day to some of the very first, effectively editing a whole calendar day out of local history.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kiribati",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A whole country shifting its position in time resonates with an episode about travel, perspective shifts, and quietly stepping out of your usual rhythm."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T00:00:54.183164+00:00"
+  "updated_at": "2025-12-31T01:00:01.645941+00:00"
 }
