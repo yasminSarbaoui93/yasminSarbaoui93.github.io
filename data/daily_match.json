@@ -1,55 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 31 December 1942, in the Battle of the Barents Sea, a smaller Royal Navy escort force managed to fend off a larger German squadron attacking an Arctic convoy. The unexpected British success not only saved vital supplies bound for the Soviet Union but also embarrassed Hitler enough that he forced the resignation of Grand Admiral Erich Raeder.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Barents_Sea",
+    "hour": 4,
+    "fact_text": "On 31 December 1775, during a snowstorm, American forces launched a bold but disastrous assault on British-held Quebec City. The Battle of Quebec ended in defeat for the Continental Army and the death of General Richard Montgomery, halting hopes of bringing Canada into the American Revolution.",
+    "fact_year": 1775,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775)",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "A defiant naval stand against a stronger foe pairs with an episode celebrating rock’s rebellious refusal to ask permission, both driven by grit and loud resistance."
+    "match_reason": "A grueling winter assault and a show about combat sports both revolve around physical courage, strategy, and pushing the body under extreme conditions."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 31 December 1775, during a snowstorm, American forces launched a bold but disastrous assault on British-held Quebec City. The Battle of Quebec ended in defeat for the Continental Army and the death of General Richard Montgomery, halting hopes of bringing Canada into the American Revolution.",
-      "fact_year": 1775,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775)",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A grueling winter assault and a show about combat sports both revolve around physical courage, strategy, and pushing the body under extreme conditions."
-    },
     {
       "hour": 5,
       "fact_text": "On 31 December 1961, Ireland’s national broadcaster RTÉ launched its first television service, switching on a new cultural mirror for the country. At a time when television ownership was just emerging, the new channel became a shared living-room window into Irish news, arts, and identity.",
@@ -637,9 +613,34 @@
         ]
       },
       "match_reason": "A defiant naval stand against a stronger foe pairs with an episode celebrating rock’s rebellious refusal to ask permission, both driven by grit and loud resistance."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 31 December 1775, during a snowstorm, American forces launched a bold but disastrous assault on British-held Quebec City. The Battle of Quebec ended in defeat for the Continental Army and the death of General Richard Montgomery, halting hopes of bringing Canada into the American Revolution.",
+      "fact_year": 1775,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775)",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A grueling winter assault and a show about combat sports both revolve around physical courage, strategy, and pushing the body under extreme conditions."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T03:00:01.254871+00:00"
+  "updated_at": "2025-12-31T04:00:01.214710+00:00"
 }
