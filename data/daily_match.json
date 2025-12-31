@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 31 December 1994, the remote Phoenix and Line Islands of Kiribati skipped this date entirely by jumping the International Date Line, leaping from UTC−11/−10 to UTC+13/+14. Overnight, they went from being among the last places on Earth to greet the new day to some of the very first, effectively editing a whole calendar day out of local history.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kiribati",
+    "hour": 2,
+    "fact_text": "On 31 December 2009, the night sky hosted both a blue moon and a partial lunar eclipse, a rare combination of calendar quirk and celestial geometry. As the second full moon of the month slipped into Earth’s shadow, observers saw a subtly dimmed lunar disc marking the year’s end with an astronomical encore.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Blue_moon",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A whole country shifting its position in time resonates with an episode about travel, perspective shifts, and quietly stepping out of your usual rhythm."
+    "match_reason": "The quiet awe of a blue moon eclipse mirrors the reflective, cinematic mood of an episode about Arctic nights and luminous, otherworldly encounters."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 31 December 2009, the night sky hosted both a blue moon and a partial lunar eclipse, a rare combination of calendar quirk and celestial geometry. As the second full moon of the month slipped into Earth’s shadow, observers saw a subtly dimmed lunar disc marking the year’s end with an astronomical encore.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Blue_moon",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "The quiet awe of a blue moon eclipse mirrors the reflective, cinematic mood of an episode about Arctic nights and luminous, otherworldly encounters."
-    },
     {
       "hour": 3,
       "fact_text": "On 31 December 1942, in the Battle of the Barents Sea, a smaller Royal Navy escort force managed to fend off a larger German squadron attacking an Arctic convoy. The unexpected British success not only saved vital supplies bound for the Soviet Union but also embarrassed Hitler enough that he forced the resignation of Grand Admiral Erich Raeder.",
@@ -638,9 +613,34 @@
         ]
       },
       "match_reason": "A whole country shifting its position in time resonates with an episode about travel, perspective shifts, and quietly stepping out of your usual rhythm."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 31 December 2009, the night sky hosted both a blue moon and a partial lunar eclipse, a rare combination of calendar quirk and celestial geometry. As the second full moon of the month slipped into Earth’s shadow, observers saw a subtly dimmed lunar disc marking the year’s end with an astronomical encore.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Blue_moon",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "The quiet awe of a blue moon eclipse mirrors the reflective, cinematic mood of an episode about Arctic nights and luminous, otherworldly encounters."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T01:00:01.645941+00:00"
+  "updated_at": "2025-12-31T02:00:01.430493+00:00"
 }
