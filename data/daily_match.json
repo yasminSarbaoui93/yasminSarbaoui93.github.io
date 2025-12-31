@@ -1,55 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "New Year’s Eve 1956 brought Romanians their first television broadcast from Bucharest, a flickering monochrome window on a world still tightly controlled by the state. For viewers gathered around communal sets, it was the birth of a medium that would both mirror and subtly challenge their reality.",
-    "fact_year": 1956,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
+    "hour": 8,
+    "fact_text": "On December 31, 1951, the Marshall Plan officially ended after pouring over US$13.3 billion into war-scarred Western Europe. Beyond rebuilding bridges and factories, it rewired economies and alliances, laying foundations for the European Union and a new global order.",
+    "fact_year": 1951,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A city’s story told through its first TV station pairs with an episode that tells another city’s story through its bands and sounds."
+    "match_reason": "A program that reshaped postwar geopolitics resonates with an episode tracing Afrobeat’s rise as a transformative cultural force in the Global South."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On December 31, 1951, the Marshall Plan officially ended after pouring over US$13.3 billion into war-scarred Western Europe. Beyond rebuilding bridges and factories, it rewired economies and alliances, laying foundations for the European Union and a new global order.",
-      "fact_year": 1951,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A program that reshaped postwar geopolitics resonates with an episode tracing Afrobeat’s rise as a transformative cultural force in the Global South."
-    },
     {
       "hour": 9,
       "fact_text": "On the last day of 1225, a boy emperor named Trần Thái Tông took the throne in Đại Việt (Vietnam), ending the Lý dynasty after more than two centuries. His enthronement, intertwined with a political marriage, quietly flipped the script of power and began the long-lived Trần dynasty.",
@@ -633,9 +608,33 @@
         ]
       },
       "match_reason": "A city’s story told through its first TV station pairs with an episode that tells another city’s story through its bands and sounds."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On December 31, 1951, the Marshall Plan officially ended after pouring over US$13.3 billion into war-scarred Western Europe. Beyond rebuilding bridges and factories, it rewired economies and alliances, laying foundations for the European Union and a new global order.",
+      "fact_year": 1951,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marshall_Plan",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A program that reshaped postwar geopolitics resonates with an episode tracing Afrobeat’s rise as a transformative cultural force in the Global South."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T07:00:01.219918+00:00"
+  "updated_at": "2025-12-31T08:00:01.456828+00:00"
 }
