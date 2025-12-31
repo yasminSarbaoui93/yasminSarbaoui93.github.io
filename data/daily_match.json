@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 31 December 1942, the USS Essex (CV-9), first of a powerful new class of aircraft carriers, was commissioned into the U.S. Navy. These Essex-class ships would become floating airfields that helped redefine naval warfare and project air power across the world’s oceans.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Essex_(CV-9)",
+    "hour": 7,
+    "fact_text": "On 31 December 1956, Romanian Television (TVR) broadcast its first television program from Bucharest, bringing moving images into Romanian homes for the first time. Early broadcasts were limited and experimental, but they marked the start of a new era in state-controlled storytelling and cultural exchange.",
+    "fact_year": 1956,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Afrobeat",
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "The commissioning of a massive, engine-thundering aircraft carrier fits the high-voltage, guitar-powered energy of an \"Electric Shock\" rock episode."
+    "match_reason": "The excitement of a country's first TV broadcasts lines up with an episode soaked in big-city media energy, concerts, and the buzz of screens and stages."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 31 December 1956, Romanian Television (TVR) broadcast its first television program from Bucharest, bringing moving images into Romanian homes for the first time. Early broadcasts were limited and experimental, but they marked the start of a new era in state-controlled storytelling and cultural exchange.",
-      "fact_year": 1956,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The excitement of a country's first TV broadcasts lines up with an episode soaked in big-city media energy, concerts, and the buzz of screens and stages."
-    },
     {
       "hour": 8,
       "fact_text": "On 31 December 1951, the Marshall Plan officially expired after distributing more than US$13.3 billion to help rebuild Western Europe after World War II. Beyond infrastructure and industry, the aid program rewired political alliances and laid economic foundations for what would become the European Union.",
@@ -638,9 +613,34 @@
         ]
       },
       "match_reason": "The commissioning of a massive, engine-thundering aircraft carrier fits the high-voltage, guitar-powered energy of an \"Electric Shock\" rock episode."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 31 December 1956, Romanian Television (TVR) broadcast its first television program from Bucharest, bringing moving images into Romanian homes for the first time. Early broadcasts were limited and experimental, but they marked the start of a new era in state-controlled storytelling and cultural exchange.",
+      "fact_year": 1956,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/TVR_(TV_network)",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The excitement of a country's first TV broadcasts lines up with an episode soaked in big-city media energy, concerts, and the buzz of screens and stages."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T06:00:01.537487+00:00"
+  "updated_at": "2025-12-31T07:00:01.736566+00:00"
 }
