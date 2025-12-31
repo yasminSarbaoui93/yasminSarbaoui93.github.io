@@ -1,55 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On December 31, 1981, a coup in Ghana swept away President Hilla Limann’s civilian government and installed the Provisional National Defence Council, led by Air Force officer Jerry Rawlings. It was Rawlings’s second seizure of power, and it pulled the country back into revolutionary rhetoric and military rule.",
-    "fact_year": 1981,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
+    "hour": 13,
+    "fact_text": "On New Year’s Eve 1853, Victorian scientists and dignitaries held a dinner party inside a life-size model of the dinosaur Iguanodon in south London. Guests sat around a table where the dinosaur’s belly would have been, toasting inside a creature they had only just begun to understand.",
+    "fact_year": 1853,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iguanodon",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A Ghanaian coup and debates over power fit with an Afrobeat-focused episode steeped in West African music that has long critiqued politics and authority."
+    "match_reason": "Dining inside a dinosaur and diving alongside whales both place humans inside the bodies and worlds of gigantic creatures, turning science into immersive experience."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On New Year’s Eve 1853, Victorian scientists and dignitaries held a dinner party inside a life-size model of the dinosaur Iguanodon in south London. Guests sat around a table where the dinosaur’s belly would have been, toasting inside a creature they had only just begun to understand.",
-      "fact_year": 1853,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iguanodon",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Dining inside a dinosaur and diving alongside whales both place humans inside the bodies and worlds of gigantic creatures, turning science into immersive experience."
-    },
     {
       "hour": 14,
       "fact_text": "On December 31, 1992, Czechoslovakia dissolved without a shot fired, splitting into the Czech Republic and Slovakia in what became known as the Velvet Divorce. It was a rare example of a multinational state gently agreeing to become two, more clearly defined homes.",
@@ -632,9 +608,34 @@
         ]
       },
       "match_reason": "A Ghanaian coup and debates over power fit with an Afrobeat-focused episode steeped in West African music that has long critiqued politics and authority."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On New Year’s Eve 1853, Victorian scientists and dignitaries held a dinner party inside a life-size model of the dinosaur Iguanodon in south London. Guests sat around a table where the dinosaur’s belly would have been, toasting inside a creature they had only just begun to understand.",
+      "fact_year": 1853,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iguanodon",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Dining inside a dinosaur and diving alongside whales both place humans inside the bodies and worlds of gigantic creatures, turning science into immersive experience."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T12:00:01.205074+00:00"
+  "updated_at": "2025-12-31T13:00:01.261316+00:00"
 }
