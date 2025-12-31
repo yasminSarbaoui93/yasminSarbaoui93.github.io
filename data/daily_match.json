@@ -1,57 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "NASA’s GRAIL mission, which achieved lunar orbit on December 31, 2011, used two nearly identical spacecraft playing a cosmic game of follow-the-leader around the Moon. By measuring tiny changes in their distance as they flew over mountains, basins, and hidden structures, scientists effectively 'weighed' the lunar crust from orbit.",
-    "fact_year": 2011,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+    "hour": 22,
+    "fact_text": "The Iguanodon banquet of 1853 was more than a quirky dinner; it marked a moment when dinosaurs were first entering the public imagination. Guests toasted in candlelight under the plaster ribs of a creature that Victorians still pictured as a lumbering, horn-nosed giant—an image science would later radically revise.",
+    "fact_year": 1853,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Waterhouse_Hawkins",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "The patience and precision of mapping lunar gravity echo an episode about the slow, effortful joy of learning and how repetition reveals hidden structure."
+    "match_reason": "A Victorian spectacle that reshaped how we imagine dinosaurs pairs with a genre that reshaped how we imagine electronic music—cinematic, atmospheric, and boundary-blurring."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Iguanodon banquet of 1853 was more than a quirky dinner; it marked a moment when dinosaurs were first entering the public imagination. Guests toasted in candlelight under the plaster ribs of a creature that Victorians still pictured as a lumbering, horn-nosed giant—an image science would later radically revise.",
-      "fact_year": 1853,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Waterhouse_Hawkins",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A Victorian spectacle that reshaped how we imagine dinosaurs pairs with a genre that reshaped how we imagine electronic music—cinematic, atmospheric, and boundary-blurring."
-    },
     {
       "hour": 23,
       "fact_text": "When Benjamin Ward took command of the NYPD on December 31, 1983, he inherited a force wrestling with crime, community distrust, and its own history of discrimination. His appointment symbolized not an end to those problems, but a complex step toward policing that reflected the people it governed.",
@@ -634,9 +608,34 @@
         ]
       },
       "match_reason": "The patience and precision of mapping lunar gravity echo an episode about the slow, effortful joy of learning and how repetition reveals hidden structure."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Iguanodon banquet of 1853 was more than a quirky dinner; it marked a moment when dinosaurs were first entering the public imagination. Guests toasted in candlelight under the plaster ribs of a creature that Victorians still pictured as a lumbering, horn-nosed giant—an image science would later radically revise.",
+      "fact_year": 1853,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Waterhouse_Hawkins",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A Victorian spectacle that reshaped how we imagine dinosaurs pairs with a genre that reshaped how we imagine electronic music—cinematic, atmospheric, and boundary-blurring."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T21:00:01.585444+00:00"
+  "updated_at": "2025-12-31T22:00:01.497824+00:00"
 }
