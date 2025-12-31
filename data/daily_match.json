@@ -1,52 +1,28 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 31 December 2010, an outbreak of 36 tornadoes tore through parts of the Midwestern and Southern United States, including areas of Arkansas, Missouri, Illinois, and Oklahoma. The New Year’s Eve storms killed nine people and caused over $113 million in damage, a stark reminder of nature’s disruptive power on a night usually reserved for celebration.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2010_New_Year%27s_Eve_tornado_outbreak",
+    "hour": 11,
+    "fact_text": "On 31 December 1983, Benjamin Ward was appointed New York City’s first African American police commissioner. Rising from a childhood in Brooklyn public housing to lead the nation’s largest police force, his appointment symbolized both progress and the ongoing tension between communities and law enforcement.",
+    "fact_year": 1983,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
     "episode": {
-      "id": 29,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "An intense storm system disrupting New Year’s Eve is balanced by a dub-and-reggae episode about weathering chaos with slow, grounding rhythms and nature around you."
+    "match_reason": "A barrier‑breaking Black commissioner in NYC aligns with a hip-hop episode focused on race, identity, and stepping outside the boxes society imposes."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 31 December 1983, Benjamin Ward was appointed New York City’s first African American police commissioner. Rising from a childhood in Brooklyn public housing to lead the nation’s largest police force, his appointment symbolized both progress and the ongoing tension between communities and law enforcement.",
-      "fact_year": 1983,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A barrier‑breaking Black commissioner in NYC aligns with a hip-hop episode focused on race, identity, and stepping outside the boxes society imposes."
-    },
     {
       "hour": 12,
       "fact_text": "On 31 December 1981, a coup d’état in Ghana toppled President Hilla Limann’s government and brought Flight Lieutenant Jerry Rawlings and the Provisional National Defence Council to power. It was Rawlings’s second time seizing control, ushering in a turbulent period of economic reforms, crackdowns, and eventual transition to multi‑party democracy.",
@@ -637,9 +613,31 @@
         ]
       },
       "match_reason": "An intense storm system disrupting New Year’s Eve is balanced by a dub-and-reggae episode about weathering chaos with slow, grounding rhythms and nature around you."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 31 December 1983, Benjamin Ward was appointed New York City’s first African American police commissioner. Rising from a childhood in Brooklyn public housing to lead the nation’s largest police force, his appointment symbolized both progress and the ongoing tension between communities and law enforcement.",
+      "fact_year": 1983,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Ward",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A barrier‑breaking Black commissioner in NYC aligns with a hip-hop episode focused on race, identity, and stepping outside the boxes society imposes."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.015110+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T10:00:01.625560+00:00"
+  "updated_at": "2025-12-31T11:00:01.226490+00:00"
 }
