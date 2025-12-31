@@ -1,65 +1,40 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On New Year’s Eve 1994, Russian forces launched a brutal assault on Grozny, the capital of Chechnya, in a bid to crush separatism. The urban battle that followed turned entire neighborhoods into rubble and showed how modern war could swallow a city street by street.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Grozny_(1994%E2%80%931995)",
+    "hour": 20,
+    "fact_text": "By the end of 1947, the Cold War had begun, and on December 31, 1951, the Marshall Plan formally concluded its mission to rebuild Western Europe. Its billions tied economies together so tightly that ideological conflict had to be waged with propaganda, proxies, and spies rather than open war.",
+    "fact_year": 1951,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "The devastation of a city and the anxieties of hyperconnected life both question what 'security' and 'control' really mean, pairing a physical siege with a psychological one."
+    "match_reason": "A global, ideological standoff and a multi-genre musical 'voyage' both cross invisible borders, weaving far-flung cultures into a single, tense narrative."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "By the end of 1947, the Cold War had begun, and on December 31, 1951, the Marshall Plan formally concluded its mission to rebuild Western Europe. Its billions tied economies together so tightly that ideological conflict had to be waged with propaganda, proxies, and spies rather than open war.",
-      "fact_year": 1951,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A global, ideological standoff and a multi-genre musical 'voyage' both cross invisible borders, weaving far-flung cultures into a single, tense narrative."
-    },
     {
       "hour": 21,
       "fact_text": "NASA’s GRAIL mission, which achieved lunar orbit on December 31, 2011, used two nearly identical spacecraft playing a cosmic game of follow-the-leader around the Moon. By measuring tiny changes in their distance as they flew over mountains, basins, and hidden structures, scientists effectively 'weighed' the lunar crust from orbit.",
@@ -633,9 +608,43 @@
         ]
       },
       "match_reason": "The devastation of a city and the anxieties of hyperconnected life both question what 'security' and 'control' really mean, pairing a physical siege with a psychological one."
+    },
+    {
+      "hour": 20,
+      "fact_text": "By the end of 1947, the Cold War had begun, and on December 31, 1951, the Marshall Plan formally concluded its mission to rebuild Western Europe. Its billions tied economies together so tightly that ideological conflict had to be waged with propaganda, proxies, and spies rather than open war.",
+      "fact_year": 1951,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A global, ideological standoff and a multi-genre musical 'voyage' both cross invisible borders, weaving far-flung cultures into a single, tense narrative."
     }
   ],
   "generated_at": "2025-12-31T00:00:00.013234+00:00",
   "date": "2025-12-31",
-  "updated_at": "2025-12-31T19:00:01.379844+00:00"
+  "updated_at": "2025-12-31T20:00:01.375138+00:00"
 }
