@@ -1,65 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On New Year's Day 1818, an anonymous novel titled \"Frankenstein; or, The Modern Prometheus\" appeared in London, quietly revolutionizing literature. Mary Shelley’s tale of a scientist who assembles life from dead matter helped invent science fiction, asking how far human curiosity and responsibility should reach.",
-    "fact_year": 1818,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
+    "hour": 4,
+    "fact_text": "On January 1, 1845, the Philippines literally jumped a day forward, skipping December 31, 1844, to realign its calendar with the rest of Asia. For 323 years it had been one day out of sync because of how the first Spanish expedition crossed the globe, meaning an entire country quietly lived in a different yesterday.",
+    "fact_year": 1845,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Narciso_Claver%C3%ADa_y_Zald%C3%BAa",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "Frankenstein’s creature is a stitched-together ‘alter being’ and a reflection of his maker, mirroring the episode’s exploration of alter-egos and parallel identities."
+    "match_reason": "An entire nation resynchronising its sense of time fits with the episode’s idea of adjusting our internal tempo and finding a calmer planetary rhythm."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On January 1, 1845, the Philippines literally jumped a day forward, skipping December 31, 1844, to realign its calendar with the rest of Asia. For 323 years it had been one day out of sync because of how the first Spanish expedition crossed the globe, meaning an entire country quietly lived in a different yesterday.",
-      "fact_year": 1845,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Narciso_Claver%C3%ADa_y_Zald%C3%BAa",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "An entire nation resynchronising its sense of time fits with the episode’s idea of adjusting our internal tempo and finding a calmer planetary rhythm."
-    },
     {
       "hour": 5,
       "fact_text": "On the first day of 1900, Britain declared Nigeria a protectorate, formalizing colonial rule over a vast, culturally diverse region in West Africa. This act reshaped borders and identities, setting the stage for both exploitation and later independence movements that would transform the continent.",
@@ -668,9 +634,34 @@
         ]
       },
       "match_reason": "Frankenstein’s creature is a stitched-together ‘alter being’ and a reflection of his maker, mirroring the episode’s exploration of alter-egos and parallel identities."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On January 1, 1845, the Philippines literally jumped a day forward, skipping December 31, 1844, to realign its calendar with the rest of Asia. For 323 years it had been one day out of sync because of how the first Spanish expedition crossed the globe, meaning an entire country quietly lived in a different yesterday.",
+      "fact_year": 1845,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Narciso_Claver%C3%ADa_y_Zald%C3%BAa",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "An entire nation resynchronising its sense of time fits with the episode’s idea of adjusting our internal tempo and finding a calmer planetary rhythm."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T03:00:00.995779+00:00"
+  "updated_at": "2026-01-01T04:00:01.033347+00:00"
 }
