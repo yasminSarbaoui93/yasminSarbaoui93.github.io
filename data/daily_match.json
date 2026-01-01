@@ -1,65 +1,40 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On January 1, 1962, Western Samoa became the first Pacific island nation to regain independence in the 20th century, stepping out from under New Zealand administration. It marked a quiet but powerful shift as Indigenous governance and Samoan identity moved back to the center of political life.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samoa",
+    "hour": 8,
+    "fact_text": "At the start of 1973, Denmark, Ireland, and the United Kingdom joined the European Economic Community, weaving their economies into a growing experiment in continental cooperation. The move quietly redrew political and cultural relationships across Europe, long before anyone spoke of the European Union as we know it today.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Economic_Community",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
+        "Progressive Rock",
+        "Post-Punk",
         "French Pop",
-        "Italian Singer-Songwriter"
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "Islands, sea routes, and the idea of home connect Samoa’s independence to this maritime, border-crossing musical voyage."
+    "match_reason": "The EEC’s expansion was a journey into a shared ‘destination’ of integration, echoing the episode’s theme of collective voyages across borders and sounds."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "At the start of 1973, Denmark, Ireland, and the United Kingdom joined the European Economic Community, weaving their economies into a growing experiment in continental cooperation. The move quietly redrew political and cultural relationships across Europe, long before anyone spoke of the European Union as we know it today.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Economic_Community",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "The EEC’s expansion was a journey into a shared ‘destination’ of integration, echoing the episode’s theme of collective voyages across borders and sounds."
-    },
     {
       "hour": 9,
       "fact_text": "On New Year’s Day 1995, Austria, Finland, and Sweden formally entered the European Union, bringing forests, fjords, and Alpine valleys into a broader political project. Their accession deepened the EU’s northern character and added new cultural textures to the European tapestry.",
@@ -659,9 +634,43 @@
         ]
       },
       "match_reason": "Islands, sea routes, and the idea of home connect Samoa’s independence to this maritime, border-crossing musical voyage."
+    },
+    {
+      "hour": 8,
+      "fact_text": "At the start of 1973, Denmark, Ireland, and the United Kingdom joined the European Economic Community, weaving their economies into a growing experiment in continental cooperation. The move quietly redrew political and cultural relationships across Europe, long before anyone spoke of the European Union as we know it today.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Economic_Community",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "The EEC’s expansion was a journey into a shared ‘destination’ of integration, echoing the episode’s theme of collective voyages across borders and sounds."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T07:00:01.070859+00:00"
+  "updated_at": "2026-01-01T08:00:01.589918+00:00"
 }
