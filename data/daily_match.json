@@ -1,55 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On this day in 1989, the Montreal Protocol came into force, binding countries to phase out chemicals that were tearing a hole in Earth’s ozone layer. It’s now seen as one of humanity’s most successful environmental agreements, showing that global cooperation can actually help heal the atmosphere.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+    "hour": 7,
+    "fact_text": "On January 1, 1901, six British colonies—New South Wales, Queensland, Victoria, South Australia, Tasmania, and Western Australia—united to form the Commonwealth of Australia. Overnight, a patchwork of far‑flung colonies became a single federated nation with its own parliament and a new sense of shared identity.",
+    "fact_year": 1901,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Australia",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A rare success story in environmental cooperation pairs well with Afrobeat’s politically conscious energy and celebration of collective power."
+    "match_reason": "A story of coasts, colonies, and a new maritime nation aligns with an episode themed around seafaring cultures and shared waters."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On January 1, 1901, six British colonies—New South Wales, Queensland, Victoria, South Australia, Tasmania, and Western Australia—united to form the Commonwealth of Australia. Overnight, a patchwork of far‑flung colonies became a single federated nation with its own parliament and a new sense of shared identity.",
-      "fact_year": 1901,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Australia",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A story of coasts, colonies, and a new maritime nation aligns with an episode themed around seafaring cultures and shared waters."
-    },
     {
       "hour": 8,
       "fact_text": "On this day in 1962, Western Samoa became independent from New Zealand, taking the name Independent State of Western Samoa and later simply Samoa. It was the first Pacific Island nation to reclaim full sovereignty in the 20th century, inspiring other island territories to imagine their own political futures.",
@@ -635,9 +611,34 @@
         ]
       },
       "match_reason": "A rare success story in environmental cooperation pairs well with Afrobeat’s politically conscious energy and celebration of collective power."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On January 1, 1901, six British colonies—New South Wales, Queensland, Victoria, South Australia, Tasmania, and Western Australia—united to form the Commonwealth of Australia. Overnight, a patchwork of far‑flung colonies became a single federated nation with its own parliament and a new sense of shared identity.",
+      "fact_year": 1901,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Australia",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A story of coasts, colonies, and a new maritime nation aligns with an episode themed around seafaring cultures and shared waters."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T06:00:01.302631+00:00"
+  "updated_at": "2026-01-01T07:00:01.095191+00:00"
 }
