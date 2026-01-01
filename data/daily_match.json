@@ -1,56 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On January 1, 1776, General George Washington raised the Continental Union Flag at Prospect Hill, the first national flag of what would become the United States. It blended British and colonial symbols, capturing the awkward, in‑between moment before full independence was declared.",
+    "hour": 12,
+    "fact_text": "Also in 1776, Norfolk, Virginia, was largely burned to the ground in a strange episode where both the Royal Navy and elements of the Continental Army contributed to the destruction. The fires turned a key port city into smoldering ruins, reshaping loyalties and strategy in the Revolutionary War.",
     "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Continental_Union_Flag",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burning_of_Norfolk",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A flag that captures a nation’s emerging identity echoes an episode about a city’s sonic identity, with multiple 'edges of the same story' stitched together."
+    "match_reason": "The violent blaze and wartime chaos match the episode’s high-voltage guitars and explosive rock energy."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "Also in 1776, Norfolk, Virginia, was largely burned to the ground in a strange episode where both the Royal Navy and elements of the Continental Army contributed to the destruction. The fires turned a key port city into smoldering ruins, reshaping loyalties and strategy in the Revolutionary War.",
-      "fact_year": 1776,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burning_of_Norfolk",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The violent blaze and wartime chaos match the episode’s high-voltage guitars and explosive rock energy."
-    },
     {
       "hour": 13,
       "fact_text": "On New Year’s Day 1781, freezing and unpaid, about 1,500 soldiers of the 6th Pennsylvania Regiment mutinied at Morristown, New Jersey. The Pennsylvania Line Mutiny became one of the largest American military uprisings, forcing leaders to confront the human cost of their revolution.",
@@ -636,9 +611,34 @@
         ]
       },
       "match_reason": "A flag that captures a nation’s emerging identity echoes an episode about a city’s sonic identity, with multiple 'edges of the same story' stitched together."
+    },
+    {
+      "hour": 12,
+      "fact_text": "Also in 1776, Norfolk, Virginia, was largely burned to the ground in a strange episode where both the Royal Navy and elements of the Continental Army contributed to the destruction. The fires turned a key port city into smoldering ruins, reshaping loyalties and strategy in the Revolutionary War.",
+      "fact_year": 1776,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burning_of_Norfolk",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The violent blaze and wartime chaos match the episode’s high-voltage guitars and explosive rock energy."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T11:00:01.449104+00:00"
+  "updated_at": "2026-01-01T12:00:01.453206+00:00"
 }
