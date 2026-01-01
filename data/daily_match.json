@@ -1,64 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "The very next year, in 1726, Bach unveiled another New Year’s cantata, 'Herr Gott, dich loben wir', BWV 16, again in Leipzig. Written to a devotional text by Georg Christian Lehms, it turns the turning of the calendar into a rich tapestry of gratitude, brass, and choral counterpoint.",
-    "fact_year": 1726,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_16",
+    "hour": 11,
+    "fact_text": "On January 1, 1776, General George Washington raised the Continental Union Flag at Prospect Hill, the first national flag of what would become the United States. It blended British and colonial symbols, capturing the awkward, in‑between moment before full independence was declared.",
+    "fact_year": 1776,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Continental_Union_Flag",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "Another 'first day' musical ritual mirrors Sedna FM’s own inaugural episode — both mark beginnings with bold, celebratory sound."
+    "match_reason": "A flag that captures a nation’s emerging identity echoes an episode about a city’s sonic identity, with multiple 'edges of the same story' stitched together."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On January 1, 1776, General George Washington raised the Continental Union Flag at Prospect Hill, the first national flag of what would become the United States. It blended British and colonial symbols, capturing the awkward, in‑between moment before full independence was declared.",
-      "fact_year": 1776,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Continental_Union_Flag",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A flag that captures a nation’s emerging identity echoes an episode about a city’s sonic identity, with multiple 'edges of the same story' stitched together."
-    },
     {
       "hour": 12,
       "fact_text": "Also in 1776, Norfolk, Virginia, was largely burned to the ground in a strange episode where both the Royal Navy and elements of the Continental Army contributed to the destruction. The fires turned a key port city into smoldering ruins, reshaping loyalties and strategy in the Revolutionary War.",
@@ -644,9 +611,34 @@
         ]
       },
       "match_reason": "Another 'first day' musical ritual mirrors Sedna FM’s own inaugural episode — both mark beginnings with bold, celebratory sound."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On January 1, 1776, General George Washington raised the Continental Union Flag at Prospect Hill, the first national flag of what would become the United States. It blended British and colonial symbols, capturing the awkward, in‑between moment before full independence was declared.",
+      "fact_year": 1776,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Continental_Union_Flag",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A flag that captures a nation’s emerging identity echoes an episode about a city’s sonic identity, with multiple 'edges of the same story' stitched together."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T10:00:01.423534+00:00"
+  "updated_at": "2026-01-01T11:00:01.449104+00:00"
 }
