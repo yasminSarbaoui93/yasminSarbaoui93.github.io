@@ -1,58 +1,34 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On the first day of 1900, Britain declared Nigeria a protectorate, formalizing colonial rule over a vast, culturally diverse region in West Africa. This act reshaped borders and identities, setting the stage for both exploitation and later independence movements that would transform the continent.",
-    "fact_year": 1900,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nigeria",
+    "hour": 6,
+    "fact_text": "New Year’s Day 1901 marked the official birth of the Commonwealth of Australia, as six British colonies federated into a single nation and Edmund Barton became its first prime minister. This peaceful unification stitched together distant settlements into a new continental identity under one flag.",
+    "fact_year": 1901,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Commonwealth_of_Australia",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Nigeria’s colonial history and later independence struggles are deeply woven into Afrobeat’s political grooves, making this episode a cultural and musical echo of that turning point."
+    "match_reason": "An entire continent choosing to journey together as one nation mirrors the episode’s imagery of people sharing a boat, stories, and a new collective course."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "New Year’s Day 1901 marked the official birth of the Commonwealth of Australia, as six British colonies federated into a single nation and Edmund Barton became its first prime minister. This peaceful unification stitched together distant settlements into a new continental identity under one flag.",
-      "fact_year": 1901,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Commonwealth_of_Australia",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An entire continent choosing to journey together as one nation mirrors the episode’s imagery of people sharing a boat, stories, and a new collective course."
-    },
     {
       "hour": 7,
       "fact_text": "On January 1, 1962, Western Samoa became the first Pacific island nation to regain independence in the 20th century, stepping out from under New Zealand administration. It marked a quiet but powerful shift as Indigenous governance and Samoan identity moved back to the center of political life.",
@@ -658,9 +634,37 @@
         ]
       },
       "match_reason": "Nigeria’s colonial history and later independence struggles are deeply woven into Afrobeat’s political grooves, making this episode a cultural and musical echo of that turning point."
+    },
+    {
+      "hour": 6,
+      "fact_text": "New Year’s Day 1901 marked the official birth of the Commonwealth of Australia, as six British colonies federated into a single nation and Edmund Barton became its first prime minister. This peaceful unification stitched together distant settlements into a new continental identity under one flag.",
+      "fact_year": 1901,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Commonwealth_of_Australia",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An entire continent choosing to journey together as one nation mirrors the episode’s imagery of people sharing a boat, stories, and a new collective course."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T05:00:01.397452+00:00"
+  "updated_at": "2026-01-01T06:00:01.349701+00:00"
 }
