@@ -1,62 +1,39 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On January 1, 1725, Johann Sebastian Bach premiered his chorale cantata 'Jesu, nun sei gepreiset', BWV 41, for New Year’s Day in Leipzig. The work is notable for its festive trumpet fanfares that return at the end, bookending the year’s first service with brilliant sound.",
-    "fact_year": 1725,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jesu,_nun_sei_gepreiset,_BWV_41",
+    "hour": 10,
+    "fact_text": "The very next year, in 1726, Bach unveiled another New Year’s cantata, 'Herr Gott, dich loben wir', BWV 16, again in Leipzig. Written to a devotional text by Georg Christian Lehms, it turns the turning of the calendar into a rich tapestry of gratitude, brass, and choral counterpoint.",
+    "fact_year": 1726,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_16",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Soul",
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
         "R&B",
-        "Jazz-Funk"
+        "Latin Rap"
       ]
     },
-    "match_reason": "A New Year’s Day piece with a 'timeless' baroque legacy pairs naturally with an episode dedicated to enduring, classic music."
+    "match_reason": "Another 'first day' musical ritual mirrors Sedna FM’s own inaugural episode — both mark beginnings with bold, celebratory sound."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "The very next year, in 1726, Bach unveiled another New Year’s cantata, 'Herr Gott, dich loben wir', BWV 16, again in Leipzig. Written to a devotional text by Georg Christian Lehms, it turns the turning of the calendar into a rich tapestry of gratitude, brass, and choral counterpoint.",
-      "fact_year": 1726,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_16",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "Another 'first day' musical ritual mirrors Sedna FM’s own inaugural episode — both mark beginnings with bold, celebratory sound."
-    },
     {
       "hour": 11,
       "fact_text": "On January 1, 1776, General George Washington raised the Continental Union Flag at Prospect Hill, the first national flag of what would become the United States. It blended British and colonial symbols, capturing the awkward, in‑between moment before full independence was declared.",
@@ -634,9 +611,42 @@
         ]
       },
       "match_reason": "A New Year’s Day piece with a 'timeless' baroque legacy pairs naturally with an episode dedicated to enduring, classic music."
+    },
+    {
+      "hour": 10,
+      "fact_text": "The very next year, in 1726, Bach unveiled another New Year’s cantata, 'Herr Gott, dich loben wir', BWV 16, again in Leipzig. Written to a devotional text by Georg Christian Lehms, it turns the turning of the calendar into a rich tapestry of gratitude, brass, and choral counterpoint.",
+      "fact_year": 1726,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_16",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "Another 'first day' musical ritual mirrors Sedna FM’s own inaugural episode — both mark beginnings with bold, celebratory sound."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T09:00:01.619715+00:00"
+  "updated_at": "2026-01-01T10:00:01.423534+00:00"
 }
