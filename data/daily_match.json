@@ -1,68 +1,41 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On January 1, 1801 and 1901, astronomers and politicians alike were marking new beginnings — but for the Philippines, that date is forever tied to the decision in 1845 to delete a day from its calendar. The country’s three-century-long temporal ‘glitch’ is a quiet reminder that even time zones are human stories laid over a spinning rock.",
-    "fact_year": 1844,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/History_of_the_Philippines_(1521%E2%80%931900)",
+    "hour": 23,
+    "fact_text": "Across centuries, New Year’s Day has been chosen for turning points not just in law and war, but also in sound: Bach’s New Year cantatas once opened the year in Leipzig the way a concert or playlist might today. His carefully crafted arcs of tension and release show that even in 1725 and 1726, people welcomed the unknown of a new year with music, not just resolutions.",
+    "fact_year": 1725,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "Rewriting an entire country’s calendar is a giant act of collective ‘learning’ about timekeeping, mirroring the episode’s exploration of how we adjust our mental maps and live with confusion and correction."
+    "match_reason": "Bach’s New Year music was an emotional ritual at the threshold of the year, much like this episode’s vulnerable love‑soaked soundtrack is a ritual of feeling at day’s end."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Across centuries, New Year’s Day has been chosen for turning points not just in law and war, but also in sound: Bach’s New Year cantatas once opened the year in Leipzig the way a concert or playlist might today. His carefully crafted arcs of tension and release show that even in 1725 and 1726, people welcomed the unknown of a new year with music, not just resolutions.",
-      "fact_year": 1725,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "Bach’s New Year music was an emotional ritual at the threshold of the year, much like this episode’s vulnerable love‑soaked soundtrack is a ritual of feeling at day’s end."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -649,9 +622,44 @@
         ]
       },
       "match_reason": "Rewriting an entire country’s calendar is a giant act of collective ‘learning’ about timekeeping, mirroring the episode’s exploration of how we adjust our mental maps and live with confusion and correction."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Across centuries, New Year’s Day has been chosen for turning points not just in law and war, but also in sound: Bach’s New Year cantatas once opened the year in Leipzig the way a concert or playlist might today. His carefully crafted arcs of tension and release show that even in 1725 and 1726, people welcomed the unknown of a new year with music, not just resolutions.",
+      "fact_year": 1725,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "Bach’s New Year music was an emotional ritual at the threshold of the year, much like this episode’s vulnerable love‑soaked soundtrack is a ritual of feeling at day’s end."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T22:00:01.207479+00:00"
+  "updated_at": "2026-01-01T23:00:01.234687+00:00"
 }
