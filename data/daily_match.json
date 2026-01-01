@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On January 1, 1998, physicist Juan Maldacena published a paper that ignited the study of the AdS/CFT correspondence, proposing a deep link between a theory of gravity in a curved space and a quantum field theory without gravity on its boundary. This surprising 'holographic' duality suggests that our universe might be describable in fewer dimensions than it appears.",
-    "fact_year": 1998,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
+    "hour": 2,
+    "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is now considered one of the most remote islands on Earth. Completely uninhabited and mostly covered by glaciers, it’s a place where the idea of 'isolation' becomes almost absolute.",
+    "fact_year": 1739,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bouvet_Island",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Trip-Hop",
         "Downtempo",
-        "Electronic"
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "AdS/CFT erases the boundary between gravity and field theory just as trip‑hop blurs lines between genres, creating a layered, cinematic atmosphere suited to thinking about extra dimensions."
+    "match_reason": "The extreme remoteness and icy stillness of Bouvet Island resonate with the episode’s slow, spacious, planetary calm."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is now considered one of the most remote islands on Earth. Completely uninhabited and mostly covered by glaciers, it’s a place where the idea of 'isolation' becomes almost absolute.",
-      "fact_year": 1739,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bouvet_Island",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "The extreme remoteness and icy stillness of Bouvet Island resonate with the episode’s slow, spacious, planetary calm."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1818, Mary Shelley’s 'Frankenstein; or, The Modern Prometheus' was first published anonymously in London. Blending early science-fiction with Gothic horror, it raised haunting questions about creation, responsibility, and what it really means to be human.",
@@ -636,9 +611,34 @@
         ]
       },
       "match_reason": "AdS/CFT erases the boundary between gravity and field theory just as trip‑hop blurs lines between genres, creating a layered, cinematic atmosphere suited to thinking about extra dimensions."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is now considered one of the most remote islands on Earth. Completely uninhabited and mostly covered by glaciers, it’s a place where the idea of 'isolation' becomes almost absolute.",
+      "fact_year": 1739,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bouvet_Island",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "The extreme remoteness and icy stillness of Bouvet Island resonate with the episode’s slow, spacious, planetary calm."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T01:00:01.083570+00:00"
+  "updated_at": "2026-01-01T02:00:01.225243+00:00"
 }
