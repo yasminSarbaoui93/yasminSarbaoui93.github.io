@@ -1,55 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On January 1, 1845, the Philippines literally jumped a day forward, skipping December 31, 1844, to realign its calendar with the rest of Asia. For 323 years it had been one day out of sync because of how the first Spanish expedition crossed the globe, meaning an entire country quietly lived in a different yesterday.",
-    "fact_year": 1845,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Narciso_Claver%C3%ADa_y_Zald%C3%BAa",
+    "hour": 5,
+    "fact_text": "On the first day of 1900, Britain declared Nigeria a protectorate, formalizing colonial rule over a vast, culturally diverse region in West Africa. This act reshaped borders and identities, setting the stage for both exploitation and later independence movements that would transform the continent.",
+    "fact_year": 1900,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nigeria",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "An entire nation resynchronising its sense of time fits with the episode’s idea of adjusting our internal tempo and finding a calmer planetary rhythm."
+    "match_reason": "Nigeria’s colonial history and later independence struggles are deeply woven into Afrobeat’s political grooves, making this episode a cultural and musical echo of that turning point."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On the first day of 1900, Britain declared Nigeria a protectorate, formalizing colonial rule over a vast, culturally diverse region in West Africa. This act reshaped borders and identities, setting the stage for both exploitation and later independence movements that would transform the continent.",
-      "fact_year": 1900,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nigeria",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "Nigeria’s colonial history and later independence struggles are deeply woven into Afrobeat’s political grooves, making this episode a cultural and musical echo of that turning point."
-    },
     {
       "hour": 6,
       "fact_text": "New Year’s Day 1901 marked the official birth of the Commonwealth of Australia, as six British colonies federated into a single nation and Edmund Barton became its first prime minister. This peaceful unification stitched together distant settlements into a new continental identity under one flag.",
@@ -659,9 +634,33 @@
         ]
       },
       "match_reason": "An entire nation resynchronising its sense of time fits with the episode’s idea of adjusting our internal tempo and finding a calmer planetary rhythm."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On the first day of 1900, Britain declared Nigeria a protectorate, formalizing colonial rule over a vast, culturally diverse region in West Africa. This act reshaped borders and identities, setting the stage for both exploitation and later independence movements that would transform the continent.",
+      "fact_year": 1900,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nigeria",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "Nigeria’s colonial history and later independence struggles are deeply woven into Afrobeat’s political grooves, making this episode a cultural and musical echo of that turning point."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T04:00:01.033347+00:00"
+  "updated_at": "2026-01-01T05:00:01.397452+00:00"
 }
