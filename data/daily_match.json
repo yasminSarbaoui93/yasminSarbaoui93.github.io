@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "That same New Year’s Day in 1776, Norfolk, Virginia was deliberately burned during a chaotic clash of the Royal Navy and Continental forces. The city was largely destroyed, demonstrating how a war for independence could consume the very communities it sought to free.",
-    "fact_year": 1776,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burning_of_Norfolk",
+    "hour": 16,
+    "fact_text": "On January 1, 1945, the German Luftwaffe launched Operation Bodenplatte, a surprise air offensive meant to cripple Allied air power in one audacious blow. Instead, the operation backfired, costing Germany hundreds of pilots it could not replace and hastening the collapse of its air force.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Bodenplatte",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "The destruction of a home city and the need to move on connects with this episode’s reflective travel theme and search for new ‘places’ after rupture."
+    "match_reason": "Factories, steel, and the machinery of war connect this aerial offensive to Sheffield’s ‘Steel City’ sonic landscape, where industry and conflict echo in electronic and industrial sounds."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On January 1, 1945, the German Luftwaffe launched Operation Bodenplatte, a surprise air offensive meant to cripple Allied air power in one audacious blow. Instead, the operation backfired, costing Germany hundreds of pilots it could not replace and hastening the collapse of its air force.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Bodenplatte",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "Factories, steel, and the machinery of war connect this aerial offensive to Sheffield’s ‘Steel City’ sonic landscape, where industry and conflict echo in electronic and industrial sounds."
-    },
     {
       "hour": 17,
       "fact_text": "On New Year’s Day 1725, Johann Sebastian Bach premiered his chorale cantata \"Jesu, nun sei gepreiset\" (BWV 41), framing the turning of the year with bright trumpet fanfares that return triumphantly at the end. It was designed as a musical arc of gratitude and hope, wrapping a congregation in sound as they stepped into the unknown of a new year.",
@@ -648,9 +623,34 @@
         ]
       },
       "match_reason": "The destruction of a home city and the need to move on connects with this episode’s reflective travel theme and search for new ‘places’ after rupture."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On January 1, 1945, the German Luftwaffe launched Operation Bodenplatte, a surprise air offensive meant to cripple Allied air power in one audacious blow. Instead, the operation backfired, costing Germany hundreds of pilots it could not replace and hastening the collapse of its air force.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Bodenplatte",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "Factories, steel, and the machinery of war connect this aerial offensive to Sheffield’s ‘Steel City’ sonic landscape, where industry and conflict echo in electronic and industrial sounds."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T15:00:01.483061+00:00"
+  "updated_at": "2026-01-01T16:00:01.379699+00:00"
 }
