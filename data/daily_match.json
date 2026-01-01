@@ -1,65 +1,40 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is now considered one of the most remote islands on Earth. Completely uninhabited and mostly covered by glaciers, it’s a place where the idea of 'isolation' becomes almost absolute.",
-    "fact_year": 1739,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bouvet_Island",
+    "hour": 3,
+    "fact_text": "On this day in 1818, Mary Shelley’s 'Frankenstein; or, The Modern Prometheus' was first published anonymously in London. Blending early science-fiction with Gothic horror, it raised haunting questions about creation, responsibility, and what it really means to be human.",
+    "fact_year": 1818,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The extreme remoteness and icy stillness of Bouvet Island resonate with the episode’s slow, spacious, planetary calm."
+    "match_reason": "Frankenstein explores constructed identities and 'playing god,' echoing the episode’s fascination with alter-egos and invented selves."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 1818, Mary Shelley’s 'Frankenstein; or, The Modern Prometheus' was first published anonymously in London. Blending early science-fiction with Gothic horror, it raised haunting questions about creation, responsibility, and what it really means to be human.",
-      "fact_year": 1818,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Frankenstein explores constructed identities and 'playing god,' echoing the episode’s fascination with alter-egos and invented selves."
-    },
     {
       "hour": 4,
       "fact_text": "On January 1, 1995, sensors on the Draupner oil platform in the North Sea recorded a single, towering wave about 26 meters high—the Draupner wave. This direct measurement proved that 'freak waves', long dismissed as sailors’ tales, really do rise from the ocean seemingly out of nowhere.",
@@ -636,9 +611,43 @@
         ]
       },
       "match_reason": "The extreme remoteness and icy stillness of Bouvet Island resonate with the episode’s slow, spacious, planetary calm."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1818, Mary Shelley’s 'Frankenstein; or, The Modern Prometheus' was first published anonymously in London. Blending early science-fiction with Gothic horror, it raised haunting questions about creation, responsibility, and what it really means to be human.",
+      "fact_year": 1818,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Frankenstein explores constructed identities and 'playing god,' echoing the episode’s fascination with alter-egos and invented selves."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T02:00:01.225243+00:00"
+  "updated_at": "2026-01-01T03:00:01.213678+00:00"
 }
