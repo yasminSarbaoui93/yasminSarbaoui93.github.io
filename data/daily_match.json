@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1801, Italian astronomer and priest Giuseppe Piazzi spotted a tiny moving point of light that turned out to be Ceres — the first and largest known object in the asteroid belt, and now classified as a dwarf planet. For a time it was even considered a new planet, quietly reshaping humanity’s map of the Solar System at the dawn of the 19th century.",
-    "fact_year": 1801,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+    "hour": 1,
+    "fact_text": "On January 1, 1998, Argentinian physicist Juan Maldacena published his groundbreaking paper on the AdS/CFT correspondence, proposing a deep link between gravity in curved space-time and quantum field theories without gravity. This bold idea suggested that our universe might be describable by a kind of hologram, inspiring decades of research into the nature of reality.",
+    "fact_year": 1998,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Indie Rock",
+        "Psychedelic Rock",
         "Electronic",
-        "Garage Rock"
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A literal ‘space shift’: the discovery of Ceres expanded our sense of cosmic space, fitting the episode’s theme of reimagining emptiness as creative potential."
+    "match_reason": "Both the AdS/CFT correspondence and this episode ask us to rethink what’s ‘real’—whether it’s spacetime as a hologram or our lives mediated through screens and networks."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 1, 1998, Argentinian physicist Juan Maldacena published his groundbreaking paper on the AdS/CFT correspondence, proposing a deep link between gravity in curved space-time and quantum field theories without gravity. This bold idea suggested that our universe might be describable by a kind of hologram, inspiring decades of research into the nature of reality.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Both the AdS/CFT correspondence and this episode ask us to rethink what’s ‘real’—whether it’s spacetime as a hologram or our lives mediated through screens and networks."
-    },
     {
       "hour": 2,
       "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is often called the most remote island on Earth. Surrounded by treacherous seas and cloaked in ice, it remains uninhabited — a lonely outpost at the edge of the human map.",
@@ -657,9 +634,34 @@
         ]
       },
       "match_reason": "A literal ‘space shift’: the discovery of Ceres expanded our sense of cosmic space, fitting the episode’s theme of reimagining emptiness as creative potential."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 1, 1998, Argentinian physicist Juan Maldacena published his groundbreaking paper on the AdS/CFT correspondence, proposing a deep link between gravity in curved space-time and quantum field theories without gravity. This bold idea suggested that our universe might be describable by a kind of hologram, inspiring decades of research into the nature of reality.",
+      "fact_year": 1998,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Both the AdS/CFT correspondence and this episode ask us to rethink what’s ‘real’—whether it’s spacetime as a hologram or our lives mediated through screens and networks."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T00:01:10.271362+00:00"
+  "updated_at": "2026-01-01T01:00:01.448621+00:00"
 }
