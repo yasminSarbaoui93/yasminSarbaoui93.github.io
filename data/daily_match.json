@@ -1,50 +1,25 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On January 1, 1945, while the war still raged, a very different kind of international project was about to take shape in Europe — but decades later, the story of unity would be told not with planes and armies, but with trade and treaties. Operation Bodenplatte’s failure hastened the end of old empires and indirectly cleared space for the postwar European experiment that would come.",
-    "fact_year": 1945,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+    "hour": 20,
+    "fact_text": "On New Year’s Day 2024, a magnitude 7.5 earthquake struck Japan’s Noto Peninsula, toppling homes and triggering landslides that killed more than 500 people. Many victims died when traditional wooden houses collapsed, revealing how seismic forces exploit the smallest structural weaknesses.",
+    "fact_year": 2024,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2024_Noto_earthquake",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "song 1"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "genre 1"
       ]
     },
-    "match_reason": "World War II’s devastation paved the way for new, boundary-blurring cultures; trip‑hop arose in that later Europe and sonically collages a world reshaped by the war’s end."
+    "match_reason": "The earthquake’s tragic reminder of fragility stands in stark contrast to wabi‑sabi’s gentle embrace of imperfection, inviting a deeper reflection on what breaks and what we choose to mend."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On New Year’s Day 2024, a magnitude 7.5 earthquake struck Japan’s Noto Peninsula, toppling homes and triggering landslides that killed more than 500 people. Many victims died when traditional wooden houses collapsed, revealing how seismic forces exploit the smallest structural weaknesses.",
-      "fact_year": 2024,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2024_Noto_earthquake",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "The earthquake’s tragic reminder of fragility stands in stark contrast to wabi‑sabi’s gentle embrace of imperfection, inviting a deeper reflection on what breaks and what we choose to mend."
-    },
     {
       "hour": 21,
       "fact_text": "New Year’s Day also marks the quiet anniversaries of nations whose calendars once defined the seas: Ferdinand Magellan reached the Philippines in 1521, inadvertently setting its clocks a day adrift from Asia for centuries. His voyage stitched the first full circle around Earth, proving our planet could be navigated as one continuous world.",
@@ -648,9 +623,28 @@
         ]
       },
       "match_reason": "World War II’s devastation paved the way for new, boundary-blurring cultures; trip‑hop arose in that later Europe and sonically collages a world reshaped by the war’s end."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On New Year’s Day 2024, a magnitude 7.5 earthquake struck Japan’s Noto Peninsula, toppling homes and triggering landslides that killed more than 500 people. Many victims died when traditional wooden houses collapsed, revealing how seismic forces exploit the smallest structural weaknesses.",
+      "fact_year": 2024,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2024_Noto_earthquake",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "The earthquake’s tragic reminder of fragility stands in stark contrast to wabi‑sabi’s gentle embrace of imperfection, inviting a deeper reflection on what breaks and what we choose to mend."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T19:00:01.259618+00:00"
+  "updated_at": "2026-01-01T20:00:01.370699+00:00"
 }
