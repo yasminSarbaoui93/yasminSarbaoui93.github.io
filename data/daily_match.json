@@ -1,64 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "Just a year later, on New Year’s Day 1726, Bach unveiled another festive New Year cantata, \"Herr Gott, dich loben wir\" (BWV 16), based on a German Te Deum. It turned liturgy into an intricate tapestry of voices, marking the calendar’s reset with gratitude and intricate musical architecture.",
-    "fact_year": 1726,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_16",
+    "hour": 19,
+    "fact_text": "On January 1, 1945, while the war still raged, a very different kind of international project was about to take shape in Europe — but decades later, the story of unity would be told not with planes and armies, but with trade and treaties. Operation Bodenplatte’s failure hastened the end of old empires and indirectly cleared space for the postwar European experiment that would come.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Bach’s New Year ‘launch’ of a major sacred work mirrors Sedna FM’s own first explosive episode — both are foundational, energetic openings to everything that follows."
+    "match_reason": "World War II’s devastation paved the way for new, boundary-blurring cultures; trip‑hop arose in that later Europe and sonically collages a world reshaped by the war’s end."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On January 1, 1945, while the war still raged, a very different kind of international project was about to take shape in Europe — but decades later, the story of unity would be told not with planes and armies, but with trade and treaties. Operation Bodenplatte’s failure hastened the end of old empires and indirectly cleared space for the postwar European experiment that would come.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "World War II’s devastation paved the way for new, boundary-blurring cultures; trip‑hop arose in that later Europe and sonically collages a world reshaped by the war’s end."
-    },
     {
       "hour": 20,
       "fact_text": "On New Year’s Day 2024, a magnitude 7.5 earthquake struck Japan’s Noto Peninsula, toppling homes and triggering landslides that killed more than 500 people. Many victims died when traditional wooden houses collapsed, revealing how seismic forces exploit the smallest structural weaknesses.",
@@ -656,9 +623,34 @@
         ]
       },
       "match_reason": "Bach’s New Year ‘launch’ of a major sacred work mirrors Sedna FM’s own first explosive episode — both are foundational, energetic openings to everything that follows."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On January 1, 1945, while the war still raged, a very different kind of international project was about to take shape in Europe — but decades later, the story of unity would be told not with planes and armies, but with trade and treaties. Operation Bodenplatte’s failure hastened the end of old empires and indirectly cleared space for the postwar European experiment that would come.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "World War II’s devastation paved the way for new, boundary-blurring cultures; trip‑hop arose in that later Europe and sonically collages a world reshaped by the war’s end."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T18:00:01.239107+00:00"
+  "updated_at": "2026-01-01T19:00:01.259618+00:00"
 }
