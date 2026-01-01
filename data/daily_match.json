@@ -1,55 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1845, the Philippines skipped an entire day—Tuesday, December 31, 1844—when Governor-General Narciso Clavería ordered the calendar to jump forward. This correction ended a 323‑year quirk in which the archipelago’s date lagged one day behind much of the rest of Asia, a relic of early global navigation routes.",
-    "fact_year": 1845,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Narciso_Claver%C3%ADa_y_Zald%C3%BAa",
+    "hour": 6,
+    "fact_text": "On this day in 1989, the Montreal Protocol came into force, binding countries to phase out chemicals that were tearing a hole in Earth’s ozone layer. It’s now seen as one of humanity’s most successful environmental agreements, showing that global cooperation can actually help heal the atmosphere.",
+    "fact_year": 1989,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Montreal_Protocol",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A nation literally shifting its place in time mirrors the episode’s theme of travel, altered rhythm, and seeing the world differently after a change in route."
+    "match_reason": "A rare success story in environmental cooperation pairs well with Afrobeat’s politically conscious energy and celebration of collective power."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On this day in 1989, the Montreal Protocol came into force, binding countries to phase out chemicals that were tearing a hole in Earth’s ozone layer. It’s now seen as one of humanity’s most successful environmental agreements, showing that global cooperation can actually help heal the atmosphere.",
-      "fact_year": 1989,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Montreal_Protocol",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A rare success story in environmental cooperation pairs well with Afrobeat’s politically conscious energy and celebration of collective power."
-    },
     {
       "hour": 7,
       "fact_text": "On January 1, 1901, six British colonies—New South Wales, Queensland, Victoria, South Australia, Tasmania, and Western Australia—united to form the Commonwealth of Australia. Overnight, a patchwork of far‑flung colonies became a single federated nation with its own parliament and a new sense of shared identity.",
@@ -636,9 +611,33 @@
         ]
       },
       "match_reason": "A nation literally shifting its place in time mirrors the episode’s theme of travel, altered rhythm, and seeing the world differently after a change in route."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On this day in 1989, the Montreal Protocol came into force, binding countries to phase out chemicals that were tearing a hole in Earth’s ozone layer. It’s now seen as one of humanity’s most successful environmental agreements, showing that global cooperation can actually help heal the atmosphere.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A rare success story in environmental cooperation pairs well with Afrobeat’s politically conscious energy and celebration of collective power."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T05:00:01.275736+00:00"
+  "updated_at": "2026-01-01T06:00:01.302631+00:00"
 }
