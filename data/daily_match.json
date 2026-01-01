@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1801, Italian astronomer and priest Giuseppe Piazzi spotted what he thought was a new star but turned out to be Ceres, the first and largest object discovered in the asteroid belt. For a time it was even classified as a planet before being redefined as a dwarf planet as our understanding of the Solar System evolved.",
-    "fact_year": 1801,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+    "hour": 1,
+    "fact_text": "On January 1, 1998, physicist Juan Maldacena published a paper that ignited the study of the AdS/CFT correspondence, proposing a deep link between a theory of gravity in a curved space and a quantum field theory without gravity on its boundary. This surprising 'holographic' duality suggests that our universe might be describable in fewer dimensions than it appears.",
+    "fact_year": 1998,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A cosmic discovery that turned 'empty' space between Mars and Jupiter into a new kind of world fits the episode’s theme of reimagining emptiness as creative space."
+    "match_reason": "AdS/CFT erases the boundary between gravity and field theory just as trip‑hop blurs lines between genres, creating a layered, cinematic atmosphere suited to thinking about extra dimensions."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 1, 1998, physicist Juan Maldacena published a paper that ignited the study of the AdS/CFT correspondence, proposing a deep link between a theory of gravity in a curved space and a quantum field theory without gravity on its boundary. This surprising 'holographic' duality suggests that our universe might be describable in fewer dimensions than it appears.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "AdS/CFT erases the boundary between gravity and field theory just as trip‑hop blurs lines between genres, creating a layered, cinematic atmosphere suited to thinking about extra dimensions."
-    },
     {
       "hour": 2,
       "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is now considered one of the most remote islands on Earth. Completely uninhabited and mostly covered by glaciers, it’s a place where the idea of 'isolation' becomes almost absolute.",
@@ -634,9 +611,34 @@
         ]
       },
       "match_reason": "A cosmic discovery that turned 'empty' space between Mars and Jupiter into a new kind of world fits the episode’s theme of reimagining emptiness as creative space."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 1, 1998, physicist Juan Maldacena published a paper that ignited the study of the AdS/CFT correspondence, proposing a deep link between a theory of gravity in a curved space and a quantum field theory without gravity on its boundary. This surprising 'holographic' duality suggests that our universe might be describable in fewer dimensions than it appears.",
+      "fact_year": 1998,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AdS/CFT_correspondence",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "AdS/CFT erases the boundary between gravity and field theory just as trip‑hop blurs lines between genres, creating a layered, cinematic atmosphere suited to thinking about extra dimensions."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T00:01:02.996613+00:00"
+  "updated_at": "2026-01-01T01:00:01.083570+00:00"
 }
