@@ -1,6 +1,9 @@
 # Azure Function local settings (contains secrets)
 api/local.settings.json
 
+# Episodes data (copied from data/episodes.json during deployment)
+episodes.json
+
 # Python
 __pycache__/
 *.py[cod]
