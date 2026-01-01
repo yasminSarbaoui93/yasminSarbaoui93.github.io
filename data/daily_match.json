@@ -1,50 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On New Year’s Day 2024, a magnitude 7.5 earthquake struck Japan’s Noto Peninsula, toppling homes and triggering landslides that killed more than 500 people. Many victims died when traditional wooden houses collapsed, revealing how seismic forces exploit the smallest structural weaknesses.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2024_Noto_earthquake",
+    "hour": 21,
+    "fact_text": "New Year’s Day also marks the quiet anniversaries of nations whose calendars once defined the seas: Ferdinand Magellan reached the Philippines in 1521, inadvertently setting its clocks a day adrift from Asia for centuries. His voyage stitched the first full circle around Earth, proving our planet could be navigated as one continuous world.",
+    "fact_year": 1521,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "song 1"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "genre 1"
+        "Afrobeat",
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "The earthquake’s tragic reminder of fragility stands in stark contrast to wabi‑sabi’s gentle embrace of imperfection, inviting a deeper reflection on what breaks and what we choose to mend."
+    "match_reason": "Magellan’s global loop foreshadows the hyper-connected London of this episode, where sounds from across the world meet in one city over a single wandering weekend."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "New Year’s Day also marks the quiet anniversaries of nations whose calendars once defined the seas: Ferdinand Magellan reached the Philippines in 1521, inadvertently setting its clocks a day adrift from Asia for centuries. His voyage stitched the first full circle around Earth, proving our planet could be navigated as one continuous world.",
-      "fact_year": 1521,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Magellan’s global loop foreshadows the hyper-connected London of this episode, where sounds from across the world meet in one city over a single wandering weekend."
-    },
     {
       "hour": 22,
       "fact_text": "On January 1, 1801 and 1901, astronomers and politicians alike were marking new beginnings — but for the Philippines, that date is forever tied to the decision in 1845 to delete a day from its calendar. The country’s three-century-long temporal ‘glitch’ is a quiet reminder that even time zones are human stories laid over a spinning rock.",
@@ -642,9 +623,34 @@
         ]
       },
       "match_reason": "The earthquake’s tragic reminder of fragility stands in stark contrast to wabi‑sabi’s gentle embrace of imperfection, inviting a deeper reflection on what breaks and what we choose to mend."
+    },
+    {
+      "hour": 21,
+      "fact_text": "New Year’s Day also marks the quiet anniversaries of nations whose calendars once defined the seas: Ferdinand Magellan reached the Philippines in 1521, inadvertently setting its clocks a day adrift from Asia for centuries. His voyage stitched the first full circle around Earth, proving our planet could be navigated as one continuous world.",
+      "fact_year": 1521,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Magellan’s global loop foreshadows the hyper-connected London of this episode, where sounds from across the world meet in one city over a single wandering weekend."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T20:00:01.195137+00:00"
+  "updated_at": "2026-01-01T21:00:01.226059+00:00"
 }
