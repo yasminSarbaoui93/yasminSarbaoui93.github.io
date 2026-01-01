@@ -1,65 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1818, Mary Shelley’s 'Frankenstein; or, The Modern Prometheus' was first published anonymously in London. Blending early science-fiction with Gothic horror, it raised haunting questions about creation, responsibility, and what it really means to be human.",
-    "fact_year": 1818,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
+    "hour": 4,
+    "fact_text": "On January 1, 1995, sensors on the Draupner oil platform in the North Sea recorded a single, towering wave about 26 meters high—the Draupner wave. This direct measurement proved that 'freak waves', long dismissed as sailors’ tales, really do rise from the ocean seemingly out of nowhere.",
+    "fact_year": 1995,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Draupner_wave",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "Frankenstein explores constructed identities and 'playing god,' echoing the episode’s fascination with alter-egos and invented selves."
+    "match_reason": "A mysterious rogue wave and an episode built around water, immersion, and hidden depths make for an intuitive oceanic pairing."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On January 1, 1995, sensors on the Draupner oil platform in the North Sea recorded a single, towering wave about 26 meters high—the Draupner wave. This direct measurement proved that 'freak waves', long dismissed as sailors’ tales, really do rise from the ocean seemingly out of nowhere.",
-      "fact_year": 1995,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Draupner_wave",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A mysterious rogue wave and an episode built around water, immersion, and hidden depths make for an intuitive oceanic pairing."
-    },
     {
       "hour": 5,
       "fact_text": "In 1845, the Philippines skipped an entire day—Tuesday, December 31, 1844—when Governor-General Narciso Clavería ordered the calendar to jump forward. This correction ended a 323‑year quirk in which the archipelago’s date lagged one day behind much of the rest of Asia, a relic of early global navigation routes.",
@@ -645,9 +611,34 @@
         ]
       },
       "match_reason": "Frankenstein explores constructed identities and 'playing god,' echoing the episode’s fascination with alter-egos and invented selves."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On January 1, 1995, sensors on the Draupner oil platform in the North Sea recorded a single, towering wave about 26 meters high—the Draupner wave. This direct measurement proved that 'freak waves', long dismissed as sailors’ tales, really do rise from the ocean seemingly out of nowhere.",
+      "fact_year": 1995,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Draupner_wave",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A mysterious rogue wave and an episode built around water, immersion, and hidden depths make for an intuitive oceanic pairing."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T03:00:01.213678+00:00"
+  "updated_at": "2026-01-01T04:00:01.170815+00:00"
 }
