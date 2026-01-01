@@ -1,56 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On January 1, 1901, six British colonies—New South Wales, Queensland, Victoria, South Australia, Tasmania, and Western Australia—united to form the Commonwealth of Australia. Overnight, a patchwork of far‑flung colonies became a single federated nation with its own parliament and a new sense of shared identity.",
-    "fact_year": 1901,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Australia",
+    "hour": 8,
+    "fact_text": "On this day in 1962, Western Samoa became independent from New Zealand, taking the name Independent State of Western Samoa and later simply Samoa. It was the first Pacific Island nation to reclaim full sovereignty in the 20th century, inspiring other island territories to imagine their own political futures.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samoa",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A story of coasts, colonies, and a new maritime nation aligns with an episode themed around seafaring cultures and shared waters."
+    "match_reason": "An island stepping into its own sovereignty evokes long summers, oceans, and a relaxed but quietly powerful sense of place mirrored by the episode’s warm, expansive jazz."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On this day in 1962, Western Samoa became independent from New Zealand, taking the name Independent State of Western Samoa and later simply Samoa. It was the first Pacific Island nation to reclaim full sovereignty in the 20th century, inspiring other island territories to imagine their own political futures.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samoa",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "An island stepping into its own sovereignty evokes long summers, oceans, and a relaxed but quietly powerful sense of place mirrored by the episode’s warm, expansive jazz."
-    },
     {
       "hour": 9,
       "fact_text": "On January 1, 1725, Johann Sebastian Bach premiered his chorale cantata 'Jesu, nun sei gepreiset', BWV 41, for New Year’s Day in Leipzig. The work is notable for its festive trumpet fanfares that return at the end, bookending the year’s first service with brilliant sound.",
@@ -636,9 +611,34 @@
         ]
       },
       "match_reason": "A story of coasts, colonies, and a new maritime nation aligns with an episode themed around seafaring cultures and shared waters."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On this day in 1962, Western Samoa became independent from New Zealand, taking the name Independent State of Western Samoa and later simply Samoa. It was the first Pacific Island nation to reclaim full sovereignty in the 20th century, inspiring other island territories to imagine their own political futures.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Samoa",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "An island stepping into its own sovereignty evokes long summers, oceans, and a relaxed but quietly powerful sense of place mirrored by the episode’s warm, expansive jazz."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.007942+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T07:00:01.095191+00:00"
+  "updated_at": "2026-01-01T08:00:01.200083+00:00"
 }
