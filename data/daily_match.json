@@ -1,65 +1,40 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1739, French explorer Jean-Baptiste Charles Bouvet de Lozier stumbled upon Bouvet Island, a tiny volcanic speck in the South Atlantic that is often called the most remote island on Earth. Surrounded by treacherous seas and cloaked in ice, it remains uninhabited — a lonely outpost at the edge of the human map.",
-    "fact_year": 1739,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bouvet_Island",
+    "hour": 3,
+    "fact_text": "On New Year's Day 1818, an anonymous novel titled \"Frankenstein; or, The Modern Prometheus\" appeared in London, quietly revolutionizing literature. Mary Shelley’s tale of a scientist who assembles life from dead matter helped invent science fiction, asking how far human curiosity and responsibility should reach.",
+    "fact_year": 1818,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "Remote, icy seas connect Bouvet Island with the Arctic waters of the orca dives; both evoke cold horizons, isolation, and fragile life at Earth’s edges."
+    "match_reason": "Frankenstein’s creature is a stitched-together ‘alter being’ and a reflection of his maker, mirroring the episode’s exploration of alter-egos and parallel identities."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On New Year's Day 1818, an anonymous novel titled \"Frankenstein; or, The Modern Prometheus\" appeared in London, quietly revolutionizing literature. Mary Shelley’s tale of a scientist who assembles life from dead matter helped invent science fiction, asking how far human curiosity and responsibility should reach.",
-      "fact_year": 1818,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Frankenstein’s creature is a stitched-together ‘alter being’ and a reflection of his maker, mirroring the episode’s exploration of alter-egos and parallel identities."
-    },
     {
       "hour": 4,
       "fact_text": "On January 1, 1845, the Philippines literally jumped a day forward, skipping December 31, 1844, to realign its calendar with the rest of Asia. For 323 years it had been one day out of sync because of how the first Spanish expedition crossed the globe, meaning an entire country quietly lived in a different yesterday.",
@@ -659,9 +634,43 @@
         ]
       },
       "match_reason": "Remote, icy seas connect Bouvet Island with the Arctic waters of the orca dives; both evoke cold horizons, isolation, and fragile life at Earth’s edges."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On New Year's Day 1818, an anonymous novel titled \"Frankenstein; or, The Modern Prometheus\" appeared in London, quietly revolutionizing literature. Mary Shelley’s tale of a scientist who assembles life from dead matter helped invent science fiction, asking how far human curiosity and responsibility should reach.",
+      "fact_year": 1818,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Frankenstein",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Frankenstein’s creature is a stitched-together ‘alter being’ and a reflection of his maker, mirroring the episode’s exploration of alter-egos and parallel identities."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T02:00:01.359354+00:00"
+  "updated_at": "2026-01-01T03:00:00.995779+00:00"
 }
