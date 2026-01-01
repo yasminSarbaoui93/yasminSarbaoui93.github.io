@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On January 1, 1989, the Montreal Protocol came into force, committing the world to phasing out ozone-depleting chemicals like CFCs. It became a rare example of global environmental cooperation that actually worked, slowly healing the protective ozone layer that shields life from damaging ultraviolet radiation.",
-    "fact_year": 1989,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+    "hour": 11,
+    "fact_text": "On New Year’s Day 1978, Air India Flight 855, a Boeing 747 departing Bombay, plunged into the Arabian Sea shortly after takeoff due to instrument failure, spatial disorientation, and pilot error. In barely minutes, 213 lives were lost — a stark reminder of how fragile high-tech systems can be when human perception is pushed to its limits.",
+    "fact_year": 1978,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Air_India_Flight_855",
     "episode": {
-      "id": 29,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Dub and roots reggae often carry environmental and anti-\"Babylon\" messages; this woodsy, back-to-nature episode mirrors the treaty’s attempt to protect Earth’s atmospheric ‘roof.’"
+    "match_reason": "The violent suddenness of the crash and its mix of technology and human error finds a dark echo in this high-voltage rock set, like a jolt that snaps us into awareness."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On New Year’s Day 1978, Air India Flight 855, a Boeing 747 departing Bombay, plunged into the Arabian Sea shortly after takeoff due to instrument failure, spatial disorientation, and pilot error. In barely minutes, 213 lives were lost — a stark reminder of how fragile high-tech systems can be when human perception is pushed to its limits.",
-      "fact_year": 1978,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Air_India_Flight_855",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The violent suddenness of the crash and its mix of technology and human error finds a dark echo in this high-voltage rock set, like a jolt that snaps us into awareness."
-    },
     {
       "hour": 12,
       "fact_text": "On January 1, 1995, instruments on an oil platform in the North Sea recorded the Draupner wave — a single, towering wall of water nearly 26 meters high. Long dismissed as sailors’ exaggerations, this rare ‘freak wave’ was the first solid proof that rogue giants do erupt from seemingly ordinary seas.",
@@ -658,9 +634,34 @@
         ]
       },
       "match_reason": "Dub and roots reggae often carry environmental and anti-\"Babylon\" messages; this woodsy, back-to-nature episode mirrors the treaty’s attempt to protect Earth’s atmospheric ‘roof.’"
+    },
+    {
+      "hour": 11,
+      "fact_text": "On New Year’s Day 1978, Air India Flight 855, a Boeing 747 departing Bombay, plunged into the Arabian Sea shortly after takeoff due to instrument failure, spatial disorientation, and pilot error. In barely minutes, 213 lives were lost — a stark reminder of how fragile high-tech systems can be when human perception is pushed to its limits.",
+      "fact_year": 1978,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Air_India_Flight_855",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The violent suddenness of the crash and its mix of technology and human error finds a dark echo in this high-voltage rock set, like a jolt that snaps us into awareness."
     }
   ],
   "generated_at": "2026-01-01T00:00:00.037642+00:00",
   "date": "2026-01-01",
-  "updated_at": "2026-01-01T10:00:01.207968+00:00"
+  "updated_at": "2026-01-01T11:00:01.476429+00:00"
 }
