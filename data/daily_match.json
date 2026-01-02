@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "The second Ibrox disaster in 1971 began with a simple assumption that a match was over; fans started leaving just as Rangers scored a dramatic late equalizer. The surge of ecstatic supporters reversing direction on a stairway led to a fatal crush that killed 66 people, reshaping stadium safety standards across the UK.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1971_Ibrox_disaster",
+    "hour": 16,
+    "fact_text": "In 1963, at the Battle of Ap Bac, lightly equipped Viet Cong guerrillas used careful planning, muddy rice paddies, and hidden trenches to defeat a better-armed South Vietnamese and U.S.-advised force. Their unexpected victory shattered assumptions about the war’s trajectory and signaled that technology alone would not decide Vietnam’s fate.",
+    "fact_year": 1963,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ap_Bac",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A tragic crowd crush at a Glasgow football match sits under the same Scottish skies this episode explores; the gentle, reflective music offers space to remember and honor those lost in a national sporting tragedy."
+    "match_reason": "Ap Bac’s underdog guerrilla victory echoes the spirit of Tuareg desert blues—music forged in struggle, resistance, and survival far from conventional centers of power."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1963, at the Battle of Ap Bac, lightly equipped Viet Cong guerrillas used careful planning, muddy rice paddies, and hidden trenches to defeat a better-armed South Vietnamese and U.S.-advised force. Their unexpected victory shattered assumptions about the war’s trajectory and signaled that technology alone would not decide Vietnam’s fate.",
-      "fact_year": 1963,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ap_Bac",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Ap Bac’s underdog guerrilla victory echoes the spirit of Tuareg desert blues—music forged in struggle, resistance, and survival far from conventional centers of power."
-    },
     {
       "hour": 17,
       "fact_text": "On January 2, 1955, Panama’s vice president José Ramón Guizado was hurriedly sworn in after President José Antonio Remón Cantera was assassinated—only to be arrested weeks later amid accusations of involvement in the plot. The rapid succession turned the presidency into a revolving door, exposing how fragile political legitimacy can be.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "A tragic crowd crush at a Glasgow football match sits under the same Scottish skies this episode explores; the gentle, reflective music offers space to remember and honor those lost in a national sporting tragedy."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1963, at the Battle of Ap Bac, lightly equipped Viet Cong guerrillas used careful planning, muddy rice paddies, and hidden trenches to defeat a better-armed South Vietnamese and U.S.-advised force. Their unexpected victory shattered assumptions about the war’s trajectory and signaled that technology alone would not decide Vietnam’s fate.",
+      "fact_year": 1963,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ap_Bac",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Ap Bac’s underdog guerrilla victory echoes the spirit of Tuareg desert blues—music forged in struggle, resistance, and survival far from conventional centers of power."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T15:00:01.273848+00:00"
+  "updated_at": "2026-01-02T16:00:01.030059+00:00"
 }
