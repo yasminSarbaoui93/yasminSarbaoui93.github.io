@@ -1,64 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On January 2, 1967, former Hollywood actor Ronald Reagan stood on the steps of the California State Capitol and was sworn in as governor, beginning the political journey that would carry him to the U.S. presidency. His transition from screen star to head of state helped pioneer the modern blend of entertainment, media, and politics.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+    "hour": 5,
+    "fact_text": "In 1776, Maria Theresa of Austria quietly signed away one of the darkest tools of state power by amending her criminal code to abolish torture in the Habsburg domains. At a time when judicial torture was still widely accepted in Europe, this legal shift marked an early and influential move toward more humane justice.",
+    "fact_year": 1776,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Theresa",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
+        "New Wave",
+        "Neo-Soul",
         "R&B",
-        "Latin Rap"
+        "Italian Pop"
       ]
     },
-    "match_reason": "Reagan’s inauguration marks a powerful \"first step\" toward a new role, paralleling Sedna FM’s own first, high-energy episode that launched a new creative chapter."
+    "match_reason": "An Empress using her power to reduce cruelty fits with an episode honoring strong, transformative women whose voices challenge injustice and redefine power."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1776, Maria Theresa of Austria quietly signed away one of the darkest tools of state power by amending her criminal code to abolish torture in the Habsburg domains. At a time when judicial torture was still widely accepted in Europe, this legal shift marked an early and influential move toward more humane justice.",
-      "fact_year": 1776,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Theresa",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "An Empress using her power to reduce cruelty fits with an episode honoring strong, transformative women whose voices challenge injustice and redefine power."
-    },
     {
       "hour": 6,
       "fact_text": "On January 2, 2024, two planes collided on a runway at Tokyo’s Haneda Airport, setting one aircraft ablaze and sending flames and smoke across one of the world’s busiest hubs. Thanks to rapid evacuation, almost all passengers survived, turning a devastating error into a rare aviation disaster where emergency procedures truly worked.",
@@ -660,9 +627,34 @@
         ]
       },
       "match_reason": "Reagan’s inauguration marks a powerful \"first step\" toward a new role, paralleling Sedna FM’s own first, high-energy episode that launched a new creative chapter."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1776, Maria Theresa of Austria quietly signed away one of the darkest tools of state power by amending her criminal code to abolish torture in the Habsburg domains. At a time when judicial torture was still widely accepted in Europe, this legal shift marked an early and influential move toward more humane justice.",
+      "fact_year": 1776,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Theresa",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "An Empress using her power to reduce cruelty fits with an episode honoring strong, transformative women whose voices challenge injustice and redefine power."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T04:00:01.254274+00:00"
+  "updated_at": "2026-01-02T05:00:01.350563+00:00"
 }
