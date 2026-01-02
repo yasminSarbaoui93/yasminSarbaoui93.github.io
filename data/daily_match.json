@@ -1,54 +1,29 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On January 2, 2024, two planes collided on a runway at Tokyo’s Haneda Airport, setting one aircraft ablaze and sending flames and smoke across one of the world’s busiest hubs. Thanks to rapid evacuation, almost all passengers survived, turning a devastating error into a rare aviation disaster where emergency procedures truly worked.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2024_Haneda_Airport_runway_collision",
+    "hour": 7,
+    "fact_text": "In 1954, newly independent India created its highest civilian honors, the Bharat Ratna and the Padma Vibhushan, to recognize extraordinary service to the nation. These awards quietly turned scientists, artists, and activists into cultural north stars, signaling that shaping a country’s soul can matter as much as wielding formal power.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bharat_Ratna",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 7,
+      "title": "Morning Drops #01 - Timeless Legacy",
+      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Roberta Flack - Killing me softly with his song",
+        "Stone, Angie & Raphael Saadiq - Brotha",
+        "Roy Ayers - Running Away (Extended)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Soul",
+        "R&B",
+        "Jazz-Funk"
       ]
     },
-    "match_reason": "The sudden, fiery collision and urgent response evoke an \"electric shock\" moment—intense, high-stakes, and charged with adrenaline—mirrored by the episode’s jolt of high-voltage rock."
+    "match_reason": "National honors for lifelong contributions align with an episode about \"timeless legacy,\" celebrating works and people whose impact endures across generations."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1954, newly independent India created its highest civilian honors, the Bharat Ratna and the Padma Vibhushan, to recognize extraordinary service to the nation. These awards quietly turned scientists, artists, and activists into cultural north stars, signaling that shaping a country’s soul can matter as much as wielding formal power.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bharat_Ratna",
-      "episode": {
-        "id": 7,
-        "title": "Morning Drops #01 - Timeless Legacy",
-        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
-        "songs": [
-          "Roberta Flack - Killing me softly with his song",
-          "Stone, Angie & Raphael Saadiq - Brotha",
-          "Roy Ayers - Running Away (Extended)"
-        ],
-        "music-genres": [
-          "Soul",
-          "R&B",
-          "Jazz-Funk"
-        ]
-      },
-      "match_reason": "National honors for lifelong contributions align with an episode about \"timeless legacy,\" celebrating works and people whose impact endures across generations."
-    },
     {
       "hour": 8,
       "fact_text": "During the Cardiff Blitz in 1941, German bombs struck Cardiff’s Catholic cathedral, shattering its roof and stained glass but leaving the core structure standing. The wounded building became a symbol of both vulnerability and resilience, later rebuilt as a quiet testament to a city that refused to break.",
@@ -652,9 +627,32 @@
         ]
       },
       "match_reason": "The sudden, fiery collision and urgent response evoke an \"electric shock\" moment—intense, high-stakes, and charged with adrenaline—mirrored by the episode’s jolt of high-voltage rock."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1954, newly independent India created its highest civilian honors, the Bharat Ratna and the Padma Vibhushan, to recognize extraordinary service to the nation. These awards quietly turned scientists, artists, and activists into cultural north stars, signaling that shaping a country’s soul can matter as much as wielding formal power.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bharat_Ratna",
+      "episode": {
+        "id": 7,
+        "title": "Morning Drops #01 - Timeless Legacy",
+        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+        "songs": [
+          "Roberta Flack - Killing me softly with his song",
+          "Stone, Angie & Raphael Saadiq - Brotha",
+          "Roy Ayers - Running Away (Extended)"
+        ],
+        "music-genres": [
+          "Soul",
+          "R&B",
+          "Jazz-Funk"
+        ]
+      },
+      "match_reason": "National honors for lifelong contributions align with an episode about \"timeless legacy,\" celebrating works and people whose impact endures across generations."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T06:00:01.186704+00:00"
+  "updated_at": "2026-01-02T07:00:01.427300+00:00"
 }
