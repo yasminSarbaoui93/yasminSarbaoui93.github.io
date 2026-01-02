@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "The Gale of January 1976 unleashed a massive storm surge across the southern North Sea, pushing tides up to 3 meters above normal and flooding coastlines from Ireland to Yugoslavia. This single extratropical cyclone damaged over a million homes and quietly reshaped Europe’s relationship with coastal defenses and sea-level risk.",
-    "fact_year": 1976,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gale_of_January_1976",
+    "hour": 3,
+    "fact_text": "In 1921, a small theater in Hradec Králové hosted the world premiere of Karel Čapek’s play R.U.R., which casually introduced a new word to humanity: \"robot.\" Čapek’s artificial workers, created to free people from labor, eventually rebel—seeding a century of stories, fears, and dreams about machines that might outgrow their makers.",
+    "fact_year": 1921,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/R.U.R.",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A catastrophic sea surge and reshaped coasts contrast with an episode built around water, immersion, and fluid motion, turning a story of overwhelming waves into a gentle reflection on the power of the sea."
+    "match_reason": "The birth of the word \"robot\" and anxieties about artificial workers resonates with an episode about our entanglement with digital devices and how technology shapes, and sometimes traps, human life."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1921, a small theater in Hradec Králové hosted the world premiere of Karel Čapek’s play R.U.R., which casually introduced a new word to humanity: \"robot.\" Čapek’s artificial workers, created to free people from labor, eventually rebel—seeding a century of stories, fears, and dreams about machines that might outgrow their makers.",
-      "fact_year": 1921,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/R.U.R.",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The birth of the word \"robot\" and anxieties about artificial workers resonates with an episode about our entanglement with digital devices and how technology shapes, and sometimes traps, human life."
-    },
     {
       "hour": 4,
       "fact_text": "On January 2, 1967, former Hollywood actor Ronald Reagan stood on the steps of the California State Capitol and was sworn in as governor, beginning the political journey that would carry him to the U.S. presidency. His transition from screen star to head of state helped pioneer the modern blend of entertainment, media, and politics.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A catastrophic sea surge and reshaped coasts contrast with an episode built around water, immersion, and fluid motion, turning a story of overwhelming waves into a gentle reflection on the power of the sea."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1921, a small theater in Hradec Králové hosted the world premiere of Karel Čapek’s play R.U.R., which casually introduced a new word to humanity: \"robot.\" Čapek’s artificial workers, created to free people from labor, eventually rebel—seeding a century of stories, fears, and dreams about machines that might outgrow their makers.",
+      "fact_year": 1921,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/R.U.R.",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The birth of the word \"robot\" and anxieties about artificial workers resonates with an episode about our entanglement with digital devices and how technology shapes, and sometimes traps, human life."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T02:00:01.461518+00:00"
+  "updated_at": "2026-01-02T03:00:01.105240+00:00"
 }
