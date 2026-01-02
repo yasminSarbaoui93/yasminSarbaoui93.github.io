@@ -1,55 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "During the Cardiff Blitz in 1941, German bombs struck Cardiff’s Catholic cathedral, shattering its roof and stained glass but leaving the core structure standing. The wounded building became a symbol of both vulnerability and resilience, later rebuilt as a quiet testament to a city that refused to break.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cardiff_Blitz",
+    "hour": 9,
+    "fact_text": "In the icy winter of 1777, George Washington’s outnumbered army held the line at the Battle of Assunpink Creek, repelling repeated British attacks as darkness fell. That stubborn stand—fighting across a narrow bridge and a frozen creek—bought Washington time to plan the daring Princeton maneuver that revived the American Revolution.",
+    "fact_year": 1777,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "The devastation of wartime bombing calls for a counterpoint of calm and healing; this slow, gentle episode offers a sonic space to process, pause, and rebuild internally—much like the cathedral itself."
+    "match_reason": "A gritty defensive battle and strategic courage resonate with the loud, defiant spirit of rock—this episode’s distortion and freedom echo the refusal to back down at Assunpink Creek."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In the icy winter of 1777, George Washington’s outnumbered army held the line at the Battle of Assunpink Creek, repelling repeated British attacks as darkness fell. That stubborn stand—fighting across a narrow bridge and a frozen creek—bought Washington time to plan the daring Princeton maneuver that revived the American Revolution.",
-      "fact_year": 1777,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A gritty defensive battle and strategic courage resonate with the loud, defiant spirit of rock—this episode’s distortion and freedom echo the refusal to back down at Assunpink Creek."
-    },
     {
       "hour": 10,
       "fact_text": "On January 2 in the fateful \"Year of the Four Emperors\" (AD 69), legions in Germania Superior refused to swear loyalty to Emperor Galba and instead proclaimed their own commander, Vitellius, as emperor. In a frontier camp far from Rome, a simple oath ceremony became the spark that plunged the empire into rapid-fire civil war and regime change.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "The devastation of wartime bombing calls for a counterpoint of calm and healing; this slow, gentle episode offers a sonic space to process, pause, and rebuild internally—much like the cathedral itself."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In the icy winter of 1777, George Washington’s outnumbered army held the line at the Battle of Assunpink Creek, repelling repeated British attacks as darkness fell. That stubborn stand—fighting across a narrow bridge and a frozen creek—bought Washington time to plan the daring Princeton maneuver that revived the American Revolution.",
+      "fact_year": 1777,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A gritty defensive battle and strategic courage resonate with the loud, defiant spirit of rock—this episode’s distortion and freedom echo the refusal to back down at Assunpink Creek."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T08:00:01.190140+00:00"
+  "updated_at": "2026-01-02T09:00:01.475965+00:00"
 }
