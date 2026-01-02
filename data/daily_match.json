@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On January 2 in the fateful \"Year of the Four Emperors\" (AD 69), legions in Germania Superior refused to swear loyalty to Emperor Galba and instead proclaimed their own commander, Vitellius, as emperor. In a frontier camp far from Rome, a simple oath ceremony became the spark that plunged the empire into rapid-fire civil war and regime change.",
-    "fact_year": 69,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/AD_69",
+    "hour": 11,
+    "fact_text": "In 1981, British police finally arrested Peter Sutcliffe, the \"Yorkshire Ripper,\" ending one of the largest and most fraught investigations in UK history. Years of fear, media frenzy, and investigative missteps culminated in a quiet arrest over stolen number plates that unmasked a serial killer hiding in plain sight.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "Restless legions on the move and an empire in flux pair with an episode about journeys and perspective shifts, turning ancient military marches into a more reflective kind of \"moving\" meditation."
+    "match_reason": "Sutcliffe’s arrest in Sheffield directly ties to this city-focused episode; the music maps the same streets and social tensions that once lived in the shadow of the Yorkshire Ripper case."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1981, British police finally arrested Peter Sutcliffe, the \"Yorkshire Ripper,\" ending one of the largest and most fraught investigations in UK history. Years of fear, media frenzy, and investigative missteps culminated in a quiet arrest over stolen number plates that unmasked a serial killer hiding in plain sight.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "Sutcliffe’s arrest in Sheffield directly ties to this city-focused episode; the music maps the same streets and social tensions that once lived in the shadow of the Yorkshire Ripper case."
-    },
     {
       "hour": 12,
       "fact_text": "In 1865, after a brutal siege, Brazilian and Colorado forces captured the Uruguayan town of Paysandú, ending one of the most dramatic episodes of the Uruguayan War. The town’s stubborn defense turned a provincial river port into a symbol of sacrifice and regional rivalries in 19th-century South America.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "Restless legions on the move and an empire in flux pair with an episode about journeys and perspective shifts, turning ancient military marches into a more reflective kind of \"moving\" meditation."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1981, British police finally arrested Peter Sutcliffe, the \"Yorkshire Ripper,\" ending one of the largest and most fraught investigations in UK history. Years of fear, media frenzy, and investigative missteps culminated in a quiet arrest over stolen number plates that unmasked a serial killer hiding in plain sight.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "Sutcliffe’s arrest in Sheffield directly ties to this city-focused episode; the music maps the same streets and social tensions that once lived in the shadow of the Yorkshire Ripper case."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T10:00:01.646003+00:00"
+  "updated_at": "2026-01-02T11:00:01.448868+00:00"
 }
