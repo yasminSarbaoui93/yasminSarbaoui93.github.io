@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1865, after a brutal siege, Brazilian and Colorado forces captured the Uruguayan town of Paysandú, ending one of the most dramatic episodes of the Uruguayan War. The town’s stubborn defense turned a provincial river port into a symbol of sacrifice and regional rivalries in 19th-century South America.",
-    "fact_year": 1865,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uruguayan_War",
+    "hour": 13,
+    "fact_text": "On January 2, 1492, the Emirate of Granada surrendered to the Catholic Monarchs, ending nearly eight centuries of Muslim rule in parts of the Iberian Peninsula. The moment, often depicted by the passing of keys, closed the Reconquista but left a deep imprint on Spanish art, architecture, language, and music.",
+    "fact_year": 1492,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emirate_of_Granada",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A coastal town scarred by war contrasts with a peaceful seaside \"endless summer\"; pairing them invites reflection on how many tranquil shorelines once echoed with conflict."
+    "match_reason": "Granada’s fall and centuries of cultural blending in Andalusia directly underpin flamenco’s origins, making a history-of-flamenco episode a natural echo of this pivotal moment."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On January 2, 1492, the Emirate of Granada surrendered to the Catholic Monarchs, ending nearly eight centuries of Muslim rule in parts of the Iberian Peninsula. The moment, often depicted by the passing of keys, closed the Reconquista but left a deep imprint on Spanish art, architecture, language, and music.",
-      "fact_year": 1492,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emirate_of_Granada",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Granada’s fall and centuries of cultural blending in Andalusia directly underpin flamenco’s origins, making a history-of-flamenco episode a natural echo of this pivotal moment."
-    },
     {
       "hour": 14,
       "fact_text": "In 1975, at Samastipur railway station in Bihar, a bomb exploded during the inauguration of a new rail line, fatally wounding India’s Minister of Railways, Lalit Narayan Mishra. The attack turned what was meant to symbolize connectivity and progress into a haunting reminder of how infrastructure and politics can collide violently.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A coastal town scarred by war contrasts with a peaceful seaside \"endless summer\"; pairing them invites reflection on how many tranquil shorelines once echoed with conflict."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On January 2, 1492, the Emirate of Granada surrendered to the Catholic Monarchs, ending nearly eight centuries of Muslim rule in parts of the Iberian Peninsula. The moment, often depicted by the passing of keys, closed the Reconquista but left a deep imprint on Spanish art, architecture, language, and music.",
+      "fact_year": 1492,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emirate_of_Granada",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Granada’s fall and centuries of cultural blending in Andalusia directly underpin flamenco’s origins, making a history-of-flamenco episode a natural echo of this pivotal moment."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T12:00:01.325129+00:00"
+  "updated_at": "2026-01-02T13:00:01.212472+00:00"
 }
