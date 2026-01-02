@@ -1,56 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "In 1942, the FBI secured the conviction of 33 agents in the Duquesne Spy Ring case, dismantling the largest Nazi espionage network ever uncovered in the United States. Much of the operation hinged on a single double agent, William Sebold, who quietly recorded conversations and funneled false information for years before the mass arrest.",
+    "hour": 19,
+    "fact_text": "Also in early 1942, Japanese forces captured Manila, giving them control over the Philippines’ capital and a strategic foothold in Southeast Asia. For residents, the sudden switch from American to Japanese rule transformed familiar streets into occupied territory almost overnight.",
     "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fritz_Duquesne",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Manila",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "Espionage, covert recordings, and coded messages align with trip-hop’s shadowy, cinematic atmospheres—beats built from samples and fragments, like intelligence stitched together from secret tapes."
+    "match_reason": "The fall of Manila is part of a broader World War II story in Southeast Asia; a Thailand-based episode about training, resilience, and regional sounds reflects how this area later rebuilt and redefined itself."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "Also in early 1942, Japanese forces captured Manila, giving them control over the Philippines’ capital and a strategic foothold in Southeast Asia. For residents, the sudden switch from American to Japanese rule transformed familiar streets into occupied territory almost overnight.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Manila",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "The fall of Manila is part of a broader World War II story in Southeast Asia; a Thailand-based episode about training, resilience, and regional sounds reflects how this area later rebuilt and redefined itself."
-    },
     {
       "hour": 20,
       "fact_text": "Comets like 81P/Wild, which Stardust visited, are icy relics from the Solar System’s early days—dirty snowballs flung in from its colder outskirts. When they plunge toward the Sun, their ices vaporize into glowing comas and tails that can stretch millions of kilometers, turning a few kilometers of rock and ice into one of the sky’s grandest spectacles.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "Espionage, covert recordings, and coded messages align with trip-hop’s shadowy, cinematic atmospheres—beats built from samples and fragments, like intelligence stitched together from secret tapes."
+    },
+    {
+      "hour": 19,
+      "fact_text": "Also in early 1942, Japanese forces captured Manila, giving them control over the Philippines’ capital and a strategic foothold in Southeast Asia. For residents, the sudden switch from American to Japanese rule transformed familiar streets into occupied territory almost overnight.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Manila",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "The fall of Manila is part of a broader World War II story in Southeast Asia; a Thailand-based episode about training, resilience, and regional sounds reflects how this area later rebuilt and redefined itself."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T18:00:01.124417+00:00"
+  "updated_at": "2026-01-02T19:00:01.486207+00:00"
 }
