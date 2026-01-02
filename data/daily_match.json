@@ -1,54 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1963, at the Battle of Ap Bac, lightly equipped Viet Cong guerrillas used careful planning, muddy rice paddies, and hidden trenches to defeat a better-armed South Vietnamese and U.S.-advised force. Their unexpected victory shattered assumptions about the war’s trajectory and signaled that technology alone would not decide Vietnam’s fate.",
-    "fact_year": 1963,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ap_Bac",
+    "hour": 17,
+    "fact_text": "On January 2, 1955, Panama’s vice president José Ramón Guizado was hurriedly sworn in after President José Antonio Remón Cantera was assassinated—only to be arrested weeks later amid accusations of involvement in the plot. The rapid succession turned the presidency into a revolving door, exposing how fragile political legitimacy can be.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Rem%C3%B3n_Cantera",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "Ap Bac’s underdog guerrilla victory echoes the spirit of Tuareg desert blues—music forged in struggle, resistance, and survival far from conventional centers of power."
+    "match_reason": "A Panamanian political crisis anchors this story in the same country that helped birth reggaeton; the episode traces a very different side of Panama’s influence, through rhythm instead of power struggles."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On January 2, 1955, Panama’s vice president José Ramón Guizado was hurriedly sworn in after President José Antonio Remón Cantera was assassinated—only to be arrested weeks later amid accusations of involvement in the plot. The rapid succession turned the presidency into a revolving door, exposing how fragile political legitimacy can be.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Rem%C3%B3n_Cantera",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A Panamanian political crisis anchors this story in the same country that helped birth reggaeton; the episode traces a very different side of Panama’s influence, through rhythm instead of power struggles."
-    },
     {
       "hour": 18,
       "fact_text": "In 1942, the FBI secured the conviction of 33 agents in the Duquesne Spy Ring case, dismantling the largest Nazi espionage network ever uncovered in the United States. Much of the operation hinged on a single double agent, William Sebold, who quietly recorded conversations and funneled false information for years before the mass arrest.",
@@ -651,9 +627,33 @@
         ]
       },
       "match_reason": "Ap Bac’s underdog guerrilla victory echoes the spirit of Tuareg desert blues—music forged in struggle, resistance, and survival far from conventional centers of power."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On January 2, 1955, Panama’s vice president José Ramón Guizado was hurriedly sworn in after President José Antonio Remón Cantera was assassinated—only to be arrested weeks later amid accusations of involvement in the plot. The rapid succession turned the presidency into a revolving door, exposing how fragile political legitimacy can be.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Rem%C3%B3n_Cantera",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A Panamanian political crisis anchors this story in the same country that helped birth reggaeton; the episode traces a very different side of Panama’s influence, through rhythm instead of power struggles."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T16:00:01.030059+00:00"
+  "updated_at": "2026-01-02T17:00:01.060273+00:00"
 }
