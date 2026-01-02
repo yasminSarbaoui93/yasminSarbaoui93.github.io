@@ -1,56 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1981, British police finally arrested Peter Sutcliffe, the \"Yorkshire Ripper,\" ending one of the largest and most fraught investigations in UK history. Years of fear, media frenzy, and investigative missteps culminated in a quiet arrest over stolen number plates that unmasked a serial killer hiding in plain sight.",
-    "fact_year": 1981,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe",
+    "hour": 12,
+    "fact_text": "In 1865, after a brutal siege, Brazilian and Colorado forces captured the Uruguayan town of Paysandú, ending one of the most dramatic episodes of the Uruguayan War. The town’s stubborn defense turned a provincial river port into a symbol of sacrifice and regional rivalries in 19th-century South America.",
+    "fact_year": 1865,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uruguayan_War",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "Sutcliffe’s arrest in Sheffield directly ties to this city-focused episode; the music maps the same streets and social tensions that once lived in the shadow of the Yorkshire Ripper case."
+    "match_reason": "A coastal town scarred by war contrasts with a peaceful seaside \"endless summer\"; pairing them invites reflection on how many tranquil shorelines once echoed with conflict."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1865, after a brutal siege, Brazilian and Colorado forces captured the Uruguayan town of Paysandú, ending one of the most dramatic episodes of the Uruguayan War. The town’s stubborn defense turned a provincial river port into a symbol of sacrifice and regional rivalries in 19th-century South America.",
-      "fact_year": 1865,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uruguayan_War",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A coastal town scarred by war contrasts with a peaceful seaside \"endless summer\"; pairing them invites reflection on how many tranquil shorelines once echoed with conflict."
-    },
     {
       "hour": 13,
       "fact_text": "On January 2, 1492, the Emirate of Granada surrendered to the Catholic Monarchs, ending nearly eight centuries of Muslim rule in parts of the Iberian Peninsula. The moment, often depicted by the passing of keys, closed the Reconquista but left a deep imprint on Spanish art, architecture, language, and music.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "Sutcliffe’s arrest in Sheffield directly ties to this city-focused episode; the music maps the same streets and social tensions that once lived in the shadow of the Yorkshire Ripper case."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1865, after a brutal siege, Brazilian and Colorado forces captured the Uruguayan town of Paysandú, ending one of the most dramatic episodes of the Uruguayan War. The town’s stubborn defense turned a provincial river port into a symbol of sacrifice and regional rivalries in 19th-century South America.",
+      "fact_year": 1865,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Uruguayan_War",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A coastal town scarred by war contrasts with a peaceful seaside \"endless summer\"; pairing them invites reflection on how many tranquil shorelines once echoed with conflict."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T11:00:01.448868+00:00"
+  "updated_at": "2026-01-02T12:00:01.325129+00:00"
 }
