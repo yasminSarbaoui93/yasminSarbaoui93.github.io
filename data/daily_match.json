@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "A Roman legion, like those that mutinied in Germania Superior in AD 69, could contain around 5,000 heavily trained soldiers, each carrying up to 30 kilograms of gear on long marches. These human machines of the ancient world built roads, bridges, and camps as they went, leaving a physical grid across Europe that still shapes travel routes today.",
-    "fact_year": 69,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "hour": 22,
+    "fact_text": "The Moon, first approached by Luna 1, always shows Earth the same face because it’s tidally locked—its rotation period matches its orbit around us. On the far side, unseen from Earth until spaceflight, lie enormous impact basins and thicker crust, offering a very different lunar story than the familiar \"man in the Moon\" we know.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moon",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Ancient legions marching across Europe and carving road networks parallel a modern hitchhiking journey across Poland; both are about moving across the continent, step by step, route by route."
+    "match_reason": "Both the Moon’s hidden far side and the underwater world of Arctic orcas are vast, normally unseen realms revealed only through exploration, matched by the episode’s cinematic, quietly awe-filled mood."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Moon, first approached by Luna 1, always shows Earth the same face because it’s tidally locked—its rotation period matches its orbit around us. On the far side, unseen from Earth until spaceflight, lie enormous impact basins and thicker crust, offering a very different lunar story than the familiar \"man in the Moon\" we know.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moon",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the Moon’s hidden far side and the underwater world of Arctic orcas are vast, normally unseen realms revealed only through exploration, matched by the episode’s cinematic, quietly awe-filled mood."
-    },
     {
       "hour": 23,
       "fact_text": "The Sun, which Luna 1 accidentally began orbiting, fuses about 600 million tons of hydrogen into helium every second, converting mass into energy that rushes out as light and heat. Even so, it will take billions of years before it exhausts its core fuel and swells into a red giant, briefly turning Earth’s skies into a different kind of fire.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "Ancient legions marching across Europe and carving road networks parallel a modern hitchhiking journey across Poland; both are about moving across the continent, step by step, route by route."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Moon, first approached by Luna 1, always shows Earth the same face because it’s tidally locked—its rotation period matches its orbit around us. On the far side, unseen from Earth until spaceflight, lie enormous impact basins and thicker crust, offering a very different lunar story than the familiar \"man in the Moon\" we know.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Moon",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the Moon’s hidden far side and the underwater world of Arctic orcas are vast, normally unseen realms revealed only through exploration, matched by the episode’s cinematic, quietly awe-filled mood."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T21:00:01.196265+00:00"
+  "updated_at": "2026-01-02T22:00:01.400167+00:00"
 }
