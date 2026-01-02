@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2004, NASA's Stardust spacecraft flew through the ghostly coma of Comet Wild 2, briefly opening a tennis-racket-shaped collector filled with aerogel to 'catch' dust grains moving faster than a bullet. Those microscopic particles, safely returned to Earth, became the first solid samples ever brought back from a comet, offering a time capsule of the early Solar System.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Stardust_(spacecraft)",
+    "hour": 1,
+    "fact_text": "Launched in 1959, Luna 1 became the first human-made object to reach the vicinity of the Moon—yet it missed its intended impact and sailed on into solar orbit. This accidental trajectory turned it into the first artificial object to orbit the Sun, a serendipitous pioneer of deep space exploration.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A spacecraft flying through the \"emptiness\" around a comet and finding it full of ancient dust echoes the episode's theme of reimagining empty space as a place of creation and possibility."
+    "match_reason": "A mission called Luna 1 turning into an unintended voyage around the Sun mirrors the episode’s theme of drifting toward unexpected destinations and cosmic journeys through sound."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "Launched in 1959, Luna 1 became the first human-made object to reach the vicinity of the Moon—yet it missed its intended impact and sailed on into solar orbit. This accidental trajectory turned it into the first artificial object to orbit the Sun, a serendipitous pioneer of deep space exploration.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A mission called Luna 1 turning into an unintended voyage around the Sun mirrors the episode’s theme of drifting toward unexpected destinations and cosmic journeys through sound."
-    },
     {
       "hour": 2,
       "fact_text": "The Gale of January 1976 unleashed a massive storm surge across the southern North Sea, pushing tides up to 3 meters above normal and flooding coastlines from Ireland to Yugoslavia. This single extratropical cyclone damaged over a million homes and quietly reshaped Europe’s relationship with coastal defenses and sea-level risk.",
@@ -650,9 +627,43 @@
         ]
       },
       "match_reason": "A spacecraft flying through the \"emptiness\" around a comet and finding it full of ancient dust echoes the episode's theme of reimagining empty space as a place of creation and possibility."
+    },
+    {
+      "hour": 1,
+      "fact_text": "Launched in 1959, Luna 1 became the first human-made object to reach the vicinity of the Moon—yet it missed its intended impact and sailed on into solar orbit. This accidental trajectory turned it into the first artificial object to orbit the Sun, a serendipitous pioneer of deep space exploration.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A mission called Luna 1 turning into an unintended voyage around the Sun mirrors the episode’s theme of drifting toward unexpected destinations and cosmic journeys through sound."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T00:00:57.307961+00:00"
+  "updated_at": "2026-01-02T01:00:01.017322+00:00"
 }
