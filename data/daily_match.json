@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "Launched in 1959, Luna 1 became the first human-made object to reach the vicinity of the Moon—yet it missed its intended impact and sailed on into solar orbit. This accidental trajectory turned it into the first artificial object to orbit the Sun, a serendipitous pioneer of deep space exploration.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
+    "hour": 2,
+    "fact_text": "The Gale of January 1976 unleashed a massive storm surge across the southern North Sea, pushing tides up to 3 meters above normal and flooding coastlines from Ireland to Yugoslavia. This single extratropical cyclone damaged over a million homes and quietly reshaped Europe’s relationship with coastal defenses and sea-level risk.",
+    "fact_year": 1976,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gale_of_January_1976",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A mission called Luna 1 turning into an unintended voyage around the Sun mirrors the episode’s theme of drifting toward unexpected destinations and cosmic journeys through sound."
+    "match_reason": "A catastrophic sea surge and reshaped coasts contrast with an episode built around water, immersion, and fluid motion, turning a story of overwhelming waves into a gentle reflection on the power of the sea."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "The Gale of January 1976 unleashed a massive storm surge across the southern North Sea, pushing tides up to 3 meters above normal and flooding coastlines from Ireland to Yugoslavia. This single extratropical cyclone damaged over a million homes and quietly reshaped Europe’s relationship with coastal defenses and sea-level risk.",
-      "fact_year": 1976,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gale_of_January_1976",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A catastrophic sea surge and reshaped coasts contrast with an episode built around water, immersion, and fluid motion, turning a story of overwhelming waves into a gentle reflection on the power of the sea."
-    },
     {
       "hour": 3,
       "fact_text": "In 1921, a small theater in Hradec Králové hosted the world premiere of Karel Čapek’s play R.U.R., which casually introduced a new word to humanity: \"robot.\" Čapek’s artificial workers, created to free people from labor, eventually rebel—seeding a century of stories, fears, and dreams about machines that might outgrow their makers.",
@@ -661,9 +627,34 @@
         ]
       },
       "match_reason": "A mission called Luna 1 turning into an unintended voyage around the Sun mirrors the episode’s theme of drifting toward unexpected destinations and cosmic journeys through sound."
+    },
+    {
+      "hour": 2,
+      "fact_text": "The Gale of January 1976 unleashed a massive storm surge across the southern North Sea, pushing tides up to 3 meters above normal and flooding coastlines from Ireland to Yugoslavia. This single extratropical cyclone damaged over a million homes and quietly reshaped Europe’s relationship with coastal defenses and sea-level risk.",
+      "fact_year": 1976,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gale_of_January_1976",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A catastrophic sea surge and reshaped coasts contrast with an episode built around water, immersion, and fluid motion, turning a story of overwhelming waves into a gentle reflection on the power of the sea."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T01:00:01.017322+00:00"
+  "updated_at": "2026-01-02T02:00:01.461518+00:00"
 }
