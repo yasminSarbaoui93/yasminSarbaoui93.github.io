@@ -1,64 +1,39 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1921, a small theater in Hradec Králové hosted the world premiere of Karel Čapek’s play R.U.R., which casually introduced a new word to humanity: \"robot.\" Čapek’s artificial workers, created to free people from labor, eventually rebel—seeding a century of stories, fears, and dreams about machines that might outgrow their makers.",
-    "fact_year": 1921,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/R.U.R.",
+    "hour": 4,
+    "fact_text": "On January 2, 1967, former Hollywood actor Ronald Reagan stood on the steps of the California State Capitol and was sworn in as governor, beginning the political journey that would carry him to the U.S. presidency. His transition from screen star to head of state helped pioneer the modern blend of entertainment, media, and politics.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The birth of the word \"robot\" and anxieties about artificial workers resonates with an episode about our entanglement with digital devices and how technology shapes, and sometimes traps, human life."
+    "match_reason": "Reagan’s inauguration marks a powerful \"first step\" toward a new role, paralleling Sedna FM’s own first, high-energy episode that launched a new creative chapter."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On January 2, 1967, former Hollywood actor Ronald Reagan stood on the steps of the California State Capitol and was sworn in as governor, beginning the political journey that would carry him to the U.S. presidency. His transition from screen star to head of state helped pioneer the modern blend of entertainment, media, and politics.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "Reagan’s inauguration marks a powerful \"first step\" toward a new role, paralleling Sedna FM’s own first, high-energy episode that launched a new creative chapter."
-    },
     {
       "hour": 5,
       "fact_text": "In 1776, Maria Theresa of Austria quietly signed away one of the darkest tools of state power by amending her criminal code to abolish torture in the Habsburg domains. At a time when judicial torture was still widely accepted in Europe, this legal shift marked an early and influential move toward more humane justice.",
@@ -652,9 +627,42 @@
         ]
       },
       "match_reason": "The birth of the word \"robot\" and anxieties about artificial workers resonates with an episode about our entanglement with digital devices and how technology shapes, and sometimes traps, human life."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On January 2, 1967, former Hollywood actor Ronald Reagan stood on the steps of the California State Capitol and was sworn in as governor, beginning the political journey that would carry him to the U.S. presidency. His transition from screen star to head of state helped pioneer the modern blend of entertainment, media, and politics.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "Reagan’s inauguration marks a powerful \"first step\" toward a new role, paralleling Sedna FM’s own first, high-energy episode that launched a new creative chapter."
     }
   ],
   "generated_at": "2026-01-02T00:00:00.014888+00:00",
   "date": "2026-01-02",
-  "updated_at": "2026-01-02T03:00:01.105240+00:00"
+  "updated_at": "2026-01-02T04:00:01.254274+00:00"
 }
