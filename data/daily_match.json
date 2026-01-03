@@ -1,59 +1,34 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On this day in 2018, the Netherlands closed all five of its major storm surge barriers simultaneously for the first time in history. Designed after the disastrous 1953 North Sea flood, these colossal movable structures formed a temporary steel and concrete shield against the sea.",
-    "fact_year": 2018,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Delta_Works",
+    "hour": 14,
+    "fact_text": "Later that same day in 1961, Aero Flight 311 crashed into a forest near Kvevlax, Finland, killing all 25 people on board. It remains one of Finland’s deadliest aviation accidents and highlighted how human factors and harsh winter conditions can converge in the air.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Massive storm surge gates taming the sea align with an episode set in cold northern waters; both grapple with our evolving, fragile relationship to rising oceans."
+    "match_reason": "A tragic northern European flight accident is juxtaposed with a reflective episode about travel by sea and the shared vulnerability and connection that come with journeying together."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "Later that same day in 1961, Aero Flight 311 crashed into a forest near Kvevlax, Finland, killing all 25 people on board. It remains one of Finland’s deadliest aviation accidents and highlighted how human factors and harsh winter conditions can converge in the air.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A tragic northern European flight accident is juxtaposed with a reflective episode about travel by sea and the shared vulnerability and connection that come with journeying together."
-    },
     {
       "hour": 15,
       "fact_text": "On 3 January 1959, Alaska was admitted as the 49th state of the United States. With its vast wilderness, glaciers, and Arctic coastlines, Alaska dramatically expanded America’s geographic extremes and resource frontiers.",
@@ -630,9 +605,37 @@
         ]
       },
       "match_reason": "Massive storm surge gates taming the sea align with an episode set in cold northern waters; both grapple with our evolving, fragile relationship to rising oceans."
+    },
+    {
+      "hour": 14,
+      "fact_text": "Later that same day in 1961, Aero Flight 311 crashed into a forest near Kvevlax, Finland, killing all 25 people on board. It remains one of Finland’s deadliest aviation accidents and highlighted how human factors and harsh winter conditions can converge in the air.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A tragic northern European flight accident is juxtaposed with a reflective episode about travel by sea and the shared vulnerability and connection that come with journeying together."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T13:00:01.199376+00:00"
+  "updated_at": "2026-01-03T14:00:01.130581+00:00"
 }
