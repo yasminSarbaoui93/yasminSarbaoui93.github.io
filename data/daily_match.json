@@ -1,55 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In early January 2015, Boko Haram militants attacked and destroyed the town of Baga in north-east Nigeria, with death toll estimates reaching up to 2,000 people. The Baga massacre became a stark symbol of how extremist violence can obliterate entire communities in days.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boko_Haram",
+    "hour": 10,
+    "fact_text": "On 3 January 2004, Flash Airlines Flight 604 crashed into the Red Sea shortly after takeoff from Sharm El Sheikh, killing 148 people. The accident raised urgent questions about airline safety oversight and the complexities of night flying over featureless water.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_Airlines_Flight_604",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A devastating West African massacre is placed alongside an episode celebrating West African musical resistance; Afrobeat’s history of political critique offers a cultural counterforce to violence and oppression."
+    "match_reason": "A tragic crash into the sea is paired with an episode about water and immersion, offering a gentle, reflective aquatic soundscape in contrast to the event’s violence."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 3 January 2004, Flash Airlines Flight 604 crashed into the Red Sea shortly after takeoff from Sharm El Sheikh, killing 148 people. The accident raised urgent questions about airline safety oversight and the complexities of night flying over featureless water.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_Airlines_Flight_604",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A tragic crash into the sea is paired with an episode about water and immersion, offering a gentle, reflective aquatic soundscape in contrast to the event’s violence."
-    },
     {
       "hour": 11,
       "fact_text": "In 2002, Israeli forces intercepted the Palestinian freighter Karine A in the Red Sea, discovering about 50 tons of weapons on board. The seizure revealed a clandestine arms pipeline and intensified diplomatic tensions in the Israeli–Palestinian conflict.",
@@ -629,9 +605,34 @@
         ]
       },
       "match_reason": "A devastating West African massacre is placed alongside an episode celebrating West African musical resistance; Afrobeat’s history of political critique offers a cultural counterforce to violence and oppression."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 3 January 2004, Flash Airlines Flight 604 crashed into the Red Sea shortly after takeoff from Sharm El Sheikh, killing 148 people. The accident raised urgent questions about airline safety oversight and the complexities of night flying over featureless water.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_Airlines_Flight_604",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A tragic crash into the sea is paired with an episode about water and immersion, offering a gentle, reflective aquatic soundscape in contrast to the event’s violence."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T09:00:01.370301+00:00"
+  "updated_at": "2026-01-03T10:00:01.071022+00:00"
 }
