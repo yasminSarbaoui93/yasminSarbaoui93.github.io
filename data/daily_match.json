@@ -1,52 +1,30 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "In 2016, after Saudi Arabia executed Shia cleric Nimr al‑Nimr, Iran’s leaders reacted with fury, and attacks on Saudi diplomatic missions in Iran followed. Within days, Iran and Saudi Arabia cut diplomatic ties, crystallizing a sectarian and geopolitical rift that shaped Middle Eastern politics for years.",
+    "hour": 20,
+    "fact_text": "Nimr al‑Nimr, a Saudi Shia cleric executed in 2016, became a symbol of dissent against authoritarian rule in the Gulf. His sermons criticized corruption and discrimination, and his death sentence turned him into a rallying figure for protests from Saudi Arabia to Iran and beyond.",
     "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_relations",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimr_al-Nimr",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A diplomatic break driven by identity, sectarian lines, and power struggles fits an episode about confronting labels, divisions, and the boxes that tear people apart."
+    "match_reason": "A persecuted cleric turned symbol of resistance parallels Tuareg desert music born from marginalization, exile, and quiet defiance against central powers."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "Nimr al‑Nimr, a Saudi Shia cleric executed in 2016, became a symbol of dissent against authoritarian rule in the Gulf. His sermons criticized corruption and discrimination, and his death sentence turned him into a rallying figure for protests from Saudi Arabia to Iran and beyond.",
-      "fact_year": 2016,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimr_al-Nimr",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A persecuted cleric turned symbol of resistance parallels Tuareg desert music born from marginalization, exile, and quiet defiance against central powers."
-    },
     {
       "hour": 21,
       "fact_text": "The Cold War rivalry between the United States and the Soviet Union, referenced on this date through Cuba and arms treaties, was as much a psychological standoff as a military one. For decades, both superpowers lived under the shadow of mutually assured destruction, while proxy conflicts smouldered across the globe.",
@@ -637,9 +615,33 @@
         ]
       },
       "match_reason": "A diplomatic break driven by identity, sectarian lines, and power struggles fits an episode about confronting labels, divisions, and the boxes that tear people apart."
+    },
+    {
+      "hour": 20,
+      "fact_text": "Nimr al‑Nimr, a Saudi Shia cleric executed in 2016, became a symbol of dissent against authoritarian rule in the Gulf. His sermons criticized corruption and discrimination, and his death sentence turned him into a rallying figure for protests from Saudi Arabia to Iran and beyond.",
+      "fact_year": 2016,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimr_al-Nimr",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A persecuted cleric turned symbol of resistance parallels Tuareg desert music born from marginalization, exile, and quiet defiance against central powers."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T19:00:01.176232+00:00"
+  "updated_at": "2026-01-03T20:00:01.391310+00:00"
 }
