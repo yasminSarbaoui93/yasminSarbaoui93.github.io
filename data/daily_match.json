@@ -1,64 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In AD 69, the Roman legions along the River Rhine refused to swear allegiance to Emperor Galba and instead hailed their commander Aulus Vitellius as emperor. Their mutiny helped ignite the “Year of the Four Emperors,” a whirlwind of civil wars and rapid regime changes in Rome.",
-    "fact_year": 69,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors",
+    "hour": 18,
+    "fact_text": "On this day in 2023, Singapore’s Jurong Bird Park, once Asia’s largest bird park and home to hundreds of species, permanently closed after more than 50 years. Many of its residents were moved to a new eco‑park, but the closure marked the end of a beloved sanctuary of aviary sound and color.",
+    "fact_year": 2023,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jurong_Bird_Park",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vita como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A rebellious army detonating political order fits the explosive, foundational energy of Sedna FM’s first ‘bomb’ of a mixtape."
+    "match_reason": "The closing of a great bird sanctuary and the relocation of its animals parallels an episode centered on deep connections with wild animals and changing habitats, from tropical aviaries to Arctic seas."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On this day in 2023, Singapore’s Jurong Bird Park, once Asia’s largest bird park and home to hundreds of species, permanently closed after more than 50 years. Many of its residents were moved to a new eco‑park, but the closure marked the end of a beloved sanctuary of aviary sound and color.",
-      "fact_year": 2023,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jurong_Bird_Park",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "The closing of a great bird sanctuary and the relocation of its animals parallels an episode centered on deep connections with wild animals and changing habitats, from tropical aviaries to Arctic seas."
-    },
     {
       "hour": 19,
       "fact_text": "In 2016, after Saudi Arabia executed Shia cleric Nimr al‑Nimr, Iran’s leaders reacted with fury, and attacks on Saudi diplomatic missions in Iran followed. Within days, Iran and Saudi Arabia cut diplomatic ties, crystallizing a sectarian and geopolitical rift that shaped Middle Eastern politics for years.",
@@ -648,9 +615,34 @@
         ]
       },
       "match_reason": "A rebellious army detonating political order fits the explosive, foundational energy of Sedna FM’s first ‘bomb’ of a mixtape."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On this day in 2023, Singapore’s Jurong Bird Park, once Asia’s largest bird park and home to hundreds of species, permanently closed after more than 50 years. Many of its residents were moved to a new eco‑park, but the closure marked the end of a beloved sanctuary of aviary sound and color.",
+      "fact_year": 2023,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jurong_Bird_Park",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "The closing of a great bird sanctuary and the relocation of its animals parallels an episode centered on deep connections with wild animals and changing habitats, from tropical aviaries to Arctic seas."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T17:00:01.229849+00:00"
+  "updated_at": "2026-01-03T18:00:01.185058+00:00"
 }
