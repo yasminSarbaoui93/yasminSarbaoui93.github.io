@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On this day in 1961, Aero Flight 311 crashed into a snowy forest near Kvevlax, Finland, killing all 25 people aboard. Investigations suggested pilot impairment and poor cockpit discipline, turning the accident into a key case study in human factors in aviation safety.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
+    "hour": 15,
+    "fact_text": "In 1959, Alaska was admitted as the 49th state of the United States, transforming an enormous, sparsely populated territory of glaciers, tundra, and mountains into a full member of the union. Its entry brought Arctic politics, vast natural resources, and Indigenous cultures deeper into the U.S. story.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A sombre crash in a winter forest resonates with trip‑hop’s cinematic, shadowy mood—space to contemplate the human side of technical disasters."
+    "match_reason": "Alaska’s statehood is an Arctic story of cold seas and wild coasts, naturally aligned with an episode immersed in polar waters and marine life."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1959, Alaska was admitted as the 49th state of the United States, transforming an enormous, sparsely populated territory of glaciers, tundra, and mountains into a full member of the union. Its entry brought Arctic politics, vast natural resources, and Indigenous cultures deeper into the U.S. story.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Alaska’s statehood is an Arctic story of cold seas and wild coasts, naturally aligned with an episode immersed in polar waters and marine life."
-    },
     {
       "hour": 16,
       "fact_text": "On this day in 1957, the Hamilton Watch Company unveiled the world’s first electric wristwatch. Powered by a tiny battery instead of a wound spring, it was a stepping stone between traditional mechanical watches and the digital, quartz‑driven timepieces that now rule our wrists.",
@@ -640,9 +615,34 @@
         ]
       },
       "match_reason": "A sombre crash in a winter forest resonates with trip‑hop’s cinematic, shadowy mood—space to contemplate the human side of technical disasters."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1959, Alaska was admitted as the 49th state of the United States, transforming an enormous, sparsely populated territory of glaciers, tundra, and mountains into a full member of the union. Its entry brought Arctic politics, vast natural resources, and Indigenous cultures deeper into the U.S. story.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Alaska’s statehood is an Arctic story of cold seas and wild coasts, naturally aligned with an episode immersed in polar waters and marine life."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T14:00:01.748295+00:00"
+  "updated_at": "2026-01-03T15:00:01.190863+00:00"
 }
