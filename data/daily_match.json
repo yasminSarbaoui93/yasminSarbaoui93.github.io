@@ -1,55 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "Another thread from 3 January 1959: as Alaska joined the Union, it brought with it Indigenous cultures like the Inuit, Yupik, and Tlingit, whose relationship with ice, sea, and sky stretches back millennia. Their oral histories encode climate shifts, animal migrations, and survival strategies in some of Earth’s harshest conditions.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Natives",
+    "hour": 22,
+    "fact_text": "Zooming back to the Moon, Chang’e 4’s Yutu-2 rover—deployed on 3 January 2019—became the first robot to drive on the lunar far side. It carried ground-penetrating radar and spectrometers, quietly reading the Moon’s buried layers like pages in a frozen history book.",
+    "fact_year": 2019,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yutu-2",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Arctic Indigenous knowledge of snow and sea resonates with Tuareg desert blues; both are music born from extreme environments, memory, and survival under vast skies."
+    "match_reason": "A rover gliding slowly across the silent far side of the Moon fits the cinematic, downtempo mood of a trip-hop journey—both are about deep, layered exploration beneath the surface."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "Zooming back to the Moon, Chang’e 4’s Yutu-2 rover—deployed on 3 January 2019—became the first robot to drive on the lunar far side. It carried ground-penetrating radar and spectrometers, quietly reading the Moon’s buried layers like pages in a frozen history book.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yutu-2",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A rover gliding slowly across the silent far side of the Moon fits the cinematic, downtempo mood of a trip-hop journey—both are about deep, layered exploration beneath the surface."
-    },
     {
       "hour": 23,
       "fact_text": "Finally, the day’s earthquakes, storms, and political ruptures all hint at a deeper pattern: Earth and human societies change in jolts as well as in slow, quiet drifts. Every 3 January, we’re one more orbit around the Sun into a universe where tiny technological shifts and huge natural forces keep rewriting the possible.",
@@ -629,9 +605,34 @@
         ]
       },
       "match_reason": "Arctic Indigenous knowledge of snow and sea resonates with Tuareg desert blues; both are music born from extreme environments, memory, and survival under vast skies."
+    },
+    {
+      "hour": 22,
+      "fact_text": "Zooming back to the Moon, Chang’e 4’s Yutu-2 rover—deployed on 3 January 2019—became the first robot to drive on the lunar far side. It carried ground-penetrating radar and spectrometers, quietly reading the Moon’s buried layers like pages in a frozen history book.",
+      "fact_year": 2019,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yutu-2",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A rover gliding slowly across the silent far side of the Moon fits the cinematic, downtempo mood of a trip-hop journey—both are about deep, layered exploration beneath the surface."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T21:00:01.102287+00:00"
+  "updated_at": "2026-01-03T22:00:01.372264+00:00"
 }
