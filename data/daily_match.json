@@ -1,50 +1,25 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1913, an enormous Atlantic coast storm slammed into the eastern United States and produced the lowest confirmed barometric pressure ever recorded there for a non‑tropical system: 955.0 millibars. The storm’s freakishly low pressure reshaped meteorologists’ understanding of how intense extratropical cyclones could become.",
-    "fact_year": 1913,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/January_1913_Atlantic_coast_storm",
+    "hour": 3,
+    "fact_text": "In 1920, a magnitude 6.4 earthquake struck Mexico’s Puebla and Veracruz states, killing more than 640 people and devastating towns like Xalapa. The disaster exposed how vulnerable hillside communities were to landslides and helped drive improvements in building codes and hazard awareness.",
+    "fact_year": 1920,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "song 1"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "genre 1"
       ]
     },
-    "match_reason": "A violent, record‑shattering storm echoes the wild, high‑energy jolt of rock and ‘electric shock’ vibes in this episode."
+    "match_reason": "A destructive quake is a stark reminder of fragility; the episode’s wabi‑sabi theme reflects on accepting imperfection and rebuilding after what ‘didn’t go to plan.’"
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1920, a magnitude 6.4 earthquake struck Mexico’s Puebla and Veracruz states, killing more than 640 people and devastating towns like Xalapa. The disaster exposed how vulnerable hillside communities were to landslides and helped drive improvements in building codes and hazard awareness.",
-      "fact_year": 1920,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A destructive quake is a stark reminder of fragility; the episode’s wabi‑sabi theme reflects on accepting imperfection and rebuilding after what ‘didn’t go to plan.’"
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1911, a magnitude 7.7 earthquake ripped through what was then Russian Turkestan, effectively destroying the city of Almaty. The shaking triggered massive landslides and reshaped the surrounding mountainscape, leaving geological scars still visible more than a century later.",
@@ -640,9 +615,28 @@
         ]
       },
       "match_reason": "A violent, record‑shattering storm echoes the wild, high‑energy jolt of rock and ‘electric shock’ vibes in this episode."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1920, a magnitude 6.4 earthquake struck Mexico’s Puebla and Veracruz states, killing more than 640 people and devastating towns like Xalapa. The disaster exposed how vulnerable hillside communities were to landslides and helped drive improvements in building codes and hazard awareness.",
+      "fact_year": 1920,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A destructive quake is a stark reminder of fragility; the episode’s wabi‑sabi theme reflects on accepting imperfection and rebuilding after what ‘didn’t go to plan.’"
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T02:00:01.202829+00:00"
+  "updated_at": "2026-01-03T03:00:01.298509+00:00"
 }
