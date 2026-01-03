@@ -1,53 +1,28 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 3 January 1961, the SL-1 experimental nuclear reactor near Idaho Falls exploded due to a steam event triggered by an improperly withdrawn control rod. It became the only U.S. reactor accident to cause immediate fatalities, transforming a remote test site into a landmark case for nuclear safety and human factors engineering.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SL-1",
+    "hour": 6,
+    "fact_text": "In 1993, at the end of the Cold War, U.S. President George H. W. Bush and Russian President Boris Yeltsin signed the START II treaty in Moscow. The agreement aimed to drastically reduce strategic nuclear arsenals, symbolizing an attempt to turn an arms race into an exercise in deliberate restraint.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/START_II",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A catastrophic, rushed nuclear incident is counterbalanced by an episode advocating slowness and care, subtly highlighting how pace and attention can change technological outcomes."
+    "match_reason": "A treaty that tries to unbox two nations from their Cold War identities fits with an episode about breaking out of rigid labels and rewriting the stories we live in."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1993, at the end of the Cold War, U.S. President George H. W. Bush and Russian President Boris Yeltsin signed the START II treaty in Moscow. The agreement aimed to drastically reduce strategic nuclear arsenals, symbolizing an attempt to turn an arms race into an exercise in deliberate restraint.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/START_II",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A treaty that tries to unbox two nations from their Cold War identities fits with an episode about breaking out of rigid labels and rewriting the stories we live in."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1944, famed U.S. Marine Corps flying ace Major Greg \"Pappy\" Boyington was shot down over the Pacific in his F4U Corsair by Japanese ace Masajiro Kawato in a Mitsubishi A6M Zero. The clash between two legendary pilots became part of the mythic aerial duels of World War II.",
@@ -630,9 +605,31 @@
         ]
       },
       "match_reason": "A catastrophic, rushed nuclear incident is counterbalanced by an episode advocating slowness and care, subtly highlighting how pace and attention can change technological outcomes."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1993, at the end of the Cold War, U.S. President George H. W. Bush and Russian President Boris Yeltsin signed the START II treaty in Moscow. The agreement aimed to drastically reduce strategic nuclear arsenals, symbolizing an attempt to turn an arms race into an exercise in deliberate restraint.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/START_II",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A treaty that tries to unbox two nations from their Cold War identities fits with an episode about breaking out of rigid labels and rewriting the stories we live in."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T05:00:01.218774+00:00"
+  "updated_at": "2026-01-03T06:00:01.056705+00:00"
 }
