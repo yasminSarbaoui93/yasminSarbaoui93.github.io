@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 3 January 1959, Alaska was admitted as the 49th state of the United States. With its vast wilderness, glaciers, and Arctic coastlines, Alaska dramatically expanded America’s geographic extremes and resource frontiers.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
+    "hour": 16,
+    "fact_text": "In 1957, the Hamilton Watch Company introduced the world’s first electric wristwatch, replacing traditional mechanical mainsprings with a battery-powered movement. This quiet technological leap foreshadowed today’s quartz, digital, and smartwatches that turned wrists into tiny laboratories.",
+    "fact_year": 1957,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Electric_watch",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Adding a vast, wild northern state to the map contrasts beautifully with an episode about long, contemplative summers; together they evoke seasonal extremes and big open horizons."
+    "match_reason": "The first electric watch—precision electronics on the body—foreshadows the machine-driven rhythms and synthesizers that dominate the 80s dance sound celebrated in this episode."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1957, the Hamilton Watch Company introduced the world’s first electric wristwatch, replacing traditional mechanical mainsprings with a battery-powered movement. This quiet technological leap foreshadowed today’s quartz, digital, and smartwatches that turned wrists into tiny laboratories.",
-      "fact_year": 1957,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Electric_watch",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "The first electric watch—precision electronics on the body—foreshadows the machine-driven rhythms and synthesizers that dominate the 80s dance sound celebrated in this episode."
-    },
     {
       "hour": 17,
       "fact_text": "Back in AD 69, the Roman legions on the Rhine refused to swear allegiance to Emperor Galba and declared their commander Aulus Vitellius emperor instead. Their mutiny helped trigger the chaotic \"Year of the Four Emperors\", a rapid-fire contest for power that shook the Roman Empire.",
@@ -630,9 +605,34 @@
         ]
       },
       "match_reason": "Adding a vast, wild northern state to the map contrasts beautifully with an episode about long, contemplative summers; together they evoke seasonal extremes and big open horizons."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1957, the Hamilton Watch Company introduced the world’s first electric wristwatch, replacing traditional mechanical mainsprings with a battery-powered movement. This quiet technological leap foreshadowed today’s quartz, digital, and smartwatches that turned wrists into tiny laboratories.",
+      "fact_year": 1957,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Electric_watch",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "The first electric watch—precision electronics on the body—foreshadows the machine-driven rhythms and synthesizers that dominate the 80s dance sound celebrated in this episode."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T15:00:01.201185+00:00"
+  "updated_at": "2026-01-03T16:00:01.425184+00:00"
 }
