@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 2018, for the first time in history, the Netherlands closed all five of its major storm surge barriers simultaneously as a powerful storm pushed the North Sea inland. The coordinated move showed how human engineering can act like a giant, adjustable coastline to hold back the sea.",
-    "fact_year": 2018,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Delta_Works",
+    "hour": 14,
+    "fact_text": "On this day in 1961, Aero Flight 311 crashed into a snowy forest near Kvevlax, Finland, killing all 25 people aboard. Investigations suggested pilot impairment and poor cockpit discipline, turning the accident into a key case study in human factors in aviation safety.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Downtempo",
         "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Giant storm gates calmly holding back chaos mirror the episode’s idea of creating a ‘slow planet’—protective stillness in the face of turbulent forces."
+    "match_reason": "A sombre crash in a winter forest resonates with trip‑hop’s cinematic, shadowy mood—space to contemplate the human side of technical disasters."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On this day in 1961, Aero Flight 311 crashed into a snowy forest near Kvevlax, Finland, killing all 25 people aboard. Investigations suggested pilot impairment and poor cockpit discipline, turning the accident into a key case study in human factors in aviation safety.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A sombre crash in a winter forest resonates with trip‑hop’s cinematic, shadowy mood—space to contemplate the human side of technical disasters."
-    },
     {
       "hour": 15,
       "fact_text": "In 1959, Alaska was admitted as the 49th state of the United States, transforming an enormous, sparsely populated territory of glaciers, tundra, and mountains into a full member of the union. Its entry brought Arctic politics, vast natural resources, and Indigenous cultures deeper into the U.S. story.",
@@ -640,9 +615,34 @@
         ]
       },
       "match_reason": "Giant storm gates calmly holding back chaos mirror the episode’s idea of creating a ‘slow planet’—protective stillness in the face of turbulent forces."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On this day in 1961, Aero Flight 311 crashed into a snowy forest near Kvevlax, Finland, killing all 25 people aboard. Investigations suggested pilot impairment and poor cockpit discipline, turning the accident into a key case study in human factors in aviation safety.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A sombre crash in a winter forest resonates with trip‑hop’s cinematic, shadowy mood—space to contemplate the human side of technical disasters."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T13:00:01.438841+00:00"
+  "updated_at": "2026-01-03T14:00:01.748295+00:00"
 }
