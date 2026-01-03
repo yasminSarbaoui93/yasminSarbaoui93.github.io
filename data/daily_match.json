@@ -1,63 +1,40 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "In 2016, following Saudi Arabia’s execution of Shia cleric Nimr al-Nimr, Iran cut diplomatic ties with the kingdom. The rupture deepened a long-running rivalry that spans religion, politics, and oil, and echoes across conflicts from Syria to Yemen.",
-    "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_relations",
+    "hour": 20,
+    "fact_text": "Shifting back to 1961, the same year as SL-1 and the Cuba break, the world was deep in the Cold War’s most anxious decade. Nuclear arsenals expanded, proxy wars simmered, and yet science, art, and counterculture were quietly planting seeds for the transformations to come.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
     "episode": {
-      "id": 8,
-      "title": "Morning Drops #02 - Waves of the Maghreb",
-      "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Hedi Jouini - Lamouni",
-        "Rachid Taha - Ya Rayah",
-        "Nass El Ghiwane - El Madi Fate"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
         "Maghreb",
-        "Chaabi",
-        "Raï"
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A diplomatic break in the Middle East sits alongside an episode about North African and Arab-influenced music, offering cultural texture and human stories from a region too often reduced to geopolitics."
+    "match_reason": "An era defined by geopolitical standoff pairs with an episode about voyaging across musical borders, suggesting that while states dug in, people and sounds kept traveling."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "Shifting back to 1961, the same year as SL-1 and the Cuba break, the world was deep in the Cold War’s most anxious decade. Nuclear arsenals expanded, proxy wars simmered, and yet science, art, and counterculture were quietly planting seeds for the transformations to come.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "An era defined by geopolitical standoff pairs with an episode about voyaging across musical borders, suggesting that while states dug in, people and sounds kept traveling."
-    },
     {
       "hour": 21,
       "fact_text": "Another thread from 3 January 1959: as Alaska joined the Union, it brought with it Indigenous cultures like the Inuit, Yupik, and Tlingit, whose relationship with ice, sea, and sky stretches back millennia. Their oral histories encode climate shifts, animal migrations, and survival strategies in some of Earth’s harshest conditions.",
@@ -628,9 +605,43 @@
         ]
       },
       "match_reason": "A diplomatic break in the Middle East sits alongside an episode about North African and Arab-influenced music, offering cultural texture and human stories from a region too often reduced to geopolitics."
+    },
+    {
+      "hour": 20,
+      "fact_text": "Shifting back to 1961, the same year as SL-1 and the Cuba break, the world was deep in the Cold War’s most anxious decade. Nuclear arsenals expanded, proxy wars simmered, and yet science, art, and counterculture were quietly planting seeds for the transformations to come.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "An era defined by geopolitical standoff pairs with an episode about voyaging across musical borders, suggesting that while states dug in, people and sounds kept traveling."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T19:00:01.230421+00:00"
+  "updated_at": "2026-01-03T20:00:01.207818+00:00"
 }
