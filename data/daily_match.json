@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 2002, Israeli forces intercepted the Palestinian freighter Karine A in the Red Sea, discovering about 50 tons of weapons on board. The seizure revealed a clandestine arms pipeline and intensified diplomatic tensions in the Israeli–Palestinian conflict.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Karine_A_affair",
+    "hour": 12,
+    "fact_text": "Also on 3 January 1961, amid Cold War tensions and economic reprisals, the United States severed diplomatic relations with Cuba. The diplomatic freeze, lasting more than half a century, turned the island into a symbol of ideological stalemate just 145 km from Florida.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cuba%E2%80%93United_States_relations",
     "episode": {
-      "id": 38,
-      "title": "Morning Drops #32 - A Weekend In London",
-      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Dele Sosimi - E Go Betta",
-        "Jimmy Castor Bunch - It's Just Begun",
-        "Little Simz feat. Obongjayar - Lion",
-        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Funk",
-        "UK Hip-Hop",
-        "Electronic"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "A clandestine arms shipment in a region of entrenched conflict contrasts with an episode rooted in London’s multicultural creativity, hinting at alternative flows—of culture, rhythm, and dialogue instead of weapons."
+    "match_reason": "A diplomatic rupture with a Caribbean nation fits next to an episode about a Latin-Caribbean-rooted genre; even when borders harden, music flows through the same sea unimpeded."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "Also on 3 January 1961, amid Cold War tensions and economic reprisals, the United States severed diplomatic relations with Cuba. The diplomatic freeze, lasting more than half a century, turned the island into a symbol of ideological stalemate just 145 km from Florida.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cuba%E2%80%93United_States_relations",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A diplomatic rupture with a Caribbean nation fits next to an episode about a Latin-Caribbean-rooted genre; even when borders harden, music flows through the same sea unimpeded."
-    },
     {
       "hour": 13,
       "fact_text": "On this day in 2018, the Netherlands closed all five of its major storm surge barriers simultaneously for the first time in history. Designed after the disastrous 1953 North Sea flood, these colossal movable structures formed a temporary steel and concrete shield against the sea.",
@@ -630,9 +605,33 @@
         ]
       },
       "match_reason": "A clandestine arms shipment in a region of entrenched conflict contrasts with an episode rooted in London’s multicultural creativity, hinting at alternative flows—of culture, rhythm, and dialogue instead of weapons."
+    },
+    {
+      "hour": 12,
+      "fact_text": "Also on 3 January 1961, amid Cold War tensions and economic reprisals, the United States severed diplomatic relations with Cuba. The diplomatic freeze, lasting more than half a century, turned the island into a symbol of ideological stalemate just 145 km from Florida.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cuba%E2%80%93United_States_relations",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A diplomatic rupture with a Caribbean nation fits next to an episode about a Latin-Caribbean-rooted genre; even when borders harden, music flows through the same sea unimpeded."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T11:00:01.410402+00:00"
+  "updated_at": "2026-01-03T12:00:01.610001+00:00"
 }
