@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1911, a magnitude 7.7 earthquake ripped through what was then Russian Turkestan, effectively destroying the city of Almaty. The shaking triggered massive landslides and reshaped the surrounding mountainscape, leaving geological scars still visible more than a century later.",
-    "fact_year": 1911,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1911_Kebin_earthquake",
+    "hour": 5,
+    "fact_text": "In 1961, the experimental SL‑1 nuclear reactor in Idaho suffered a sudden steam explosion when a control rod was withdrawn too far, too fast. The blast killed all three operators on duty and became a grim lesson in reactor design, human factors, and the importance of fail‑safes.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SL-1",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "An earthquake that reshaped a mountainous region pairs with an episode inspired by mountains and the powerful landscapes that frame human stories."
+    "match_reason": "A nuclear accident born of technology and human error pairs with an episode questioning our relationship with complex tech and the risks of over‑reliance."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1961, the experimental SL‑1 nuclear reactor in Idaho suffered a sudden steam explosion when a control rod was withdrawn too far, too fast. The blast killed all three operators on duty and became a grim lesson in reactor design, human factors, and the importance of fail‑safes.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SL-1",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A nuclear accident born of technology and human error pairs with an episode questioning our relationship with complex tech and the risks of over‑reliance."
-    },
     {
       "hour": 6,
       "fact_text": "On this day in 1993, U.S. President George H. W. Bush and Russian President Boris Yeltsin signed the START II treaty in Moscow. It aimed to drastically reduce the number of deployed strategic nuclear warheads, turning decades of Cold War arms racing into a new era of cautious disarmament.",
@@ -640,9 +615,34 @@
         ]
       },
       "match_reason": "An earthquake that reshaped a mountainous region pairs with an episode inspired by mountains and the powerful landscapes that frame human stories."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1961, the experimental SL‑1 nuclear reactor in Idaho suffered a sudden steam explosion when a control rod was withdrawn too far, too fast. The blast killed all three operators on duty and became a grim lesson in reactor design, human factors, and the importance of fail‑safes.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SL-1",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A nuclear accident born of technology and human error pairs with an episode questioning our relationship with complex tech and the risks of over‑reliance."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T04:00:01.318827+00:00"
+  "updated_at": "2026-01-03T05:00:01.128306+00:00"
 }
