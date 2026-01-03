@@ -1,64 +1,39 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On this day in 1957, the Hamilton Watch Company unveiled the world’s first electric wristwatch. Powered by a tiny battery instead of a wound spring, it was a stepping stone between traditional mechanical watches and the digital, quartz‑driven timepieces that now rule our wrists.",
-    "fact_year": 1957,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Electric_watch",
+    "hour": 17,
+    "fact_text": "In AD 69, the Roman legions along the River Rhine refused to swear allegiance to Emperor Galba and instead hailed their commander Aulus Vitellius as emperor. Their mutiny helped ignite the “Year of the Four Emperors,” a whirlwind of civil wars and rapid regime changes in Rome.",
+    "fact_year": 69,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vita como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The first electric watch is all about tiny machines changing our sense of time, just as 80s drum machines and synths transformed how we move and dance."
+    "match_reason": "A rebellious army detonating political order fits the explosive, foundational energy of Sedna FM’s first ‘bomb’ of a mixtape."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In AD 69, the Roman legions along the River Rhine refused to swear allegiance to Emperor Galba and instead hailed their commander Aulus Vitellius as emperor. Their mutiny helped ignite the “Year of the Four Emperors,” a whirlwind of civil wars and rapid regime changes in Rome.",
-      "fact_year": 69,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vita como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A rebellious army detonating political order fits the explosive, foundational energy of Sedna FM’s first ‘bomb’ of a mixtape."
-    },
     {
       "hour": 18,
       "fact_text": "On this day in 2023, Singapore’s Jurong Bird Park, once Asia’s largest bird park and home to hundreds of species, permanently closed after more than 50 years. Many of its residents were moved to a new eco‑park, but the closure marked the end of a beloved sanctuary of aviary sound and color.",
@@ -640,9 +615,42 @@
         ]
       },
       "match_reason": "The first electric watch is all about tiny machines changing our sense of time, just as 80s drum machines and synths transformed how we move and dance."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In AD 69, the Roman legions along the River Rhine refused to swear allegiance to Emperor Galba and instead hailed their commander Aulus Vitellius as emperor. Their mutiny helped ignite the “Year of the Four Emperors,” a whirlwind of civil wars and rapid regime changes in Rome.",
+      "fact_year": 69,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vita como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A rebellious army detonating political order fits the explosive, foundational energy of Sedna FM’s first ‘bomb’ of a mixtape."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T16:00:01.246389+00:00"
+  "updated_at": "2026-01-03T17:00:01.229849+00:00"
 }
