@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1920, a powerful magnitude 6.4 earthquake struck the Mexican states of Puebla and Veracruz, killing over 640 people. Centered near Xalapa, it reshaped local communities and geology, reminding us how tectonic forces quietly build for decades before releasing their energy in seconds.",
-    "fact_year": 1920,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
+    "hour": 4,
+    "fact_text": "On this day in 1911, a magnitude 7.7 earthquake devastated the Almaty region in Russian Turkestan, essentially destroying the city of Almaty. The Kebin earthquake triggered massive landslides and ground ruptures, reshaping the Central Asian landscape in a single violent event.",
+    "fact_year": 1911,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1911_Kebin_earthquake",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "Both the earthquake and flamenco trace deep roots along the same tectonically and culturally active arc from Mexico across to Spain, with flamenco’s percussive intensity mirroring seismic rhythms and human resilience."
+    "match_reason": "A mountain-region megaquake pairs with a mountain-inspired episode; both explore how dramatic landscapes—and the forces that shape them—imprint themselves on memory and story."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On this day in 1911, a magnitude 7.7 earthquake devastated the Almaty region in Russian Turkestan, essentially destroying the city of Almaty. The Kebin earthquake triggered massive landslides and ground ruptures, reshaping the Central Asian landscape in a single violent event.",
-      "fact_year": 1911,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1911_Kebin_earthquake",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A mountain-region megaquake pairs with a mountain-inspired episode; both explore how dramatic landscapes—and the forces that shape them—imprint themselves on memory and story."
-    },
     {
       "hour": 5,
       "fact_text": "On 3 January 1961, the SL-1 experimental nuclear reactor near Idaho Falls exploded due to a steam event triggered by an improperly withdrawn control rod. It became the only U.S. reactor accident to cause immediate fatalities, transforming a remote test site into a landmark case for nuclear safety and human factors engineering.",
@@ -630,9 +605,34 @@
         ]
       },
       "match_reason": "Both the earthquake and flamenco trace deep roots along the same tectonically and culturally active arc from Mexico across to Spain, with flamenco’s percussive intensity mirroring seismic rhythms and human resilience."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On this day in 1911, a magnitude 7.7 earthquake devastated the Almaty region in Russian Turkestan, essentially destroying the city of Almaty. The Kebin earthquake triggered massive landslides and ground ruptures, reshaping the Central Asian landscape in a single violent event.",
+      "fact_year": 1911,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1911_Kebin_earthquake",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A mountain-region megaquake pairs with a mountain-inspired episode; both explore how dramatic landscapes—and the forces that shape them—imprint themselves on memory and story."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T03:00:01.159170+00:00"
+  "updated_at": "2026-01-03T04:00:01.546875+00:00"
 }
