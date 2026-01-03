@@ -1,63 +1,39 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On this day in 1944, famed U.S. Marine Corps flying ace Major Greg \"Pappy\" Boyington was shot down over the Pacific in his F4U Corsair by Japanese ace Masajiro Kawato in a Mitsubishi A6M Zero. The clash between two legendary pilots became part of the mythic aerial duels of World War II.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pappy_Boyington",
+    "hour": 8,
+    "fact_text": "On 3 January 1777, George Washington’s Continental Army defeated British forces at the Battle of Princeton. Coming on the heels of the Trenton victory, this upset helped revive American morale and proved that a scrappy, outmatched force could still outthink an empire.",
+    "fact_year": 1777,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Princeton",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "High-stakes aerial dogfights and roaring fighter engines echo in the distortion, grit, and defiant energy of a rock-focused episode about courage and refusing to ask permission."
+    "match_reason": "A turning-point victory in a war for independence mirrors the origin-story energy of Sedna’s first episode—both are beginnings that change what feels possible."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On 3 January 1777, George Washington’s Continental Army defeated British forces at the Battle of Princeton. Coming on the heels of the Trenton victory, this upset helped revive American morale and proved that a scrappy, outmatched force could still outthink an empire.",
-      "fact_year": 1777,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Princeton",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A turning-point victory in a war for independence mirrors the origin-story energy of Sedna’s first episode—both are beginnings that change what feels possible."
-    },
     {
       "hour": 9,
       "fact_text": "In early January 2015, Boko Haram militants attacked and destroyed the town of Baga in north-east Nigeria, with death toll estimates reaching up to 2,000 people. The Baga massacre became a stark symbol of how extremist violence can obliterate entire communities in days.",
@@ -629,9 +605,42 @@
         ]
       },
       "match_reason": "High-stakes aerial dogfights and roaring fighter engines echo in the distortion, grit, and defiant energy of a rock-focused episode about courage and refusing to ask permission."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On 3 January 1777, George Washington’s Continental Army defeated British forces at the Battle of Princeton. Coming on the heels of the Trenton victory, this upset helped revive American morale and proved that a scrappy, outmatched force could still outthink an empire.",
+      "fact_year": 1777,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Princeton",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A turning-point victory in a war for independence mirrors the origin-story energy of Sedna’s first episode—both are beginnings that change what feels possible."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T07:00:01.273411+00:00"
+  "updated_at": "2026-01-03T08:00:01.478191+00:00"
 }
