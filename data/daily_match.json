@@ -1,63 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On 3 January 1777, George Washington’s Continental Army defeated British forces at the Battle of Princeton. Coming on the heels of the Trenton victory, this upset helped revive American morale and proved that a scrappy, outmatched force could still outthink an empire.",
-    "fact_year": 1777,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Princeton",
+    "hour": 9,
+    "fact_text": "In early January 2015, Boko Haram militants attacked and destroyed the town of Baga in north-east Nigeria, with death toll estimates reaching up to 2,000 people. The Baga massacre became a stark symbol of how extremist violence can obliterate entire communities in days.",
+    "fact_year": 2015,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boko_Haram",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A turning-point victory in a war for independence mirrors the origin-story energy of Sedna’s first episode—both are beginnings that change what feels possible."
+    "match_reason": "A devastating West African massacre is placed alongside an episode celebrating West African musical resistance; Afrobeat’s history of political critique offers a cultural counterforce to violence and oppression."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In early January 2015, Boko Haram militants attacked and destroyed the town of Baga in north-east Nigeria, with death toll estimates reaching up to 2,000 people. The Baga massacre became a stark symbol of how extremist violence can obliterate entire communities in days.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boko_Haram",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A devastating West African massacre is placed alongside an episode celebrating West African musical resistance; Afrobeat’s history of political critique offers a cultural counterforce to violence and oppression."
-    },
     {
       "hour": 10,
       "fact_text": "On 3 January 2004, Flash Airlines Flight 604 crashed into the Red Sea shortly after takeoff from Sharm El Sheikh, killing 148 people. The accident raised urgent questions about airline safety oversight and the complexities of night flying over featureless water.",
@@ -638,9 +605,33 @@
         ]
       },
       "match_reason": "A turning-point victory in a war for independence mirrors the origin-story energy of Sedna’s first episode—both are beginnings that change what feels possible."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In early January 2015, Boko Haram militants attacked and destroyed the town of Baga in north-east Nigeria, with death toll estimates reaching up to 2,000 people. The Baga massacre became a stark symbol of how extremist violence can obliterate entire communities in days.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boko_Haram",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A devastating West African massacre is placed alongside an episode celebrating West African musical resistance; Afrobeat’s history of political critique offers a cultural counterforce to violence and oppression."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T08:00:01.478191+00:00"
+  "updated_at": "2026-01-03T09:00:01.370301+00:00"
 }
