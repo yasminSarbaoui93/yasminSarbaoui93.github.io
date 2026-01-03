@@ -1,64 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Shifting back to 1961, the same year as SL-1 and the Cuba break, the world was deep in the Cold War’s most anxious decade. Nuclear arsenals expanded, proxy wars simmered, and yet science, art, and counterculture were quietly planting seeds for the transformations to come.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cold_War",
+    "hour": 21,
+    "fact_text": "Another thread from 3 January 1959: as Alaska joined the Union, it brought with it Indigenous cultures like the Inuit, Yupik, and Tlingit, whose relationship with ice, sea, and sky stretches back millennia. Their oral histories encode climate shifts, animal migrations, and survival strategies in some of Earth’s harshest conditions.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Natives",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "An era defined by geopolitical standoff pairs with an episode about voyaging across musical borders, suggesting that while states dug in, people and sounds kept traveling."
+    "match_reason": "Arctic Indigenous knowledge of snow and sea resonates with Tuareg desert blues; both are music born from extreme environments, memory, and survival under vast skies."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Another thread from 3 January 1959: as Alaska joined the Union, it brought with it Indigenous cultures like the Inuit, Yupik, and Tlingit, whose relationship with ice, sea, and sky stretches back millennia. Their oral histories encode climate shifts, animal migrations, and survival strategies in some of Earth’s harshest conditions.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Natives",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Arctic Indigenous knowledge of snow and sea resonates with Tuareg desert blues; both are music born from extreme environments, memory, and survival under vast skies."
-    },
     {
       "hour": 22,
       "fact_text": "Zooming back to the Moon, Chang’e 4’s Yutu-2 rover—deployed on 3 January 2019—became the first robot to drive on the lunar far side. It carried ground-penetrating radar and spectrometers, quietly reading the Moon’s buried layers like pages in a frozen history book.",
@@ -639,9 +605,33 @@
         ]
       },
       "match_reason": "An era defined by geopolitical standoff pairs with an episode about voyaging across musical borders, suggesting that while states dug in, people and sounds kept traveling."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Another thread from 3 January 1959: as Alaska joined the Union, it brought with it Indigenous cultures like the Inuit, Yupik, and Tlingit, whose relationship with ice, sea, and sky stretches back millennia. Their oral histories encode climate shifts, animal migrations, and survival strategies in some of Earth’s harshest conditions.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Natives",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Arctic Indigenous knowledge of snow and sea resonates with Tuareg desert blues; both are music born from extreme environments, memory, and survival under vast skies."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T20:00:01.207818+00:00"
+  "updated_at": "2026-01-03T21:00:01.102287+00:00"
 }
