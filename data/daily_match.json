@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On 3 January 1913, a massive Atlantic coast storm produced the lowest confirmed barometric pressure ever recorded in the continental United States for a non-tropical system, dropping to 955.0 mb. This rare extratropical cyclone demonstrated how mid-latitude storms can rival hurricanes in raw atmospheric power.",
-    "fact_year": 1913,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/January_1913_Atlantic_coast_storm",
+    "hour": 3,
+    "fact_text": "In 1920, a powerful magnitude 6.4 earthquake struck the Mexican states of Puebla and Veracruz, killing over 640 people. Centered near Xalapa, it reshaped local communities and geology, reminding us how tectonic forces quietly build for decades before releasing their energy in seconds.",
+    "fact_year": 1920,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 45,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A record-breaking storm’s violent energy resonates with an episode built around electric, high-voltage rock—nature’s atmospheric shock meeting musical electricity."
+    "match_reason": "Both the earthquake and flamenco trace deep roots along the same tectonically and culturally active arc from Mexico across to Spain, with flamenco’s percussive intensity mirroring seismic rhythms and human resilience."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1920, a powerful magnitude 6.4 earthquake struck the Mexican states of Puebla and Veracruz, killing over 640 people. Centered near Xalapa, it reshaped local communities and geology, reminding us how tectonic forces quietly build for decades before releasing their energy in seconds.",
-      "fact_year": 1920,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Both the earthquake and flamenco trace deep roots along the same tectonically and culturally active arc from Mexico across to Spain, with flamenco’s percussive intensity mirroring seismic rhythms and human resilience."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1911, a magnitude 7.7 earthquake devastated the Almaty region in Russian Turkestan, essentially destroying the city of Almaty. The Kebin earthquake triggered massive landslides and ground ruptures, reshaping the Central Asian landscape in a single violent event.",
@@ -630,9 +605,34 @@
         ]
       },
       "match_reason": "A record-breaking storm’s violent energy resonates with an episode built around electric, high-voltage rock—nature’s atmospheric shock meeting musical electricity."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1920, a powerful magnitude 6.4 earthquake struck the Mexican states of Puebla and Veracruz, killing over 640 people. Centered near Xalapa, it reshaped local communities and geology, reminding us how tectonic forces quietly build for decades before releasing their energy in seconds.",
+      "fact_year": 1920,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1920_Xalapa_earthquake",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Both the earthquake and flamenco trace deep roots along the same tectonically and culturally active arc from Mexico across to Spain, with flamenco’s percussive intensity mirroring seismic rhythms and human resilience."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T02:00:01.276274+00:00"
+  "updated_at": "2026-01-03T03:00:01.159170+00:00"
 }
