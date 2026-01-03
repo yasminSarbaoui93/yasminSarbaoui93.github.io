@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On this day in 1999, NASA launched the Mars Polar Lander, aiming to touch down near Mars’s south pole to study its climate and search for water ice. Though contact was lost during descent, the mission pushed engineering limits and helped shape safer designs for later Mars landers.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Polar_Lander",
+    "hour": 2,
+    "fact_text": "In 1913, an enormous Atlantic coast storm slammed into the eastern United States and produced the lowest confirmed barometric pressure ever recorded there for a non‑tropical system: 955.0 millibars. The storm’s freakishly low pressure reshaped meteorologists’ understanding of how intense extratropical cyclones could become.",
+    "fact_year": 1913,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/January_1913_Atlantic_coast_storm",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A risky voyage to Mars fits the idea of “Destination Sedna” as a sound-journey into unknown territory and new worlds."
+    "match_reason": "A violent, record‑shattering storm echoes the wild, high‑energy jolt of rock and ‘electric shock’ vibes in this episode."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1913, an enormous Atlantic coast storm slammed into the eastern United States and produced the lowest confirmed barometric pressure ever recorded there for a non‑tropical system: 955.0 millibars. The storm’s freakishly low pressure reshaped meteorologists’ understanding of how intense extratropical cyclones could become.",
-      "fact_year": 1913,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/January_1913_Atlantic_coast_storm",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A violent, record‑shattering storm echoes the wild, high‑energy jolt of rock and ‘electric shock’ vibes in this episode."
-    },
     {
       "hour": 3,
       "fact_text": "In 1920, a magnitude 6.4 earthquake struck Mexico’s Puebla and Veracruz states, killing more than 640 people and devastating towns like Xalapa. The disaster exposed how vulnerable hillside communities were to landslides and helped drive improvements in building codes and hazard awareness.",
@@ -649,9 +615,34 @@
         ]
       },
       "match_reason": "A risky voyage to Mars fits the idea of “Destination Sedna” as a sound-journey into unknown territory and new worlds."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1913, an enormous Atlantic coast storm slammed into the eastern United States and produced the lowest confirmed barometric pressure ever recorded there for a non‑tropical system: 955.0 millibars. The storm’s freakishly low pressure reshaped meteorologists’ understanding of how intense extratropical cyclones could become.",
+      "fact_year": 1913,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/January_1913_Atlantic_coast_storm",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A violent, record‑shattering storm echoes the wild, high‑energy jolt of rock and ‘electric shock’ vibes in this episode."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T01:00:01.181922+00:00"
+  "updated_at": "2026-01-03T02:00:01.202829+00:00"
 }
