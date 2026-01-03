@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2019, China’s Chang’e 4 mission became the first spacecraft in history to soft‑land on the far side of the Moon, a region permanently hidden from Earth. Its Yutu‑2 rover began exploring an ancient impact basin, giving scientists a new perspective on how the Moon — and our Solar System — evolved.",
-    "fact_year": 2019,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Chang%27e_4",
+    "hour": 1,
+    "fact_text": "On this day in 1999, NASA launched the Mars Polar Lander, aiming to touch down near Mars’s south pole to study its climate and search for water ice. Though contact was lost during descent, the mission pushed engineering limits and helped shape safer designs for later Mars landers.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Polar_Lander",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A pioneering lunar landing mirrors the episode’s theme of turning empty ‘space’ into a creative frontier and shifting perspective."
+    "match_reason": "A risky voyage to Mars fits the idea of “Destination Sedna” as a sound-journey into unknown territory and new worlds."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1999, NASA launched the Mars Polar Lander, aiming to touch down near Mars’s south pole to study its climate and search for water ice. Though contact was lost during descent, the mission pushed engineering limits and helped shape safer designs for later Mars landers.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Polar_Lander",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A risky voyage to Mars fits the idea of “Destination Sedna” as a sound-journey into unknown territory and new worlds."
-    },
     {
       "hour": 2,
       "fact_text": "In 1913, an enormous Atlantic coast storm slammed into the eastern United States and produced the lowest confirmed barometric pressure ever recorded there for a non‑tropical system: 955.0 millibars. The storm’s freakishly low pressure reshaped meteorologists’ understanding of how intense extratropical cyclones could become.",
@@ -638,9 +615,43 @@
         ]
       },
       "match_reason": "A pioneering lunar landing mirrors the episode’s theme of turning empty ‘space’ into a creative frontier and shifting perspective."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1999, NASA launched the Mars Polar Lander, aiming to touch down near Mars’s south pole to study its climate and search for water ice. Though contact was lost during descent, the mission pushed engineering limits and helped shape safer designs for later Mars landers.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Polar_Lander",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A risky voyage to Mars fits the idea of “Destination Sedna” as a sound-journey into unknown territory and new worlds."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.010777+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T00:01:14.183002+00:00"
+  "updated_at": "2026-01-03T01:00:01.181922+00:00"
 }
