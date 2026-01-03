@@ -1,52 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1993, at the end of the Cold War, U.S. President George H. W. Bush and Russian President Boris Yeltsin signed the START II treaty in Moscow. The agreement aimed to drastically reduce strategic nuclear arsenals, symbolizing an attempt to turn an arms race into an exercise in deliberate restraint.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/START_II",
+    "hour": 7,
+    "fact_text": "On this day in 1944, famed U.S. Marine Corps flying ace Major Greg \"Pappy\" Boyington was shot down over the Pacific in his F4U Corsair by Japanese ace Masajiro Kawato in a Mitsubishi A6M Zero. The clash between two legendary pilots became part of the mythic aerial duels of World War II.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pappy_Boyington",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A treaty that tries to unbox two nations from their Cold War identities fits with an episode about breaking out of rigid labels and rewriting the stories we live in."
+    "match_reason": "High-stakes aerial dogfights and roaring fighter engines echo in the distortion, grit, and defiant energy of a rock-focused episode about courage and refusing to ask permission."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On this day in 1944, famed U.S. Marine Corps flying ace Major Greg \"Pappy\" Boyington was shot down over the Pacific in his F4U Corsair by Japanese ace Masajiro Kawato in a Mitsubishi A6M Zero. The clash between two legendary pilots became part of the mythic aerial duels of World War II.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pappy_Boyington",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "High-stakes aerial dogfights and roaring fighter engines echo in the distortion, grit, and defiant energy of a rock-focused episode about courage and refusing to ask permission."
-    },
     {
       "hour": 8,
       "fact_text": "On 3 January 1777, George Washington’s Continental Army defeated British forces at the Battle of Princeton. Coming on the heels of the Trenton victory, this upset helped revive American morale and proved that a scrappy, outmatched force could still outthink an empire.",
@@ -627,9 +605,33 @@
         ]
       },
       "match_reason": "A treaty that tries to unbox two nations from their Cold War identities fits with an episode about breaking out of rigid labels and rewriting the stories we live in."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On this day in 1944, famed U.S. Marine Corps flying ace Major Greg \"Pappy\" Boyington was shot down over the Pacific in his F4U Corsair by Japanese ace Masajiro Kawato in a Mitsubishi A6M Zero. The clash between two legendary pilots became part of the mythic aerial duels of World War II.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pappy_Boyington",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "High-stakes aerial dogfights and roaring fighter engines echo in the distortion, grit, and defiant energy of a rock-focused episode about courage and refusing to ask permission."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T06:00:01.056705+00:00"
+  "updated_at": "2026-01-03T07:00:01.273411+00:00"
 }
