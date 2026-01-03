@@ -1,59 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "Later that same day in 1961, Aero Flight 311 crashed into a forest near Kvevlax, Finland, killing all 25 people on board. It remains one of Finland’s deadliest aviation accidents and highlighted how human factors and harsh winter conditions can converge in the air.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aero_Flight_311",
+    "hour": 15,
+    "fact_text": "On 3 January 1959, Alaska was admitted as the 49th state of the United States. With its vast wilderness, glaciers, and Arctic coastlines, Alaska dramatically expanded America’s geographic extremes and resource frontiers.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A tragic northern European flight accident is juxtaposed with a reflective episode about travel by sea and the shared vulnerability and connection that come with journeying together."
+    "match_reason": "Adding a vast, wild northern state to the map contrasts beautifully with an episode about long, contemplative summers; together they evoke seasonal extremes and big open horizons."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On 3 January 1959, Alaska was admitted as the 49th state of the United States. With its vast wilderness, glaciers, and Arctic coastlines, Alaska dramatically expanded America’s geographic extremes and resource frontiers.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "Adding a vast, wild northern state to the map contrasts beautifully with an episode about long, contemplative summers; together they evoke seasonal extremes and big open horizons."
-    },
     {
       "hour": 16,
       "fact_text": "In 1957, the Hamilton Watch Company introduced the world’s first electric wristwatch, replacing traditional mechanical mainsprings with a battery-powered movement. This quiet technological leap foreshadowed today’s quartz, digital, and smartwatches that turned wrists into tiny laboratories.",
@@ -633,9 +605,34 @@
         ]
       },
       "match_reason": "A tragic northern European flight accident is juxtaposed with a reflective episode about travel by sea and the shared vulnerability and connection that come with journeying together."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On 3 January 1959, Alaska was admitted as the 49th state of the United States. With its vast wilderness, glaciers, and Arctic coastlines, Alaska dramatically expanded America’s geographic extremes and resource frontiers.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "Adding a vast, wild northern state to the map contrasts beautifully with an episode about long, contemplative summers; together they evoke seasonal extremes and big open horizons."
     }
   ],
   "generated_at": "2026-01-03T00:00:00.012079+00:00",
   "date": "2026-01-03",
-  "updated_at": "2026-01-03T14:00:01.130581+00:00"
+  "updated_at": "2026-01-03T15:00:01.201185+00:00"
 }
