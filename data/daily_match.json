@@ -1,61 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On this day in 1959, the Soviet spacecraft Luna 1 missed its target but still became the first human-made object to reach the vicinity of the Moon and enter a heliocentric orbit. Nicknamed the \"Dream,\" it turned a navigational error into a historic first in deep space exploration.",
-    "fact_year": 1959,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
+    "hour": 2,
+    "fact_text": "In 1958, Sputnik 1, the world’s first artificial satellite launched by the Soviet Union in 1957, burnt up as it reentered Earth's atmosphere after nearly three months in orbit. Its short life profoundly reshaped global politics and science, igniting the space race and the modern age of satellites.",
+    "fact_year": 1958,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sputnik_1",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The dreamy, ambient-to-cosmic flow and track titled \"Solar Wind\" echo Luna 1’s accidental journey beyond the Moon into solar orbit."
+    "match_reason": "Sputnik’s fall marks the beginning of our satellite-driven connectivity, while the episode explores our dependence on digital networks those satellites helped make possible."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1958, Sputnik 1, the world’s first artificial satellite launched by the Soviet Union in 1957, burnt up as it reentered Earth's atmosphere after nearly three months in orbit. Its short life profoundly reshaped global politics and science, igniting the space race and the modern age of satellites.",
-      "fact_year": 1958,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sputnik_1",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Sputnik’s fall marks the beginning of our satellite-driven connectivity, while the episode explores our dependence on digital networks those satellites helped make possible."
-    },
     {
       "hour": 3,
       "fact_text": "In 1909, Antarctic explorer Aeneas Mackintosh narrowly escaped death after sea ice broke away beneath him, forcing him to flee across drifting floes. His survival foreshadowed the brutal conditions that would later define the Imperial Trans-Antarctic Expedition.",
@@ -642,9 +612,34 @@
         ]
       },
       "match_reason": "The dreamy, ambient-to-cosmic flow and track titled \"Solar Wind\" echo Luna 1’s accidental journey beyond the Moon into solar orbit."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1958, Sputnik 1, the world’s first artificial satellite launched by the Soviet Union in 1957, burnt up as it reentered Earth's atmosphere after nearly three months in orbit. Its short life profoundly reshaped global politics and science, igniting the space race and the modern age of satellites.",
+      "fact_year": 1958,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Sputnik’s fall marks the beginning of our satellite-driven connectivity, while the episode explores our dependence on digital networks those satellites helped make possible."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T01:00:01.241968+00:00"
+  "updated_at": "2026-01-04T02:00:01.133731+00:00"
 }
