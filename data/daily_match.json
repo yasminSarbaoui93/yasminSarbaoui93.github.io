@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2004, NASA’s Spirit rover bounced to a stop inside Mars’s Gusev Crater and then ‘unfolded’ itself like a metal flower, driving off its lander to become a long‑lived Martian geologist. Designed for a 90‑day mission, Spirit survived for over six years, climbing hills, analyzing rocks, and sending back panoramas that reshaped how we imagine the Red Planet.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+    "hour": 1,
+    "fact_text": "In 1959, the Soviet probe Luna 1 missed its intended lunar impact, but in doing so became the first spacecraft ever to reach the Moon’s vicinity and escape Earth’s gravity into a heliocentric orbit. Humanity accidentally launched its first artificial ‘mini‑planet’, silently circling the Sun between Earth and Mars.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A Mars rover turning empty Martian desert into discovery pairs with an episode about transforming emptiness into creative space and forward motion."
+    "match_reason": "A pioneering voyage out of Earth’s orbit fits a sound‑voyage themed around travelling to distant destinations and new territories."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1959, the Soviet probe Luna 1 missed its intended lunar impact, but in doing so became the first spacecraft ever to reach the Moon’s vicinity and escape Earth’s gravity into a heliocentric orbit. Humanity accidentally launched its first artificial ‘mini‑planet’, silently circling the Sun between Earth and Mars.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A pioneering voyage out of Earth’s orbit fits a sound‑voyage themed around travelling to distant destinations and new territories."
-    },
     {
       "hour": 2,
       "fact_text": "In 1958, Sputnik 1—Earth’s very first artificial satellite—finally re‑entered the atmosphere and burned up after just three months in orbit. During its brief life, the beeping metal sphere triggered the Space Race, inspired a generation of scientists, and turned the night sky into a place of human‑made signals.",
@@ -650,9 +627,43 @@
         ]
       },
       "match_reason": "A Mars rover turning empty Martian desert into discovery pairs with an episode about transforming emptiness into creative space and forward motion."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1959, the Soviet probe Luna 1 missed its intended lunar impact, but in doing so became the first spacecraft ever to reach the Moon’s vicinity and escape Earth’s gravity into a heliocentric orbit. Humanity accidentally launched its first artificial ‘mini‑planet’, silently circling the Sun between Earth and Mars.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A pioneering voyage out of Earth’s orbit fits a sound‑voyage themed around travelling to distant destinations and new territories."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T00:00:52.378597+00:00"
+  "updated_at": "2026-01-04T01:00:01.131516+00:00"
 }
