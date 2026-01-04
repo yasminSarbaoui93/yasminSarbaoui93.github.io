@@ -1,54 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 46 BC, Julius Caesar clashed with his former lieutenant Titus Labienus at the Battle of Ruspina in North Africa. Though Caesar was outnumbered and nearly encircled, his troops’ discipline and tactical innovation allowed them to withdraw in good order and fight another day in the Roman civil wars.",
-    "fact_year": -46,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ruspina",
+    "hour": 6,
+    "fact_text": "On January 4, 1967, The Doors released their self-titled debut album, an intense fusion of rock, blues, and psychedelia. With tracks like \"Light My Fire\" and \"The End,\" it invited listeners to step through a darker, poetic doorway into the late 1960s counterculture.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Doors_(album)",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "The fierce, uncompromising energy of hard rock mirrors the brutal strategy and defiance of an ancient battlefield where power and loyalty violently collided."
+    "match_reason": "The Doors’ debut and Arctic Monkeys’ evolution both mark transformative moments in rock, blending raw beginnings with more cinematic, psychedelic directions."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On January 4, 1967, The Doors released their self-titled debut album, an intense fusion of rock, blues, and psychedelia. With tracks like \"Light My Fire\" and \"The End,\" it invited listeners to step through a darker, poetic doorway into the late 1960s counterculture.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Doors_(album)",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "The Doors’ debut and Arctic Monkeys’ evolution both mark transformative moments in rock, blending raw beginnings with more cinematic, psychedelic directions."
-    },
     {
       "hour": 7,
       "fact_text": "In January 1998, a massive ice storm coated eastern Canada and the northeastern United States in layers of freezing rain, snapping forests, power lines, and infrastructure. Some communities endured weeks without electricity, revealing both the fragility and resilience of cold-climate societies.",
@@ -636,9 +612,33 @@
         ]
       },
       "match_reason": "The fierce, uncompromising energy of hard rock mirrors the brutal strategy and defiance of an ancient battlefield where power and loyalty violently collided."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On January 4, 1967, The Doors released their self-titled debut album, an intense fusion of rock, blues, and psychedelia. With tracks like \"Light My Fire\" and \"The End,\" it invited listeners to step through a darker, poetic doorway into the late 1960s counterculture.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Doors_(album)",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "The Doors’ debut and Arctic Monkeys’ evolution both mark transformative moments in rock, blending raw beginnings with more cinematic, psychedelic directions."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T05:00:01.120072+00:00"
+  "updated_at": "2026-01-04T06:00:01.415972+00:00"
 }
