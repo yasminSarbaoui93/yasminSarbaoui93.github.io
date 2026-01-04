@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1958, Sputnik 1, the world’s first artificial satellite launched by the Soviet Union in 1957, burnt up as it reentered Earth's atmosphere after nearly three months in orbit. Its short life profoundly reshaped global politics and science, igniting the space race and the modern age of satellites.",
-    "fact_year": 1958,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sputnik_1",
+    "hour": 3,
+    "fact_text": "In 1909, Antarctic explorer Aeneas Mackintosh narrowly escaped death after sea ice broke away beneath him, forcing him to flee across drifting floes. His survival foreshadowed the brutal conditions that would later define the Imperial Trans-Antarctic Expedition.",
+    "fact_year": 1909,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeneas_Mackintosh",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Sputnik’s fall marks the beginning of our satellite-driven connectivity, while the episode explores our dependence on digital networks those satellites helped make possible."
+    "match_reason": "Both the fact and the episode live in icy waters beyond the polar circle, blending human vulnerability with the harsh beauty of polar landscapes."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1909, Antarctic explorer Aeneas Mackintosh narrowly escaped death after sea ice broke away beneath him, forcing him to flee across drifting floes. His survival foreshadowed the brutal conditions that would later define the Imperial Trans-Antarctic Expedition.",
-      "fact_year": 1909,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeneas_Mackintosh",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the fact and the episode live in icy waters beyond the polar circle, blending human vulnerability with the harsh beauty of polar landscapes."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1903, Topsy the elephant was killed by electrocution at Coney Island’s Luna Park, an event grimly captured on film as \"Electrocuting an Elephant.\" The spectacle is now a haunting symbol of early 20th‑century cruelty in entertainment and the unsettling intersection of animals, industry, and media.",
@@ -637,9 +612,34 @@
         ]
       },
       "match_reason": "Sputnik’s fall marks the beginning of our satellite-driven connectivity, while the episode explores our dependence on digital networks those satellites helped make possible."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1909, Antarctic explorer Aeneas Mackintosh narrowly escaped death after sea ice broke away beneath him, forcing him to flee across drifting floes. His survival foreshadowed the brutal conditions that would later define the Imperial Trans-Antarctic Expedition.",
+      "fact_year": 1909,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeneas_Mackintosh",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the fact and the episode live in icy waters beyond the polar circle, blending human vulnerability with the harsh beauty of polar landscapes."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T02:00:01.133731+00:00"
+  "updated_at": "2026-01-04T03:00:01.344027+00:00"
 }
