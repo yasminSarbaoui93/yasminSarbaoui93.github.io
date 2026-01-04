@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1909, Antarctic explorer Aeneas Mackintosh narrowly escaped death after sea ice broke away beneath him, forcing him to flee across drifting floes. His survival foreshadowed the brutal conditions that would later define the Imperial Trans-Antarctic Expedition.",
-    "fact_year": 1909,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aeneas_Mackintosh",
+    "hour": 4,
+    "fact_text": "On this day in 1903, Topsy the elephant was killed by electrocution at Coney Island’s Luna Park, an event grimly captured on film as \"Electrocuting an Elephant.\" The spectacle is now a haunting symbol of early 20th‑century cruelty in entertainment and the unsettling intersection of animals, industry, and media.",
+    "fact_year": 1903,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Topsy_(elephant)",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the fact and the episode live in icy waters beyond the polar circle, blending human vulnerability with the harsh beauty of polar landscapes."
+    "match_reason": "The ‘Electric Shock’ episode title and charged guitars echo the dark, literal use of electricity in Topsy’s death, inviting reflection on how far our ethics around spectacle have come."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On this day in 1903, Topsy the elephant was killed by electrocution at Coney Island’s Luna Park, an event grimly captured on film as \"Electrocuting an Elephant.\" The spectacle is now a haunting symbol of early 20th‑century cruelty in entertainment and the unsettling intersection of animals, industry, and media.",
-      "fact_year": 1903,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Topsy_(elephant)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The ‘Electric Shock’ episode title and charged guitars echo the dark, literal use of electricity in Topsy’s death, inviting reflection on how far our ethics around spectacle have come."
-    },
     {
       "hour": 5,
       "fact_text": "In 46 BC, Julius Caesar clashed with his former lieutenant Titus Labienus at the Battle of Ruspina in North Africa. Though Caesar was outnumbered and nearly encircled, his troops’ discipline and tactical innovation allowed them to withdraw in good order and fight another day in the Roman civil wars.",
@@ -637,9 +612,34 @@
         ]
       },
       "match_reason": "Both the fact and the episode live in icy waters beyond the polar circle, blending human vulnerability with the harsh beauty of polar landscapes."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On this day in 1903, Topsy the elephant was killed by electrocution at Coney Island’s Luna Park, an event grimly captured on film as \"Electrocuting an Elephant.\" The spectacle is now a haunting symbol of early 20th‑century cruelty in entertainment and the unsettling intersection of animals, industry, and media.",
+      "fact_year": 1903,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Topsy_(elephant)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The ‘Electric Shock’ episode title and charged guitars echo the dark, literal use of electricity in Topsy’s death, inviting reflection on how far our ethics around spectacle have come."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T03:00:01.344027+00:00"
+  "updated_at": "2026-01-04T04:00:01.395153+00:00"
 }
