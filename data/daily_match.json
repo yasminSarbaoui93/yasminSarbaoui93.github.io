@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2004, NASA's Mars rover Spirit bounced to a halt inside Gusev Crater and became one of humanity’s most distant robotic explorers. Designed for just 90 Martian days, it instead roamed for over six years, uncovering evidence that Mars once had water and more complex geological history than expected.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+    "hour": 1,
+    "fact_text": "On this day in 1959, the Soviet spacecraft Luna 1 missed its target but still became the first human-made object to reach the vicinity of the Moon and enter a heliocentric orbit. Nicknamed the \"Dream,\" it turned a navigational error into a historic first in deep space exploration.",
+    "fact_year": 1959,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A rover landing on Mars literally “shifts” humanity into space exploration, mirroring the episode’s theme of turning emptiness into creative space and momentum."
+    "match_reason": "The dreamy, ambient-to-cosmic flow and track titled \"Solar Wind\" echo Luna 1’s accidental journey beyond the Moon into solar orbit."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1959, the Soviet spacecraft Luna 1 missed its target but still became the first human-made object to reach the vicinity of the Moon and enter a heliocentric orbit. Nicknamed the \"Dream,\" it turned a navigational error into a historic first in deep space exploration.",
-      "fact_year": 1959,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The dreamy, ambient-to-cosmic flow and track titled \"Solar Wind\" echo Luna 1’s accidental journey beyond the Moon into solar orbit."
-    },
     {
       "hour": 2,
       "fact_text": "In 1958, Sputnik 1, the world’s first artificial satellite launched by the Soviet Union in 1957, burnt up as it reentered Earth's atmosphere after nearly three months in orbit. Its short life profoundly reshaped global politics and science, igniting the space race and the modern age of satellites.",
@@ -635,9 +612,39 @@
         ]
       },
       "match_reason": "A rover landing on Mars literally “shifts” humanity into space exploration, mirroring the episode’s theme of turning emptiness into creative space and momentum."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1959, the Soviet spacecraft Luna 1 missed its target but still became the first human-made object to reach the vicinity of the Moon and enter a heliocentric orbit. Nicknamed the \"Dream,\" it turned a navigational error into a historic first in deep space exploration.",
+      "fact_year": 1959,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_1",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The dreamy, ambient-to-cosmic flow and track titled \"Solar Wind\" echo Luna 1’s accidental journey beyond the Moon into solar orbit."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T00:01:05.928041+00:00"
+  "updated_at": "2026-01-04T01:00:01.241968+00:00"
 }
