@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On this day in 1762, Great Britain declared war on Spain, drawing Spain into the already global Seven Years’ War. The conflict stretched from European courts to Caribbean islands and Asian trading ports, reshaping colonial borders on multiple continents.",
-    "fact_year": 1762,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+    "hour": 17,
+    "fact_text": "In 2019, a fire broke out in an escape room in Koszalin, Poland, trapping and killing five teenagers through carbon monoxide poisoning. The tragedy sparked nationwide inspections and raised urgent questions about safety in immersive entertainment spaces.",
+    "fact_year": 2019,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "Spain’s entry into a global war contrasts with another side of Spanish history: flamenco’s emotional resilience and cultural fusion born from centuries of conflict and coexistence."
+    "match_reason": "Both the fact and the episode are rooted in contemporary Poland; the joyful travel memories throw the escape room tragedy into sharper relief, highlighting how place holds many overlapping stories."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 2019, a fire broke out in an escape room in Koszalin, Poland, trapping and killing five teenagers through carbon monoxide poisoning. The tragedy sparked nationwide inspections and raised urgent questions about safety in immersive entertainment spaces.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "Both the fact and the episode are rooted in contemporary Poland; the joyful travel memories throw the escape room tragedy into sharper relief, highlighting how place holds many overlapping stories."
-    },
     {
       "hour": 18,
       "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building in the world. Its tapering, futuristic design pushes engineering to extremes, turning a desert skyline into a vertical statement about ambition and spectacle.",
@@ -637,9 +612,34 @@
         ]
       },
       "match_reason": "Spain’s entry into a global war contrasts with another side of Spanish history: flamenco’s emotional resilience and cultural fusion born from centuries of conflict and coexistence."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 2019, a fire broke out in an escape room in Koszalin, Poland, trapping and killing five teenagers through carbon monoxide poisoning. The tragedy sparked nationwide inspections and raised urgent questions about safety in immersive entertainment spaces.",
+      "fact_year": 2019,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "Both the fact and the episode are rooted in contemporary Poland; the joyful travel memories throw the escape room tragedy into sharper relief, highlighting how place holds many overlapping stories."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T16:00:01.100513+00:00"
+  "updated_at": "2026-01-04T17:00:01.258091+00:00"
 }
