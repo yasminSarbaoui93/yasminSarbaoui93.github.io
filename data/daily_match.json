@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 2004, after the peaceful Rose Revolution, Mikheil Saakashvili was elected President of Georgia at just 36 years old. His landslide victory symbolized a sharp generational and political turn, as a post‑Soviet nation tried to rewrite its future almost overnight.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Georgian_presidential_election",
+    "hour": 10,
+    "fact_text": "In 1989 over the Gulf of Sidra, two U.S. Navy F‑14 Tomcats engaged and shot down two Libyan MiG‑23s in a tense, high‑speed duel of radar locks and evasive turns. The encounter compressed Cold War politics into a few minutes of contrails and missile trails over international waters.",
+    "fact_year": 1989,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1989_air_battle_near_Tobruk",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A country shifting political direction mirrors an episode about shifts in perspective and quiet, transformative movement."
+    "match_reason": "An aerial dogfight’s tension and cinematic feel fits with trip‑hop’s filmic atmosphere and blurred boundaries between conflict and calm."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1989 over the Gulf of Sidra, two U.S. Navy F‑14 Tomcats engaged and shot down two Libyan MiG‑23s in a tense, high‑speed duel of radar locks and evasive turns. The encounter compressed Cold War politics into a few minutes of contrails and missile trails over international waters.",
-      "fact_year": 1989,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1989_air_battle_near_Tobruk",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "An aerial dogfight’s tension and cinematic feel fits with trip‑hop’s filmic atmosphere and blurred boundaries between conflict and calm."
-    },
     {
       "hour": 11,
       "fact_text": "In 1944, Operation Carpetbagger began sending black‑painted bombers on moonlit flights over Nazi‑occupied Europe, dropping weapons, radios, and agents to resistance fighters. Pilots cut their engines low over forests and fields, turning the night sky into a secret supply line woven from courage and darkness.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A country shifting political direction mirrors an episode about shifts in perspective and quiet, transformative movement."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1989 over the Gulf of Sidra, two U.S. Navy F‑14 Tomcats engaged and shot down two Libyan MiG‑23s in a tense, high‑speed duel of radar locks and evasive turns. The encounter compressed Cold War politics into a few minutes of contrails and missile trails over international waters.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1989_air_battle_near_Tobruk",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "An aerial dogfight’s tension and cinematic feel fits with trip‑hop’s filmic atmosphere and blurred boundaries between conflict and calm."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T09:00:01.310309+00:00"
+  "updated_at": "2026-01-04T10:00:01.093941+00:00"
 }
