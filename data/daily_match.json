@@ -1,73 +1,40 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building on Earth at over 828 meters. Designed to be a vertical city, it pierces the desert sky so high that its top floors can watch the sun set twice—by taking an elevator up after it disappears on the horizon.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+    "hour": 19,
+    "fact_text": "In 2000, near the village of Åsta in Norway, two passenger trains collided head‑on on a single-track line after a cascade of signaling and communication failures. The crash killed 19 people and led to major reforms in Norwegian rail safety, including new automatic train control systems.",
+    "fact_year": 2000,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85sta_accident",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Hip-Hop",
+        "Reggae",
+        "Funk",
+        "Soul",
         "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "The opening of the world’s tallest tower—an ambitious launch into the sky—matches the energetic \"where it all began\" launch of the station’s very first episode."
+    "match_reason": "A tragic collision on a journey contrasts with an episode about moving forward; together they highlight both the joy and vulnerability of being ‘on the go’."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "In 2000, near the village of Åsta in Norway, two passenger trains collided head‑on on a single-track line after a cascade of signaling and communication failures. The crash killed 19 people and led to major reforms in Norwegian rail safety, including new automatic train control systems.",
-      "fact_year": 2000,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85sta_accident",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A tragic collision on a journey contrasts with an episode about moving forward; together they highlight both the joy and vulnerability of being ‘on the go’."
-    },
     {
       "hour": 20,
       "fact_text": "Although best known as a Martian tourist today, Spirit the rover also made an unexpected discovery: patches of nearly pure silica in the Martian soil, likely formed by hot springs or steam vents. On Earth, similar deposits preserve traces of microbial life, turning Spirit’s dusty wheel tracks into one of Mars’s most tantalizing hints of a potentially habitable past.",
@@ -660,9 +627,43 @@
         ]
       },
       "match_reason": "The opening of the world’s tallest tower—an ambitious launch into the sky—matches the energetic \"where it all began\" launch of the station’s very first episode."
+    },
+    {
+      "hour": 19,
+      "fact_text": "In 2000, near the village of Åsta in Norway, two passenger trains collided head‑on on a single-track line after a cascade of signaling and communication failures. The crash killed 19 people and led to major reforms in Norwegian rail safety, including new automatic train control systems.",
+      "fact_year": 2000,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85sta_accident",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A tragic collision on a journey contrasts with an episode about moving forward; together they highlight both the joy and vulnerability of being ‘on the go’."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T18:00:01.258543+00:00"
+  "updated_at": "2026-01-04T19:00:01.205546+00:00"
 }
