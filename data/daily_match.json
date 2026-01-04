@@ -1,61 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1944, Operation Carpetbagger began sending black‑painted bombers on moonlit flights over Nazi‑occupied Europe, dropping weapons, radios, and agents to resistance fighters. Pilots cut their engines low over forests and fields, turning the night sky into a secret supply line woven from courage and darkness.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Carpetbagger",
+    "hour": 12,
+    "fact_text": "In 1878, after centuries under Ottoman rule, the city of Sofia was liberated during the Russo‑Turkish War. Within years it transformed from a provincial town into the capital of a newly autonomous Bulgaria, its streets and skyline reshaped to reflect a reborn national identity.",
+    "fact_year": 1878,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "Shadowy night flights and hidden resistance resonate with the episode’s slow, mysterious build into liberation and movement."
+    "match_reason": "Sofia’s liberation in the Balkans pairs with an episode sailing the broader Mediterranean region, connecting shifting borders, cultures, and coastal stories."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1878, after centuries under Ottoman rule, the city of Sofia was liberated during the Russo‑Turkish War. Within years it transformed from a provincial town into the capital of a newly autonomous Bulgaria, its streets and skyline reshaped to reflect a reborn national identity.",
-      "fact_year": 1878,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "Sofia’s liberation in the Balkans pairs with an episode sailing the broader Mediterranean region, connecting shifting borders, cultures, and coastal stories."
-    },
     {
       "hour": 13,
       "fact_text": "In 1854, the remote McDonald Islands were sighted and charted by Captain William McDonald, adding another tiny, volcanic puzzle piece to the map of the Southern Ocean. These windswept specks, uninhabited and often shrouded in cloud, are now one of Earth’s least disturbed subantarctic ecosystems.",
@@ -657,9 +627,34 @@
         ]
       },
       "match_reason": "Shadowy night flights and hidden resistance resonate with the episode’s slow, mysterious build into liberation and movement."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1878, after centuries under Ottoman rule, the city of Sofia was liberated during the Russo‑Turkish War. Within years it transformed from a provincial town into the capital of a newly autonomous Bulgaria, its streets and skyline reshaped to reflect a reborn national identity.",
+      "fact_year": 1878,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "Sofia’s liberation in the Balkans pairs with an episode sailing the broader Mediterranean region, connecting shifting borders, cultures, and coastal stories."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T11:00:01.354637+00:00"
+  "updated_at": "2026-01-04T12:00:01.508380+00:00"
 }
