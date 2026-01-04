@@ -1,55 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1903, an elephant named Topsy was publicly electrocuted at Coney Island’s Luna Park, an event grimly filmed by the Edison company as \"Electrocuting an Elephant.\" Intended as a spectacle and a warning about electricity, the incident later became a haunting symbol of animal cruelty and the darker side of early modern technology.",
-    "fact_year": 1903,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Topsy_(elephant)",
+    "hour": 5,
+    "fact_text": "On this day in 46 BC, Julius Caesar fought the Battle of Ruspina in North Africa, finding himself outnumbered and nearly encircled by Titus Labienus’s cavalry. Caesar responded with an unusual staggered formation of infantry, turning a near‑disaster into a fighting retreat that showcased his improvisational brilliance under pressure.",
+    "fact_year": -46,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ruspina",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "The tragic story centers on lethal electricity and spectacle, echoed—more playfully and safely—in an episode themed around electric energy and shock."
+    "match_reason": "A tense ancient battle of will and strategy is paired with an episode about defiance and power, both radiating a combative, unapologetic energy."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On this day in 46 BC, Julius Caesar fought the Battle of Ruspina in North Africa, finding himself outnumbered and nearly encircled by Titus Labienus’s cavalry. Caesar responded with an unusual staggered formation of infantry, turning a near‑disaster into a fighting retreat that showcased his improvisational brilliance under pressure.",
-      "fact_year": -46,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ruspina",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A tense ancient battle of will and strategy is paired with an episode about defiance and power, both radiating a combative, unapologetic energy."
-    },
     {
       "hour": 6,
       "fact_text": "In 1967, The Doors released their self‑titled debut album, opening with the hypnotic \"Break On Through\" and closing with the sprawling, surreal suite \"The End.\" The record fused rock, jazz, poetry, and psychedelia into a dark, cinematic sound that challenged what a rock album could be.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "The tragic story centers on lethal electricity and spectacle, echoed—more playfully and safely—in an episode themed around electric energy and shock."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On this day in 46 BC, Julius Caesar fought the Battle of Ruspina in North Africa, finding himself outnumbered and nearly encircled by Titus Labienus’s cavalry. Caesar responded with an unusual staggered formation of infantry, turning a near‑disaster into a fighting retreat that showcased his improvisational brilliance under pressure.",
+      "fact_year": -46,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ruspina",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A tense ancient battle of will and strategy is paired with an episode about defiance and power, both radiating a combative, unapologetic energy."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T04:00:01.268662+00:00"
+  "updated_at": "2026-01-04T05:00:01.243634+00:00"
 }
