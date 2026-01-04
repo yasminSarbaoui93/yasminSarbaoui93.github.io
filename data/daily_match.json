@@ -1,59 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On this day in 2008, a Let L‑410 Turbolet on a short hop over Venezuela’s Los Roques Archipelago vanished from radar and crashed into the sea, killing all 14 on board. For years, the wreckage remained elusive in the turquoise waters, adding a layer of mystery to a small island chain better known for coral reefs than aviation disasters.",
-    "fact_year": 2008,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2008_Los_Roques_Archipelago_Transaven_Let_L-410_crash",
+    "hour": 9,
+    "fact_text": "In 2004, after the peaceful Rose Revolution, Mikheil Saakashvili was elected President of Georgia at just 36 years old. His landslide victory symbolized a sharp generational and political turn, as a post‑Soviet nation tried to rewrite its future almost overnight.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Georgian_presidential_election",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "Both stories unfold above open water; the episode’s sea journey offers a reflective, human counterpoint to the fragility of travel over ocean landscapes."
+    "match_reason": "A country shifting political direction mirrors an episode about shifts in perspective and quiet, transformative movement."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 2004, after the peaceful Rose Revolution, Mikheil Saakashvili was elected President of Georgia at just 36 years old. His landslide victory symbolized a sharp generational and political turn, as a post‑Soviet nation tried to rewrite its future almost overnight.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Georgian_presidential_election",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A country shifting political direction mirrors an episode about shifts in perspective and quiet, transformative movement."
-    },
     {
       "hour": 10,
       "fact_text": "In 1989 over the Gulf of Sidra, two U.S. Navy F‑14 Tomcats engaged and shot down two Libyan MiG‑23s in a tense, high‑speed duel of radar locks and evasive turns. The encounter compressed Cold War politics into a few minutes of contrails and missile trails over international waters.",
@@ -655,9 +627,34 @@
         ]
       },
       "match_reason": "Both stories unfold above open water; the episode’s sea journey offers a reflective, human counterpoint to the fragility of travel over ocean landscapes."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 2004, after the peaceful Rose Revolution, Mikheil Saakashvili was elected President of Georgia at just 36 years old. His landslide victory symbolized a sharp generational and political turn, as a post‑Soviet nation tried to rewrite its future almost overnight.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2004_Georgian_presidential_election",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A country shifting political direction mirrors an episode about shifts in perspective and quiet, transformative movement."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T08:00:01.619157+00:00"
+  "updated_at": "2026-01-04T09:00:01.310309+00:00"
 }
