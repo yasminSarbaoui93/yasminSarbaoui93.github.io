@@ -1,54 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1844, the first issue of Saima, a Swedish‑language newspaper founded by philosopher and nationalist J. V. Snellman, rolled off the press in Kuopio, Finland. From a small city in the north, it stirred debates about language, identity, and autonomy that would echo through Finnish culture and politics.",
-    "fact_year": 1844,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saima_(newspaper)",
+    "hour": 16,
+    "fact_text": "In 1762, Great Britain declared war on Spain, drawing it fully into the global Seven Years’ War—a conflict that stretched from European fields to Caribbean seas and Indian forts. That one decision helped redraw colonial maps, setting the stage for future nations across the Americas and beyond.",
+    "fact_year": 1762,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A regional newspaper shaping national identity parallels an episode exploring how a specific place and its language‑culture imprint a personal and collective story."
+    "match_reason": "A global imperial war that shaped African and American histories connects with an episode tracing Afrobeat’s emergence from colonial legacies and resistance."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1762, Great Britain declared war on Spain, drawing it fully into the global Seven Years’ War—a conflict that stretched from European fields to Caribbean seas and Indian forts. That one decision helped redraw colonial maps, setting the stage for future nations across the Americas and beyond.",
-      "fact_year": 1762,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A global imperial war that shaped African and American histories connects with an episode tracing Afrobeat’s emergence from colonial legacies and resistance."
-    },
     {
       "hour": 17,
       "fact_text": "In 2019, a fire in an escape room in Koszalin, Poland, filled the building with carbon monoxide, killing five teenage girls celebrating a birthday. The tragedy sparked nationwide inspections and a re‑examination of safety standards in entertainment spaces that are supposed to simulate danger, not create it.",
@@ -651,9 +627,33 @@
         ]
       },
       "match_reason": "A regional newspaper shaping national identity parallels an episode exploring how a specific place and its language‑culture imprint a personal and collective story."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1762, Great Britain declared war on Spain, drawing it fully into the global Seven Years’ War—a conflict that stretched from European fields to Caribbean seas and Indian forts. That one decision helped redraw colonial maps, setting the stage for future nations across the Americas and beyond.",
+      "fact_year": 1762,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A global imperial war that shaped African and American histories connects with an episode tracing Afrobeat’s emergence from colonial legacies and resistance."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T15:00:01.424358+00:00"
+  "updated_at": "2026-01-04T16:00:01.207759+00:00"
 }
