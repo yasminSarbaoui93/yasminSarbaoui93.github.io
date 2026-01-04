@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1878, after centuries under Ottoman rule, the city of Sofia was liberated during the Russo‑Turkish War. Within years it transformed from a provincial town into the capital of a newly autonomous Bulgaria, its streets and skyline reshaped to reflect a reborn national identity.",
-    "fact_year": 1878,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
+    "hour": 13,
+    "fact_text": "In 1854, the remote McDonald Islands were sighted and charted by Captain William McDonald, adding another tiny, volcanic puzzle piece to the map of the Southern Ocean. These windswept specks, uninhabited and often shrouded in cloud, are now one of Earth’s least disturbed subantarctic ecosystems.",
+    "fact_year": 1854,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "Sofia’s liberation in the Balkans pairs with an episode sailing the broader Mediterranean region, connecting shifting borders, cultures, and coastal stories."
+    "match_reason": "The discovery of quiet, far‑flung islands matches a calm, coastal, long‑summer mood built on spacious, exploratory jazz."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1854, the remote McDonald Islands were sighted and charted by Captain William McDonald, adding another tiny, volcanic puzzle piece to the map of the Southern Ocean. These windswept specks, uninhabited and often shrouded in cloud, are now one of Earth’s least disturbed subantarctic ecosystems.",
-      "fact_year": 1854,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "The discovery of quiet, far‑flung islands matches a calm, coastal, long‑summer mood built on spacious, exploratory jazz."
-    },
     {
       "hour": 14,
       "fact_text": "On this day in 1853, Solomon Northup, a free Black musician from New York who had been kidnapped and sold into slavery, finally regained his freedom after twelve harrowing years in the American South. His memoir, \"Twelve Years a Slave\", became a bestseller, bringing an unflinching, first‑person account of slavery’s brutality to readers across the country.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "Sofia’s liberation in the Balkans pairs with an episode sailing the broader Mediterranean region, connecting shifting borders, cultures, and coastal stories."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1854, the remote McDonald Islands were sighted and charted by Captain William McDonald, adding another tiny, volcanic puzzle piece to the map of the Southern Ocean. These windswept specks, uninhabited and often shrouded in cloud, are now one of Earth’s least disturbed subantarctic ecosystems.",
+      "fact_year": 1854,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "The discovery of quiet, far‑flung islands matches a calm, coastal, long‑summer mood built on spacious, exploratory jazz."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T12:00:01.508380+00:00"
+  "updated_at": "2026-01-04T13:00:01.210616+00:00"
 }
