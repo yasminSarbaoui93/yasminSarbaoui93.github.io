@@ -1,64 +1,39 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In 2019, a fire in an escape room in Koszalin, Poland, filled the building with carbon monoxide, killing five teenage girls celebrating a birthday. The tragedy sparked nationwide inspections and a re‑examination of safety standards in entertainment spaces that are supposed to simulate danger, not create it.",
-    "fact_year": 2019,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
+    "hour": 18,
+    "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building on Earth at over 828 meters. Designed to be a vertical city, it pierces the desert sky so high that its top floors can watch the sun set twice—by taking an elevator up after it disappears on the horizon.",
+    "fact_year": 2010,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The event and the episode share the same country; the reflective travelogue offers a tender, human lens on Poland after a national tragedy tied to youth and leisure."
+    "match_reason": "The opening of the world’s tallest tower—an ambitious launch into the sky—matches the energetic \"where it all began\" launch of the station’s very first episode."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building on Earth at over 828 meters. Designed to be a vertical city, it pierces the desert sky so high that its top floors can watch the sun set twice—by taking an elevator up after it disappears on the horizon.",
-      "fact_year": 2010,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The opening of the world’s tallest tower—an ambitious launch into the sky—matches the energetic \"where it all began\" launch of the station’s very first episode."
-    },
     {
       "hour": 19,
       "fact_text": "In 2000, near the village of Åsta in Norway, two passenger trains collided head‑on on a single-track line after a cascade of signaling and communication failures. The crash killed 19 people and led to major reforms in Norwegian rail safety, including new automatic train control systems.",
@@ -652,9 +627,42 @@
         ]
       },
       "match_reason": "The event and the episode share the same country; the reflective travelogue offers a tender, human lens on Poland after a national tragedy tied to youth and leisure."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building on Earth at over 828 meters. Designed to be a vertical city, it pierces the desert sky so high that its top floors can watch the sun set twice—by taking an elevator up after it disappears on the horizon.",
+      "fact_year": 2010,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The opening of the world’s tallest tower—an ambitious launch into the sky—matches the energetic \"where it all began\" launch of the station’s very first episode."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T17:00:01.199425+00:00"
+  "updated_at": "2026-01-04T18:00:01.258543+00:00"
 }
