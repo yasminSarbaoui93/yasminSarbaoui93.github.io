@@ -1,55 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1762, Great Britain declared war on Spain, drawing it fully into the global Seven Years’ War—a conflict that stretched from European fields to Caribbean seas and Indian forts. That one decision helped redraw colonial maps, setting the stage for future nations across the Americas and beyond.",
-    "fact_year": 1762,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+    "hour": 17,
+    "fact_text": "In 2019, a fire in an escape room in Koszalin, Poland, filled the building with carbon monoxide, killing five teenage girls celebrating a birthday. The tragedy sparked nationwide inspections and a re‑examination of safety standards in entertainment spaces that are supposed to simulate danger, not create it.",
+    "fact_year": 2019,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A global imperial war that shaped African and American histories connects with an episode tracing Afrobeat’s emergence from colonial legacies and resistance."
+    "match_reason": "The event and the episode share the same country; the reflective travelogue offers a tender, human lens on Poland after a national tragedy tied to youth and leisure."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 2019, a fire in an escape room in Koszalin, Poland, filled the building with carbon monoxide, killing five teenage girls celebrating a birthday. The tragedy sparked nationwide inspections and a re‑examination of safety standards in entertainment spaces that are supposed to simulate danger, not create it.",
-      "fact_year": 2019,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "The event and the episode share the same country; the reflective travelogue offers a tender, human lens on Poland after a national tragedy tied to youth and leisure."
-    },
     {
       "hour": 18,
       "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building on Earth at over 828 meters. Designed to be a vertical city, it pierces the desert sky so high that its top floors can watch the sun set twice—by taking an elevator up after it disappears on the horizon.",
@@ -651,9 +627,34 @@
         ]
       },
       "match_reason": "A global imperial war that shaped African and American histories connects with an episode tracing Afrobeat’s emergence from colonial legacies and resistance."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 2019, a fire in an escape room in Koszalin, Poland, filled the building with carbon monoxide, killing five teenage girls celebrating a birthday. The tragedy sparked nationwide inspections and a re‑examination of safety standards in entertainment spaces that are supposed to simulate danger, not create it.",
+      "fact_year": 2019,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Koszalin_escape_room_fire",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "The event and the episode share the same country; the reflective travelogue offers a tender, human lens on Poland after a national tragedy tied to youth and leisure."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T16:00:01.207759+00:00"
+  "updated_at": "2026-01-04T17:00:01.199425+00:00"
 }
