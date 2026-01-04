@@ -1,65 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1844, the first issue of the Swedish-language newspaper Saima was published in Kuopio, Finland, under the editorship of philosopher and nationalist J. V. Snellman. It championed ideas of Finnish identity and civic reform at a time when Finland was still an autonomous Grand Duchy under the Russian Empire.",
-    "fact_year": 1844,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saima_(newspaper)",
+    "hour": 16,
+    "fact_text": "On this day in 1762, Great Britain declared war on Spain, drawing Spain into the already global Seven Years’ War. The conflict stretched from European courts to Caribbean islands and Asian trading ports, reshaping colonial borders on multiple continents.",
+    "fact_year": 1762,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A newspaper shaping national identity and civic imagination fits with an episode about setting a destination, exploring roots, and opening new cultural territories together."
+    "match_reason": "Spain’s entry into a global war contrasts with another side of Spanish history: flamenco’s emotional resilience and cultural fusion born from centuries of conflict and coexistence."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On this day in 1762, Great Britain declared war on Spain, drawing Spain into the already global Seven Years’ War. The conflict stretched from European courts to Caribbean islands and Asian trading ports, reshaping colonial borders on multiple continents.",
-      "fact_year": 1762,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Spain’s entry into a global war contrasts with another side of Spanish history: flamenco’s emotional resilience and cultural fusion born from centuries of conflict and coexistence."
-    },
     {
       "hour": 17,
       "fact_text": "In 2019, a fire broke out in an escape room in Koszalin, Poland, trapping and killing five teenagers through carbon monoxide poisoning. The tragedy sparked nationwide inspections and raised urgent questions about safety in immersive entertainment spaces.",
@@ -646,9 +612,34 @@
         ]
       },
       "match_reason": "A newspaper shaping national identity and civic imagination fits with an episode about setting a destination, exploring roots, and opening new cultural territories together."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On this day in 1762, Great Britain declared war on Spain, drawing Spain into the already global Seven Years’ War. The conflict stretched from European courts to Caribbean islands and Asian trading ports, reshaping colonial borders on multiple continents.",
+      "fact_year": 1762,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Spain’s entry into a global war contrasts with another side of Spanish history: flamenco’s emotional resilience and cultural fusion born from centuries of conflict and coexistence."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T15:00:01.462293+00:00"
+  "updated_at": "2026-01-04T16:00:01.100513+00:00"
 }
