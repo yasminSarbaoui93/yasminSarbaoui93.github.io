@@ -1,64 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "On January 4, 2010, the Burj Khalifa officially opened in Dubai, instantly becoming the tallest building in the world. Its tapering, futuristic design pushes engineering to extremes, turning a desert skyline into a vertical statement about ambition and spectacle.",
-    "fact_year": 2010,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+    "hour": 19,
+    "fact_text": "In 2000, a Norwegian passenger train from Trondheim collided head‑on with a local train from Hamar near Åsta in Åmot Municipality, killing 19 people and injuring 68. The disaster in the snowy forest led to major scrutiny of rail safety, signaling systems, and emergency response.",
+    "fact_year": 2000,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85sta_accident",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "The tallest building’s unveiling and Sedna FM’s first ever broadcast both represent bold launches skyward — architectural and musical flagpoles declaring \"we’re here.\""
+    "match_reason": "A catastrophic collision of speed and timing pairs with an episode advocating slowness and gentler rhythms, hinting at a world where systems and people move more carefully."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "In 2000, a Norwegian passenger train from Trondheim collided head‑on with a local train from Hamar near Åsta in Åmot Municipality, killing 19 people and injuring 68. The disaster in the snowy forest led to major scrutiny of rail safety, signaling systems, and emergency response.",
-      "fact_year": 2000,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85sta_accident",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A catastrophic collision of speed and timing pairs with an episode advocating slowness and gentler rhythms, hinting at a world where systems and people move more carefully."
-    },
     {
       "hour": 20,
       "fact_text": "On this day in 2010, Spirit’s planetary cousin was still roving Mars while, back on Earth decades earlier, another \"spirit\" had already reached the Moon’s neighborhood — but long before that, explorers like Aeneas Mackintosh were testing human limits in Earth’s polar deserts. These layered January 4th milestones quietly trace a line from ice floes to interplanetary geology.",
@@ -645,9 +612,34 @@
         ]
       },
       "match_reason": "The tallest building’s unveiling and Sedna FM’s first ever broadcast both represent bold launches skyward — architectural and musical flagpoles declaring \"we’re here.\""
+    },
+    {
+      "hour": 19,
+      "fact_text": "In 2000, a Norwegian passenger train from Trondheim collided head‑on with a local train from Hamar near Åsta in Åmot Municipality, killing 19 people and injuring 68. The disaster in the snowy forest led to major scrutiny of rail safety, signaling systems, and emergency response.",
+      "fact_year": 2000,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%85sta_accident",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A catastrophic collision of speed and timing pairs with an episode advocating slowness and gentler rhythms, hinting at a world where systems and people move more carefully."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T18:00:01.194882+00:00"
+  "updated_at": "2026-01-04T19:00:01.351895+00:00"
 }
