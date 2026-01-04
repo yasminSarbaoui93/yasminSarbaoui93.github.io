@@ -1,52 +1,30 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On this day in 1853, Solomon Northup, a free Black musician from New York who had been kidnapped and sold into slavery, finally regained his freedom after twelve harrowing years in the American South. His memoir, \"Twelve Years a Slave\", became a bestseller, bringing an unflinching, first‑person account of slavery’s brutality to readers across the country.",
-    "fact_year": 1853,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_Northup",
+    "hour": 15,
+    "fact_text": "In 1844, the first issue of Saima, a Swedish‑language newspaper founded by philosopher and nationalist J. V. Snellman, rolled off the press in Kuopio, Finland. From a small city in the north, it stirred debates about language, identity, and autonomy that would echo through Finnish culture and politics.",
+    "fact_year": 1844,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saima_(newspaper)",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "Northup’s story of reclaiming freedom and identity connects with an episode about breaking out of boxes and confronting systems that confine us."
+    "match_reason": "A regional newspaper shaping national identity parallels an episode exploring how a specific place and its language‑culture imprint a personal and collective story."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1844, the first issue of Saima, a Swedish‑language newspaper founded by philosopher and nationalist J. V. Snellman, rolled off the press in Kuopio, Finland. From a small city in the north, it stirred debates about language, identity, and autonomy that would echo through Finnish culture and politics.",
-      "fact_year": 1844,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saima_(newspaper)",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A regional newspaper shaping national identity parallels an episode exploring how a specific place and its language‑culture imprint a personal and collective story."
-    },
     {
       "hour": 16,
       "fact_text": "In 1762, Great Britain declared war on Spain, drawing it fully into the global Seven Years’ War—a conflict that stretched from European fields to Caribbean seas and Indian forts. That one decision helped redraw colonial maps, setting the stage for future nations across the Americas and beyond.",
@@ -649,9 +627,33 @@
         ]
       },
       "match_reason": "Northup’s story of reclaiming freedom and identity connects with an episode about breaking out of boxes and confronting systems that confine us."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1844, the first issue of Saima, a Swedish‑language newspaper founded by philosopher and nationalist J. V. Snellman, rolled off the press in Kuopio, Finland. From a small city in the north, it stirred debates about language, identity, and autonomy that would echo through Finnish culture and politics.",
+      "fact_year": 1844,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Saima_(newspaper)",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "A regional newspaper shaping national identity parallels an episode exploring how a specific place and its language‑culture imprint a personal and collective story."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.011537+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T14:00:01.275240+00:00"
+  "updated_at": "2026-01-04T15:00:01.424358+00:00"
 }
