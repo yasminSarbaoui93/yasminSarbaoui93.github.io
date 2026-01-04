@@ -1,56 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1944, Operation Carpetbagger began, sending camouflaged Allied aircraft on nocturnal missions to drop arms, agents, and supplies to resistance fighters across Nazi-occupied Europe. These secret flights turned the night sky into a hidden lifeline for underground movements.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Carpetbagger",
+    "hour": 12,
+    "fact_text": "On this day in 1878, Russian forces liberated Sofia from Ottoman rule during the Russo‑Turkish War of 1877–78. The city’s freedom paved the way for the re-establishment of a Bulgarian state after nearly five centuries under Ottoman domination.",
+    "fact_year": 1878,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "Shadowy, nocturnal trip‑hop and cinematic beats pair well with clandestine night flights, coded missions, and the blurred lines of resistance and espionage."
+    "match_reason": "The liberation of a Balkan capital and shifting borders around the eastern Mediterranean resonate with an episode sailing through Mediterranean cultures and histories."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On this day in 1878, Russian forces liberated Sofia from Ottoman rule during the Russo‑Turkish War of 1877–78. The city’s freedom paved the way for the re-establishment of a Bulgarian state after nearly five centuries under Ottoman domination.",
-      "fact_year": 1878,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "The liberation of a Balkan capital and shifting borders around the eastern Mediterranean resonate with an episode sailing through Mediterranean cultures and histories."
-    },
     {
       "hour": 13,
       "fact_text": "In 1854, Captain William McDonald sighted the McDonald Islands in the stormy southern Indian Ocean, far from major shipping lanes. These remote volcanic specks, now an Australian territory, host rare, largely untouched subantarctic ecosystems shaped by wind, sea, and fire.",
@@ -637,9 +612,34 @@
         ]
       },
       "match_reason": "Shadowy, nocturnal trip‑hop and cinematic beats pair well with clandestine night flights, coded missions, and the blurred lines of resistance and espionage."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On this day in 1878, Russian forces liberated Sofia from Ottoman rule during the Russo‑Turkish War of 1877–78. The city’s freedom paved the way for the re-establishment of a Bulgarian state after nearly five centuries under Ottoman domination.",
+      "fact_year": 1878,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sofia",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "The liberation of a Balkan capital and shifting borders around the eastern Mediterranean resonate with an episode sailing through Mediterranean cultures and histories."
     }
   ],
   "generated_at": "2026-01-04T00:00:00.013716+00:00",
   "date": "2026-01-04",
-  "updated_at": "2026-01-04T11:00:01.372418+00:00"
+  "updated_at": "2026-01-04T12:00:01.129931+00:00"
 }
