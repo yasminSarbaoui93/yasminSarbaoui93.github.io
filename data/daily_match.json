@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On January 5, 1993, the oil tanker MV Braer lost engine power in a storm and ran aground off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Strong winds and waves, ironically, helped break up and disperse the oil faster than expected, turning the chaotic weather into an unexpected ally for the local ecosystem.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
+    "hour": 6,
+    "fact_text": "In 1970, a magnitude 7.1 earthquake struck Tonghai County in China’s Yunnan province, reaching an extreme Mercalli intensity of X. Much of the devastation went little reported internationally at the time, yet the event reshaped local landscapes and lives in a matter of seconds.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1970_Tonghai_earthquake",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "An oil spill in stormy northern seas connects with an Arctic marine episode that centers on cold oceans, fragile ecosystems, and the life that swims through them."
+    "match_reason": "A violent jolt from beneath the planet’s crust contrasts with a reflective 'Slow Planet' mood, inviting listeners to process how fragile and shifting the ground beneath us can be."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1970, a magnitude 7.1 earthquake struck Tonghai County in China’s Yunnan province, reaching an extreme Mercalli intensity of X. Much of the devastation went little reported internationally at the time, yet the event reshaped local landscapes and lives in a matter of seconds.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1970_Tonghai_earthquake",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A violent jolt from beneath the planet’s crust contrasts with a reflective 'Slow Planet' mood, inviting listeners to process how fragile and shifting the ground beneath us can be."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1913, during the First Balkan War, the Battle of Lemnos saw Greek Admiral Pavlos Kountouriotis force the Ottoman fleet back into the Dardanelles. After that clash, the Ottoman ships stayed bottled up for the rest of the war, effectively ceding control of the Aegean Sea.",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "An oil spill in stormy northern seas connects with an Arctic marine episode that centers on cold oceans, fragile ecosystems, and the life that swims through them."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1970, a magnitude 7.1 earthquake struck Tonghai County in China’s Yunnan province, reaching an extreme Mercalli intensity of X. Much of the devastation went little reported internationally at the time, yet the event reshaped local landscapes and lives in a matter of seconds.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1970_Tonghai_earthquake",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A violent jolt from beneath the planet’s crust contrasts with a reflective 'Slow Planet' mood, inviting listeners to process how fragile and shifting the ground beneath us can be."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T05:00:01.431744+00:00"
+  "updated_at": "2026-01-05T06:00:01.260574+00:00"
 }
