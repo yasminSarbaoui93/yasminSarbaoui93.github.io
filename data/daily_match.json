@@ -1,55 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 1967, amid the Cultural Revolution, radical groups in Shanghai overthrew local authorities and declared the Shanghai People's Commune, inspired by the Paris Commune of 1871. For a brief period, they tried to run the city through mass assemblies and revolutionary committees before the experiment was reabsorbed into more traditional party structures.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/January_Storm",
+    "hour": 15,
+    "fact_text": "On January 5, 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a pro-Soviet body set up as the Red Army advanced westward. This diplomatic gesture foreshadowed the geopolitical shape of postwar Eastern Europe and decades of contested legitimacy in Polish politics.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Poland",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A radical attempt to reinvent political structures in Shanghai parallels an episode about evolution, shifts in identity, and the sometimes turbulent path of transformation."
+    "match_reason": "A turning point in Poland’s postwar political fate is paired with an episode made of personal stories and songs from modern Poland, connecting big history to lived, local experience."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On January 5, 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a pro-Soviet body set up as the Red Army advanced westward. This diplomatic gesture foreshadowed the geopolitical shape of postwar Eastern Europe and decades of contested legitimacy in Polish politics.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Poland",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A turning point in Poland’s postwar political fate is paired with an episode made of personal stories and songs from modern Poland, connecting big history to lived, local experience."
-    },
     {
       "hour": 16,
       "fact_text": "In 1781, during the American Revolutionary War, British forces led by Benedict Arnold — once a hero of the American cause before defecting — burned Richmond, Virginia. The raid symbolized how quickly reputations can invert, turning a celebrated patriot into one of history’s archetypal traitors.",
@@ -654,9 +630,34 @@
         ]
       },
       "match_reason": "A radical attempt to reinvent political structures in Shanghai parallels an episode about evolution, shifts in identity, and the sometimes turbulent path of transformation."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On January 5, 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a pro-Soviet body set up as the Red Army advanced westward. This diplomatic gesture foreshadowed the geopolitical shape of postwar Eastern Europe and decades of contested legitimacy in Polish politics.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Poland",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A turning point in Poland’s postwar political fate is paired with an episode made of personal stories and songs from modern Poland, connecting big history to lived, local experience."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T14:00:01.283815+00:00"
+  "updated_at": "2026-01-05T15:00:01.287643+00:00"
 }
