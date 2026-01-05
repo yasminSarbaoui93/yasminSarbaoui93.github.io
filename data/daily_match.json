@@ -1,50 +1,25 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1875, Paris unveiled the Palais Garnier, a lavish opera house whose marble staircase, gilded ceilings, and grand chandelier turned performance into a total sensory spectacle. Its opulent design later inspired the setting for 'The Phantom of the Opera' and remains a monument to 19th-century musical excess.",
-    "fact_year": 1875,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
+    "hour": 10,
+    "fact_text": "On this day in 1953, Samuel Beckett’s play 'Waiting for Godot' premiered in Paris, baffling and mesmerizing audiences with its near-empty stage and looping, absurd dialogue. It became a cornerstone of modern theatre by asking a strange question: what if nothing much happens, and that’s the point?",
+    "fact_year": 1953,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "song 1"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "genre 1"
       ]
     },
-    "match_reason": "A legendary European opera house celebrating vocal drama pairs naturally with an episode about flamenco, another art form where voice, stage, and emotion are inseparable."
+    "match_reason": "A play built around emptiness, pauses, and unresolved waiting pairs with an episode celebrating imperfection, stillness, and the beauty of things 'not going to plan.'"
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On this day in 1953, Samuel Beckett’s play 'Waiting for Godot' premiered in Paris, baffling and mesmerizing audiences with its near-empty stage and looping, absurd dialogue. It became a cornerstone of modern theatre by asking a strange question: what if nothing much happens, and that’s the point?",
-      "fact_year": 1953,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A play built around emptiness, pauses, and unresolved waiting pairs with an episode celebrating imperfection, stillness, and the beauty of things 'not going to plan.'"
-    },
     {
       "hour": 11,
       "fact_text": "On January 5, 1941, pioneering British aviator Amy Johnson disappeared over the River Thames after bailing out of her aircraft in poor weather. She had been the first woman to fly solo from London to Australia, turning long-distance flight into a daring solo act of navigation and endurance.",
@@ -655,9 +630,28 @@
         ]
       },
       "match_reason": "A legendary European opera house celebrating vocal drama pairs naturally with an episode about flamenco, another art form where voice, stage, and emotion are inseparable."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On this day in 1953, Samuel Beckett’s play 'Waiting for Godot' premiered in Paris, baffling and mesmerizing audiences with its near-empty stage and looping, absurd dialogue. It became a cornerstone of modern theatre by asking a strange question: what if nothing much happens, and that’s the point?",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A play built around emptiness, pauses, and unresolved waiting pairs with an episode celebrating imperfection, stillness, and the beauty of things 'not going to plan.'"
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T09:00:01.630577+00:00"
+  "updated_at": "2026-01-05T10:00:01.330054+00:00"
 }
