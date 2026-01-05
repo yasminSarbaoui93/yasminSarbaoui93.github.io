@@ -1,65 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 5 January 1781, during the American Revolutionary War, British forces under Benedict Arnold—once a celebrated American general—burned Richmond, Virginia. The raid was not just a military action but a symbolic act of betrayal, as a former patriot led the destruction of his own country’s capital.",
-    "fact_year": 1781,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Richmond",
+    "hour": 6,
+    "fact_text": "On 5 January 1993, the oil tanker MV Braer broke apart in stormy seas off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Fierce winds and waves, which helped cause the disaster, also scattered and weathered the oil, creating an unusual environmental accident where nature both suffered and, in part, saved itself.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Benedict Arnold’s dramatic shift from patriot to traitor resonates with an episode devoted to alter-egos, identity shifts, and the darker edges of reinvention."
+    "match_reason": "An oil spill in cold northern waters connects directly to an episode that lives in the same oceanic world, centered on marine life and fragile Arctic ecosystems."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 5 January 1993, the oil tanker MV Braer broke apart in stormy seas off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Fierce winds and waves, which helped cause the disaster, also scattered and weathered the oil, creating an unusual environmental accident where nature both suffered and, in part, saved itself.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "An oil spill in cold northern waters connects directly to an episode that lives in the same oceanic world, centered on marine life and fragile Arctic ecosystems."
-    },
     {
       "hour": 7,
       "fact_text": "On 5 January 1991, as Somalia descended into civil war, the United States evacuated its embassy in Mogadishu by helicopter in a dramatic airlift. The operation, known as Eastern Exit, whisked diplomats and civilians out over a city unraveling into chaos, capturing the precariousness of international presences in conflict zones.",
@@ -658,9 +624,34 @@
         ]
       },
       "match_reason": "Benedict Arnold’s dramatic shift from patriot to traitor resonates with an episode devoted to alter-egos, identity shifts, and the darker edges of reinvention."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 5 January 1993, the oil tanker MV Braer broke apart in stormy seas off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Fierce winds and waves, which helped cause the disaster, also scattered and weathered the oil, creating an unusual environmental accident where nature both suffered and, in part, saved itself.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "An oil spill in cold northern waters connects directly to an episode that lives in the same oceanic world, centered on marine life and fragile Arctic ecosystems."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T05:00:01.258216+00:00"
+  "updated_at": "2026-01-05T06:00:01.258160+00:00"
 }
