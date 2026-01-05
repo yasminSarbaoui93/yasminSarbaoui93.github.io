@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 5 January 1941, pioneering British aviator Amy Johnson disappeared over the Thames Estuary after bailing out of her aircraft in poor weather. Famous as the first woman to fly solo from London to Australia, her unresolved fate has fueled decades of speculation, turning her final flight into aviation folklore.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Johnson",
+    "hour": 16,
+    "fact_text": "On 5 January 1933, construction began on the Golden Gate Bridge, a project many engineers initially deemed impossible due to the strait’s fierce winds, tides, and fog. The bridge’s completion turned a dangerous, fog-shrouded gap into one of the world’s most recognizable human-made horizons.",
+    "fact_year": 1933,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A story of a trailblazing woman pilot pushing her body and courage to the edge pairs with an episode about physical discipline, movement, and training far from home."
+    "match_reason": "A bridge that hovers over fog and water, inviting crossings into new spaces, fits an episode themed around immersion, horizons, and fluid movement."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 5 January 1933, construction began on the Golden Gate Bridge, a project many engineers initially deemed impossible due to the strait’s fierce winds, tides, and fog. The bridge’s completion turned a dangerous, fog-shrouded gap into one of the world’s most recognizable human-made horizons.",
-      "fact_year": 1933,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A bridge that hovers over fog and water, inviting crossings into new spaces, fits an episode themed around immersion, horizons, and fluid movement."
-    },
     {
       "hour": 17,
       "fact_text": "On 5 January 1913, during the First Balkan War, the Battle of Lemnos saw the Greek fleet under Admiral Pavlos Kountouriotis defeat the Ottoman navy and drive it back into the Dardanelles. After this clash, the Ottoman ships never again ventured out to challenge Greek control of the Aegean.",
@@ -649,9 +624,34 @@
         ]
       },
       "match_reason": "A story of a trailblazing woman pilot pushing her body and courage to the edge pairs with an episode about physical discipline, movement, and training far from home."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 5 January 1933, construction began on the Golden Gate Bridge, a project many engineers initially deemed impossible due to the strait’s fierce winds, tides, and fog. The bridge’s completion turned a dangerous, fog-shrouded gap into one of the world’s most recognizable human-made horizons.",
+      "fact_year": 1933,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A bridge that hovers over fog and water, inviting crossings into new spaces, fits an episode themed around immersion, horizons, and fluid movement."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T15:00:01.264624+00:00"
+  "updated_at": "2026-01-05T16:00:01.311427+00:00"
 }
