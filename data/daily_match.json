@@ -1,72 +1,38 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "Across the 20th century, from the Daily Mail’s transatlantic editions to Alaskan emergency landings, one theme of January 5th is how humans handle risk at speed — ships, planes, and printing presses all stretching their limits. Each failure or near-miss becomes a lesson written into new safety codes and unspoken instincts.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+    "hour": 23,
+    "fact_text": "Threaded through these January 5th events is a quieter pattern: from Eris changing the definition of a planet to flamenco’s evolution on global stages, our categories never stay fixed. The universe keeps forcing us to redraw our mental maps — scientifically, politically, and artistically.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/International_Astronomical_Union",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The rawness of first attempts, some risky and imperfect, matches Sedna FM’s debut episode — an origin story full of energy that, like early machines, sets the tone for everything that follows."
+    "match_reason": "An institution redefining what counts as a planet mirrors the episode’s encouragement to redefine ourselves from the inside, accepting shifting identities as something beautiful rather than threatening."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Threaded through these January 5th events is a quieter pattern: from Eris changing the definition of a planet to flamenco’s evolution on global stages, our categories never stay fixed. The universe keeps forcing us to redraw our mental maps — scientifically, politically, and artistically.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/International_Astronomical_Union",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "An institution redefining what counts as a planet mirrors the episode’s encouragement to redefine ourselves from the inside, accepting shifting identities as something beautiful rather than threatening."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -663,9 +629,41 @@
         ]
       },
       "match_reason": "The rawness of first attempts, some risky and imperfect, matches Sedna FM’s debut episode — an origin story full of energy that, like early machines, sets the tone for everything that follows."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Threaded through these January 5th events is a quieter pattern: from Eris changing the definition of a planet to flamenco’s evolution on global stages, our categories never stay fixed. The universe keeps forcing us to redraw our mental maps — scientifically, politically, and artistically.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/International_Astronomical_Union",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "An institution redefining what counts as a planet mirrors the episode’s encouragement to redefine ourselves from the inside, accepting shifting identities as something beautiful rather than threatening."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T22:00:01.131912+00:00"
+  "updated_at": "2026-01-05T23:00:01.439437+00:00"
 }
