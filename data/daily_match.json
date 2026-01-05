@@ -1,54 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 5 January 1944, the Daily Mail became the first major London newspaper to be printed on both sides of the Atlantic, with editions appearing in London and New York. In the middle of World War II, this transatlantic newspaper symbolized how information—and propaganda—could leap oceans as quickly as ships and planes.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Daily_Mail",
+    "hour": 12,
+    "fact_text": "On 5 January 1875, Paris inaugurated the Palais Garnier, an opulent opera house whose marble staircases, chandeliers, and painted ceilings turned attending a performance into a grand social ritual. Its lavish design helped make opera not just about sound, but about spectacle, fashion, and the architecture of seeing and being seen.",
+    "fact_year": 1875,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A newspaper crossing the Atlantic daily mirrors the way soul and jazz-funk became timeless transatlantic cultural exports between London and the U.S."
+    "match_reason": "A hyper-theatrical Paris opera house pairs naturally with an episode spotlighting flamboyant, theatrical 80s sounds, including French pop royalty."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On 5 January 1875, Paris inaugurated the Palais Garnier, an opulent opera house whose marble staircases, chandeliers, and painted ceilings turned attending a performance into a grand social ritual. Its lavish design helped make opera not just about sound, but about spectacle, fashion, and the architecture of seeing and being seen.",
-      "fact_year": 1875,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A hyper-theatrical Paris opera house pairs naturally with an episode spotlighting flamboyant, theatrical 80s sounds, including French pop royalty."
-    },
     {
       "hour": 13,
       "fact_text": "On 5 January 1953, Samuel Beckett’s play \"Waiting for Godot\" premiered in Paris, bewildering audiences with two characters endlessly waiting for someone who never arrives. This strange, minimalist story helped launch the Theatre of the Absurd, turning empty space and repetition into a mirror for the human condition.",
@@ -647,9 +624,34 @@
         ]
       },
       "match_reason": "A newspaper crossing the Atlantic daily mirrors the way soul and jazz-funk became timeless transatlantic cultural exports between London and the U.S."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On 5 January 1875, Paris inaugurated the Palais Garnier, an opulent opera house whose marble staircases, chandeliers, and painted ceilings turned attending a performance into a grand social ritual. Its lavish design helped make opera not just about sound, but about spectacle, fashion, and the architecture of seeing and being seen.",
+      "fact_year": 1875,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A hyper-theatrical Paris opera house pairs naturally with an episode spotlighting flamboyant, theatrical 80s sounds, including French pop royalty."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T11:00:01.302203+00:00"
+  "updated_at": "2026-01-05T12:00:01.077974+00:00"
 }
