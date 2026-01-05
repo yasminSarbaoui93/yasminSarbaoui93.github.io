@@ -1,56 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On 5 January 2024, Alaska Airlines Flight 1282 made an emergency landing after a door plug suddenly blew out of a Boeing 737 MAX 9 mid‑flight, leaving a gaping hole in the fuselage. Miraculously, there were no fatalities, but the incident grounded the MAX 9 fleet and reignited global scrutiny of Boeing’s safety culture.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282",
+    "hour": 21,
+    "fact_text": "On 5 January 1944, while the Daily Mail bridged the Atlantic with print, wartime censorship and propaganda carefully curated what readers on both continents were allowed to see. The newspaper’s dual presence highlights how media can create a shared emotional weather, even when the full truth is clouded.",
+    "fact_year": 1944,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Censorship_in_the_United_Kingdom#World_War_II",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A near-disaster rooted in complex modern technology reflects an episode that questions our dependence on engineered systems and how they quietly shape our lives."
+    "match_reason": "The idea of curated, atmospheric narratives crossing oceans mirrors trip-hop’s cinematic, media-sampling nature and its role in shaping moody, shared inner worlds."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On 5 January 1944, while the Daily Mail bridged the Atlantic with print, wartime censorship and propaganda carefully curated what readers on both continents were allowed to see. The newspaper’s dual presence highlights how media can create a shared emotional weather, even when the full truth is clouded.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Censorship_in_the_United_Kingdom#World_War_II",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The idea of curated, atmospheric narratives crossing oceans mirrors trip-hop’s cinematic, media-sampling nature and its role in shaping moody, shared inner worlds."
-    },
     {
       "hour": 22,
       "fact_text": "On 5 January 1944, the same transatlantic Daily Mail editions carried photographs and stories that made distant cities feel strangely intimate, long before social media. For many readers, these pages were a first window into foreign cultures, turning war-torn London and New York into neighboring neighborhoods on paper.",
@@ -649,9 +624,34 @@
         ]
       },
       "match_reason": "A near-disaster rooted in complex modern technology reflects an episode that questions our dependence on engineered systems and how they quietly shape our lives."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On 5 January 1944, while the Daily Mail bridged the Atlantic with print, wartime censorship and propaganda carefully curated what readers on both continents were allowed to see. The newspaper’s dual presence highlights how media can create a shared emotional weather, even when the full truth is clouded.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Censorship_in_the_United_Kingdom#World_War_II",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The idea of curated, atmospheric narratives crossing oceans mirrors trip-hop’s cinematic, media-sampling nature and its role in shaping moody, shared inner worlds."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T20:00:01.389936+00:00"
+  "updated_at": "2026-01-05T21:00:01.237166+00:00"
 }
