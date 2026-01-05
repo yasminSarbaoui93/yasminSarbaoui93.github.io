@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On 5 January 1944, while the Daily Mail bridged the Atlantic with print, wartime censorship and propaganda carefully curated what readers on both continents were allowed to see. The newspaper’s dual presence highlights how media can create a shared emotional weather, even when the full truth is clouded.",
+    "hour": 22,
+    "fact_text": "On 5 January 1944, the same transatlantic Daily Mail editions carried photographs and stories that made distant cities feel strangely intimate, long before social media. For many readers, these pages were a first window into foreign cultures, turning war-torn London and New York into neighboring neighborhoods on paper.",
     "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Censorship_in_the_United_Kingdom#World_War_II",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable#Later_developments",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "The idea of curated, atmospheric narratives crossing oceans mirrors trip-hop’s cinematic, media-sampling nature and its role in shaping moody, shared inner worlds."
+    "match_reason": "Newspapers acting as passports to other cities connect with an episode about travel, perspective shifts, and quietly moving through unfamiliar places."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On 5 January 1944, the same transatlantic Daily Mail editions carried photographs and stories that made distant cities feel strangely intimate, long before social media. For many readers, these pages were a first window into foreign cultures, turning war-torn London and New York into neighboring neighborhoods on paper.",
-      "fact_year": 1944,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable#Later_developments",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "Newspapers acting as passports to other cities connect with an episode about travel, perspective shifts, and quietly moving through unfamiliar places."
-    },
     {
       "hour": 23,
       "fact_text": "On 5 January 1875, as audiences first stepped into the Palais Garnier, many came less for the opera and more to be seen in its glittering foyers and mirrors. In a way, the building anticipated a social media age, where the frame around the performance—the glamour, the self-display—became as important as the art itself.",
@@ -649,9 +624,34 @@
         ]
       },
       "match_reason": "The idea of curated, atmospheric narratives crossing oceans mirrors trip-hop’s cinematic, media-sampling nature and its role in shaping moody, shared inner worlds."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On 5 January 1944, the same transatlantic Daily Mail editions carried photographs and stories that made distant cities feel strangely intimate, long before social media. For many readers, these pages were a first window into foreign cultures, turning war-torn London and New York into neighboring neighborhoods on paper.",
+      "fact_year": 1944,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable#Later_developments",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "Newspapers acting as passports to other cities connect with an episode about travel, perspective shifts, and quietly moving through unfamiliar places."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T21:00:01.237166+00:00"
+  "updated_at": "2026-01-05T22:00:01.324711+00:00"
 }
