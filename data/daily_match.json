@@ -1,53 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 5 January 1949, U.S. President Harry S. Truman unveiled the Fair Deal, an ambitious domestic program aimed at expanding social security, housing, education, and civil rights. Many proposals were blocked, but the agenda helped set the stage for the modern American welfare state and a wider debate on what a \"fair\" society should look like.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fair_Deal",
+    "hour": 10,
+    "fact_text": "On 5 January 1957, President Dwight D. Eisenhower announced what became known as the Eisenhower Doctrine, promising U.S. economic and military aid to Middle Eastern countries resisting \"armed aggression\" from any nation \"controlled by international communism.\" It turned the region into a Cold War chessboard, reshaping alliances and interventions for decades.",
+    "fact_year": 1957,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eisenhower_Doctrine",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Afrobeat",
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "A political project about justice and rights aligns with an episode grounded in conscious rap and questioning the systems and labels that shape our lives."
+    "match_reason": "A doctrine about Middle Eastern power games connects to London’s global, postcolonial musical mix, where UK hip-hop and Afrobeat digest the legacy of such foreign policies."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 5 January 1957, President Dwight D. Eisenhower announced what became known as the Eisenhower Doctrine, promising U.S. economic and military aid to Middle Eastern countries resisting \"armed aggression\" from any nation \"controlled by international communism.\" It turned the region into a Cold War chessboard, reshaping alliances and interventions for decades.",
-      "fact_year": 1957,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eisenhower_Doctrine",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A doctrine about Middle Eastern power games connects to London’s global, postcolonial musical mix, where UK hip-hop and Afrobeat digest the legacy of such foreign policies."
-    },
     {
       "hour": 11,
       "fact_text": "On 5 January 1944, the Daily Mail became the first major London newspaper to be printed on both sides of the Atlantic, with editions appearing in London and New York. In the middle of World War II, this transatlantic newspaper symbolized how information—and propaganda—could leap oceans as quickly as ships and planes.",
@@ -646,9 +624,34 @@
         ]
       },
       "match_reason": "A political project about justice and rights aligns with an episode grounded in conscious rap and questioning the systems and labels that shape our lives."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 5 January 1957, President Dwight D. Eisenhower announced what became known as the Eisenhower Doctrine, promising U.S. economic and military aid to Middle Eastern countries resisting \"armed aggression\" from any nation \"controlled by international communism.\" It turned the region into a Cold War chessboard, reshaping alliances and interventions for decades.",
+      "fact_year": 1957,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eisenhower_Doctrine",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A doctrine about Middle Eastern power games connects to London’s global, postcolonial musical mix, where UK hip-hop and Afrobeat digest the legacy of such foreign policies."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T09:00:01.182864+00:00"
+  "updated_at": "2026-01-05T10:00:01.305973+00:00"
 }
