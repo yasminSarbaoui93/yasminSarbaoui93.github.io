@@ -1,64 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1781, during the American Revolutionary War, British forces led by Benedict Arnold — once a hero of the American cause before defecting — burned Richmond, Virginia. The raid symbolized how quickly reputations can invert, turning a celebrated patriot into one of history’s archetypal traitors.",
-    "fact_year": 1781,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Richmond",
+    "hour": 17,
+    "fact_text": "On January 5, 1822, the government of Central America voted to be annexed by the newly formed First Mexican Empire. The union would last barely a year, a fleeting experiment in knitting together diverse lands under a single imperial crown before political realities pulled them apart.",
+    "fact_year": 1822,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Central_America_under_Mexican_rule",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "Benedict Arnold’s dramatic shift from patriot general to British raider echoes the theme of multiple selves and altered identities explored through musical alter-egos."
+    "match_reason": "A brief political union across Latin lands connects with an episode tracing how reggaeton transcended borders in Central America and the Caribbean to become a shared cultural language."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On January 5, 1822, the government of Central America voted to be annexed by the newly formed First Mexican Empire. The union would last barely a year, a fleeting experiment in knitting together diverse lands under a single imperial crown before political realities pulled them apart.",
-      "fact_year": 1822,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Central_America_under_Mexican_rule",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A brief political union across Latin lands connects with an episode tracing how reggaeton transcended borders in Central America and the Caribbean to become a shared cultural language."
-    },
     {
       "hour": 18,
       "fact_text": "On this day in 1991, as Somalia’s civil war intensified, the United States evacuated its embassy in Mogadishu by helicopter. The dramatic rooftop airlift, reminiscent of images from Saigon in 1975, symbolized a rapid collapse of order and the vulnerability of civilians in urban conflict.",
@@ -664,9 +630,33 @@
         ]
       },
       "match_reason": "Benedict Arnold’s dramatic shift from patriot general to British raider echoes the theme of multiple selves and altered identities explored through musical alter-egos."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On January 5, 1822, the government of Central America voted to be annexed by the newly formed First Mexican Empire. The union would last barely a year, a fleeting experiment in knitting together diverse lands under a single imperial crown before political realities pulled them apart.",
+      "fact_year": 1822,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Central_America_under_Mexican_rule",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A brief political union across Latin lands connects with an episode tracing how reggaeton transcended borders in Central America and the Caribbean to become a shared cultural language."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T16:00:01.280681+00:00"
+  "updated_at": "2026-01-05T17:00:01.567292+00:00"
 }
