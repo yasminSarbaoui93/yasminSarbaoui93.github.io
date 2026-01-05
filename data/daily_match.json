@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1970, a magnitude 7.1 earthquake struck Tonghai County in China’s Yunnan province, reaching an extreme Mercalli intensity of X. Much of the devastation went little reported internationally at the time, yet the event reshaped local landscapes and lives in a matter of seconds.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1970_Tonghai_earthquake",
+    "hour": 7,
+    "fact_text": "On this day in 1913, during the First Balkan War, the Battle of Lemnos saw Greek Admiral Pavlos Kountouriotis force the Ottoman fleet back into the Dardanelles. After that clash, the Ottoman ships stayed bottled up for the rest of the war, effectively ceding control of the Aegean Sea.",
+    "fact_year": 1913,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A violent jolt from beneath the planet’s crust contrasts with a reflective 'Slow Planet' mood, inviting listeners to process how fragile and shifting the ground beneath us can be."
+    "match_reason": "A naval battle that locks in control of sea routes echoes an episode about music born from conflict, survival, and strategic resilience in harsh environments."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On this day in 1913, during the First Balkan War, the Battle of Lemnos saw Greek Admiral Pavlos Kountouriotis force the Ottoman fleet back into the Dardanelles. After that clash, the Ottoman ships stayed bottled up for the rest of the war, effectively ceding control of the Aegean Sea.",
-      "fact_year": 1913,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A naval battle that locks in control of sea routes echoes an episode about music born from conflict, survival, and strategic resilience in harsh environments."
-    },
     {
       "hour": 8,
       "fact_text": "On January 5, 1944, the Daily Mail became the first major London newspaper to be printed on both sides of the Atlantic. At a time when wartime news traveled slowly, this transatlantic edition helped synchronize information — a paper crossing oceans as fast as ships and radio waves allowed.",
@@ -655,9 +630,33 @@
         ]
       },
       "match_reason": "A violent jolt from beneath the planet’s crust contrasts with a reflective 'Slow Planet' mood, inviting listeners to process how fragile and shifting the ground beneath us can be."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On this day in 1913, during the First Balkan War, the Battle of Lemnos saw Greek Admiral Pavlos Kountouriotis force the Ottoman fleet back into the Dardanelles. After that clash, the Ottoman ships stayed bottled up for the rest of the war, effectively ceding control of the Aegean Sea.",
+      "fact_year": 1913,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A naval battle that locks in control of sea routes echoes an episode about music born from conflict, survival, and strategic resilience in harsh environments."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T06:00:01.260574+00:00"
+  "updated_at": "2026-01-05T07:00:01.447544+00:00"
 }
