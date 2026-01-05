@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On 5 January 1953, Samuel Beckett’s play \"Waiting for Godot\" premiered in Paris, bewildering audiences with two characters endlessly waiting for someone who never arrives. This strange, minimalist story helped launch the Theatre of the Absurd, turning empty space and repetition into a mirror for the human condition.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
+    "hour": 14,
+    "fact_text": "On 5 January 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a Soviet-backed regime that sidelined the Polish government-in-exile. This diplomatic move foreshadowed decades of Eastern Bloc politics, where the appearance of sovereignty often masked deeper control.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Poland",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
+        "Polish Rock",
         "Electronic",
-        "Chillout"
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A play about waiting and emptiness resonates with a slow, reflective episode that takes its time and invites listeners to sit with stillness."
+    "match_reason": "A key geopolitical turning point in Polish history is perfectly matched with an episode built around traveling through modern Poland and its music."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On 5 January 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a Soviet-backed regime that sidelined the Polish government-in-exile. This diplomatic move foreshadowed decades of Eastern Bloc politics, where the appearance of sovereignty often masked deeper control.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Poland",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A key geopolitical turning point in Polish history is perfectly matched with an episode built around traveling through modern Poland and its music."
-    },
     {
       "hour": 15,
       "fact_text": "On 5 January 1941, pioneering British aviator Amy Johnson disappeared over the Thames Estuary after bailing out of her aircraft in poor weather. Famous as the first woman to fly solo from London to Australia, her unresolved fate has fueled decades of speculation, turning her final flight into aviation folklore.",
@@ -649,9 +624,34 @@
         ]
       },
       "match_reason": "A play about waiting and emptiness resonates with a slow, reflective episode that takes its time and invites listeners to sit with stillness."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On 5 January 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a Soviet-backed regime that sidelined the Polish government-in-exile. This diplomatic move foreshadowed decades of Eastern Bloc politics, where the appearance of sovereignty often masked deeper control.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Poland",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A key geopolitical turning point in Polish history is perfectly matched with an episode built around traveling through modern Poland and its music."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T13:00:01.255886+00:00"
+  "updated_at": "2026-01-05T14:00:01.061325+00:00"
 }
