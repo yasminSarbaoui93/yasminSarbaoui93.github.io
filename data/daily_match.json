@@ -1,56 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On 5 January 1875, Paris inaugurated the Palais Garnier, an opulent opera house whose marble staircases, chandeliers, and painted ceilings turned attending a performance into a grand social ritual. Its lavish design helped make opera not just about sound, but about spectacle, fashion, and the architecture of seeing and being seen.",
-    "fact_year": 1875,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
+    "hour": 13,
+    "fact_text": "On 5 January 1953, Samuel Beckett’s play \"Waiting for Godot\" premiered in Paris, bewildering audiences with two characters endlessly waiting for someone who never arrives. This strange, minimalist story helped launch the Theatre of the Absurd, turning empty space and repetition into a mirror for the human condition.",
+    "fact_year": 1953,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A hyper-theatrical Paris opera house pairs naturally with an episode spotlighting flamboyant, theatrical 80s sounds, including French pop royalty."
+    "match_reason": "A play about waiting and emptiness resonates with a slow, reflective episode that takes its time and invites listeners to sit with stillness."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On 5 January 1953, Samuel Beckett’s play \"Waiting for Godot\" premiered in Paris, bewildering audiences with two characters endlessly waiting for someone who never arrives. This strange, minimalist story helped launch the Theatre of the Absurd, turning empty space and repetition into a mirror for the human condition.",
-      "fact_year": 1953,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A play about waiting and emptiness resonates with a slow, reflective episode that takes its time and invites listeners to sit with stillness."
-    },
     {
       "hour": 14,
       "fact_text": "On 5 January 1945, the Soviet Union formally recognized the Provisional Government of the Republic of Poland, a Soviet-backed regime that sidelined the Polish government-in-exile. This diplomatic move foreshadowed decades of Eastern Bloc politics, where the appearance of sovereignty often masked deeper control.",
@@ -649,9 +624,34 @@
         ]
       },
       "match_reason": "A hyper-theatrical Paris opera house pairs naturally with an episode spotlighting flamboyant, theatrical 80s sounds, including French pop royalty."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On 5 January 1953, Samuel Beckett’s play \"Waiting for Godot\" premiered in Paris, bewildering audiences with two characters endlessly waiting for someone who never arrives. This strange, minimalist story helped launch the Theatre of the Absurd, turning empty space and repetition into a mirror for the human condition.",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A play about waiting and emptiness resonates with a slow, reflective episode that takes its time and invites listeners to sit with stillness."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T12:00:01.077974+00:00"
+  "updated_at": "2026-01-05T13:00:01.255886+00:00"
 }
