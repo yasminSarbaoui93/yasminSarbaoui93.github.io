@@ -1,55 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On 5 January 1941, as Amy Johnson vanished from the skies, World War II had already turned the Thames Estuary into a militarized landscape of barrage balloons and anti-aircraft guns. Her disappearance over this heavily defended river illustrates how even peacetime pioneers were swept into war’s dangerous geography.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thames_Estuary#History",
+    "hour": 20,
+    "fact_text": "On 5 January 2024, Alaska Airlines Flight 1282 made an emergency landing after a door plug suddenly blew out of a Boeing 737 MAX 9 mid‑flight, leaving a gaping hole in the fuselage. Miraculously, there were no fatalities, but the incident grounded the MAX 9 fleet and reignited global scrutiny of Boeing’s safety culture.",
+    "fact_year": 2024,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Reframing the same 1941 event through the lens of wartime danger emphasizes Johnson as a fearless woman in a hostile sky, pairing with an episode celebrating women who refused to ask permission."
+    "match_reason": "A near-disaster rooted in complex modern technology reflects an episode that questions our dependence on engineered systems and how they quietly shape our lives."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On 5 January 2024, Alaska Airlines Flight 1282 made an emergency landing after a door plug suddenly blew out of a Boeing 737 MAX 9 mid‑flight, leaving a gaping hole in the fuselage. Miraculously, there were no fatalities, but the incident grounded the MAX 9 fleet and reignited global scrutiny of Boeing’s safety culture.",
-      "fact_year": 2024,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A near-disaster rooted in complex modern technology reflects an episode that questions our dependence on engineered systems and how they quietly shape our lives."
-    },
     {
       "hour": 21,
       "fact_text": "On 5 January 1944, while the Daily Mail bridged the Atlantic with print, wartime censorship and propaganda carefully curated what readers on both continents were allowed to see. The newspaper’s dual presence highlights how media can create a shared emotional weather, even when the full truth is clouded.",
@@ -648,9 +624,34 @@
         ]
       },
       "match_reason": "Reframing the same 1941 event through the lens of wartime danger emphasizes Johnson as a fearless woman in a hostile sky, pairing with an episode celebrating women who refused to ask permission."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On 5 January 2024, Alaska Airlines Flight 1282 made an emergency landing after a door plug suddenly blew out of a Boeing 737 MAX 9 mid‑flight, leaving a gaping hole in the fuselage. Miraculously, there were no fatalities, but the incident grounded the MAX 9 fleet and reignited global scrutiny of Boeing’s safety culture.",
+      "fact_year": 2024,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1282",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A near-disaster rooted in complex modern technology reflects an episode that questions our dependence on engineered systems and how they quietly shape our lives."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T19:00:01.747497+00:00"
+  "updated_at": "2026-01-05T20:00:01.389936+00:00"
 }
