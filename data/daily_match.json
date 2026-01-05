@@ -1,70 +1,36 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 5 January 1972, U.S. President Richard Nixon publicly announced the Space Shuttle program, envisioning a reusable \"space truck\" that would dramatically lower the cost of reaching orbit. Though reality proved more complex and tragic than promised, the Shuttle became an icon of late-20th-century spaceflight, quietly assembling the International Space Station piece by piece.",
-    "fact_year": 1972,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+    "hour": 2,
+    "fact_text": "On 5 January 1969, the Soviet Union launched the Venera 5 probe toward Venus, sending a small, hardened capsule into one of the harshest environments in the Solar System. The probe descended through crushing pressure and searing heat, transmitting precious data for just over 50 minutes before being swallowed by the Venusian atmosphere.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_5",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A bold new era of reusable spacecraft echoes the episode’s theme of setting off toward new destinations and shared voyages."
+    "match_reason": "The probe’s plunge into a hostile alien world mirrors the episode’s slow, mysterious build from deep, spacey ambiences into intense rhythms."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On 5 January 1969, the Soviet Union launched the Venera 5 probe toward Venus, sending a small, hardened capsule into one of the harshest environments in the Solar System. The probe descended through crushing pressure and searing heat, transmitting precious data for just over 50 minutes before being swallowed by the Venusian atmosphere.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_5",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The probe’s plunge into a hostile alien world mirrors the episode’s slow, mysterious build from deep, spacey ambiences into intense rhythms."
-    },
     {
       "hour": 3,
       "fact_text": "On 5 January 2014, India’s GSLV Mk.II D5 rocket successfully placed the GSAT‑14 communications satellite into orbit, marking the first successful flight of an Indian-built cryogenic engine. That moment signaled a leap in technological independence, allowing India to reach higher orbits without relying on foreign propulsion systems.",
@@ -658,9 +624,39 @@
         ]
       },
       "match_reason": "A bold new era of reusable spacecraft echoes the episode’s theme of setting off toward new destinations and shared voyages."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On 5 January 1969, the Soviet Union launched the Venera 5 probe toward Venus, sending a small, hardened capsule into one of the harshest environments in the Solar System. The probe descended through crushing pressure and searing heat, transmitting precious data for just over 50 minutes before being swallowed by the Venusian atmosphere.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_5",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The probe’s plunge into a hostile alien world mirrors the episode’s slow, mysterious build from deep, spacey ambiences into intense rhythms."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T01:00:01.041920+00:00"
+  "updated_at": "2026-01-05T02:00:01.470159+00:00"
 }
