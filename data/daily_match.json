@@ -1,50 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 1953, Samuel Beckett’s play 'Waiting for Godot' premiered in Paris, baffling and mesmerizing audiences with its near-empty stage and looping, absurd dialogue. It became a cornerstone of modern theatre by asking a strange question: what if nothing much happens, and that’s the point?",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Waiting_for_Godot",
+    "hour": 11,
+    "fact_text": "On January 5, 1941, pioneering British aviator Amy Johnson disappeared over the River Thames after bailing out of her aircraft in poor weather. She had been the first woman to fly solo from London to Australia, turning long-distance flight into a daring solo act of navigation and endurance.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Johnson",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "song 1"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "genre 1"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "A play built around emptiness, pauses, and unresolved waiting pairs with an episode celebrating imperfection, stillness, and the beauty of things 'not going to plan.'"
+    "match_reason": "A story of physical courage, endurance, and navigating the skies connects with an episode about disciplined training, movement, and testing the body’s limits far from home."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On January 5, 1941, pioneering British aviator Amy Johnson disappeared over the River Thames after bailing out of her aircraft in poor weather. She had been the first woman to fly solo from London to Australia, turning long-distance flight into a daring solo act of navigation and endurance.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Johnson",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A story of physical courage, endurance, and navigating the skies connects with an episode about disciplined training, movement, and testing the body’s limits far from home."
-    },
     {
       "hour": 12,
       "fact_text": "In 1949, U.S. President Harry S. Truman used his State of the Union address to unveil the 'Fair Deal,' an ambitious program to expand social security, raise the minimum wage, and push for national health insurance. Many proposals were resisted or watered down, but the speech reframed the idea that prosperity should be more widely shared.",
@@ -649,9 +630,34 @@
         ]
       },
       "match_reason": "A play built around emptiness, pauses, and unresolved waiting pairs with an episode celebrating imperfection, stillness, and the beauty of things 'not going to plan.'"
+    },
+    {
+      "hour": 11,
+      "fact_text": "On January 5, 1941, pioneering British aviator Amy Johnson disappeared over the River Thames after bailing out of her aircraft in poor weather. She had been the first woman to fly solo from London to Australia, turning long-distance flight into a daring solo act of navigation and endurance.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amy_Johnson",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A story of physical courage, endurance, and navigating the skies connects with an episode about disciplined training, movement, and testing the body’s limits far from home."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T10:00:01.330054+00:00"
+  "updated_at": "2026-01-05T11:00:01.412419+00:00"
 }
