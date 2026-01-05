@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 5 January 1933, construction began on the Golden Gate Bridge, a project many engineers initially deemed impossible due to the strait’s fierce winds, tides, and fog. The bridge’s completion turned a dangerous, fog-shrouded gap into one of the world’s most recognizable human-made horizons.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+    "hour": 17,
+    "fact_text": "On 5 January 1913, during the First Balkan War, the Battle of Lemnos saw the Greek fleet under Admiral Pavlos Kountouriotis defeat the Ottoman navy and drive it back into the Dardanelles. After this clash, the Ottoman ships never again ventured out to challenge Greek control of the Aegean.",
+    "fact_year": 1913,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A bridge that hovers over fog and water, inviting crossings into new spaces, fits an episode themed around immersion, horizons, and fluid movement."
+    "match_reason": "A decisive naval battle in the Aegean aligns beautifully with an episode that literally sails through Mediterranean waters in sound and story."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On 5 January 1913, during the First Balkan War, the Battle of Lemnos saw the Greek fleet under Admiral Pavlos Kountouriotis defeat the Ottoman navy and drive it back into the Dardanelles. After this clash, the Ottoman ships never again ventured out to challenge Greek control of the Aegean.",
-      "fact_year": 1913,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A decisive naval battle in the Aegean aligns beautifully with an episode that literally sails through Mediterranean waters in sound and story."
-    },
     {
       "hour": 18,
       "fact_text": "On 5 January 1967, during China’s Cultural Revolution, radical groups in Shanghai seized power from local authorities and proclaimed the Shanghai People’s Commune. Inspired by the Paris Commune, this brief experiment in revolutionary governance showed how far Maoist politics could destabilize existing structures before being reabsorbed by the state.",
@@ -649,9 +624,34 @@
         ]
       },
       "match_reason": "A bridge that hovers over fog and water, inviting crossings into new spaces, fits an episode themed around immersion, horizons, and fluid movement."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On 5 January 1913, during the First Balkan War, the Battle of Lemnos saw the Greek fleet under Admiral Pavlos Kountouriotis defeat the Ottoman navy and drive it back into the Dardanelles. After this clash, the Ottoman ships never again ventured out to challenge Greek control of the Aegean.",
+      "fact_year": 1913,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Lemnos_(1913)",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A decisive naval battle in the Aegean aligns beautifully with an episode that literally sails through Mediterranean waters in sound and story."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T16:00:01.311427+00:00"
+  "updated_at": "2026-01-05T17:00:01.444485+00:00"
 }
