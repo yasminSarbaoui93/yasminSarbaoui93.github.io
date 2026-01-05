@@ -1,53 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1949, U.S. President Harry S. Truman used his State of the Union address to unveil the 'Fair Deal,' an ambitious program to expand social security, raise the minimum wage, and push for national health insurance. Many proposals were resisted or watered down, but the speech reframed the idea that prosperity should be more widely shared.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fair_Deal",
+    "hour": 13,
+    "fact_text": "On January 5, 1957, President Dwight D. Eisenhower presented what would be called the Eisenhower Doctrine, promising U.S. economic and military aid to Middle Eastern countries resisting 'armed aggression.' It formalized a new geopolitical focus on the region’s oil, borders, and fragile alliances during the Cold War.",
+    "fact_year": 1957,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eisenhower_Doctrine",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A political attempt to redefine what citizens deserve mirrors an episode focused on breaking out of boxes and renegotiating the terms of how we live and are seen."
+    "match_reason": "A doctrine that redrew mental maps of the Middle East sits against an episode about shifting perspectives through travel, inviting listeners to reconsider how borders and influence feel from the ground."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On January 5, 1957, President Dwight D. Eisenhower presented what would be called the Eisenhower Doctrine, promising U.S. economic and military aid to Middle Eastern countries resisting 'armed aggression.' It formalized a new geopolitical focus on the region’s oil, borders, and fragile alliances during the Cold War.",
-      "fact_year": 1957,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eisenhower_Doctrine",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A doctrine that redrew mental maps of the Middle East sits against an episode about shifting perspectives through travel, inviting listeners to reconsider how borders and influence feel from the ground."
-    },
     {
       "hour": 14,
       "fact_text": "In 1967, amid the Cultural Revolution, radical groups in Shanghai overthrew local authorities and declared the Shanghai People's Commune, inspired by the Paris Commune of 1871. For a brief period, they tried to run the city through mass assemblies and revolutionary committees before the experiment was reabsorbed into more traditional party structures.",
@@ -652,9 +630,34 @@
         ]
       },
       "match_reason": "A political attempt to redefine what citizens deserve mirrors an episode focused on breaking out of boxes and renegotiating the terms of how we live and are seen."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On January 5, 1957, President Dwight D. Eisenhower presented what would be called the Eisenhower Doctrine, promising U.S. economic and military aid to Middle Eastern countries resisting 'armed aggression.' It formalized a new geopolitical focus on the region’s oil, borders, and fragile alliances during the Cold War.",
+      "fact_year": 1957,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eisenhower_Doctrine",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A doctrine that redrew mental maps of the Middle East sits against an episode about shifting perspectives through travel, inviting listeners to reconsider how borders and influence feel from the ground."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T12:00:01.302589+00:00"
+  "updated_at": "2026-01-05T13:00:01.630693+00:00"
 }
