@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 5 January 2005, astronomers at Palomar Observatory spotted a distant icy world later named Eris, a dwarf planet even more massive than Pluto. Its discovery forced astronomers to confront an uncomfortable question—what exactly counts as a planet—and ultimately pushed the International Astronomical Union to redefine the term for the first time in history.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eris_(dwarf_planet)",
+    "hour": 1,
+    "fact_text": "On 5 January 1972, U.S. President Richard Nixon publicly announced the Space Shuttle program, envisioning a reusable \"space truck\" that would dramatically lower the cost of reaching orbit. Though reality proved more complex and tragic than promised, the Shuttle became an icon of late-20th-century spaceflight, quietly assembling the International Space Station piece by piece.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A literal 'space shift' in how we define planets fits an episode about reimagining emptiness as creative space."
+    "match_reason": "A bold new era of reusable spacecraft echoes the episode’s theme of setting off toward new destinations and shared voyages."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 5 January 1972, U.S. President Richard Nixon publicly announced the Space Shuttle program, envisioning a reusable \"space truck\" that would dramatically lower the cost of reaching orbit. Though reality proved more complex and tragic than promised, the Shuttle became an icon of late-20th-century spaceflight, quietly assembling the International Space Station piece by piece.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A bold new era of reusable spacecraft echoes the episode’s theme of setting off toward new destinations and shared voyages."
-    },
     {
       "hour": 2,
       "fact_text": "On 5 January 1969, the Soviet Union launched the Venera 5 probe toward Venus, sending a small, hardened capsule into one of the harshest environments in the Solar System. The probe descended through crushing pressure and searing heat, transmitting precious data for just over 50 minutes before being swallowed by the Venusian atmosphere.",
@@ -647,9 +624,43 @@
         ]
       },
       "match_reason": "A literal 'space shift' in how we define planets fits an episode about reimagining emptiness as creative space."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 5 January 1972, U.S. President Richard Nixon publicly announced the Space Shuttle program, envisioning a reusable \"space truck\" that would dramatically lower the cost of reaching orbit. Though reality proved more complex and tragic than promised, the Shuttle became an icon of late-20th-century spaceflight, quietly assembling the International Space Station piece by piece.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A bold new era of reusable spacecraft echoes the episode’s theme of setting off toward new destinations and shared voyages."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T00:00:46.823484+00:00"
+  "updated_at": "2026-01-05T01:00:01.041920+00:00"
 }
