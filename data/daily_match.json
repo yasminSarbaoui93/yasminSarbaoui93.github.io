@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 5 January 1993, the oil tanker MV Braer broke apart in stormy seas off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Fierce winds and waves, which helped cause the disaster, also scattered and weathered the oil, creating an unusual environmental accident where nature both suffered and, in part, saved itself.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
+    "hour": 7,
+    "fact_text": "On 5 January 1991, as Somalia descended into civil war, the United States evacuated its embassy in Mogadishu by helicopter in a dramatic airlift. The operation, known as Eastern Exit, whisked diplomats and civilians out over a city unraveling into chaos, capturing the precariousness of international presences in conflict zones.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somali_Civil_War",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "An oil spill in cold northern waters connects directly to an episode that lives in the same oceanic world, centered on marine life and fragile Arctic ecosystems."
+    "match_reason": "The embassy evacuation sits within a broader African landscape of conflict, exile, and resilience, themes deeply present in Tuareg desert blues and its stories of survival."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 5 January 1991, as Somalia descended into civil war, the United States evacuated its embassy in Mogadishu by helicopter in a dramatic airlift. The operation, known as Eastern Exit, whisked diplomats and civilians out over a city unraveling into chaos, capturing the precariousness of international presences in conflict zones.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somali_Civil_War",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The embassy evacuation sits within a broader African landscape of conflict, exile, and resilience, themes deeply present in Tuareg desert blues and its stories of survival."
-    },
     {
       "hour": 8,
       "fact_text": "On 5 January 1822, the government of Central America voted to be annexed by the newly independent First Mexican Empire. This brief political union—lasting barely a year—reveals how fluid and experimental borders were in the wake of Spanish colonial collapse.",
@@ -649,9 +624,33 @@
         ]
       },
       "match_reason": "An oil spill in cold northern waters connects directly to an episode that lives in the same oceanic world, centered on marine life and fragile Arctic ecosystems."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 5 January 1991, as Somalia descended into civil war, the United States evacuated its embassy in Mogadishu by helicopter in a dramatic airlift. The operation, known as Eastern Exit, whisked diplomats and civilians out over a city unraveling into chaos, capturing the precariousness of international presences in conflict zones.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Somali_Civil_War",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The embassy evacuation sits within a broader African landscape of conflict, exile, and resilience, themes deeply present in Tuareg desert blues and its stories of survival."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T06:00:01.258160+00:00"
+  "updated_at": "2026-01-05T07:00:01.499963+00:00"
 }
