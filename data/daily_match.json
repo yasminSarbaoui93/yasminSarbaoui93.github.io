@@ -1,59 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1933, workers began building the Golden Gate Bridge across San Francisco Bay, a project many engineers initially considered impossible due to fierce winds, deep waters, and strong currents. Within a few years, the bright orange span would become one of Earth’s most iconic human-made silhouettes against the sea and sky.",
-    "fact_year": 1933,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+    "hour": 5,
+    "fact_text": "On January 5, 1993, the oil tanker MV Braer lost engine power in a storm and ran aground off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Strong winds and waves, ironically, helped break up and disperse the oil faster than expected, turning the chaotic weather into an unexpected ally for the local ecosystem.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A bridge born from battling ocean currents pairs with a sea-bound sailing episode that lives in the same world of waves, wind, and human ingenuity over water."
+    "match_reason": "An oil spill in stormy northern seas connects with an Arctic marine episode that centers on cold oceans, fragile ecosystems, and the life that swims through them."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On January 5, 1993, the oil tanker MV Braer lost engine power in a storm and ran aground off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Strong winds and waves, ironically, helped break up and disperse the oil faster than expected, turning the chaotic weather into an unexpected ally for the local ecosystem.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "An oil spill in stormy northern seas connects with an Arctic marine episode that centers on cold oceans, fragile ecosystems, and the life that swims through them."
-    },
     {
       "hour": 6,
       "fact_text": "In 1970, a magnitude 7.1 earthquake struck Tonghai County in China’s Yunnan province, reaching an extreme Mercalli intensity of X. Much of the devastation went little reported internationally at the time, yet the event reshaped local landscapes and lives in a matter of seconds.",
@@ -658,9 +630,34 @@
         ]
       },
       "match_reason": "A bridge born from battling ocean currents pairs with a sea-bound sailing episode that lives in the same world of waves, wind, and human ingenuity over water."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On January 5, 1993, the oil tanker MV Braer lost engine power in a storm and ran aground off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Strong winds and waves, ironically, helped break up and disperse the oil faster than expected, turning the chaotic weather into an unexpected ally for the local ecosystem.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/MV_Braer",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "An oil spill in stormy northern seas connects with an Arctic marine episode that centers on cold oceans, fragile ecosystems, and the life that swims through them."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T04:00:01.390042+00:00"
+  "updated_at": "2026-01-05T05:00:01.431744+00:00"
 }
