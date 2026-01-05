@@ -1,65 +1,40 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 5 January 1970, the 7.1 Mw Tonghai earthquake struck China’s Yunnan province with a maximum Mercalli intensity of X, leveling villages and killing between 10,000 and 15,000 people. For decades, the disaster remained relatively obscure outside China, a reminder of how nature’s most violent shifts can redraw human lives in seconds.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1970_Tonghai_earthquake",
+    "hour": 5,
+    "fact_text": "On 5 January 1781, during the American Revolutionary War, British forces under Benedict Arnold—once a celebrated American general—burned Richmond, Virginia. The raid was not just a military action but a symbolic act of betrayal, as a former patriot led the destruction of his own country’s capital.",
+    "fact_year": 1781,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Richmond",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The sudden, devastating jolt of an earthquake is echoed metaphorically by an episode built around high-voltage, shock-like bursts of guitar energy."
+    "match_reason": "Benedict Arnold’s dramatic shift from patriot to traitor resonates with an episode devoted to alter-egos, identity shifts, and the darker edges of reinvention."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 5 January 1781, during the American Revolutionary War, British forces under Benedict Arnold—once a celebrated American general—burned Richmond, Virginia. The raid was not just a military action but a symbolic act of betrayal, as a former patriot led the destruction of his own country’s capital.",
-      "fact_year": 1781,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Richmond",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Benedict Arnold’s dramatic shift from patriot to traitor resonates with an episode devoted to alter-egos, identity shifts, and the darker edges of reinvention."
-    },
     {
       "hour": 6,
       "fact_text": "On 5 January 1993, the oil tanker MV Braer broke apart in stormy seas off the Shetland Islands, spilling nearly 85,000 tons of crude oil. Fierce winds and waves, which helped cause the disaster, also scattered and weathered the oil, creating an unusual environmental accident where nature both suffered and, in part, saved itself.",
@@ -649,9 +624,43 @@
         ]
       },
       "match_reason": "The sudden, devastating jolt of an earthquake is echoed metaphorically by an episode built around high-voltage, shock-like bursts of guitar energy."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 5 January 1781, during the American Revolutionary War, British forces under Benedict Arnold—once a celebrated American general—burned Richmond, Virginia. The raid was not just a military action but a symbolic act of betrayal, as a former patriot led the destruction of his own country’s capital.",
+      "fact_year": 1781,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Raid_on_Richmond",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Benedict Arnold’s dramatic shift from patriot to traitor resonates with an episode devoted to alter-egos, identity shifts, and the darker edges of reinvention."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.010476+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T04:00:01.445970+00:00"
+  "updated_at": "2026-01-05T05:00:01.258216+00:00"
 }
