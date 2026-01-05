@@ -1,61 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1969, the Soviet Union launched Venera 5, a probe destined to dive into the crushing atmosphere of Venus. It transmitted valuable data on temperature and pressure before being destroyed, turning its brief life into a one-way ticket into a hellish alien world.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Venera_5",
+    "hour": 3,
+    "fact_text": "On this day in 2014, India successfully launched its GSAT-14 communications satellite aboard a GSLV Mk.II rocket powered by the nation's first home-built cryogenic engine. The flight marked a technological turning point, proving India could master one of rocketry’s most complex and ultra-cold propulsion systems.",
+    "fact_year": 2014,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CE-7.5",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A mysterious descent into Venus’s depths resonates with an episode that begins in slow, spacey textures and gradually dives into richer, layered soundscapes."
+    "match_reason": "Cryogenic engines and rocket launches are literal controlled 'electric shocks' of power, matching the episode’s high-voltage, propulsion-like energy."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 2014, India successfully launched its GSAT-14 communications satellite aboard a GSLV Mk.II rocket powered by the nation's first home-built cryogenic engine. The flight marked a technological turning point, proving India could master one of rocketry’s most complex and ultra-cold propulsion systems.",
-      "fact_year": 2014,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CE-7.5",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "Cryogenic engines and rocket launches are literal controlled 'electric shocks' of power, matching the episode’s high-voltage, propulsion-like energy."
-    },
     {
       "hour": 4,
       "fact_text": "In 1933, workers began building the Golden Gate Bridge across San Francisco Bay, a project many engineers initially considered impossible due to fierce winds, deep waters, and strong currents. Within a few years, the bright orange span would become one of Earth’s most iconic human-made silhouettes against the sea and sky.",
@@ -660,9 +630,34 @@
         ]
       },
       "match_reason": "A mysterious descent into Venus’s depths resonates with an episode that begins in slow, spacey textures and gradually dives into richer, layered soundscapes."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 2014, India successfully launched its GSAT-14 communications satellite aboard a GSLV Mk.II rocket powered by the nation's first home-built cryogenic engine. The flight marked a technological turning point, proving India could master one of rocketry’s most complex and ultra-cold propulsion systems.",
+      "fact_year": 2014,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/CE-7.5",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "Cryogenic engines and rocket launches are literal controlled 'electric shocks' of power, matching the episode’s high-voltage, propulsion-like energy."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T02:00:01.242049+00:00"
+  "updated_at": "2026-01-05T03:00:01.158870+00:00"
 }
