@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On January 5, 1944, the Daily Mail became the first major London newspaper to be printed on both sides of the Atlantic. At a time when wartime news traveled slowly, this transatlantic edition helped synchronize information — a paper crossing oceans as fast as ships and radio waves allowed.",
-    "fact_year": 1944,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Daily_Mail",
+    "hour": 9,
+    "fact_text": "In 1875, Paris unveiled the Palais Garnier, a lavish opera house whose marble staircase, gilded ceilings, and grand chandelier turned performance into a total sensory spectacle. Its opulent design later inspired the setting for 'The Phantom of the Opera' and remains a monument to 19th-century musical excess.",
+    "fact_year": 1875,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
     "episode": {
-      "id": 38,
-      "title": "Morning Drops #32 - A Weekend In London",
-      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Dele Sosimi - E Go Betta",
-        "Jimmy Castor Bunch - It's Just Begun",
-        "Little Simz feat. Obongjayar - Lion",
-        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Funk",
-        "UK Hip-Hop",
-        "Electronic"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A London paper going bi-continental aligns with a London-themed episode that radiates the city’s global, cross-Atlantic cultural pulse."
+    "match_reason": "A legendary European opera house celebrating vocal drama pairs naturally with an episode about flamenco, another art form where voice, stage, and emotion are inseparable."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1875, Paris unveiled the Palais Garnier, a lavish opera house whose marble staircase, gilded ceilings, and grand chandelier turned performance into a total sensory spectacle. Its opulent design later inspired the setting for 'The Phantom of the Opera' and remains a monument to 19th-century musical excess.",
-      "fact_year": 1875,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A legendary European opera house celebrating vocal drama pairs naturally with an episode about flamenco, another art form where voice, stage, and emotion are inseparable."
-    },
     {
       "hour": 10,
       "fact_text": "On this day in 1953, Samuel Beckett’s play 'Waiting for Godot' premiered in Paris, baffling and mesmerizing audiences with its near-empty stage and looping, absurd dialogue. It became a cornerstone of modern theatre by asking a strange question: what if nothing much happens, and that’s the point?",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "A London paper going bi-continental aligns with a London-themed episode that radiates the city’s global, cross-Atlantic cultural pulse."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1875, Paris unveiled the Palais Garnier, a lavish opera house whose marble staircase, gilded ceilings, and grand chandelier turned performance into a total sensory spectacle. Its opulent design later inspired the setting for 'The Phantom of the Opera' and remains a monument to 19th-century musical excess.",
+      "fact_year": 1875,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Palais_Garnier",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A legendary European opera house celebrating vocal drama pairs naturally with an episode about flamenco, another art form where voice, stage, and emotion are inseparable."
     }
   ],
   "generated_at": "2026-01-05T00:00:00.007033+00:00",
   "date": "2026-01-05",
-  "updated_at": "2026-01-05T08:00:01.281743+00:00"
+  "updated_at": "2026-01-05T09:00:01.630577+00:00"
 }
