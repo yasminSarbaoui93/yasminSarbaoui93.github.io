@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1912, German geophysicist Alfred Wegener first presented his radical theory of continental drift, suggesting that Earth's continents were once joined and have been slowly drifting apart ever since. His idea was mocked for decades, but it later became the foundation of plate tectonics and transformed our understanding of how planets evolve.",
-    "fact_year": 1912,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Continental_drift",
+    "hour": 1,
+    "fact_text": "On the Night of the Big Wind in 1839, one of the most violent storms in Irish history tore across the island, destroying or damaging over 20% of Dublin’s houses. The storm was so unforgettable that, for decades, some Irish people used surviving it as an unofficial age test for old-age pensions.",
+    "fact_year": 1839,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Wegener’s drift theory parallels the episode’s theme of shifting perspectives about our invisible connections, from moving continents to our digital ‘tectonic plates’ of communication."
+    "match_reason": "A ferocious storm that shocked an entire country aligns with an episode built around electrifying, high-voltage energy."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On the Night of the Big Wind in 1839, one of the most violent storms in Irish history tore across the island, destroying or damaging over 20% of Dublin’s houses. The storm was so unforgettable that, for decades, some Irish people used surviving it as an unofficial age test for old-age pensions.",
-      "fact_year": 1839,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A ferocious storm that shocked an entire country aligns with an episode built around electrifying, high-voltage energy."
-    },
     {
       "hour": 2,
       "fact_text": "In 1838, Alfred Vail and his colleagues demonstrated a telegraph system that used sequences of dots and dashes—an early version of what became Morse code. Their invention turned lightning into language, allowing information to travel faster than any human or horse for the first time in history.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "Wegener’s drift theory parallels the episode’s theme of shifting perspectives about our invisible connections, from moving continents to our digital ‘tectonic plates’ of communication."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On the Night of the Big Wind in 1839, one of the most violent storms in Irish history tore across the island, destroying or damaging over 20% of Dublin’s houses. The storm was so unforgettable that, for decades, some Irish people used surviving it as an unofficial age test for old-age pensions.",
+      "fact_year": 1839,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Night_of_the_Big_Wind",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A ferocious storm that shocked an entire country aligns with an episode built around electrifying, high-voltage energy."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T00:00:46.281661+00:00"
+  "updated_at": "2026-01-06T01:00:01.222172+00:00"
 }
