@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1838, Alfred Vail and his colleagues demonstrated a telegraph system that used sequences of dots and dashes—an early version of what became Morse code. Their invention turned lightning into language, allowing information to travel faster than any human or horse for the first time in history.",
-    "fact_year": 1838,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Morse_code",
+    "hour": 3,
+    "fact_text": "In 1725, J. S. Bach led the first performance of his chorale cantata \"Liebster Immanuel, Herzog der Frommen\" (BWV 123) for Epiphany, weaving complex counterpoint around a humble congregational hymn. The piece was part of an ambitious project to write a different cantata for almost every Sunday and feast day of the church year.",
+    "fact_year": 1725,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Liebster_Immanuel,_Herzog_der_Frommen,_BWV_123",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The dot-and-dash patterns of early telegraphy resonate with trip-hop’s chopped, coded samples—both turn fragments into messages that cross great distances."
+    "match_reason": "Bach’s sacred architecture of sound pairs well with the episode’s cinematic neo-classical mood, both inviting a slow, reverent immersion in something larger than oneself."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1725, J. S. Bach led the first performance of his chorale cantata \"Liebster Immanuel, Herzog der Frommen\" (BWV 123) for Epiphany, weaving complex counterpoint around a humble congregational hymn. The piece was part of an ambitious project to write a different cantata for almost every Sunday and feast day of the church year.",
-      "fact_year": 1725,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Liebster_Immanuel,_Herzog_der_Frommen,_BWV_123",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Bach’s sacred architecture of sound pairs well with the episode’s cinematic neo-classical mood, both inviting a slow, reverent immersion in something larger than oneself."
-    },
     {
       "hour": 4,
       "fact_text": "A year earlier, in 1724, Bach unveiled another Epiphany cantata, \"Sie werden aus Saba alle kommen\" (BWV 65), inspired by the biblical image of travelers bringing gifts from faraway Saba. The music shimmers with exotic colors, reflecting how Europeans of Bach's time imagined distant lands they would never see.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "The dot-and-dash patterns of early telegraphy resonate with trip-hop’s chopped, coded samples—both turn fragments into messages that cross great distances."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1725, J. S. Bach led the first performance of his chorale cantata \"Liebster Immanuel, Herzog der Frommen\" (BWV 123) for Epiphany, weaving complex counterpoint around a humble congregational hymn. The piece was part of an ambitious project to write a different cantata for almost every Sunday and feast day of the church year.",
+      "fact_year": 1725,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Liebster_Immanuel,_Herzog_der_Frommen,_BWV_123",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Bach’s sacred architecture of sound pairs well with the episode’s cinematic neo-classical mood, both inviting a slow, reverent immersion in something larger than oneself."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T02:00:01.045126+00:00"
+  "updated_at": "2026-01-06T03:00:01.266981+00:00"
 }
