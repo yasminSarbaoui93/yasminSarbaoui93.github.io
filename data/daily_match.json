@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1725, J. S. Bach led the first performance of his chorale cantata \"Liebster Immanuel, Herzog der Frommen\" (BWV 123) for Epiphany, weaving complex counterpoint around a humble congregational hymn. The piece was part of an ambitious project to write a different cantata for almost every Sunday and feast day of the church year.",
-    "fact_year": 1725,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Liebster_Immanuel,_Herzog_der_Frommen,_BWV_123",
+    "hour": 4,
+    "fact_text": "A year earlier, in 1724, Bach unveiled another Epiphany cantata, \"Sie werden aus Saba alle kommen\" (BWV 65), inspired by the biblical image of travelers bringing gifts from faraway Saba. The music shimmers with exotic colors, reflecting how Europeans of Bach's time imagined distant lands they would never see.",
+    "fact_year": 1724,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sie_werden_aus_Saba_alle_kommen,_BWV_65",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "Bach’s sacred architecture of sound pairs well with the episode’s cinematic neo-classical mood, both inviting a slow, reverent immersion in something larger than oneself."
+    "match_reason": "An Epiphany cantata about long-distance visitors and gifts fits a sea voyage playlist, both painting journeys across cultures and waters in sound."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "A year earlier, in 1724, Bach unveiled another Epiphany cantata, \"Sie werden aus Saba alle kommen\" (BWV 65), inspired by the biblical image of travelers bringing gifts from faraway Saba. The music shimmers with exotic colors, reflecting how Europeans of Bach's time imagined distant lands they would never see.",
-      "fact_year": 1724,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sie_werden_aus_Saba_alle_kommen,_BWV_65",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "An Epiphany cantata about long-distance visitors and gifts fits a sea voyage playlist, both painting journeys across cultures and waters in sound."
-    },
     {
       "hour": 5,
       "fact_text": "On January 6, 1641, the first Parliament of Quillín was convened during the Arauco War, bringing Spanish colonial authorities and Mapuche leaders together in Chile. It produced one of the earliest formal treaties in the Americas recognizing an Indigenous people's autonomy over their own territory.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "Bach’s sacred architecture of sound pairs well with the episode’s cinematic neo-classical mood, both inviting a slow, reverent immersion in something larger than oneself."
+    },
+    {
+      "hour": 4,
+      "fact_text": "A year earlier, in 1724, Bach unveiled another Epiphany cantata, \"Sie werden aus Saba alle kommen\" (BWV 65), inspired by the biblical image of travelers bringing gifts from faraway Saba. The music shimmers with exotic colors, reflecting how Europeans of Bach's time imagined distant lands they would never see.",
+      "fact_year": 1724,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sie_werden_aus_Saba_alle_kommen,_BWV_65",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "An Epiphany cantata about long-distance visitors and gifts fits a sea voyage playlist, both painting journeys across cultures and waters in sound."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T03:00:01.266981+00:00"
+  "updated_at": "2026-01-06T04:00:01.413949+00:00"
 }
