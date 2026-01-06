@@ -1,55 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On January 6, 1641, the first Parliament of Quillín was convened during the Arauco War, bringing Spanish colonial authorities and Mapuche leaders together in Chile. It produced one of the earliest formal treaties in the Americas recognizing an Indigenous people's autonomy over their own territory.",
-    "fact_year": 1641,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Quill%C3%ADn",
+    "hour": 6,
+    "fact_text": "In 1449, Constantine XI Palaiologos was crowned in the hilltop fortress of Mystras, becoming the last Byzantine emperor. He would rule only a few years before dying in the fall of Constantinople, turning his reign into a poignant final chapter of a thousand-year-old empire.",
+    "fact_year": 1449,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A historic recognition of Indigenous autonomy pairs with Tuareg desert blues, another voice of land-rooted resistance and negotiated survival with empires."
+    "match_reason": "A Greek mountain citadel crowning the last Byzantine emperor connects to an episode shaped by mountains and Italian–Mediterranean reflections, blending history, landscape, and memory."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1449, Constantine XI Palaiologos was crowned in the hilltop fortress of Mystras, becoming the last Byzantine emperor. He would rule only a few years before dying in the fall of Constantinople, turning his reign into a poignant final chapter of a thousand-year-old empire.",
-      "fact_year": 1449,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A Greek mountain citadel crowning the last Byzantine emperor connects to an episode shaped by mountains and Italian–Mediterranean reflections, blending history, landscape, and memory."
-    },
     {
       "hour": 7,
       "fact_text": "On January 6, 1809, British, Portuguese, and colonial Brazilian forces launched an amphibious assault on Cayenne, capturing French Guiana from Napoleon’s empire. The operation was a rare joint venture that briefly shifted colonial power in the Amazon rainforest.",
@@ -638,9 +614,34 @@
         ]
       },
       "match_reason": "A historic recognition of Indigenous autonomy pairs with Tuareg desert blues, another voice of land-rooted resistance and negotiated survival with empires."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1449, Constantine XI Palaiologos was crowned in the hilltop fortress of Mystras, becoming the last Byzantine emperor. He would rule only a few years before dying in the fall of Constantinople, turning his reign into a poignant final chapter of a thousand-year-old empire.",
+      "fact_year": 1449,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A Greek mountain citadel crowning the last Byzantine emperor connects to an episode shaped by mountains and Italian–Mediterranean reflections, blending history, landscape, and memory."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T05:00:01.196978+00:00"
+  "updated_at": "2026-01-06T06:00:01.418833+00:00"
 }
