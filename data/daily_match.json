@@ -1,54 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On January 6, 1947, the same Earth whose crust Wegener described became a canvas for the first commercial round‑the‑world air routes; decades later, on this day in 1967, Operation Deckhouse Five began as U.S. Marines and South Vietnamese troops launched an amphibious assault in the Mekong Delta. It was one of several short but intense coastal operations that tried to mix naval power with jungle warfare.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
+    "hour": 12,
+    "fact_text": "On January 6, 1989, Satwant Singh and Kehar Singh were executed in India for their roles in the assassination of Prime Minister Indira Gandhi, carried out by her own Sikh bodyguards. The killing and its aftermath triggered anti-Sikh pogroms and left a deep scar in India’s political and religious landscape.",
+    "fact_year": 1989,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
     "episode": {
-      "id": 29,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "Dub and reggae have long carried reflections on war, empire, and ‘Babylon’; their spacious, echoing textures resonate with the haunted landscapes of the Vietnam War era."
+    "match_reason": "A turbulent moment in the life and death of a powerful woman leader pairs with an episode celebrating women who seized the loudest, most public stages of rock."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On January 6, 1989, Satwant Singh and Kehar Singh were executed in India for their roles in the assassination of Prime Minister Indira Gandhi, carried out by her own Sikh bodyguards. The killing and its aftermath triggered anti-Sikh pogroms and left a deep scar in India’s political and religious landscape.",
-      "fact_year": 1989,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A turbulent moment in the life and death of a powerful woman leader pairs with an episode celebrating women who seized the loudest, most public stages of rock."
-    },
     {
       "hour": 13,
       "fact_text": "In 1993, Indian Border Security Force personnel killed 55 civilians in Sopore, Jammu and Kashmir, after militants attacked a patrol, and set much of the town’s market ablaze. The Sopore massacre became one of the most cited examples of state violence in the conflict over Kashmir.",
@@ -638,9 +614,33 @@
         ]
       },
       "match_reason": "Dub and reggae have long carried reflections on war, empire, and ‘Babylon’; their spacious, echoing textures resonate with the haunted landscapes of the Vietnam War era."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On January 6, 1989, Satwant Singh and Kehar Singh were executed in India for their roles in the assassination of Prime Minister Indira Gandhi, carried out by her own Sikh bodyguards. The killing and its aftermath triggered anti-Sikh pogroms and left a deep scar in India’s political and religious landscape.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A turbulent moment in the life and death of a powerful woman leader pairs with an episode celebrating women who seized the loudest, most public stages of rock."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T11:00:01.533513+00:00"
+  "updated_at": "2026-01-06T12:00:01.703609+00:00"
 }
