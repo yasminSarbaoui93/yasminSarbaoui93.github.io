@@ -1,54 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "The Arauco War’s Parliament of Quillín was one of many attempts to negotiate space between cultures; likewise, on other continents centuries later, Indigenous rhythms would electrify guitars. On our calendar, the same January 6 also carries Alfred Wegener’s planetary insights, reminding us that even land once believed fixed is always moving beneath our feet.",
-    "fact_year": 1912,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+    "hour": 21,
+    "fact_text": "Nightfall on January 6 carries not just storms and coups but also quiet coronations and first performances that almost slipped through time. Among them is the crowning of Constantine XI, whose empire would soon vanish, leaving behind stories, ruins, and melodies that still echo through the Mediterranean.",
+    "fact_year": 1453,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mystras",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "Wegener’s vision of a restless, shifting Earth pairs with Afrobeat’s endlessly propulsive, circling rhythms—both insist that nothing in our world is truly static."
+    "match_reason": "The fading Byzantine world around Mystras parallels Sardinia’s layered Mediterranean history; both are carried forward in folk memory and regional song."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Nightfall on January 6 carries not just storms and coups but also quiet coronations and first performances that almost slipped through time. Among them is the crowning of Constantine XI, whose empire would soon vanish, leaving behind stories, ruins, and melodies that still echo through the Mediterranean.",
-      "fact_year": 1453,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mystras",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "The fading Byzantine world around Mystras parallels Sardinia’s layered Mediterranean history; both are carried forward in folk memory and regional song."
-    },
     {
       "hour": 22,
       "fact_text": "If January 6 is heavy with politics and conflict, it is also a date when composers like Bach quietly unfolded new musical universes in small churches. His Epiphany cantatas were once ephemeral Sunday pieces, yet centuries later they’re studied, performed, and streamed, proving that even modest premieres can ripple far beyond their moment.",
@@ -638,9 +614,33 @@
         ]
       },
       "match_reason": "Wegener’s vision of a restless, shifting Earth pairs with Afrobeat’s endlessly propulsive, circling rhythms—both insist that nothing in our world is truly static."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Nightfall on January 6 carries not just storms and coups but also quiet coronations and first performances that almost slipped through time. Among them is the crowning of Constantine XI, whose empire would soon vanish, leaving behind stories, ruins, and melodies that still echo through the Mediterranean.",
+      "fact_year": 1453,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mystras",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "The fading Byzantine world around Mystras parallels Sardinia’s layered Mediterranean history; both are carried forward in folk memory and regional song."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T20:00:01.938637+00:00"
+  "updated_at": "2026-01-06T21:00:01.520825+00:00"
 }
