@@ -1,55 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "A year earlier, in 1724, Bach unveiled another Epiphany cantata, \"Sie werden aus Saba alle kommen\" (BWV 65), inspired by the biblical image of travelers bringing gifts from faraway Saba. The music shimmers with exotic colors, reflecting how Europeans of Bach's time imagined distant lands they would never see.",
-    "fact_year": 1724,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sie_werden_aus_Saba_alle_kommen,_BWV_65",
+    "hour": 5,
+    "fact_text": "On January 6, 1641, the first Parliament of Quillín was convened during the Arauco War, bringing Spanish colonial authorities and Mapuche leaders together in Chile. It produced one of the earliest formal treaties in the Americas recognizing an Indigenous people's autonomy over their own territory.",
+    "fact_year": 1641,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Quill%C3%ADn",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "An Epiphany cantata about long-distance visitors and gifts fits a sea voyage playlist, both painting journeys across cultures and waters in sound."
+    "match_reason": "A historic recognition of Indigenous autonomy pairs with Tuareg desert blues, another voice of land-rooted resistance and negotiated survival with empires."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On January 6, 1641, the first Parliament of Quillín was convened during the Arauco War, bringing Spanish colonial authorities and Mapuche leaders together in Chile. It produced one of the earliest formal treaties in the Americas recognizing an Indigenous people's autonomy over their own territory.",
-      "fact_year": 1641,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Quill%C3%ADn",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A historic recognition of Indigenous autonomy pairs with Tuareg desert blues, another voice of land-rooted resistance and negotiated survival with empires."
-    },
     {
       "hour": 6,
       "fact_text": "In 1449, Constantine XI Palaiologos was crowned in the hilltop fortress of Mystras, becoming the last Byzantine emperor. He would rule only a few years before dying in the fall of Constantinople, turning his reign into a poignant final chapter of a thousand-year-old empire.",
@@ -639,9 +614,33 @@
         ]
       },
       "match_reason": "An Epiphany cantata about long-distance visitors and gifts fits a sea voyage playlist, both painting journeys across cultures and waters in sound."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On January 6, 1641, the first Parliament of Quillín was convened during the Arauco War, bringing Spanish colonial authorities and Mapuche leaders together in Chile. It produced one of the earliest formal treaties in the Americas recognizing an Indigenous people's autonomy over their own territory.",
+      "fact_year": 1641,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Quill%C3%ADn",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A historic recognition of Indigenous autonomy pairs with Tuareg desert blues, another voice of land-rooted resistance and negotiated survival with empires."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T04:00:01.413949+00:00"
+  "updated_at": "2026-01-06T05:00:01.196978+00:00"
 }
