@@ -1,61 +1,36 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1449, Constantine XI Palaiologos was crowned in the hilltop fortress of Mystras, becoming the last Byzantine emperor. He would rule only a few years before dying in the fall of Constantinople, turning his reign into a poignant final chapter of a thousand-year-old empire.",
-    "fact_year": 1449,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos",
+    "hour": 7,
+    "fact_text": "On January 6, 1809, British, Portuguese, and colonial Brazilian forces launched an amphibious assault on Cayenne, capturing French Guiana from Napoleon’s empire. The operation was a rare joint venture that briefly shifted colonial power in the Amazon rainforest.",
+    "fact_year": 1809,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_French_Guiana",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A Greek mountain citadel crowning the last Byzantine emperor connects to an episode shaped by mountains and Italian–Mediterranean reflections, blending history, landscape, and memory."
+    "match_reason": "A multinational campaign in tropical South America pairs with a set that drifts from the medina to Afro-Latin grooves, echoing shifting colonial routes and cross-Atlantic rhythms."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On January 6, 1809, British, Portuguese, and colonial Brazilian forces launched an amphibious assault on Cayenne, capturing French Guiana from Napoleon’s empire. The operation was a rare joint venture that briefly shifted colonial power in the Amazon rainforest.",
-      "fact_year": 1809,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_French_Guiana",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A multinational campaign in tropical South America pairs with a set that drifts from the medina to Afro-Latin grooves, echoing shifting colonial routes and cross-Atlantic rhythms."
-    },
     {
       "hour": 8,
       "fact_text": "On this day in 1809, the Night of the Big Wind’s century, Pan American World Airways would much later, in 1947, become the first commercial airline to sell a round-the-world ticket. Passengers could circle the globe on a single itinerary at a time when crossing oceans by ship still took weeks.",
@@ -639,9 +614,39 @@
         ]
       },
       "match_reason": "A Greek mountain citadel crowning the last Byzantine emperor connects to an episode shaped by mountains and Italian–Mediterranean reflections, blending history, landscape, and memory."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On January 6, 1809, British, Portuguese, and colonial Brazilian forces launched an amphibious assault on Cayenne, capturing French Guiana from Napoleon’s empire. The operation was a rare joint venture that briefly shifted colonial power in the Amazon rainforest.",
+      "fact_year": 1809,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_French_Guiana",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A multinational campaign in tropical South America pairs with a set that drifts from the medina to Afro-Latin grooves, echoing shifting colonial routes and cross-Atlantic rhythms."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T06:00:01.418833+00:00"
+  "updated_at": "2026-01-06T07:00:01.649182+00:00"
 }
