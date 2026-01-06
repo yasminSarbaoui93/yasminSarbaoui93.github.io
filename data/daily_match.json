@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "Also on this date in 1995, a suspicious chemical fire in a Manila apartment led police to uncover Project Bojinka, a sprawling terrorist plot. The plan included blowing up multiple airliners over the Pacific and even crashing a plane into CIA headquarters, foreshadowing tactics later used in the 9/11 attacks.",
-    "fact_year": 1995,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bojinka_plot",
+    "hour": 16,
+    "fact_text": "On January 6, 2005, a Norfolk Southern freight train collided with a parked train in Graniteville, South Carolina, rupturing a tank car and releasing about 60 tons of chlorine gas. The toxic cloud killed nine people, injured hundreds, and forced the evacuation of thousands in one of the worst chemical spills in U.S. rail history.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graniteville_train_crash",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Psychedelic Rock",
+        "Downtempo",
+        "Trip-Hop",
         "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Chillout"
       ]
     },
-    "match_reason": "A plot that weaponized aviation and global connectivity contrasts with an episode that invites us to examine and soften our relationship to modern networks and fear."
+    "match_reason": "A disaster born from high-speed infrastructure and hazardous cargo is balanced by an episode that advocates slowing down and moving gently through the world."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On January 6, 2005, a Norfolk Southern freight train collided with a parked train in Graniteville, South Carolina, rupturing a tank car and releasing about 60 tons of chlorine gas. The toxic cloud killed nine people, injured hundreds, and forced the evacuation of thousands in one of the worst chemical spills in U.S. rail history.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graniteville_train_crash",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A disaster born from high-speed infrastructure and hazardous cargo is balanced by an episode that advocates slowing down and moving gently through the world."
-    },
     {
       "hour": 17,
       "fact_text": "That same day in 2005, Edgar Ray Killen, a former Ku Klux Klan organizer, was indicted for the 1964 murders of civil rights workers Chaney, Goodman, and Schwerner in Mississippi. More than 40 years after the crime, his trial became a symbol of how slowly, yet persistently, justice can move in confronting racial terror.",
@@ -639,9 +614,34 @@
         ]
       },
       "match_reason": "A plot that weaponized aviation and global connectivity contrasts with an episode that invites us to examine and soften our relationship to modern networks and fear."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On January 6, 2005, a Norfolk Southern freight train collided with a parked train in Graniteville, South Carolina, rupturing a tank car and releasing about 60 tons of chlorine gas. The toxic cloud killed nine people, injured hundreds, and forced the evacuation of thousands in one of the worst chemical spills in U.S. rail history.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graniteville_train_crash",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A disaster born from high-speed infrastructure and hazardous cargo is balanced by an episode that advocates slowing down and moving gently through the world."
     }
   ],
   "generated_at": "2026-01-06T00:00:00.008674+00:00",
   "date": "2026-01-06",
-  "updated_at": "2026-01-06T15:00:01.198611+00:00"
+  "updated_at": "2026-01-06T16:00:01.264511+00:00"
 }
