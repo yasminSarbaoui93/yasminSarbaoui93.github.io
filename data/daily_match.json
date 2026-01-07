@@ -1,57 +1,32 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1968, NASA launched Surveyor 7, the final unmanned lander in its lunar Surveyor program. Unlike earlier missions, it targeted a rugged highland region, gathering close-up images and soil data that helped pave the way for Apollo astronauts.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Surveyor_7",
+    "hour": 3,
+    "fact_text": "In 1954, IBM and Georgetown University staged the first public demonstration of machine translation, automatically converting Russian sentences into English on a bulky mainframe. The system only knew a tiny vocabulary and a handful of rules, yet it ignited a wave of optimism that computers might one day bridge human languages.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georgetown%E2%80%93IBM_experiment",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #10 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Alternative Rock",
+        "Experimental Electronic",
+        "Hip Hop",
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "A gentle, slow-rolling lunar lander mapping alien terrain resonates with the episode’s idea of a 'slow planet' and unhurried exploration."
+    "match_reason": "Early machine translation was clumsy but groundbreaking learning-by-doing for computers, mirroring the episode’s focus on imperfect, iterative learning and curiosity."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1954, IBM and Georgetown University staged the first public demonstration of machine translation, automatically converting Russian sentences into English on a bulky mainframe. The system only knew a tiny vocabulary and a handful of rules, yet it ignited a wave of optimism that computers might one day bridge human languages.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georgetown%E2%80%93IBM_experiment",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "Early machine translation was clumsy but groundbreaking learning-by-doing for computers, mirroring the episode’s focus on imperfect, iterative learning and curiosity."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1904, radio operators adopted the distress call “CQD” as a standardized way to shout for help across the airwaves. Just two years later it would be replaced by the more famous “SOS,” but CQD was humanity’s first global emergency code riding on invisible radio waves.",
@@ -642,9 +617,35 @@
         ]
       },
       "match_reason": "A gentle, slow-rolling lunar lander mapping alien terrain resonates with the episode’s idea of a 'slow planet' and unhurried exploration."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1954, IBM and Georgetown University staged the first public demonstration of machine translation, automatically converting Russian sentences into English on a bulky mainframe. The system only knew a tiny vocabulary and a handful of rules, yet it ignited a wave of optimism that computers might one day bridge human languages.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georgetown%E2%80%93IBM_experiment",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "Early machine translation was clumsy but groundbreaking learning-by-doing for computers, mirroring the episode’s focus on imperfect, iterative learning and curiosity."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T02:00:01.510890+00:00"
+  "updated_at": "2026-01-07T03:00:01.708818+00:00"
 }
