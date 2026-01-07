@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1610, Galileo Galilei pointed his homemade telescope at Jupiter and spotted three tiny 'stars' beside it, his first glimpse of what we now call the Galilean moons. By the next night he realized he was watching moons orbit another world, a discovery that quietly shattered the old Earth-centered model of the cosmos.",
-    "fact_year": 1610,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Galilean_moons",
+    "hour": 1,
+    "fact_text": "On January 7, 1985, Japan launched Sakigake, its first interplanetary spacecraft, becoming the third nation to send a probe into deep space. The small craft flew past Halley’s Comet, marking Japan’s quiet but historic leap into the cosmic exploration club.",
+    "fact_year": 1985,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sakigake",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A literal cosmic 'space shift': Galileo redefining emptiness as a structured universe pairs with an episode about reframing space as potential."
+    "match_reason": "An episode themed as a voyage to a distant world fits Sakigake’s trailblazing interplanetary journey toward Halley’s Comet."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 7, 1985, Japan launched Sakigake, its first interplanetary spacecraft, becoming the third nation to send a probe into deep space. The small craft flew past Halley’s Comet, marking Japan’s quiet but historic leap into the cosmic exploration club.",
-      "fact_year": 1985,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sakigake",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "An episode themed as a voyage to a distant world fits Sakigake’s trailblazing interplanetary journey toward Halley’s Comet."
-    },
     {
       "hour": 2,
       "fact_text": "In 1968, NASA launched Surveyor 7, the final unmanned lander in its lunar Surveyor program. Unlike earlier missions, it targeted a rugged highland region, gathering close-up images and soil data that helped pave the way for Apollo astronauts.",
@@ -640,9 +617,43 @@
         ]
       },
       "match_reason": "A literal cosmic 'space shift': Galileo redefining emptiness as a structured universe pairs with an episode about reframing space as potential."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 7, 1985, Japan launched Sakigake, its first interplanetary spacecraft, becoming the third nation to send a probe into deep space. The small craft flew past Halley’s Comet, marking Japan’s quiet but historic leap into the cosmic exploration club.",
+      "fact_year": 1985,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sakigake",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "An episode themed as a voyage to a distant world fits Sakigake’s trailblazing interplanetary journey toward Halley’s Comet."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T00:00:52.116472+00:00"
+  "updated_at": "2026-01-07T01:00:01.676557+00:00"
 }
