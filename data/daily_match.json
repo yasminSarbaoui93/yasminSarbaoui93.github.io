@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1894, Thomas Edison filmed a man sneezing, creating one of the earliest motion pictures ever recorded. On that same day, his collaborator William Kennedy Dickson received a patent for motion picture film, helping turn fleeting moments—like a sneeze—into reproducible illusions of life.",
-    "fact_year": 1894,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Kennedy_Dickson",
+    "hour": 6,
+    "fact_text": "On January 7, 1835, HMS Beagle dropped anchor near the Chonos Archipelago off Chile, with a young Charles Darwin aboard. The stark, windswept islands and their wildlife would feed into Darwin’s growing notebook of observations that later reshaped biology.",
+    "fact_year": 1835,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Beagle",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "Edison and Dickson turned everyday gestures into moving images, just as trip-hop builds cinematic worlds out of tiny sampled moments and textures."
+    "match_reason": "Darwin’s sea voyage and close study of remote coasts harmonize with an episode about immersing below the surface, moving like water through discovery."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On January 7, 1835, HMS Beagle dropped anchor near the Chonos Archipelago off Chile, with a young Charles Darwin aboard. The stark, windswept islands and their wildlife would feed into Darwin’s growing notebook of observations that later reshaped biology.",
-      "fact_year": 1835,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Beagle",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "Darwin’s sea voyage and close study of remote coasts harmonize with an episode about immersing below the surface, moving like water through discovery."
-    },
     {
       "hour": 7,
       "fact_text": "In 1785, French balloonist Jean-Pierre Blanchard and American physician John Jeffries crossed the English Channel in a gas balloon, drifting from Dover to Calais. They had to jettison almost everything—including most of their clothes—mid-flight to stay aloft, completing one of the era’s most daring aerial crossings.",
@@ -642,9 +617,34 @@
         ]
       },
       "match_reason": "Edison and Dickson turned everyday gestures into moving images, just as trip-hop builds cinematic worlds out of tiny sampled moments and textures."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On January 7, 1835, HMS Beagle dropped anchor near the Chonos Archipelago off Chile, with a young Charles Darwin aboard. The stark, windswept islands and their wildlife would feed into Darwin’s growing notebook of observations that later reshaped biology.",
+      "fact_year": 1835,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_Beagle",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "Darwin’s sea voyage and close study of remote coasts harmonize with an episode about immersing below the surface, moving like water through discovery."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T05:00:02.129816+00:00"
+  "updated_at": "2026-01-07T06:00:01.482463+00:00"
 }
