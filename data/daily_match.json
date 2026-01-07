@@ -1,57 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1954, IBM and Georgetown University staged the first public demonstration of machine translation, automatically converting Russian sentences into English on a bulky mainframe. The system only knew a tiny vocabulary and a handful of rules, yet it ignited a wave of optimism that computers might one day bridge human languages.",
-    "fact_year": 1954,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georgetown%E2%80%93IBM_experiment",
+    "hour": 4,
+    "fact_text": "On this day in 1904, radio operators adopted the distress call “CQD” as a standardized way to shout for help across the airwaves. Just two years later it would be replaced by the more famous “SOS,” but CQD was humanity’s first global emergency code riding on invisible radio waves.",
+    "fact_year": 1904,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Distress_signal",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Early machine translation was clumsy but groundbreaking learning-by-doing for computers, mirroring the episode’s focus on imperfect, iterative learning and curiosity."
+    "match_reason": "The birth of radio distress calls is literally an 'electric shock' to global communication, fitting an episode powered by high-voltage guitars and electrified sound."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On this day in 1904, radio operators adopted the distress call “CQD” as a standardized way to shout for help across the airwaves. Just two years later it would be replaced by the more famous “SOS,” but CQD was humanity’s first global emergency code riding on invisible radio waves.",
-      "fact_year": 1904,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Distress_signal",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The birth of radio distress calls is literally an 'electric shock' to global communication, fitting an episode powered by high-voltage guitars and electrified sound."
-    },
     {
       "hour": 5,
       "fact_text": "In 1894, Thomas Edison filmed a man sneezing, creating one of the earliest motion pictures ever recorded. On that same day, his collaborator William Kennedy Dickson received a patent for motion picture film, helping turn fleeting moments—like a sneeze—into reproducible illusions of life.",
@@ -643,9 +617,34 @@
         ]
       },
       "match_reason": "Early machine translation was clumsy but groundbreaking learning-by-doing for computers, mirroring the episode’s focus on imperfect, iterative learning and curiosity."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On this day in 1904, radio operators adopted the distress call “CQD” as a standardized way to shout for help across the airwaves. Just two years later it would be replaced by the more famous “SOS,” but CQD was humanity’s first global emergency code riding on invisible radio waves.",
+      "fact_year": 1904,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Distress_signal",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The birth of radio distress calls is literally an 'electric shock' to global communication, fitting an episode powered by high-voltage guitars and electrified sound."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T03:00:01.708818+00:00"
+  "updated_at": "2026-01-07T04:00:01.873191+00:00"
 }
