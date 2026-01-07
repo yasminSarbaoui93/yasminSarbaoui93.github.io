@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1904, radio operators adopted the distress call “CQD” as a standardized way to shout for help across the airwaves. Just two years later it would be replaced by the more famous “SOS,” but CQD was humanity’s first global emergency code riding on invisible radio waves.",
-    "fact_year": 1904,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Distress_signal",
+    "hour": 5,
+    "fact_text": "In 1894, Thomas Edison filmed a man sneezing, creating one of the earliest motion pictures ever recorded. On that same day, his collaborator William Kennedy Dickson received a patent for motion picture film, helping turn fleeting moments—like a sneeze—into reproducible illusions of life.",
+    "fact_year": 1894,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Kennedy_Dickson",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "The birth of radio distress calls is literally an 'electric shock' to global communication, fitting an episode powered by high-voltage guitars and electrified sound."
+    "match_reason": "Edison and Dickson turned everyday gestures into moving images, just as trip-hop builds cinematic worlds out of tiny sampled moments and textures."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1894, Thomas Edison filmed a man sneezing, creating one of the earliest motion pictures ever recorded. On that same day, his collaborator William Kennedy Dickson received a patent for motion picture film, helping turn fleeting moments—like a sneeze—into reproducible illusions of life.",
-      "fact_year": 1894,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Kennedy_Dickson",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Edison and Dickson turned everyday gestures into moving images, just as trip-hop builds cinematic worlds out of tiny sampled moments and textures."
-    },
     {
       "hour": 6,
       "fact_text": "On January 7, 1835, HMS Beagle dropped anchor near the Chonos Archipelago off Chile, with a young Charles Darwin aboard. The stark, windswept islands and their wildlife would feed into Darwin’s growing notebook of observations that later reshaped biology.",
@@ -642,9 +617,34 @@
         ]
       },
       "match_reason": "The birth of radio distress calls is literally an 'electric shock' to global communication, fitting an episode powered by high-voltage guitars and electrified sound."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1894, Thomas Edison filmed a man sneezing, creating one of the earliest motion pictures ever recorded. On that same day, his collaborator William Kennedy Dickson received a patent for motion picture film, helping turn fleeting moments—like a sneeze—into reproducible illusions of life.",
+      "fact_year": 1894,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/William_Kennedy_Dickson",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Edison and Dickson turned everyday gestures into moving images, just as trip-hop builds cinematic worlds out of tiny sampled moments and textures."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T04:00:01.873191+00:00"
+  "updated_at": "2026-01-07T05:00:02.129816+00:00"
 }
