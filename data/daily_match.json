@@ -1,55 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On January 7 in the late Roman Republic, the Senate decreed that Julius Caesar would be declared a public enemy unless he disbanded his army, prompting his allied tribunes to flee to him in Ravenna. Their flight set the stage for Caesar’s fateful decision to cross the Rubicon and plunge Rome into civil war.",
-    "fact_year": -49,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "hour": 14,
+    "fact_text": "In 1558, French forces under François, Duke of Guise, captured Calais, England’s last foothold on the European mainland. The loss ended two centuries of English territorial claims in France and symbolized a painful shift in the island kingdom’s continental ambitions.",
+    "fact_year": 1558,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "Caesar’s defiance transformed Rome irreversibly; the episode’s theme of bold transformation and evolving identity mirrors that point-of-no-return energy."
+    "match_reason": "Calais, a coastal gateway between England and continental Europe, fits an episode about seafaring routes and Mediterranean-border musical crossings."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 1558, French forces under François, Duke of Guise, captured Calais, England’s last foothold on the European mainland. The loss ended two centuries of English territorial claims in France and symbolized a painful shift in the island kingdom’s continental ambitions.",
-      "fact_year": 1558,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "Calais, a coastal gateway between England and continental Europe, fits an episode about seafaring routes and Mediterranean-border musical crossings."
-    },
     {
       "hour": 15,
       "fact_text": "On January 7, 1984, the small, oil-rich kingdom of Brunei became the sixth member of ASEAN, the Association of Southeast Asian Nations. Its entry expanded a regional bloc built less on geography alone and more on shared political and economic futures.",
@@ -641,9 +617,34 @@
         ]
       },
       "match_reason": "Caesar’s defiance transformed Rome irreversibly; the episode’s theme of bold transformation and evolving identity mirrors that point-of-no-return energy."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 1558, French forces under François, Duke of Guise, captured Calais, England’s last foothold on the European mainland. The loss ended two centuries of English territorial claims in France and symbolized a painful shift in the island kingdom’s continental ambitions.",
+      "fact_year": 1558,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Calais_(1558)",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "Calais, a coastal gateway between England and continental Europe, fits an episode about seafaring routes and Mediterranean-border musical crossings."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T13:00:01.687113+00:00"
+  "updated_at": "2026-01-07T14:00:02.265125+00:00"
 }
