@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On January 7, 1950, a Soviet military aircraft crashed near Sverdlovsk, killing all 19 aboard, including nearly the entire VVS Moscow ice hockey team. The disaster devastated one of the Soviet Union’s strongest squads and reshaped its national sports scene overnight.",
-    "fact_year": 1950,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1950_Sverdlovsk_plane_crash",
+    "hour": 11,
+    "fact_text": "In 1955, contralto Marian Anderson became the first person of color to perform at New York’s Metropolitan Opera, singing in Verdi’s 'Un ballo in maschera.' Her voice carried not just music but a breakthrough against racial barriers in one of classical music’s most exclusive spaces.",
+    "fact_year": 1955,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marian_Anderson",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
       ]
     },
-    "match_reason": "The sudden loss of an entire team underscores how fragile legacies can be; an episode about rock pioneers and generational dialogue honors those who keep competitive, defiant spirits alive."
+    "match_reason": "Anderson’s historic performance as a Black woman in a rigid institution aligns with an episode celebrating powerful, barrier-breaking female voices."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1955, contralto Marian Anderson became the first person of color to perform at New York’s Metropolitan Opera, singing in Verdi’s 'Un ballo in maschera.' Her voice carried not just music but a breakthrough against racial barriers in one of classical music’s most exclusive spaces.",
-      "fact_year": 1955,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marian_Anderson",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "Anderson’s historic performance as a Black woman in a rigid institution aligns with an episode celebrating powerful, barrier-breaking female voices."
-    },
     {
       "hour": 12,
       "fact_text": "On this day in 1894, Edison’s employee William Kennedy Dickson received a patent for motion picture film, the perforated strip that could be pulled steadily through a camera and projector. This seemingly simple invention became the backbone of cinema for more than a century.",
@@ -641,9 +617,34 @@
         ]
       },
       "match_reason": "The sudden loss of an entire team underscores how fragile legacies can be; an episode about rock pioneers and generational dialogue honors those who keep competitive, defiant spirits alive."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1955, contralto Marian Anderson became the first person of color to perform at New York’s Metropolitan Opera, singing in Verdi’s 'Un ballo in maschera.' Her voice carried not just music but a breakthrough against racial barriers in one of classical music’s most exclusive spaces.",
+      "fact_year": 1955,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marian_Anderson",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "Anderson’s historic performance as a Black woman in a rigid institution aligns with an episode celebrating powerful, barrier-breaking female voices."
     }
   ],
   "generated_at": "2026-01-07T00:00:00.019427+00:00",
   "date": "2026-01-07",
-  "updated_at": "2026-01-07T10:00:01.817379+00:00"
+  "updated_at": "2026-01-07T11:00:02.031010+00:00"
 }
