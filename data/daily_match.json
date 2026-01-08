@@ -1,51 +1,28 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1940, Britain introduced nationwide food rationing, limiting sugar, bacon, and butter as German U-boats threatened vital supply lines. The policy reshaped everyday cooking, inspired inventive wartime recipes, and showed how a whole society can change its eating habits under pressure.",
-    "fact_year": 1940,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_Kingdom",
+    "hour": 10,
+    "fact_text": "On 8 January 1912, San Diego passed an ordinance restricting street speech, sparking a months-long \"free speech fight\" between the radical Industrial Workers of the World and business interests. The conflict turned violent, making it one of the bloodiest struggles over the right to speak in American history.",
+    "fact_year": 1912,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/San_Diego_free_speech_fight",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "In a time of scarcity, people leaned on small, sustaining pleasures; warm, timeless soul and jazz‑funk mirrors the comfort and resilience found in simple, shared meals under rationing."
+    "match_reason": "A fight for the right to speak in public resonates with an episode about breaking out of boxes and speaking one’s truth, powered by politically sharp, consciousness‑raising hip‑hop."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 8 January 1912, San Diego passed an ordinance restricting street speech, sparking a months-long \"free speech fight\" between the radical Industrial Workers of the World and business interests. The conflict turned violent, making it one of the bloodiest struggles over the right to speak in American history.",
-      "fact_year": 1912,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/San_Diego_free_speech_fight",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A fight for the right to speak in public resonates with an episode about breaking out of boxes and speaking one’s truth, powered by politically sharp, consciousness‑raising hip‑hop."
-    },
     {
       "hour": 11,
       "fact_text": "In 1889, inventor Herman Hollerith received a U.S. patent for his punched-card tabulating machine, designed to speed up the census by encoding data as holes in stiff paper cards. His system became a foundation for early computing and ultimately evolved into the company that would become IBM.",
@@ -643,9 +620,31 @@
         ]
       },
       "match_reason": "In a time of scarcity, people leaned on small, sustaining pleasures; warm, timeless soul and jazz‑funk mirrors the comfort and resilience found in simple, shared meals under rationing."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 8 January 1912, San Diego passed an ordinance restricting street speech, sparking a months-long \"free speech fight\" between the radical Industrial Workers of the World and business interests. The conflict turned violent, making it one of the bloodiest struggles over the right to speak in American history.",
+      "fact_year": 1912,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/San_Diego_free_speech_fight",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A fight for the right to speak in public resonates with an episode about breaking out of boxes and speaking one’s truth, powered by politically sharp, consciousness‑raising hip‑hop."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.008999+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T09:00:02.142164+00:00"
+  "updated_at": "2026-01-08T10:00:01.660981+00:00"
 }
