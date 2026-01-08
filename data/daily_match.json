@@ -1,58 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1996, an Antonov An-32 cargo plane overshot the runway in Kinshasa and ploughed into a bustling market, killing over 200 people on the ground. The tragedy highlighted how aviation disasters can devastate communities that never set foot on an aircraft.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1996_Air_Africa_Antonov_An-32_crash",
+    "hour": 5,
+    "fact_text": "On 8 January 1989, British Midland Flight 92 crashed beside the M1 motorway near Kegworth after the crew shut down the wrong engine following a malfunction. The disaster became a landmark case in how airlines redesign training and cockpit communication to prevent human-factor failures.",
+    "fact_year": 1989,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kegworth_air_disaster",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Indie Pop",
-        "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A devastating, sudden accident is paired with a reflective episode about injury, recovery, and the slow process of healing after life is violently interrupted."
+    "match_reason": "The sudden, jarring shock of an aviation disaster connects with this episode’s high‑voltage, guitar‑driven intensity, mirroring the raw surge of adrenaline when things go violently wrong."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 8 January 1989, British Midland Flight 92 crashed beside the M1 motorway near Kegworth after the crew shut down the wrong engine following a malfunction. The disaster became a landmark case in how airlines redesign training and cockpit communication to prevent human-factor failures.",
-      "fact_year": 1989,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kegworth_air_disaster",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden, jarring shock of an aviation disaster connects with this episode’s high‑voltage, guitar‑driven intensity, mirroring the raw surge of adrenaline when things go violently wrong."
-    },
     {
       "hour": 6,
       "fact_text": "In 2003, Turkish Airlines Flight 634 crashed during approach to Diyarbakır Airport in dense fog, killing 75 of the 80 people aboard. The accident drew attention to how weather, technology, and human decision-making intertwine in the final seconds of flight.",
@@ -647,9 +620,34 @@
         ]
       },
       "match_reason": "A devastating, sudden accident is paired with a reflective episode about injury, recovery, and the slow process of healing after life is violently interrupted."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 8 January 1989, British Midland Flight 92 crashed beside the M1 motorway near Kegworth after the crew shut down the wrong engine following a malfunction. The disaster became a landmark case in how airlines redesign training and cockpit communication to prevent human-factor failures.",
+      "fact_year": 1989,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kegworth_air_disaster",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden, jarring shock of an aviation disaster connects with this episode’s high‑voltage, guitar‑driven intensity, mirroring the raw surge of adrenaline when things go violently wrong."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.008999+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T04:00:01.798637+00:00"
+  "updated_at": "2026-01-08T05:00:01.501337+00:00"
 }
