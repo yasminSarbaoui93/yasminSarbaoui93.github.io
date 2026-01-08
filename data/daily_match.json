@@ -1,59 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 2004, the RMS Queen Mary 2 was christened as the largest ocean liner ever built at the time, a floating city designed to cross the Atlantic in stately luxury. Her design married old-world liner traditions with cutting-edge naval engineering, turning long-distance sea travel into a kind of moving architecture.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Mary_2",
+    "hour": 5,
+    "fact_text": "On 8 January 1956, during Operation Auca, five American missionaries were killed by members of the Waorani people in the Ecuadorian Amazon shortly after attempting first contact. The event later led to profound cultural exchanges and debates about language, belief, and the ethics of entering isolated societies.",
+    "fact_year": 1956,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Auca",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A record-sized ocean liner and a week aboard a sailboat both celebrate life at sea and the rhythm of traveling over water."
+    "match_reason": "A fraught attempt at contact with an isolated community ties into an episode about travel, perspective shifts, and the complexities of moving through unfamiliar worlds."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 8 January 1956, during Operation Auca, five American missionaries were killed by members of the Waorani people in the Ecuadorian Amazon shortly after attempting first contact. The event later led to profound cultural exchanges and debates about language, belief, and the ethics of entering isolated societies.",
-      "fact_year": 1956,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Auca",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A fraught attempt at contact with an isolated community ties into an episode about travel, perspective shifts, and the complexities of moving through unfamiliar worlds."
-    },
     {
       "hour": 6,
       "fact_text": "In 1946, Soviet official Andrei Zhdanov submitted an interrogation report from captured German General Erich Buschenhagen to the Finnish War Criminal Court, including details of pre-war contacts and even a copy of Hitler’s Barbarossa plan. It was a moment when secret war strategies, once whispered in command rooms, were laid bare in a courtroom.",
@@ -649,9 +621,34 @@
         ]
       },
       "match_reason": "A record-sized ocean liner and a week aboard a sailboat both celebrate life at sea and the rhythm of traveling over water."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 8 January 1956, during Operation Auca, five American missionaries were killed by members of the Waorani people in the Ecuadorian Amazon shortly after attempting first contact. The event later led to profound cultural exchanges and debates about language, belief, and the ethics of entering isolated societies.",
+      "fact_year": 1956,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Auca",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A fraught attempt at contact with an isolated community ties into an episode about travel, perspective shifts, and the complexities of moving through unfamiliar worlds."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T04:00:01.904522+00:00"
+  "updated_at": "2026-01-08T05:00:01.852240+00:00"
 }
