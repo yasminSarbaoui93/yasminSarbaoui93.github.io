@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1994, Russian cosmonaut Valeri Polyakov boarded Soyuz TM-18 bound for the Mir space station and did not return to Earth for 437 days. His mission became the longest single continuous stay in space, a human experiment in endurance and adaptation to microgravity.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Valeri_Polyakov",
+    "hour": 1,
+    "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, a spacecraft that delivered the Lunokhod 2 rover to the Moon. The rover spent months trundling across the lunar surface, photographing craters and testing the strange, powdery soil of our satellite.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A story about turning the emptiness of orbit into a laboratory for human potential pairs naturally with an episode themed around reimagining ‘empty’ space as creative possibility."
+    "match_reason": "Luna 21’s glide into the lunar night fits the slow, mysterious rise of this evening mix, even echoing in track titles like “Solar Wind.”"
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, a spacecraft that delivered the Lunokhod 2 rover to the Moon. The rover spent months trundling across the lunar surface, photographing craters and testing the strange, powdery soil of our satellite.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Luna 21’s glide into the lunar night fits the slow, mysterious rise of this evening mix, even echoing in track titles like “Solar Wind.”"
-    },
     {
       "hour": 2,
       "fact_text": "In 2004, the RMS Queen Mary 2 was christened as the largest ocean liner ever built, a floating city designed for days-long crossings of the Atlantic. Its size and elegance revived the romance of sea travel in an age dominated by airplanes.",
@@ -643,9 +620,39 @@
         ]
       },
       "match_reason": "A story about turning the emptiness of orbit into a laboratory for human potential pairs naturally with an episode themed around reimagining ‘empty’ space as creative possibility."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, a spacecraft that delivered the Lunokhod 2 rover to the Moon. The rover spent months trundling across the lunar surface, photographing craters and testing the strange, powdery soil of our satellite.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Luna 21’s glide into the lunar night fits the slow, mysterious rise of this evening mix, even echoing in track titles like “Solar Wind.”"
     }
   ],
   "generated_at": "2026-01-08T00:00:00.008999+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T00:00:53.241885+00:00"
+  "updated_at": "2026-01-08T01:00:01.716786+00:00"
 }
