@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On 8 January 1806, the Battle of Blaauwberg near Cape Town ended with British victory and the transformation of the Dutch Cape Colony into the British Cape Colony. This coastal battle reshaped control of a key resupply point on the route between Europe and Asia.",
-    "fact_year": 1806,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Blaauwberg",
+    "hour": 17,
+    "fact_text": "In 1946, Soviet official Andrei Zhdanov submitted to a Finnish court the interrogation report of German General Erich Buschenhagen, including details of prewar contacts between Finnish and German militaries and a copy of Hitler’s Barbarossa plan. The documents became key evidence in Finland’s controversial war-responsibility trials.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/War-responsibility_trials_in_Finland",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A naval-access battle over a strategic cape matches an episode built around sea routes and coastal cultures, trading cannon fire for shared songs that travel across the water."
+    "match_reason": "Cold-war intrigue, secret plans, and courtroom revelations pair well with the cinematic, shadowy atmosphere of trip‑hop, a genre that often feels like the soundtrack to a political thriller."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1946, Soviet official Andrei Zhdanov submitted to a Finnish court the interrogation report of German General Erich Buschenhagen, including details of prewar contacts between Finnish and German militaries and a copy of Hitler’s Barbarossa plan. The documents became key evidence in Finland’s controversial war-responsibility trials.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/War-responsibility_trials_in_Finland",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Cold-war intrigue, secret plans, and courtroom revelations pair well with the cinematic, shadowy atmosphere of trip‑hop, a genre that often feels like the soundtrack to a political thriller."
-    },
     {
       "hour": 18,
       "fact_text": "On 8 January 871, Æthelred I and his younger brother Alfred—later known as Alfred the Great—led the West Saxon army in repelling an invasion by Danelaw Vikings. These early battles against Scandinavian raiders shaped the survival of the Anglo-Saxon kingdoms.",
@@ -645,9 +620,34 @@
         ]
       },
       "match_reason": "A naval-access battle over a strategic cape matches an episode built around sea routes and coastal cultures, trading cannon fire for shared songs that travel across the water."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1946, Soviet official Andrei Zhdanov submitted to a Finnish court the interrogation report of German General Erich Buschenhagen, including details of prewar contacts between Finnish and German militaries and a copy of Hitler’s Barbarossa plan. The documents became key evidence in Finland’s controversial war-responsibility trials.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/War-responsibility_trials_in_Finland",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Cold-war intrigue, secret plans, and courtroom revelations pair well with the cinematic, shadowy atmosphere of trip‑hop, a genre that often feels like the soundtrack to a political thriller."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.008999+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T16:00:01.666840+00:00"
+  "updated_at": "2026-01-08T17:00:01.975321+00:00"
 }
