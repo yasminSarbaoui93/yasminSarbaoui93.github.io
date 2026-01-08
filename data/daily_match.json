@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 2009, a magnitude 6.1 earthquake struck northern Costa Rica near Cinchona, triggering landslides that carved scars into the lush landscape. The sudden reshaping of hillsides and rivers was a reminder that even seemingly peaceful tropical regions sit atop restless tectonic plates.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Cinchona_earthquake",
+    "hour": 3,
+    "fact_text": "On 8 January 2005, the nuclear-powered submarine USS San Francisco slammed into an uncharted undersea mountain at full speed south of Guam. Despite catastrophic damage to the bow, the crew managed to save the vessel and bring her to the surface, turning a hidden seafloor hazard into a story of survival.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_San_Francisco_(SSN-711)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "The sudden jolt of an earthquake resonates with the high-voltage, ‘electric shock’ energy of this rock-heavy episode."
+    "match_reason": "A dramatic encounter with the hidden seafloor connects to an episode all about going below the surface and immersing in watery depths."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On 8 January 2005, the nuclear-powered submarine USS San Francisco slammed into an uncharted undersea mountain at full speed south of Guam. Despite catastrophic damage to the bow, the crew managed to save the vessel and bring her to the surface, turning a hidden seafloor hazard into a story of survival.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_San_Francisco_(SSN-711)",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A dramatic encounter with the hidden seafloor connects to an episode all about going below the surface and immersing in watery depths."
-    },
     {
       "hour": 4,
       "fact_text": "In 2004, the RMS Queen Mary 2 was christened as the largest ocean liner ever built at the time, a floating city designed to cross the Atlantic in stately luxury. Her design married old-world liner traditions with cutting-edge naval engineering, turning long-distance sea travel into a kind of moving architecture.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "The sudden jolt of an earthquake resonates with the high-voltage, ‘electric shock’ energy of this rock-heavy episode."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On 8 January 2005, the nuclear-powered submarine USS San Francisco slammed into an uncharted undersea mountain at full speed south of Guam. Despite catastrophic damage to the bow, the crew managed to save the vessel and bring her to the surface, turning a hidden seafloor hazard into a story of survival.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_San_Francisco_(SSN-711)",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A dramatic encounter with the hidden seafloor connects to an episode all about going below the surface and immersing in watery depths."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T02:00:01.771603+00:00"
+  "updated_at": "2026-01-08T03:00:01.691654+00:00"
 }
