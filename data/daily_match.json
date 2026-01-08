@@ -1,64 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On 8 January 2004, RMS Queen Mary 2’s christening by Queen Elizabeth II also symbolized the persistence of grand sea travel in a world of jets. The ship is so tall that her funnel was redesigned mid-build to fit under New York’s Verrazzano-Narrows Bridge by just a few meters.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ocean_liner",
+    "hour": 21,
+    "fact_text": "In 1994, while Valeri Polyakov settled into orbit, the Mir space station itself was already a veteran of countless dockings and experiments, an orbital laboratory held together by engineering and improvisation. It circled Earth over 15 times a day, giving its crew a sunrise and sunset roughly every 90 minutes.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "An enormous ship marking a bold beginning for a new era at sea mirrors the ‘where it all began’ energy of Sedna FM’s first ever episode."
+    "match_reason": "A space station endlessly circling a planet ties in with an episode inviting listeners onto a ‘slow planet’—a calmer orbit with many gentle sunrises of its own."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "In 1994, while Valeri Polyakov settled into orbit, the Mir space station itself was already a veteran of countless dockings and experiments, an orbital laboratory held together by engineering and improvisation. It circled Earth over 15 times a day, giving its crew a sunrise and sunset roughly every 90 minutes.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A space station endlessly circling a planet ties in with an episode inviting listeners onto a ‘slow planet’—a calmer orbit with many gentle sunrises of its own."
-    },
     {
       "hour": 22,
       "fact_text": "On 8 January 1889, Hollerith’s punched card idea turned human answers into patterns of holes, making censuses fast enough to keep up with growing populations. Each card was like a silent, mechanical biography—tiny decisions about work, age, and origin turned into a grid of yes/no.",
@@ -654,9 +621,34 @@
         ]
       },
       "match_reason": "An enormous ship marking a bold beginning for a new era at sea mirrors the ‘where it all began’ energy of Sedna FM’s first ever episode."
+    },
+    {
+      "hour": 21,
+      "fact_text": "In 1994, while Valeri Polyakov settled into orbit, the Mir space station itself was already a veteran of countless dockings and experiments, an orbital laboratory held together by engineering and improvisation. It circled Earth over 15 times a day, giving its crew a sunrise and sunset roughly every 90 minutes.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A space station endlessly circling a planet ties in with an episode inviting listeners onto a ‘slow planet’—a calmer orbit with many gentle sunrises of its own."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T20:00:01.701048+00:00"
+  "updated_at": "2026-01-08T21:00:01.739722+00:00"
 }
