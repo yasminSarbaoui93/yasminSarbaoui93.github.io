@@ -1,66 +1,40 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 8 January 2023, thousands of supporters of former president Jair Bolsonaro stormed Brazil’s Congress, Supreme Court, and presidential palace in Brasília. The coordinated attack on democratic institutions drew comparisons to other recent assaults on capitols and raised fears about the fragility of modern democracies.",
-    "fact_year": 2023,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/8_January_Bras%C3%ADlia_attacks",
+    "hour": 23,
+    "fact_text": "On 8 January 1994, when Valeri Polyakov’s mission began, doctors planned to study how more than a year without gravity would change his muscles, bones, and mind. His 437-day stay aboard Mir remains a benchmark for planning future journeys to Mars and beyond.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A chaotic, violent march on institutions is contrasted with an episode about slowing down, traveling, and shifting perspective—hinting that movement and reflection can open minds more than mobs ever will."
+    "match_reason": "A record‑breaking voyage in orbit aligns with this episode’s theme of collective journeys into new territories, with ‘Breathe’ and cosmic synth textures evoking the feeling of drifting toward distant planets."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 8 January 1994, when Valeri Polyakov’s mission began, doctors planned to study how more than a year without gravity would change his muscles, bones, and mind. His 437-day stay aboard Mir remains a benchmark for planning future journeys to Mars and beyond.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A record‑breaking voyage in orbit aligns with this episode’s theme of collective journeys into new territories, with ‘Breathe’ and cosmic synth textures evoking the feeling of drifting toward distant planets."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -645,9 +619,43 @@
         ]
       },
       "match_reason": "A chaotic, violent march on institutions is contrasted with an episode about slowing down, traveling, and shifting perspective—hinting that movement and reflection can open minds more than mobs ever will."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 8 January 1994, when Valeri Polyakov’s mission began, doctors planned to study how more than a year without gravity would change his muscles, bones, and mind. His 437-day stay aboard Mir remains a benchmark for planning future journeys to Mars and beyond.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_TM-18",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A record‑breaking voyage in orbit aligns with this episode’s theme of collective journeys into new territories, with ‘Breathe’ and cosmic synth textures evoking the feeling of drifting toward distant planets."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.008999+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T22:00:01.922355+00:00"
+  "updated_at": "2026-01-08T23:00:01.663036+00:00"
 }
