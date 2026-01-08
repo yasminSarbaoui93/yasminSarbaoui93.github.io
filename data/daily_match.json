@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1889, Herman Hollerith received a U.S. patent for his punched card tabulating machine, a device that could “read” holes in cardboard to speed up statistics. His invention, built for the census, became a stepping stone toward modern computing—and toward a world where data about people is processed by machines.",
-    "fact_year": 1889,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herman_Hollerith",
+    "hour": 16,
+    "fact_text": "On 8 January 1877, Lakota leader Crazy Horse and his warriors fought their final battle against the U.S. Cavalry at Wolf Mountain in the Montana Territory. In deep winter conditions, amid snow and rugged terrain, it marked the closing of one chapter in a long struggle for land and autonomy.",
+    "fact_year": 1877,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wolf_Mountain",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "The birth of machine-readable data connects directly to an episode about our tangled modern relationship with digital devices and networks."
+    "match_reason": "An Indigenous resistance on the plains resonates with Tuareg desert blues—both music and history shaped by land, displacement, and survival."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 8 January 1877, Lakota leader Crazy Horse and his warriors fought their final battle against the U.S. Cavalry at Wolf Mountain in the Montana Territory. In deep winter conditions, amid snow and rugged terrain, it marked the closing of one chapter in a long struggle for land and autonomy.",
-      "fact_year": 1877,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wolf_Mountain",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An Indigenous resistance on the plains resonates with Tuareg desert blues—both music and history shaped by land, displacement, and survival."
-    },
     {
       "hour": 17,
       "fact_text": "In 1806, after the Battle of Blaauwberg, the Dutch Cape Colony in southern Africa became the British Cape Colony. This transfer of power at a windswept cape would eventually shape shipping routes, migrations, and the complex cultural tapestry of South Africa.",
@@ -646,9 +621,33 @@
         ]
       },
       "match_reason": "The birth of machine-readable data connects directly to an episode about our tangled modern relationship with digital devices and networks."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 8 January 1877, Lakota leader Crazy Horse and his warriors fought their final battle against the U.S. Cavalry at Wolf Mountain in the Montana Territory. In deep winter conditions, amid snow and rugged terrain, it marked the closing of one chapter in a long struggle for land and autonomy.",
+      "fact_year": 1877,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Wolf_Mountain",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An Indigenous resistance on the plains resonates with Tuareg desert blues—both music and history shaped by land, displacement, and survival."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T15:00:01.879253+00:00"
+  "updated_at": "2026-01-08T16:00:01.852286+00:00"
 }
