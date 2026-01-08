@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1994, Russian cosmonaut Valeri Polyakov boarded Soyuz TM-18 and began what would become the longest single stay in space by any human: 437 continuous days aboard the Mir space station. His mission was a living experiment in how far the human body and mind can stretch away from Earth’s gravity.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Valeri_Polyakov",
+    "hour": 1,
+    "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, delivering the Lunokhod 2 rover to the Moon. This remote-controlled robot spent months exploring the lunar surface, leaving some of the most detailed tracks humans had ever etched onto another world.",
+    "fact_year": 1973,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A record-breaking long-duration spaceflight pairs naturally with an episode themed around rethinking emptiness and space as room for creation."
+    "match_reason": "A robotic journey across the Moon mirrors the episode’s idea of a collective voyage into new territories of sound and space."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, delivering the Lunokhod 2 rover to the Moon. This remote-controlled robot spent months exploring the lunar surface, leaving some of the most detailed tracks humans had ever etched onto another world.",
-      "fact_year": 1973,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A robotic journey across the Moon mirrors the episode’s idea of a collective voyage into new territories of sound and space."
-    },
     {
       "hour": 2,
       "fact_text": "In 2009, a magnitude 6.1 earthquake struck northern Costa Rica near Cinchona, triggering landslides that carved scars into the lush landscape. The sudden reshaping of hillsides and rivers was a reminder that even seemingly peaceful tropical regions sit atop restless tectonic plates.",
@@ -644,9 +621,43 @@
         ]
       },
       "match_reason": "A record-breaking long-duration spaceflight pairs naturally with an episode themed around rethinking emptiness and space as room for creation."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, delivering the Lunokhod 2 rover to the Moon. This remote-controlled robot spent months exploring the lunar surface, leaving some of the most detailed tracks humans had ever etched onto another world.",
+      "fact_year": 1973,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A robotic journey across the Moon mirrors the episode’s idea of a collective voyage into new territories of sound and space."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T00:00:47.076555+00:00"
+  "updated_at": "2026-01-08T01:00:01.619108+00:00"
 }
