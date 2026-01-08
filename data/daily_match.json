@@ -1,57 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On 8 January 2003, Turkish Airlines Flight 634’s doomed descent into fog near Diyarbakır became a stark reminder of how quickly conditions can shift from normal to fatal. Investigations led to changes in instrument landing procedures and training across the industry.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_634",
+    "hour": 21,
+    "fact_text": "On 8 January 2005, after its violent impact with an undersea mountain, the USS San Francisco limped back to port and was eventually repaired, returning to service. The incident highlighted how little of the seabed we have actually mapped, even in regions traveled by high-tech vessels.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guam",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The painful lessons drawn from an aviation accident connect with an episode about learning, mistakes, and slow improvement—zooming out from individual tragedy to systemic growth."
+    "match_reason": "Both the submarine collision and this episode dwell in the hidden world beneath the waves—one a story of catastrophe, the other of awe and connection with marine life."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On 8 January 2005, after its violent impact with an undersea mountain, the USS San Francisco limped back to port and was eventually repaired, returning to service. The incident highlighted how little of the seabed we have actually mapped, even in regions traveled by high-tech vessels.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guam",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the submarine collision and this episode dwell in the hidden world beneath the waves—one a story of catastrophe, the other of awe and connection with marine life."
-    },
     {
       "hour": 22,
       "fact_text": "On 8 January 2023, thousands of supporters of former president Jair Bolsonaro stormed Brazil’s Congress, Supreme Court, and presidential palace in Brasília. The coordinated attack on democratic institutions drew comparisons to other recent assaults on capitols and raised fears about the fragility of modern democracies.",
@@ -646,9 +620,34 @@
         ]
       },
       "match_reason": "The painful lessons drawn from an aviation accident connect with an episode about learning, mistakes, and slow improvement—zooming out from individual tragedy to systemic growth."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On 8 January 2005, after its violent impact with an undersea mountain, the USS San Francisco limped back to port and was eventually repaired, returning to service. The incident highlighted how little of the seabed we have actually mapped, even in regions traveled by high-tech vessels.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guam",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the submarine collision and this episode dwell in the hidden world beneath the waves—one a story of catastrophe, the other of awe and connection with marine life."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.008999+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T20:00:02.147343+00:00"
+  "updated_at": "2026-01-08T21:00:01.718094+00:00"
 }
