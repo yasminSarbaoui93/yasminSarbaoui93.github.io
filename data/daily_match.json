@@ -1,53 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1940, as World War II strained supplies, Britain introduced food rationing, turning everyday meals into carefully calculated acts of logistics. Ration books and queues became part of daily life, reshaping how a nation thought about scarcity, sharing, and resilience.",
-    "fact_year": 1940,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rationing_in_the_United_Kingdom",
+    "hour": 11,
+    "fact_text": "Back in 871, Æthelred I and his younger brother Alfred—later called “the Great”—led a West Saxon army to repel Viking forces from the Danelaw. These muddy, desperate battles helped lay the foundations for a unified English kingdom.",
+    "fact_year": 871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_the_Great",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "An era of making do with less pairs with an episode of timeless, comforting classics—like musical nourishment when material goods are scarce."
+    "match_reason": "A story of battlefield courage and resistance echoes the rebellious, defiant spirit of women who claimed space in rock music."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "Back in 871, Æthelred I and his younger brother Alfred—later called “the Great”—led a West Saxon army to repel Viking forces from the Danelaw. These muddy, desperate battles helped lay the foundations for a unified English kingdom.",
-      "fact_year": 871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_the_Great",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A story of battlefield courage and resistance echoes the rebellious, defiant spirit of women who claimed space in rock music."
-    },
     {
       "hour": 12,
       "fact_text": "On 8 January 2003, Turkish Airlines Flight 634 crashed during its approach to Diyarbakır Airport in fog, killing 75 of the 80 people aboard. The tragedy highlighted how small misjudgments in poor visibility can have devastating consequences in modern aviation.",
@@ -644,9 +621,33 @@
         ]
       },
       "match_reason": "An era of making do with less pairs with an episode of timeless, comforting classics—like musical nourishment when material goods are scarce."
+    },
+    {
+      "hour": 11,
+      "fact_text": "Back in 871, Æthelred I and his younger brother Alfred—later called “the Great”—led a West Saxon army to repel Viking forces from the Danelaw. These muddy, desperate battles helped lay the foundations for a unified English kingdom.",
+      "fact_year": 871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A story of battlefield courage and resistance echoes the rebellious, defiant spirit of women who claimed space in rock music."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T10:00:01.752760+00:00"
+  "updated_at": "2026-01-08T11:00:01.819155+00:00"
 }
