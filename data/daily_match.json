@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On 8 January 1900, U.S. President William McKinley placed Alaska under military rule, treating the vast northern territory as a frontier to be controlled rather than a home with its own complex cultures. The move underscored how remote landscapes often get reduced to strategic coordinates on a map.",
-    "fact_year": 1900,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Alaska",
+    "hour": 15,
+    "fact_text": "In 1889, Herman Hollerith received a U.S. patent for his punched card tabulating machine, a device that could “read” holes in cardboard to speed up statistics. His invention, built for the census, became a stepping stone toward modern computing—and toward a world where data about people is processed by machines.",
+    "fact_year": 1889,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herman_Hollerith",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A northern territory seen through a military lens contrasts with an episode that treats another northern land—Scotland—as a place of stories, roots, and quiet grounding."
+    "match_reason": "The birth of machine-readable data connects directly to an episode about our tangled modern relationship with digital devices and networks."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1889, Herman Hollerith received a U.S. patent for his punched card tabulating machine, a device that could “read” holes in cardboard to speed up statistics. His invention, built for the census, became a stepping stone toward modern computing—and toward a world where data about people is processed by machines.",
-      "fact_year": 1889,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herman_Hollerith",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The birth of machine-readable data connects directly to an episode about our tangled modern relationship with digital devices and networks."
-    },
     {
       "hour": 16,
       "fact_text": "On 8 January 1877, Lakota leader Crazy Horse and his warriors fought their final battle against the U.S. Cavalry at Wolf Mountain in the Montana Territory. In deep winter conditions, amid snow and rugged terrain, it marked the closing of one chapter in a long struggle for land and autonomy.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "A northern territory seen through a military lens contrasts with an episode that treats another northern land—Scotland—as a place of stories, roots, and quiet grounding."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1889, Herman Hollerith received a U.S. patent for his punched card tabulating machine, a device that could “read” holes in cardboard to speed up statistics. His invention, built for the census, became a stepping stone toward modern computing—and toward a world where data about people is processed by machines.",
+      "fact_year": 1889,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Herman_Hollerith",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The birth of machine-readable data connects directly to an episode about our tangled modern relationship with digital devices and networks."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T14:00:02.074142+00:00"
+  "updated_at": "2026-01-08T15:00:01.879253+00:00"
 }
