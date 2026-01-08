@@ -1,56 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 8 January 1889, Hollerith’s punched card idea turned human answers into patterns of holes, making censuses fast enough to keep up with growing populations. Each card was like a silent, mechanical biography—tiny decisions about work, age, and origin turned into a grid of yes/no.",
-    "fact_year": 1889,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Punched_card",
+    "hour": 23,
+    "fact_text": "In the frigid January of 1877 at Wolf Mountain, Crazy Horse’s fighters used the landscape itself—ridges, snow, and fog—as part of their strategy, knowing the terrain more intimately than their pursuers. Even as the U.S. Army claimed victory, the battle became part of a larger story of Indigenous resistance remembered far beyond the battlefield.",
+    "fact_year": 1877,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Crazy_Horse",
     "episode": {
-      "id": 32,
-      "title": "Morning Drops #26 - Canserbero",
-      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Canserbero - Mañana será otro día",
-        "Canserbero - Querer Querernos",
-        "Canserbero - Jeremías",
-        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Latin Rap",
-        "Hip-Hop",
-        "Conscious Rap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Mechanical data cards reducing lives to codes contrast with Canserbero’s conscious rap, which insists on the depth and complexity behind every statistic."
+    "match_reason": "A winter battle shaped by harsh northern elements resonates with an Arctic-themed episode where cold, remote landscapes and their inhabitants define the story."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "In the frigid January of 1877 at Wolf Mountain, Crazy Horse’s fighters used the landscape itself—ridges, snow, and fog—as part of their strategy, knowing the terrain more intimately than their pursuers. Even as the U.S. Army claimed victory, the battle became part of a larger story of Indigenous resistance remembered far beyond the battlefield.",
-      "fact_year": 1877,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Crazy_Horse",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A winter battle shaped by harsh northern elements resonates with an Arctic-themed episode where cold, remote landscapes and their inhabitants define the story."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -645,9 +620,34 @@
         ]
       },
       "match_reason": "Mechanical data cards reducing lives to codes contrast with Canserbero’s conscious rap, which insists on the depth and complexity behind every statistic."
+    },
+    {
+      "hour": 23,
+      "fact_text": "In the frigid January of 1877 at Wolf Mountain, Crazy Horse’s fighters used the landscape itself—ridges, snow, and fog—as part of their strategy, knowing the terrain more intimately than their pursuers. Even as the U.S. Army claimed victory, the battle became part of a larger story of Indigenous resistance remembered far beyond the battlefield.",
+      "fact_year": 1877,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Crazy_Horse",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A winter battle shaped by harsh northern elements resonates with an Arctic-themed episode where cold, remote landscapes and their inhabitants define the story."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T22:00:01.728362+00:00"
+  "updated_at": "2026-01-08T23:00:01.740927+00:00"
 }
