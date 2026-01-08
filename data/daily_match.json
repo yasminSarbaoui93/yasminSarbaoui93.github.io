@@ -1,65 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 8 January 1973, the Soviet Union launched Luna 21, delivering the Lunokhod 2 rover to the Moon. This remote-controlled robot spent months exploring the lunar surface, leaving some of the most detailed tracks humans had ever etched onto another world.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Luna_21",
+    "hour": 2,
+    "fact_text": "In 2009, a magnitude 6.1 earthquake struck northern Costa Rica near Cinchona, triggering landslides that carved scars into the lush landscape. The sudden reshaping of hillsides and rivers was a reminder that even seemingly peaceful tropical regions sit atop restless tectonic plates.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Cinchona_earthquake",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A robotic journey across the Moon mirrors the episode’s idea of a collective voyage into new territories of sound and space."
+    "match_reason": "The sudden jolt of an earthquake resonates with the high-voltage, ‘electric shock’ energy of this rock-heavy episode."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 2009, a magnitude 6.1 earthquake struck northern Costa Rica near Cinchona, triggering landslides that carved scars into the lush landscape. The sudden reshaping of hillsides and rivers was a reminder that even seemingly peaceful tropical regions sit atop restless tectonic plates.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Cinchona_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden jolt of an earthquake resonates with the high-voltage, ‘electric shock’ energy of this rock-heavy episode."
-    },
     {
       "hour": 3,
       "fact_text": "On 8 January 2005, the nuclear-powered submarine USS San Francisco slammed into an uncharted undersea mountain at full speed south of Guam. Despite catastrophic damage to the bow, the crew managed to save the vessel and bring her to the surface, turning a hidden seafloor hazard into a story of survival.",
@@ -655,9 +621,34 @@
         ]
       },
       "match_reason": "A robotic journey across the Moon mirrors the episode’s idea of a collective voyage into new territories of sound and space."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 2009, a magnitude 6.1 earthquake struck northern Costa Rica near Cinchona, triggering landslides that carved scars into the lush landscape. The sudden reshaping of hillsides and rivers was a reminder that even seemingly peaceful tropical regions sit atop restless tectonic plates.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2009_Cinchona_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden jolt of an earthquake resonates with the high-voltage, ‘electric shock’ energy of this rock-heavy episode."
     }
   ],
   "generated_at": "2026-01-08T00:00:00.006289+00:00",
   "date": "2026-01-08",
-  "updated_at": "2026-01-08T01:00:01.619108+00:00"
+  "updated_at": "2026-01-08T02:00:01.771603+00:00"
 }
