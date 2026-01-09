@@ -1,55 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On 9 January 1917, the Battle of Rafa took place near the border of Egypt and Palestine, where British Empire forces attacked an Ottoman position in the desert. The fighting ended in a rare, swift success for the attackers, but only after urgent last-minute cavalry charges to avoid running out of ammunition and food in the open sand.",
-    "fact_year": 1917,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rafa",
+    "hour": 18,
+    "fact_text": "On 9 January 1127, Jurchen forces of the Jin dynasty besieged and sacked Bianjing (Kaifeng), the Song dynasty capital, capturing Emperor Qinzong and much of the royal family. This catastrophe ended the Northern Song period and forced the court to recreate its world in the south, triggering a cultural and artistic flowering even in exile.",
+    "fact_year": 1127,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jin%E2%80%93Song_wars",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 34,
+      "title": "Morning Drops #28 - Under Scottish Skies",
+      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Paolo Nutini - Pencil Full of Lead",
+        "Lapse - Lady Bug",
+        "Joesef - Let's Stay Together",
+        "Vital Spark - Stone of Destiny"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Indie Rock",
+        "Scottish Folk",
+        "Soul",
+        "Celtic Rock"
       ]
     },
-    "match_reason": "A desert battle on the Sinai–Palestine front pairs with an episode steeped in desert soundscapes and the resilience of people whose lives are written in sand and survival."
+    "match_reason": "An entire dynasty forced into geographic and emotional transition echoes an episode about navigating big shifts and finding what grounds you under new ‘skies’ and in new lands."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On 9 January 1127, Jurchen forces of the Jin dynasty besieged and sacked Bianjing (Kaifeng), the Song dynasty capital, capturing Emperor Qinzong and much of the royal family. This catastrophe ended the Northern Song period and forced the court to recreate its world in the south, triggering a cultural and artistic flowering even in exile.",
-      "fact_year": 1127,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jin%E2%80%93Song_wars",
-      "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
-        "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
-        ]
-      },
-      "match_reason": "An entire dynasty forced into geographic and emotional transition echoes an episode about navigating big shifts and finding what grounds you under new ‘skies’ and in new lands."
-    },
     {
       "hour": 19,
       "fact_text": "On 9 January 2015, French police killed the perpetrators of the Charlie Hebdo attack in Dammartin-en-Goële while a related siege unfolded at a kosher supermarket in Vincennes. The coordinated crises exposed how satire, freedom of expression, antisemitism, and radicalization collide in modern cities, forcing France into a raw national debate about identity and security.",
@@ -649,9 +625,34 @@
         ]
       },
       "match_reason": "A desert battle on the Sinai–Palestine front pairs with an episode steeped in desert soundscapes and the resilience of people whose lives are written in sand and survival."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On 9 January 1127, Jurchen forces of the Jin dynasty besieged and sacked Bianjing (Kaifeng), the Song dynasty capital, capturing Emperor Qinzong and much of the royal family. This catastrophe ended the Northern Song period and forced the court to recreate its world in the south, triggering a cultural and artistic flowering even in exile.",
+      "fact_year": 1127,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jin%E2%80%93Song_wars",
+      "episode": {
+        "id": 34,
+        "title": "Morning Drops #28 - Under Scottish Skies",
+        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "songs": [
+          "Paolo Nutini - Pencil Full of Lead",
+          "Lapse - Lady Bug",
+          "Joesef - Let's Stay Together",
+          "Vital Spark - Stone of Destiny"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Scottish Folk",
+          "Soul",
+          "Celtic Rock"
+        ]
+      },
+      "match_reason": "An entire dynasty forced into geographic and emotional transition echoes an episode about navigating big shifts and finding what grounds you under new ‘skies’ and in new lands."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013828+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T17:00:01.661210+00:00"
+  "updated_at": "2026-01-09T18:00:01.749630+00:00"
 }
