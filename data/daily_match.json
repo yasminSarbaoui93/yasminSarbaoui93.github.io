@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The South Pole, nearly reached by Shackleton on this day, sits on a two-to-three-kilometer-thick slab of ice atop a hidden mountain range and subglacial lakes. Beneath the frozen desert, liquid water slowly flows in the dark, hinting at microbial ecosystems that survive under pressures and cold that resemble icy moons in our Solar System.",
-    "fact_year": 1909,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/South_Pole",
+    "hour": 23,
+    "fact_text": "Kaifeng, sacked in 1127, is one of China’s ancient capitals and hosted early experiments with movable-type printing and intricate city planning centuries before modern urbanism. Its layered history shows how cities can be destroyed, rebuilt, and repurposed while quietly carrying technological and cultural innovations forward.",
+    "fact_year": 1127,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kaifeng",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "The South Pole’s endless polar day and night invert the familiar rhythm of seasons, pairing conceptually with an ‘Endless Summer’ episode that stretches time and mood beyond normal seasonal boundaries."
+    "match_reason": "An ancient capital that incubated innovation pairs with an episode about Sheffield, another city whose industrial backbone and music scenes made it a quiet engine of cultural change."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Kaifeng, sacked in 1127, is one of China’s ancient capitals and hosted early experiments with movable-type printing and intricate city planning centuries before modern urbanism. Its layered history shows how cities can be destroyed, rebuilt, and repurposed while quietly carrying technological and cultural innovations forward.",
-      "fact_year": 1127,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kaifeng",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "An ancient capital that incubated innovation pairs with an episode about Sheffield, another city whose industrial backbone and music scenes made it a quiet engine of cultural change."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -650,9 +624,34 @@
         ]
       },
       "match_reason": "The South Pole’s endless polar day and night invert the familiar rhythm of seasons, pairing conceptually with an ‘Endless Summer’ episode that stretches time and mood beyond normal seasonal boundaries."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Kaifeng, sacked in 1127, is one of China’s ancient capitals and hosted early experiments with movable-type printing and intricate city planning centuries before modern urbanism. Its layered history shows how cities can be destroyed, rebuilt, and repurposed while quietly carrying technological and cultural innovations forward.",
+      "fact_year": 1127,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kaifeng",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "An ancient capital that incubated innovation pairs with an episode about Sheffield, another city whose industrial backbone and music scenes made it a quiet engine of cultural change."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013828+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T22:00:01.549627+00:00"
+  "updated_at": "2026-01-09T23:00:01.857790+00:00"
 }
