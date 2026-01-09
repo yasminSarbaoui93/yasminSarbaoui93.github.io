@@ -1,53 +1,28 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "In 1909’s Fort Tejon temblor’s distant cousin across time, the 1693 Sicily quake and the 1038 Dingxiang event, another type of shock shook societies—but in a different way: in 2015’s Charlie Hebdo aftermath, the hostage crisis at a kosher supermarket in Vincennes brought centuries-old tensions about identity and belonging into a single, terrifying afternoon. The episode forced Europe to confront how satire, faith, migration, and violence interlock in the modern city.",
+    "hour": 21,
+    "fact_text": "In 2015, while investigators still pieced together the Charlie Hebdo attack, Europe watched in real time as a hostage-taker aligned with the gunmen seized the Hypercacher kosher supermarket in eastern Paris. The siege ended with hostages freed and the attacker killed, but left lasting questions about antisemitism, security, and how societies protect minority communities.",
     "fact_year": 2015,
     "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A painful event targeting a Jewish supermarket and its community is juxtaposed with an episode centering powerful voices that question, resist, and heal through song."
+    "match_reason": "A violent attack rooted partly in how people are boxed into identities pairs with an episode explicitly about confronting labels and reclaiming who we are."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "In 2015, while investigators still pieced together the Charlie Hebdo attack, Europe watched in real time as a hostage-taker aligned with the gunmen seized the Hypercacher kosher supermarket in eastern Paris. The siege ended with hostages freed and the attacker killed, but left lasting questions about antisemitism, security, and how societies protect minority communities.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A violent attack rooted partly in how people are boxed into identities pairs with an episode explicitly about confronting labels and reclaiming who we are."
-    },
     {
       "hour": 22,
       "fact_text": "Finally, back in 2015 in a completely different corner of the world, the same date saw not only political violence and poisonings but also countless small, unrecorded acts of learning and reimagining—yet the historical spotlight falls mainly on the crises. Our archives remember shocks more easily than slow transformations, even though the quiet work of change often shapes the future just as profoundly.",
@@ -644,9 +619,31 @@
         ]
       },
       "match_reason": "A painful event targeting a Jewish supermarket and its community is juxtaposed with an episode centering powerful voices that question, resist, and heal through song."
+    },
+    {
+      "hour": 21,
+      "fact_text": "In 2015, while investigators still pieced together the Charlie Hebdo attack, Europe watched in real time as a hostage-taker aligned with the gunmen seized the Hypercacher kosher supermarket in eastern Paris. The siege ended with hostages freed and the attacker killed, but left lasting questions about antisemitism, security, and how societies protect minority communities.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A violent attack rooted partly in how people are boxed into identities pairs with an episode explicitly about confronting labels and reclaiming who we are."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T20:00:02.137467+00:00"
+  "updated_at": "2026-01-09T21:00:01.632445+00:00"
 }
