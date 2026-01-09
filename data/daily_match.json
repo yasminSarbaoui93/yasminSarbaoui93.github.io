@@ -1,65 +1,40 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 1909, Ernest Shackleton’s Nimrod Expedition planted a British flag just 97 nautical miles from the South Pole, a hauntingly close miss to the geographic bottom of the world. Shackleton turned back to save his crew from starvation, laying the groundwork for heroic-age polar exploration while choosing lives over glory.",
-    "fact_year": 1909,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimrod_Expedition",
+    "hour": 2,
+    "fact_text": "On this day in 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets beyond our Solar System—two worlds orbiting a rapidly spinning pulsar, PSR B1257+12. These bizarre ‘zombie’ planets formed from the debris of a dead star, proving that planetary systems can arise in places once thought utterly hostile to life.",
+    "fact_year": 1992,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "Both journeys unfold beyond the polar circle in harsh, luminous cold, turning extreme environments into intimate stories of risk, awe, and restraint."
+    "match_reason": "A journey to distant, alien worlds fits an episode framed as a voyage to Sedna, with cosmic-tinged tracks like Pink Floyd’s “Breathe” and Depeche Mode’s electronic vastness."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On this day in 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets beyond our Solar System—two worlds orbiting a rapidly spinning pulsar, PSR B1257+12. These bizarre ‘zombie’ planets formed from the debris of a dead star, proving that planetary systems can arise in places once thought utterly hostile to life.",
-      "fact_year": 1992,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A journey to distant, alien worlds fits an episode framed as a voyage to Sedna, with cosmic-tinged tracks like Pink Floyd’s “Breathe” and Depeche Mode’s electronic vastness."
-    },
     {
       "hour": 3,
       "fact_text": "In 1857, the Fort Tejon earthquake ripped a 360-kilometer scar along California’s San Andreas Fault, with parts of the ground lurching nearly 9 meters sideways in a single violent moment. It reshaped rivers, fences, and roads overnight, leaving a visible geological line that still marks the restless boundary of tectonic plates today.",
@@ -650,9 +625,43 @@
         ]
       },
       "match_reason": "Both journeys unfold beyond the polar circle in harsh, luminous cold, turning extreme environments into intimate stories of risk, awe, and restraint."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On this day in 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets beyond our Solar System—two worlds orbiting a rapidly spinning pulsar, PSR B1257+12. These bizarre ‘zombie’ planets formed from the debris of a dead star, proving that planetary systems can arise in places once thought utterly hostile to life.",
+      "fact_year": 1992,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A journey to distant, alien worlds fits an episode framed as a voyage to Sedna, with cosmic-tinged tracks like Pink Floyd’s “Breathe” and Depeche Mode’s electronic vastness."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013828+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T01:00:02.024305+00:00"
+  "updated_at": "2026-01-09T02:00:01.754637+00:00"
 }
