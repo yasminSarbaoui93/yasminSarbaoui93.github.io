@@ -1,50 +1,25 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1038, a powerful earthquake struck Dingxiang in northern China, reportedly killing over 32,000 people in an era with no seismographs and little structural resilience. Its memory survives through historical chronicles that turned the trembling ground into a written warning across centuries.",
-    "fact_year": 1038,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1038_Dingxiang_earthquake",
+    "hour": 6,
+    "fact_text": "On this day in 1839, the French Academy of Sciences publicly revealed the daguerreotype, the first practical photographic process. Each image was a one-of-a-kind mirror of silver and light, so detailed that people could suddenly see their own pores and city streets frozen in time for the first time.",
+    "fact_year": 1839,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Daguerreotype",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "song 1"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "genre 1"
       ]
     },
-    "match_reason": "A violent planetary shudder is contrasted with an episode about slowing down a restless world, turning awareness of Earth's power into a gentle, reflective soundscape."
+    "match_reason": "Early daguerreotypes were fragile, singular, and imperfectly beautiful—an ideal companion for an episode celebrating wabi-sabi and the art of keeping flaws instead of erasing them."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On this day in 1839, the French Academy of Sciences publicly revealed the daguerreotype, the first practical photographic process. Each image was a one-of-a-kind mirror of silver and light, so detailed that people could suddenly see their own pores and city streets frozen in time for the first time.",
-      "fact_year": 1839,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Daguerreotype",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Early daguerreotypes were fragile, singular, and imperfectly beautiful—an ideal companion for an episode celebrating wabi-sabi and the art of keeping flaws instead of erasing them."
-    },
     {
       "hour": 7,
       "fact_text": "In 1799, British Prime Minister William Pitt the Younger introduced the country’s first income tax, a temporary wartime measure to fund the struggle against Napoleon. It was deeply controversial at the time, yet this emergency experiment became a template for modern taxation systems around the world.",
@@ -650,9 +625,28 @@
         ]
       },
       "match_reason": "A violent planetary shudder is contrasted with an episode about slowing down a restless world, turning awareness of Earth's power into a gentle, reflective soundscape."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On this day in 1839, the French Academy of Sciences publicly revealed the daguerreotype, the first practical photographic process. Each image was a one-of-a-kind mirror of silver and light, so detailed that people could suddenly see their own pores and city streets frozen in time for the first time.",
+      "fact_year": 1839,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Daguerreotype",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Early daguerreotypes were fragile, singular, and imperfectly beautiful—an ideal companion for an episode celebrating wabi-sabi and the art of keeping flaws instead of erasing them."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013828+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T05:00:02.094760+00:00"
+  "updated_at": "2026-01-09T06:00:01.675293+00:00"
 }
