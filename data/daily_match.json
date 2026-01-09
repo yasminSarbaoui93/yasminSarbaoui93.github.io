@@ -1,55 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 2015, a tragic mass poisoning unfolded at a funeral in Mozambique when a traditional beer called pombe was contaminated by the bacterium Burkholderia gladioli. What should have been a communal ritual of mourning and togetherness turned into a public health nightmare, killing 75 people and sickening hundreds more.",
+    "hour": 13,
+    "fact_text": "Also in 2015, the manhunt following the Charlie Hebdo attack in Paris ended in two coordinated hostage crises: the Kouachi brothers were killed in a printworks, while a gunman allied with them seized a kosher supermarket in Vincennes. The events exposed deep fractures around free speech, antisemitism, and radicalization in contemporary France.",
     "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mozambique_funeral_beer_poisoning",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A modern African tragedy tied to communal gathering contrasts poignantly with an episode celebrating African musical resilience and shared rhythms."
+    "match_reason": "An emotionally fraught moment in French history finds an echo in flamenco’s raw, cathartic expression of pain, resistance, and identity."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "Also in 2015, the manhunt following the Charlie Hebdo attack in Paris ended in two coordinated hostage crises: the Kouachi brothers were killed in a printworks, while a gunman allied with them seized a kosher supermarket in Vincennes. The events exposed deep fractures around free speech, antisemitism, and radicalization in contemporary France.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "An emotionally fraught moment in French history finds an echo in flamenco’s raw, cathartic expression of pain, resistance, and identity."
-    },
     {
       "hour": 14,
       "fact_text": "In 2004, an inflatable boat overloaded with Albanian migrants stalled near the Karaburun Peninsula on its way to Italy; exposure and rough seas killed 28 people, making it Albania’s second deadliest maritime disaster. The tragedy is one of many hidden stories behind the Mediterranean’s image as both holiday sea and perilous crossing.",
@@ -643,9 +619,34 @@
         ]
       },
       "match_reason": "A modern African tragedy tied to communal gathering contrasts poignantly with an episode celebrating African musical resilience and shared rhythms."
+    },
+    {
+      "hour": 13,
+      "fact_text": "Also in 2015, the manhunt following the Charlie Hebdo attack in Paris ended in two coordinated hostage crises: the Kouachi brothers were killed in a printworks, while a gunman allied with them seized a kosher supermarket in Vincennes. The events exposed deep fractures around free speech, antisemitism, and radicalization in contemporary France.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "An emotionally fraught moment in French history finds an echo in flamenco’s raw, cathartic expression of pain, resistance, and identity."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T12:00:02.382377+00:00"
+  "updated_at": "2026-01-09T13:00:01.762316+00:00"
 }
