@@ -1,64 +1,40 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1964, Panamanian students marched into the U.S.-controlled Canal Zone carrying their national flag, sparking clashes with U.S. residents and troops when the flag was torn. The violence, later commemorated as Martyrs’ Day, became a turning point that pushed Panama and the United States toward renegotiating control of the canal.",
-    "fact_year": 1964,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)",
+    "hour": 17,
+    "fact_text": "In 1961, British authorities announced they had uncovered the Portland spy ring, a Soviet network that had been leaking sensitive naval research from a submarine base and an underwater weapons lab. Ordinary-seeming clerks and civil servants turned out to be key conduits in a quiet war of documents, microfilm, and hidden loyalties.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portland_spy_ring",
     "episode": {
-      "id": 19,
-      "title": "Morning Drops #13 - Demystifying Reggaeton",
-      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Renato - Chica de los Ojos Café",
-        "B. F. Yaviah - Si Tu Quieres Fumar",
-        "Calle 13 - Atrévete",
-        "Bad Bunny - DtMF"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Reggaeton",
-        "Latin Urban",
-        "Hip-Hop"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A pivotal Panamanian protest about sovereignty links directly to an episode tracing Panama’s cultural voice through reggaeton’s origins."
+    "match_reason": "A spy ring built on secret roles and double lives fits neatly with an episode about alter-egos and hidden identities in music."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1961, British authorities announced they had uncovered the Portland spy ring, a Soviet network that had been leaking sensitive naval research from a submarine base and an underwater weapons lab. Ordinary-seeming clerks and civil servants turned out to be key conduits in a quiet war of documents, microfilm, and hidden loyalties.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portland_spy_ring",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A spy ring built on secret roles and double lives fits neatly with an episode about alter-egos and hidden identities in music."
-    },
     {
       "hour": 18,
       "fact_text": "In 1917, British, Australian, and New Zealand mounted troops fought the Battle of Rafa just over the Egyptian border into Ottoman Palestine, attacking defenses in the sandy flats near the Sinai. It was one of the last major battles fought almost entirely by cavalry, on the cusp of a world where tanks and planes were taking over.",
@@ -643,9 +619,43 @@
         ]
       },
       "match_reason": "A pivotal Panamanian protest about sovereignty links directly to an episode tracing Panama’s cultural voice through reggaeton’s origins."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1961, British authorities announced they had uncovered the Portland spy ring, a Soviet network that had been leaking sensitive naval research from a submarine base and an underwater weapons lab. Ordinary-seeming clerks and civil servants turned out to be key conduits in a quiet war of documents, microfilm, and hidden loyalties.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portland_spy_ring",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A spy ring built on secret roles and double lives fits neatly with an episode about alter-egos and hidden identities in music."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T16:00:02.031348+00:00"
+  "updated_at": "2026-01-09T17:00:01.686325+00:00"
 }
