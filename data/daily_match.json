@@ -1,55 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1941, the British Avro Lancaster heavy bomber took to the sky for its first flight, a hulking four‑engine aircraft that would later carry some of the war’s most daring night raids. Its cavernous bomb bay and long wingspan made it an engineering marvel of its time—and a flying symbol of how aviation was reshaping warfare.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Avro_Lancaster",
+    "hour": 10,
+    "fact_text": "In 1923, engineer Juan de la Cierva achieved the first successful flight of an autogyro, a curious hybrid aircraft whose unpowered rotor spun freely while a conventional engine-driven propeller pulled it forward. This odd-looking machine offered remarkable short takeoff and landing abilities, quietly laying groundwork for future rotorcraft like helicopters.",
+    "fact_year": 1923,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Autogyro",
     "episode": {
-      "id": 16,
-      "title": "Morning Drops #10 - The One With Many Names",
-      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Ghost - Spirit",
-        "Ghost - Mary on a Cross",
-        "Ghost - Dance Macabre",
-        "Ghost - Umbra"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Hard Rock",
-        "Heavy Metal",
-        "Arena Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A dramatic, theatrical warplane aligns with the grand, ritualistic, arena-scale energy of Ghost and heavy rock spectacle."
+    "match_reason": "A hybrid flying machine that blurred categories mirrors trip‑hop’s fusion of genres and its experimental, between-worlds feeling."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1923, engineer Juan de la Cierva achieved the first successful flight of an autogyro, a curious hybrid aircraft whose unpowered rotor spun freely while a conventional engine-driven propeller pulled it forward. This odd-looking machine offered remarkable short takeoff and landing abilities, quietly laying groundwork for future rotorcraft like helicopters.",
-      "fact_year": 1923,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Autogyro",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A hybrid flying machine that blurred categories mirrors trip‑hop’s fusion of genres and its experimental, between-worlds feeling."
-    },
     {
       "hour": 11,
       "fact_text": "Back in 1793, French aeronaut Jean-Pierre Blanchard made the first balloon flight in the United States, lifting off from Philadelphia and drifting over the city watched by a crowd that included President George Washington. In an era of horses and sailing ships, this gentle ascent into the sky must have looked like pure science fiction.",
@@ -643,9 +619,34 @@
         ]
       },
       "match_reason": "A dramatic, theatrical warplane aligns with the grand, ritualistic, arena-scale energy of Ghost and heavy rock spectacle."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1923, engineer Juan de la Cierva achieved the first successful flight of an autogyro, a curious hybrid aircraft whose unpowered rotor spun freely while a conventional engine-driven propeller pulled it forward. This odd-looking machine offered remarkable short takeoff and landing abilities, quietly laying groundwork for future rotorcraft like helicopters.",
+      "fact_year": 1923,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Autogyro",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A hybrid flying machine that blurred categories mirrors trip‑hop’s fusion of genres and its experimental, between-worlds feeling."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T09:00:01.735371+00:00"
+  "updated_at": "2026-01-09T10:00:01.620417+00:00"
 }
