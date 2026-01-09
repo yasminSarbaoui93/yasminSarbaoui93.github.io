@@ -1,55 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1861, the unarmed merchant ship Star of the West tried to resupply Fort Sumter near Charleston, only to be fired upon by cadets and shore batteries—months before the U.S. Civil War’s first official battle. The brief clash turned a civilian vessel into a symbol of looming conflict, showing how close the country already was to open war.",
-    "fact_year": 1861,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
+    "hour": 9,
+    "fact_text": "In 1941, the British Avro Lancaster heavy bomber took to the sky for its first flight, a hulking four‑engine aircraft that would later carry some of the war’s most daring night raids. Its cavernous bomb bay and long wingspan made it an engineering marvel of its time—and a flying symbol of how aviation was reshaping warfare.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Avro_Lancaster",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 16,
+      "title": "Morning Drops #10 - The One With Many Names",
+      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Ghost - Spirit",
+        "Ghost - Mary on a Cross",
+        "Ghost - Dance Macabre",
+        "Ghost - Umbra"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Hard Rock",
+        "Heavy Metal",
+        "Arena Rock"
       ]
     },
-    "match_reason": "An industrial-age ship at the edge of conflict resonates with an episode about a gritty industrial city and layered narratives within one place."
+    "match_reason": "A dramatic, theatrical warplane aligns with the grand, ritualistic, arena-scale energy of Ghost and heavy rock spectacle."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1941, the British Avro Lancaster heavy bomber took to the sky for its first flight, a hulking four‑engine aircraft that would later carry some of the war’s most daring night raids. Its cavernous bomb bay and long wingspan made it an engineering marvel of its time—and a flying symbol of how aviation was reshaping warfare.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Avro_Lancaster",
-      "episode": {
-        "id": 16,
-        "title": "Morning Drops #10 - The One With Many Names",
-        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
-        "songs": [
-          "Ghost - Spirit",
-          "Ghost - Mary on a Cross",
-          "Ghost - Dance Macabre",
-          "Ghost - Umbra"
-        ],
-        "music-genres": [
-          "Hard Rock",
-          "Heavy Metal",
-          "Arena Rock"
-        ]
-      },
-      "match_reason": "A dramatic, theatrical warplane aligns with the grand, ritualistic, arena-scale energy of Ghost and heavy rock spectacle."
-    },
     {
       "hour": 10,
       "fact_text": "In 1923, engineer Juan de la Cierva achieved the first successful flight of an autogyro, a curious hybrid aircraft whose unpowered rotor spun freely while a conventional engine-driven propeller pulled it forward. This odd-looking machine offered remarkable short takeoff and landing abilities, quietly laying groundwork for future rotorcraft like helicopters.",
@@ -644,9 +619,33 @@
         ]
       },
       "match_reason": "An industrial-age ship at the edge of conflict resonates with an episode about a gritty industrial city and layered narratives within one place."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1941, the British Avro Lancaster heavy bomber took to the sky for its first flight, a hulking four‑engine aircraft that would later carry some of the war’s most daring night raids. Its cavernous bomb bay and long wingspan made it an engineering marvel of its time—and a flying symbol of how aviation was reshaping warfare.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Avro_Lancaster",
+      "episode": {
+        "id": 16,
+        "title": "Morning Drops #10 - The One With Many Names",
+        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+        "songs": [
+          "Ghost - Spirit",
+          "Ghost - Mary on a Cross",
+          "Ghost - Dance Macabre",
+          "Ghost - Umbra"
+        ],
+        "music-genres": [
+          "Hard Rock",
+          "Heavy Metal",
+          "Arena Rock"
+        ]
+      },
+      "match_reason": "A dramatic, theatrical warplane aligns with the grand, ritualistic, arena-scale energy of Ghost and heavy rock spectacle."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T08:00:01.835094+00:00"
+  "updated_at": "2026-01-09T09:00:01.735371+00:00"
 }
