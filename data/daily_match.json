@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 2004, an overcrowded inflatable boat carrying Albanian migrants stalled in rough winter seas near the Karaburun Peninsula, leading to the deaths of 28 people from exposure. The disaster highlighted the perilous, often invisible journeys taken across short stretches of water that represent vast distances in safety and opportunity.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Karaburun_tragedy",
+    "hour": 10,
+    "fact_text": "On 9 January 1861, the civilian ship Star of the West attempted to resupply the besieged U.S. garrison at Fort Sumter but was fired upon by South Carolina batteries. This little-known maritime incident, days before formal secession unravelled fully, is often considered one of the true opening shots of the American Civil War.",
+    "fact_year": 1861,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A tragic Mediterranean crossing is paired with an episode explicitly sailing that same sea, turning the sunny musical voyage into a quiet reminder of those who never safely arrive."
+    "match_reason": "A ship named Star of the West moving into contested waters aligns with an episode about travel as a perspective shift, highlighting how a single voyage can quietly change history’s course."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 9 January 1861, the civilian ship Star of the West attempted to resupply the besieged U.S. garrison at Fort Sumter but was fired upon by South Carolina batteries. This little-known maritime incident, days before formal secession unravelled fully, is often considered one of the true opening shots of the American Civil War.",
-      "fact_year": 1861,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A ship named Star of the West moving into contested waters aligns with an episode about travel as a perspective shift, highlighting how a single voyage can quietly change history’s course."
-    },
     {
       "hour": 11,
       "fact_text": "In 1941, the Avro Lancaster heavy bomber made its first flight, a machine that would become one of Britain’s most iconic World War II aircraft. With its distinctive four-engine silhouette and cavernous bomb bay, it fused engineering ambition with the grim reality of strategic bombing campaigns across Europe.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "A tragic Mediterranean crossing is paired with an episode explicitly sailing that same sea, turning the sunny musical voyage into a quiet reminder of those who never safely arrive."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 9 January 1861, the civilian ship Star of the West attempted to resupply the besieged U.S. garrison at Fort Sumter but was fired upon by South Carolina batteries. This little-known maritime incident, days before formal secession unravelled fully, is often considered one of the true opening shots of the American Civil War.",
+      "fact_year": 1861,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A ship named Star of the West moving into contested waters aligns with an episode about travel as a perspective shift, highlighting how a single voyage can quietly change history’s course."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013828+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T09:00:01.857474+00:00"
+  "updated_at": "2026-01-09T10:00:01.728255+00:00"
 }
