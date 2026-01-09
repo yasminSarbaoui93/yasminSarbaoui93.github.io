@@ -1,65 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1962, NASA quietly unveiled the \"Advanced Saturn\" concept—what would become the mighty Saturn V rocket, tall enough to dwarf a 36‑story building. This decision turned a bold political promise to reach the Moon into an engineering roadmap, stitching together thousands of parts, people, and calculations into a single launch system capable of flinging humans into deep space.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_program",
+    "hour": 1,
+    "fact_text": "In 1909, Ernest Shackleton’s Nimrod Expedition turned back just 97 nautical miles from the South Pole, after planting the British flag at the furthest south any human had ever reached. Rather than push on and risk death, Shackleton chose the lives of his crew over glory, redefining heroism in exploration as knowing when to retreat.",
+    "fact_year": 1909,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimrod_Expedition",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A journey-defining decision about traveling to space pairs with an episode themed as a collective voyage into new territories."
+    "match_reason": "Both stories unfold in icy, remote frontiers and balance awe with the hard decisions of survival in polar landscapes."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1909, Ernest Shackleton’s Nimrod Expedition turned back just 97 nautical miles from the South Pole, after planting the British flag at the furthest south any human had ever reached. Rather than push on and risk death, Shackleton chose the lives of his crew over glory, redefining heroism in exploration as knowing when to retreat.",
-      "fact_year": 1909,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimrod_Expedition",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both stories unfold in icy, remote frontiers and balance awe with the hard decisions of survival in polar landscapes."
-    },
     {
       "hour": 2,
       "fact_text": "In 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets outside our Solar System—two worlds orbiting a rapidly spinning dead star, a pulsar called PSR 1257+12. These \"pulsar planets\" proved that planetary systems could exist in places once thought utterly hostile, opening the floodgates to the modern exoplanet revolution.",
@@ -653,9 +619,34 @@
         ]
       },
       "match_reason": "A journey-defining decision about traveling to space pairs with an episode themed as a collective voyage into new territories."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1909, Ernest Shackleton’s Nimrod Expedition turned back just 97 nautical miles from the South Pole, after planting the British flag at the furthest south any human had ever reached. Rather than push on and risk death, Shackleton chose the lives of his crew over glory, redefining heroism in exploration as knowing when to retreat.",
+      "fact_year": 1909,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimrod_Expedition",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both stories unfold in icy, remote frontiers and balance awe with the hard decisions of survival in polar landscapes."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T00:00:50.147311+00:00"
+  "updated_at": "2026-01-09T01:00:02.261348+00:00"
 }
