@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1857, the Fort Tejon earthquake tore along California’s San Andreas Fault for over 350 kilometers, with shaking so intense that trees snapped and the ground shifted several meters sideways. Long before modern seismology, this event silently carved itself into the landscape, leaving scientists today to reconstruct its power from scarred earth and scattered journals.",
-    "fact_year": 1857,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake",
+    "hour": 4,
+    "fact_text": "In 1693, a devastating series of earthquakes ripped through Sicily and Malta, leveling entire towns and killing tens of thousands of people. Out of the catastrophe, a new architectural language emerged: grand Baroque cities like rebuilt Catania rose from the rubble, turning seismic trauma into stone opulence.",
+    "fact_year": 1693,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1693_Sicily_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A violent, earth-shaking event mirrors the episode's jolt-of-energy, \"electric shock\" atmosphere."
+    "match_reason": "A deeply Sicilian historical trauma pairs with an episode centered on Sicilian identity and landscapes, connecting place, memory, and resilience."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1693, a devastating series of earthquakes ripped through Sicily and Malta, leveling entire towns and killing tens of thousands of people. Out of the catastrophe, a new architectural language emerged: grand Baroque cities like rebuilt Catania rose from the rubble, turning seismic trauma into stone opulence.",
-      "fact_year": 1693,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1693_Sicily_earthquake",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A deeply Sicilian historical trauma pairs with an episode centered on Sicilian identity and landscapes, connecting place, memory, and resilience."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 1038, a powerful earthquake struck Dingxiang in China, killing an estimated 32,300 people in an age when seismology did not yet exist. The disaster is remembered mostly through terse historical records, reminders of how fragile entire regions could be to forces they didn’t yet understand.",
@@ -644,9 +619,34 @@
         ]
       },
       "match_reason": "A violent, earth-shaking event mirrors the episode's jolt-of-energy, \"electric shock\" atmosphere."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1693, a devastating series of earthquakes ripped through Sicily and Malta, leveling entire towns and killing tens of thousands of people. Out of the catastrophe, a new architectural language emerged: grand Baroque cities like rebuilt Catania rose from the rubble, turning seismic trauma into stone opulence.",
+      "fact_year": 1693,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1693_Sicily_earthquake",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A deeply Sicilian historical trauma pairs with an episode centered on Sicilian identity and landscapes, connecting place, memory, and resilience."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T03:00:01.921397+00:00"
+  "updated_at": "2026-01-09T04:00:01.719892+00:00"
 }
