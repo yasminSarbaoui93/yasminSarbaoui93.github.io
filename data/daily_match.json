@@ -1,64 +1,30 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In 1961, British authorities announced they had uncovered the Portland spy ring, a Soviet network that had been leaking sensitive naval research from a submarine base and an underwater weapons lab. Ordinary-seeming clerks and civil servants turned out to be key conduits in a quiet war of documents, microfilm, and hidden loyalties.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Portland_spy_ring",
+    "hour": 18,
+    "fact_text": "In 1917, British, Australian, and New Zealand mounted troops fought the Battle of Rafa just over the Egyptian border into Ottoman Palestine, attacking defenses in the sandy flats near the Sinai. It was one of the last major battles fought almost entirely by cavalry, on the cusp of a world where tanks and planes were taking over.",
+    "fact_year": 1917,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rafa",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A spy ring built on secret roles and double lives fits neatly with an episode about alter-egos and hidden identities in music."
+    "match_reason": "A desert border battle in the Sinai echoes this episode’s focus on desert cultures, sand-shaped sound, and survival in harsh landscapes."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "In 1917, British, Australian, and New Zealand mounted troops fought the Battle of Rafa just over the Egyptian border into Ottoman Palestine, attacking defenses in the sandy flats near the Sinai. It was one of the last major battles fought almost entirely by cavalry, on the cusp of a world where tanks and planes were taking over.",
-      "fact_year": 1917,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rafa",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A desert border battle in the Sinai echoes this episode’s focus on desert cultures, sand-shaped sound, and survival in harsh landscapes."
-    },
     {
       "hour": 19,
       "fact_text": "Back in 1127, Jurchen forces of the Jin dynasty stormed Bianjing (Kaifeng), capital of the Northern Song dynasty, capturing the emperor and officials in an episode known as the Jingkang Incident. The humiliation shattered a powerful empire and forced the court to flee south, reshaping the political and cultural map of China.",
@@ -653,9 +619,33 @@
         ]
       },
       "match_reason": "A spy ring built on secret roles and double lives fits neatly with an episode about alter-egos and hidden identities in music."
+    },
+    {
+      "hour": 18,
+      "fact_text": "In 1917, British, Australian, and New Zealand mounted troops fought the Battle of Rafa just over the Egyptian border into Ottoman Palestine, attacking defenses in the sandy flats near the Sinai. It was one of the last major battles fought almost entirely by cavalry, on the cusp of a world where tanks and planes were taking over.",
+      "fact_year": 1917,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rafa",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A desert border battle in the Sinai echoes this episode’s focus on desert cultures, sand-shaped sound, and survival in harsh landscapes."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T17:00:01.686325+00:00"
+  "updated_at": "2026-01-09T18:00:02.333082+00:00"
 }
