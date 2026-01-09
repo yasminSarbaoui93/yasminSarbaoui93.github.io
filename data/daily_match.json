@@ -1,59 +1,34 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1923, engineer Juan de la Cierva achieved the first successful flight of an autogyro, a curious hybrid aircraft whose unpowered rotor spun freely while a conventional engine-driven propeller pulled it forward. This odd-looking machine offered remarkable short takeoff and landing abilities, quietly laying groundwork for future rotorcraft like helicopters.",
-    "fact_year": 1923,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Autogyro",
+    "hour": 11,
+    "fact_text": "Back in 1793, French aeronaut Jean-Pierre Blanchard made the first balloon flight in the United States, lifting off from Philadelphia and drifting over the city watched by a crowd that included President George Washington. In an era of horses and sailing ships, this gentle ascent into the sky must have looked like pure science fiction.",
+    "fact_year": 1793,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A hybrid flying machine that blurred categories mirrors trip‑hop’s fusion of genres and its experimental, between-worlds feeling."
+    "match_reason": "An early airborne journey over water connects with a seaborne travel episode, both celebrating slow movement, wind, and shared adventure."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "Back in 1793, French aeronaut Jean-Pierre Blanchard made the first balloon flight in the United States, lifting off from Philadelphia and drifting over the city watched by a crowd that included President George Washington. In an era of horses and sailing ships, this gentle ascent into the sky must have looked like pure science fiction.",
-      "fact_year": 1793,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An early airborne journey over water connects with a seaborne travel episode, both celebrating slow movement, wind, and shared adventure."
-    },
     {
       "hour": 12,
       "fact_text": "In 2015, a tragic mass poisoning unfolded at a funeral in Mozambique when a traditional beer called pombe was contaminated by the bacterium Burkholderia gladioli. What should have been a communal ritual of mourning and togetherness turned into a public health nightmare, killing 75 people and sickening hundreds more.",
@@ -644,9 +619,37 @@
         ]
       },
       "match_reason": "A hybrid flying machine that blurred categories mirrors trip‑hop’s fusion of genres and its experimental, between-worlds feeling."
+    },
+    {
+      "hour": 11,
+      "fact_text": "Back in 1793, French aeronaut Jean-Pierre Blanchard made the first balloon flight in the United States, lifting off from Philadelphia and drifting over the city watched by a crowd that included President George Washington. In an era of horses and sailing ships, this gentle ascent into the sky must have looked like pure science fiction.",
+      "fact_year": 1793,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An early airborne journey over water connects with a seaborne travel episode, both celebrating slow movement, wind, and shared adventure."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T10:00:01.620417+00:00"
+  "updated_at": "2026-01-09T11:00:01.804489+00:00"
 }
