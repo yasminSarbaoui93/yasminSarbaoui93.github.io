@@ -1,54 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets outside our Solar System—two worlds orbiting a rapidly spinning dead star, a pulsar called PSR 1257+12. These \"pulsar planets\" proved that planetary systems could exist in places once thought utterly hostile, opening the floodgates to the modern exoplanet revolution.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
+    "hour": 3,
+    "fact_text": "In 1857, the Fort Tejon earthquake tore along California’s San Andreas Fault for over 350 kilometers, with shaking so intense that trees snapped and the ground shifted several meters sideways. Long before modern seismology, this event silently carved itself into the landscape, leaving scientists today to reconstruct its power from scarred earth and scattered journals.",
+    "fact_year": 1857,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "The discovery of exoplanets literally shifts our idea of space, echoing the episode’s theme of turning \"emptiness\" into creative possibility."
+    "match_reason": "A violent, earth-shaking event mirrors the episode's jolt-of-energy, \"electric shock\" atmosphere."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1857, the Fort Tejon earthquake tore along California’s San Andreas Fault for over 350 kilometers, with shaking so intense that trees snapped and the ground shifted several meters sideways. Long before modern seismology, this event silently carved itself into the landscape, leaving scientists today to reconstruct its power from scarred earth and scattered journals.",
-      "fact_year": 1857,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A violent, earth-shaking event mirrors the episode's jolt-of-energy, \"electric shock\" atmosphere."
-    },
     {
       "hour": 4,
       "fact_text": "In 1693, a devastating series of earthquakes ripped through Sicily and Malta, leveling entire towns and killing tens of thousands of people. Out of the catastrophe, a new architectural language emerged: grand Baroque cities like rebuilt Catania rose from the rubble, turning seismic trauma into stone opulence.",
@@ -642,9 +619,34 @@
         ]
       },
       "match_reason": "The discovery of exoplanets literally shifts our idea of space, echoing the episode’s theme of turning \"emptiness\" into creative possibility."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1857, the Fort Tejon earthquake tore along California’s San Andreas Fault for over 350 kilometers, with shaking so intense that trees snapped and the ground shifted several meters sideways. Long before modern seismology, this event silently carved itself into the landscape, leaving scientists today to reconstruct its power from scarred earth and scattered journals.",
+      "fact_year": 1857,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A violent, earth-shaking event mirrors the episode's jolt-of-energy, \"electric shock\" atmosphere."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T02:00:01.894213+00:00"
+  "updated_at": "2026-01-09T03:00:01.921397+00:00"
 }
