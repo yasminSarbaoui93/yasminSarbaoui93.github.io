@@ -1,54 +1,29 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 1909, Ernest Shackleton’s Nimrod Expedition turned back just 97 nautical miles from the South Pole, after planting the British flag at the furthest south any human had ever reached. Rather than push on and risk death, Shackleton chose the lives of his crew over glory, redefining heroism in exploration as knowing when to retreat.",
-    "fact_year": 1909,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nimrod_Expedition",
+    "hour": 2,
+    "fact_text": "In 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets outside our Solar System—two worlds orbiting a rapidly spinning dead star, a pulsar called PSR 1257+12. These \"pulsar planets\" proved that planetary systems could exist in places once thought utterly hostile, opening the floodgates to the modern exoplanet revolution.",
+    "fact_year": 1992,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 9,
+      "title": "Morning Drops #03 - Space Shift",
+      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Willy J Healey - Woke Up Smiling",
+        "The Chemical Brothers - Go",
+        "The Strokes - You Only Live Once"
       ],
       "music-genres": [
-        "Neo-Classical",
         "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Electronic",
+        "Garage Rock"
       ]
     },
-    "match_reason": "Both stories unfold in icy, remote frontiers and balance awe with the hard decisions of survival in polar landscapes."
+    "match_reason": "The discovery of exoplanets literally shifts our idea of space, echoing the episode’s theme of turning \"emptiness\" into creative possibility."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets outside our Solar System—two worlds orbiting a rapidly spinning dead star, a pulsar called PSR 1257+12. These \"pulsar planets\" proved that planetary systems could exist in places once thought utterly hostile, opening the floodgates to the modern exoplanet revolution.",
-      "fact_year": 1992,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
-      "episode": {
-        "id": 9,
-        "title": "Morning Drops #03 - Space Shift",
-        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
-        "songs": [
-          "Willy J Healey - Woke Up Smiling",
-          "The Chemical Brothers - Go",
-          "The Strokes - You Only Live Once"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Electronic",
-          "Garage Rock"
-        ]
-      },
-      "match_reason": "The discovery of exoplanets literally shifts our idea of space, echoing the episode’s theme of turning \"emptiness\" into creative possibility."
-    },
     {
       "hour": 3,
       "fact_text": "In 1857, the Fort Tejon earthquake tore along California’s San Andreas Fault for over 350 kilometers, with shaking so intense that trees snapped and the ground shifted several meters sideways. Long before modern seismology, this event silently carved itself into the landscape, leaving scientists today to reconstruct its power from scarred earth and scattered journals.",
@@ -644,9 +619,32 @@
         ]
       },
       "match_reason": "Both stories unfold in icy, remote frontiers and balance awe with the hard decisions of survival in polar landscapes."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1992, astronomers Aleksander Wolszczan and Dale Frail announced the first confirmed discovery of planets outside our Solar System—two worlds orbiting a rapidly spinning dead star, a pulsar called PSR 1257+12. These \"pulsar planets\" proved that planetary systems could exist in places once thought utterly hostile, opening the floodgates to the modern exoplanet revolution.",
+      "fact_year": 1992,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exoplanet",
+      "episode": {
+        "id": 9,
+        "title": "Morning Drops #03 - Space Shift",
+        "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+        "songs": [
+          "Willy J Healey - Woke Up Smiling",
+          "The Chemical Brothers - Go",
+          "The Strokes - You Only Live Once"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Electronic",
+          "Garage Rock"
+        ]
+      },
+      "match_reason": "The discovery of exoplanets literally shifts our idea of space, echoing the episode’s theme of turning \"emptiness\" into creative possibility."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T01:00:02.261348+00:00"
+  "updated_at": "2026-01-09T02:00:01.894213+00:00"
 }
