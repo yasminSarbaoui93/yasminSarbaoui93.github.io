@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "Also in 2015, the manhunt following the Charlie Hebdo attack in Paris ended in two coordinated hostage crises: the Kouachi brothers were killed in a printworks, while a gunman allied with them seized a kosher supermarket in Vincennes. The events exposed deep fractures around free speech, antisemitism, and radicalization in contemporary France.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
+    "hour": 14,
+    "fact_text": "In 2004, an inflatable boat overloaded with Albanian migrants stalled near the Karaburun Peninsula on its way to Italy; exposure and rough seas killed 28 people, making it Albania’s second deadliest maritime disaster. The tragedy is one of many hidden stories behind the Mediterranean’s image as both holiday sea and perilous crossing.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Karaburun_tragedy",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "An emotionally fraught moment in French history finds an echo in flamenco’s raw, cathartic expression of pain, resistance, and identity."
+    "match_reason": "A deadly Mediterranean crossing is paired with an episode explicitly about the sea’s cultures, hinting at both its beauty and its human cost."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 2004, an inflatable boat overloaded with Albanian migrants stalled near the Karaburun Peninsula on its way to Italy; exposure and rough seas killed 28 people, making it Albania’s second deadliest maritime disaster. The tragedy is one of many hidden stories behind the Mediterranean’s image as both holiday sea and perilous crossing.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Karaburun_tragedy",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A deadly Mediterranean crossing is paired with an episode explicitly about the sea’s cultures, hinting at both its beauty and its human cost."
-    },
     {
       "hour": 15,
       "fact_text": "In 2021, Sriwijaya Air Flight 182 plunged into the Java Sea minutes after take-off from Jakarta, killing all 62 people on board. Investigators later traced the tragedy to a combination of technical malfunction and human factors, another reminder of how modern flight depends on a delicate choreography of machines, software, and people.",
@@ -644,9 +619,34 @@
         ]
       },
       "match_reason": "An emotionally fraught moment in French history finds an echo in flamenco’s raw, cathartic expression of pain, resistance, and identity."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 2004, an inflatable boat overloaded with Albanian migrants stalled near the Karaburun Peninsula on its way to Italy; exposure and rough seas killed 28 people, making it Albania’s second deadliest maritime disaster. The tragedy is one of many hidden stories behind the Mediterranean’s image as both holiday sea and perilous crossing.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Karaburun_tragedy",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A deadly Mediterranean crossing is paired with an episode explicitly about the sea’s cultures, hinting at both its beauty and its human cost."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T13:00:01.762316+00:00"
+  "updated_at": "2026-01-09T14:00:01.900603+00:00"
 }
