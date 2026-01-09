@@ -1,56 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "Back in 1127, Jurchen forces of the Jin dynasty stormed Bianjing (Kaifeng), capital of the Northern Song dynasty, capturing the emperor and officials in an episode known as the Jingkang Incident. The humiliation shattered a powerful empire and forced the court to flee south, reshaping the political and cultural map of China.",
-    "fact_year": 1127,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jin%E2%80%93Song_wars",
+    "hour": 20,
+    "fact_text": "In 1909’s Fort Tejon temblor’s distant cousin across time, the 1693 Sicily quake and the 1038 Dingxiang event, another type of shock shook societies—but in a different way: in 2015’s Charlie Hebdo aftermath, the hostage crisis at a kosher supermarket in Vincennes brought centuries-old tensions about identity and belonging into a single, terrifying afternoon. The episode forced Europe to confront how satire, faith, migration, and violence interlock in the modern city.",
+    "fact_year": 2015,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
     "episode": {
-      "id": 38,
-      "title": "Morning Drops #32 - A Weekend In London",
-      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "Dele Sosimi - E Go Betta",
-        "Jimmy Castor Bunch - It's Just Begun",
-        "Little Simz feat. Obongjayar - Lion",
-        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Funk",
-        "UK Hip-Hop",
-        "Electronic"
+        "New Wave",
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
       ]
     },
-    "match_reason": "A capital city under siege centuries ago contrasts with a modern global capital alive with culture, highlighting how cities transform yet remain centers of power and story."
+    "match_reason": "A painful event targeting a Jewish supermarket and its community is juxtaposed with an episode centering powerful voices that question, resist, and heal through song."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "In 1909’s Fort Tejon temblor’s distant cousin across time, the 1693 Sicily quake and the 1038 Dingxiang event, another type of shock shook societies—but in a different way: in 2015’s Charlie Hebdo aftermath, the hostage crisis at a kosher supermarket in Vincennes brought centuries-old tensions about identity and belonging into a single, terrifying afternoon. The episode forced Europe to confront how satire, faith, migration, and violence interlock in the modern city.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A painful event targeting a Jewish supermarket and its community is juxtaposed with an episode centering powerful voices that question, resist, and heal through song."
-    },
     {
       "hour": 21,
       "fact_text": "In 2015, while investigators still pieced together the Charlie Hebdo attack, Europe watched in real time as a hostage-taker aligned with the gunmen seized the Hypercacher kosher supermarket in eastern Paris. The siege ended with hostages freed and the attacker killed, but left lasting questions about antisemitism, security, and how societies protect minority communities.",
@@ -644,9 +619,34 @@
         ]
       },
       "match_reason": "A capital city under siege centuries ago contrasts with a modern global capital alive with culture, highlighting how cities transform yet remain centers of power and story."
+    },
+    {
+      "hour": 20,
+      "fact_text": "In 1909’s Fort Tejon temblor’s distant cousin across time, the 1693 Sicily quake and the 1038 Dingxiang event, another type of shock shook societies—but in a different way: in 2015’s Charlie Hebdo aftermath, the hostage crisis at a kosher supermarket in Vincennes brought centuries-old tensions about identity and belonging into a single, terrifying afternoon. The episode forced Europe to confront how satire, faith, migration, and violence interlock in the modern city.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hypercacher_kosher_supermarket_siege",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "A painful event targeting a Jewish supermarket and its community is juxtaposed with an episode centering powerful voices that question, resist, and heal through song."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T19:00:01.573694+00:00"
+  "updated_at": "2026-01-09T20:00:02.137467+00:00"
 }
