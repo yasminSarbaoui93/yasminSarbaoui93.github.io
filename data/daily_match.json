@@ -1,58 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "Back in 1793, French aeronaut Jean-Pierre Blanchard made the first balloon flight in the United States, lifting off from Philadelphia and drifting over the city watched by a crowd that included President George Washington. In an era of horses and sailing ships, this gentle ascent into the sky must have looked like pure science fiction.",
-    "fact_year": 1793,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard",
+    "hour": 12,
+    "fact_text": "In 2015, a tragic mass poisoning unfolded at a funeral in Mozambique when a traditional beer called pombe was contaminated by the bacterium Burkholderia gladioli. What should have been a communal ritual of mourning and togetherness turned into a public health nightmare, killing 75 people and sickening hundreds more.",
+    "fact_year": 2015,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mozambique_funeral_beer_poisoning",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "An early airborne journey over water connects with a seaborne travel episode, both celebrating slow movement, wind, and shared adventure."
+    "match_reason": "A modern African tragedy tied to communal gathering contrasts poignantly with an episode celebrating African musical resilience and shared rhythms."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 2015, a tragic mass poisoning unfolded at a funeral in Mozambique when a traditional beer called pombe was contaminated by the bacterium Burkholderia gladioli. What should have been a communal ritual of mourning and togetherness turned into a public health nightmare, killing 75 people and sickening hundreds more.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mozambique_funeral_beer_poisoning",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A modern African tragedy tied to communal gathering contrasts poignantly with an episode celebrating African musical resilience and shared rhythms."
-    },
     {
       "hour": 13,
       "fact_text": "Also in 2015, the manhunt following the Charlie Hebdo attack in Paris ended in two coordinated hostage crises: the Kouachi brothers were killed in a printworks, while a gunman allied with them seized a kosher supermarket in Vincennes. The events exposed deep fractures around free speech, antisemitism, and radicalization in contemporary France.",
@@ -647,9 +619,33 @@
         ]
       },
       "match_reason": "An early airborne journey over water connects with a seaborne travel episode, both celebrating slow movement, wind, and shared adventure."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 2015, a tragic mass poisoning unfolded at a funeral in Mozambique when a traditional beer called pombe was contaminated by the bacterium Burkholderia gladioli. What should have been a communal ritual of mourning and togetherness turned into a public health nightmare, killing 75 people and sickening hundreds more.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mozambique_funeral_beer_poisoning",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A modern African tragedy tied to communal gathering contrasts poignantly with an episode celebrating African musical resilience and shared rhythms."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T11:00:01.804489+00:00"
+  "updated_at": "2026-01-09T12:00:02.382377+00:00"
 }
