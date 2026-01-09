@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 2021, Sriwijaya Air Flight 182 plunged into the Java Sea minutes after take-off from Jakarta, killing all 62 people on board. Investigators later traced the tragedy to a combination of technical malfunction and human factors, another reminder of how modern flight depends on a delicate choreography of machines, software, and people.",
-    "fact_year": 2021,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sriwijaya_Air_Flight_182",
+    "hour": 16,
+    "fact_text": "In 1964, Panamanian students marched into the U.S.-controlled Canal Zone carrying their national flag, sparking clashes with U.S. residents and troops when the flag was torn. The violence, later commemorated as Martyrs’ Day, became a turning point that pushed Panama and the United States toward renegotiating control of the canal.",
+    "fact_year": 1964,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "Both the fact and the episode are rooted in Southeast Asia and the surrounding seas, contrasting a flight tragedy with a grounded, embodied journey in the region."
+    "match_reason": "A pivotal Panamanian protest about sovereignty links directly to an episode tracing Panama’s cultural voice through reggaeton’s origins."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1964, Panamanian students marched into the U.S.-controlled Canal Zone carrying their national flag, sparking clashes with U.S. residents and troops when the flag was torn. The violence, later commemorated as Martyrs’ Day, became a turning point that pushed Panama and the United States toward renegotiating control of the canal.",
-      "fact_year": 1964,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A pivotal Panamanian protest about sovereignty links directly to an episode tracing Panama’s cultural voice through reggaeton’s origins."
-    },
     {
       "hour": 17,
       "fact_text": "In 1961, British authorities announced they had uncovered the Portland spy ring, a Soviet network that had been leaking sensitive naval research from a submarine base and an underwater weapons lab. Ordinary-seeming clerks and civil servants turned out to be key conduits in a quiet war of documents, microfilm, and hidden loyalties.",
@@ -644,9 +619,33 @@
         ]
       },
       "match_reason": "Both the fact and the episode are rooted in Southeast Asia and the surrounding seas, contrasting a flight tragedy with a grounded, embodied journey in the region."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1964, Panamanian students marched into the U.S.-controlled Canal Zone carrying their national flag, sparking clashes with U.S. residents and troops when the flag was torn. The violence, later commemorated as Martyrs’ Day, became a turning point that pushed Panama and the United States toward renegotiating control of the canal.",
+      "fact_year": 1964,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A pivotal Panamanian protest about sovereignty links directly to an episode tracing Panama’s cultural voice through reggaeton’s origins."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T15:00:01.684052+00:00"
+  "updated_at": "2026-01-09T16:00:02.031348+00:00"
 }
