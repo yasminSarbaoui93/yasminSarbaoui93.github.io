@@ -1,64 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1799, British Prime Minister William Pitt the Younger introduced an unprecedented income tax to fund war against Napoleonic France, charging two shillings per pound of income above a certain threshold. Intended as a temporary wartime measure, it helped birth the modern idea that states could peer into private earnings to finance collective endeavors.",
-    "fact_year": 1799,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Income_tax",
+    "hour": 8,
+    "fact_text": "In 1861, the unarmed merchant ship Star of the West tried to resupply Fort Sumter near Charleston, only to be fired upon by cadets and shore batteries—months before the U.S. Civil War’s first official battle. The brief clash turned a civilian vessel into a symbol of looming conflict, showing how close the country already was to open war.",
+    "fact_year": 1861,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "A structural social shift around money and power connects with a foundational, high-energy episode that set up Sedna FM’s own long-term story."
+    "match_reason": "An industrial-age ship at the edge of conflict resonates with an episode about a gritty industrial city and layered narratives within one place."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1861, the unarmed merchant ship Star of the West tried to resupply Fort Sumter near Charleston, only to be fired upon by cadets and shore batteries—months before the U.S. Civil War’s first official battle. The brief clash turned a civilian vessel into a symbol of looming conflict, showing how close the country already was to open war.",
-      "fact_year": 1861,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "An industrial-age ship at the edge of conflict resonates with an episode about a gritty industrial city and layered narratives within one place."
-    },
     {
       "hour": 9,
       "fact_text": "In 1941, the British Avro Lancaster heavy bomber took to the sky for its first flight, a hulking four‑engine aircraft that would later carry some of the war’s most daring night raids. Its cavernous bomb bay and long wingspan made it an engineering marvel of its time—and a flying symbol of how aviation was reshaping warfare.",
@@ -652,9 +619,34 @@
         ]
       },
       "match_reason": "A structural social shift around money and power connects with a foundational, high-energy episode that set up Sedna FM’s own long-term story."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1861, the unarmed merchant ship Star of the West tried to resupply Fort Sumter near Charleston, only to be fired upon by cadets and shore batteries—months before the U.S. Civil War’s first official battle. The brief clash turned a civilian vessel into a symbol of looming conflict, showing how close the country already was to open war.",
+      "fact_year": 1861,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Star_of_the_West",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "An industrial-age ship at the edge of conflict resonates with an episode about a gritty industrial city and layered narratives within one place."
     }
   ],
   "generated_at": "2026-01-09T00:00:00.013031+00:00",
   "date": "2026-01-09",
-  "updated_at": "2026-01-09T07:00:02.048026+00:00"
+  "updated_at": "2026-01-09T08:00:01.835094+00:00"
 }
