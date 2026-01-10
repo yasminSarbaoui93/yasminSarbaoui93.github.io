@@ -1,60 +1,36 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On 10 January 1946, delegates from 51 countries gathered in Methodist Central Hall in London for the first General Assembly of the United Nations. In a building usually used for sermons and concerts, they tried to design a system that might keep the next world war from happening.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Methodist_Central_Hall,_Westminster",
+    "hour": 20,
+    "fact_text": "The United States Army Signal Corps, founded long before Project Diana, evolved from flag-waving and drum signals into a high-tech branch handling radios, radar, and satellites. It became a kind of nervous system for the modern battlefield, carrying invisible messages through air and space.",
+    "fact_year": 1860,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Army_Signal_Corps",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The UN’s first assembly is about global voices sharing one hall; Afrobeat’s rise is about African voices claiming space in the global soundscape—both build intricate rhythms of many nations."
+    "match_reason": "A corps devoted to sending signals and orchestrating movements across vast distances fits with an episode that starts as a quiet pulse and grows into a coordinated, transcontinental dance."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "The United States Army Signal Corps, founded long before Project Diana, evolved from flag-waving and drum signals into a high-tech branch handling radios, radar, and satellites. It became a kind of nervous system for the modern battlefield, carrying invisible messages through air and space.",
-      "fact_year": 1860,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Army_Signal_Corps",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A corps devoted to sending signals and orchestrating movements across vast distances fits with an episode that starts as a quiet pulse and grows into a coordinated, transcontinental dance."
-    },
     {
       "hour": 21,
       "fact_text": "The Rubicon itself is a modest river in northeastern Italy, once the legal boundary Caesar was forbidden to cross with his army. Today it’s small enough to wade through in places, yet its name has come to mean making any irreversible, world-changing decision.",
@@ -649,9 +625,39 @@
         ]
       },
       "match_reason": "The UN’s first assembly is about global voices sharing one hall; Afrobeat’s rise is about African voices claiming space in the global soundscape—both build intricate rhythms of many nations."
+    },
+    {
+      "hour": 20,
+      "fact_text": "The United States Army Signal Corps, founded long before Project Diana, evolved from flag-waving and drum signals into a high-tech branch handling radios, radar, and satellites. It became a kind of nervous system for the modern battlefield, carrying invisible messages through air and space.",
+      "fact_year": 1860,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Army_Signal_Corps",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A corps devoted to sending signals and orchestrating movements across vast distances fits with an episode that starts as a quiet pulse and grows into a coordinated, transcontinental dance."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T19:00:01.975507+00:00"
+  "updated_at": "2026-01-10T20:00:01.945665+00:00"
 }
