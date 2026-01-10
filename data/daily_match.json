@@ -1,64 +1,39 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In January 1941, Greek forces captured the Klisura Pass (near modern Këlcyrë) during the Greco-Italian War, seizing a critical mountain corridor in brutal winter conditions. The victory became a symbol of a smaller nation’s resilience against a larger invading power.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
+    "hour": 7,
+    "fact_text": "Time Warner was born on 10 January 1990, merging a magazine empire with a film-and-music conglomerate and foreshadowing the age of mega media companies. It was an early experiment in owning stories, channels, and audiences across nearly every screen and page at once.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WarnerMedia",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A fierce mountain battle in the Balkans is anchored between Greece and Italy, perfectly echoed by a Mediterranean-focused episode that sails between those same coasts in sound instead of war."
+    "match_reason": "A sprawling media conglomerate weaving multiple formats together fits with Sedna’s own origin episode: a multi-genre 'network' in miniature where many stories share one channel."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "Time Warner was born on 10 January 1990, merging a magazine empire with a film-and-music conglomerate and foreshadowing the age of mega media companies. It was an early experiment in owning stories, channels, and audiences across nearly every screen and page at once.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WarnerMedia",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A sprawling media conglomerate weaving multiple formats together fits with Sedna’s own origin episode: a multi-genre 'network' in miniature where many stories share one channel."
-    },
     {
       "hour": 8,
       "fact_text": "The Spindletop gusher in Texas roared to life in 1901, blasting oil over 45 meters into the air and flowing at rates that stunned engineers. That single well helped ignite the modern petroleum age, transforming everything from cars and plastics to geopolitics.",
@@ -650,9 +625,42 @@
         ]
       },
       "match_reason": "A fierce mountain battle in the Balkans is anchored between Greece and Italy, perfectly echoed by a Mediterranean-focused episode that sails between those same coasts in sound instead of war."
+    },
+    {
+      "hour": 7,
+      "fact_text": "Time Warner was born on 10 January 1990, merging a magazine empire with a film-and-music conglomerate and foreshadowing the age of mega media companies. It was an early experiment in owning stories, channels, and audiences across nearly every screen and page at once.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WarnerMedia",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A sprawling media conglomerate weaving multiple formats together fits with Sedna’s own origin episode: a multi-genre 'network' in miniature where many stories share one channel."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T06:00:01.912907+00:00"
+  "updated_at": "2026-01-10T07:00:01.980488+00:00"
 }
