@@ -1,62 +1,39 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1946, U.S. Army engineers beamed powerful radar pulses at the Moon in an experiment called Project Diana and, for the first time, heard their own radio signal echo back from another celestial body. It proved that Earth could use radio waves to communicate beyond its atmosphere, laying groundwork for deep-space tracking and interplanetary communication.",
+    "hour": 1,
+    "fact_text": "On the same day in 1946, delegates from 51 nations gathered in London for the very first session of the United Nations General Assembly. In a building normally used for church services, they laid the foundations for a new experiment in global cooperation after the devastation of World War II.",
     "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Diana",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A literal radio echo from the Moon pairs with an episode about reimagining empty space as creative space, both turning cosmic distance into possibility."
+    "match_reason": "The UN’s first assembly is a \"where it all began\" moment for global diplomacy, mirroring Sedna FM’s own first, foundational episode."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On the same day in 1946, delegates from 51 nations gathered in London for the very first session of the United Nations General Assembly. In a building normally used for church services, they laid the foundations for a new experiment in global cooperation after the devastation of World War II.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The UN’s first assembly is a \"where it all began\" moment for global diplomacy, mirroring Sedna FM’s own first, foundational episode."
-    },
     {
       "hour": 2,
       "fact_text": "In 1917, after being stranded for months on the frozen edge of Antarctica, seven members of Shackleton’s Ross Sea party were finally rescued. They had endured scurvy, extreme cold, and the deaths of companions while continuing their mission to lay vital supply depots for explorers who never came.",
@@ -638,9 +615,42 @@
         ]
       },
       "match_reason": "A literal radio echo from the Moon pairs with an episode about reimagining empty space as creative space, both turning cosmic distance into possibility."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On the same day in 1946, delegates from 51 nations gathered in London for the very first session of the United Nations General Assembly. In a building normally used for church services, they laid the foundations for a new experiment in global cooperation after the devastation of World War II.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The UN’s first assembly is a \"where it all began\" moment for global diplomacy, mirroring Sedna FM’s own first, foundational episode."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T00:00:47.236183+00:00"
+  "updated_at": "2026-01-10T01:00:01.593656+00:00"
 }
