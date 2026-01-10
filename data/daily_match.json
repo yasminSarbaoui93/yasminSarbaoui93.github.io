@@ -1,65 +1,40 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On this day in 1901, a drilling crew near Beaumont, Texas hit the Spindletop oil reservoir, and crude oil erupted more than 45 meters into the air for nine days. The gusher kicked off the Texas Oil Boom, flooding the world with cheap petroleum and reshaping industry, transport, and geopolitics.",
-    "fact_year": 1901,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spindletop",
+    "hour": 6,
+    "fact_text": "In 1812, the steamboat New Orleans completed the first steam-powered journey down the Ohio and Mississippi Rivers, arriving in New Orleans 82 days after leaving Pittsburgh. Its voyage proved that bulky river transport could be driven by engines rather than sails or muscle, altering trade and travel across the American interior.",
+    "fact_year": 1812,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_Orleans_(steamboat)",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "The violent surge of Spindletop’s gusher parallels the episode’s blast of high-voltage guitars and sudden, energetic \"shock\" to the system."
+    "match_reason": "A pioneering, engine-powered river journey aligns with a travel-themed, forward-moving mix made for being in motion and embracing new routes."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1812, the steamboat New Orleans completed the first steam-powered journey down the Ohio and Mississippi Rivers, arriving in New Orleans 82 days after leaving Pittsburgh. Its voyage proved that bulky river transport could be driven by engines rather than sails or muscle, altering trade and travel across the American interior.",
-      "fact_year": 1812,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_Orleans_(steamboat)",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A pioneering, engine-powered river journey aligns with a travel-themed, forward-moving mix made for being in motion and embracing new routes."
-    },
     {
       "hour": 7,
       "fact_text": "In 1861, Florida became the third U.S. state to secede from the Union, joining a chain reaction that would ignite the American Civil War. Leaders saw the decision as a defense of states’ rights and slavery, but it plunged the region into one of the bloodiest conflicts in U.S. history.",
@@ -640,9 +615,43 @@
         ]
       },
       "match_reason": "The violent surge of Spindletop’s gusher parallels the episode’s blast of high-voltage guitars and sudden, energetic \"shock\" to the system."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1812, the steamboat New Orleans completed the first steam-powered journey down the Ohio and Mississippi Rivers, arriving in New Orleans 82 days after leaving Pittsburgh. Its voyage proved that bulky river transport could be driven by engines rather than sails or muscle, altering trade and travel across the American interior.",
+      "fact_year": 1812,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_Orleans_(steamboat)",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A pioneering, engine-powered river journey aligns with a travel-themed, forward-moving mix made for being in motion and embracing new routes."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T05:00:02.282187+00:00"
+  "updated_at": "2026-01-10T06:00:01.943676+00:00"
 }
