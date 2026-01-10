@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 2003, North Korea became the first country to withdraw from the Nuclear Non-Proliferation Treaty, stepping out of a global effort meant to restrain atomic weapons. The move exposed how fragile international agreements can be when trust, fear, and power politics collide.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons",
+    "hour": 5,
+    "fact_text": "BOAC Flight 781, a de Havilland Comet, disintegrated mid-air over the Tyrrhenian Sea in 1954, killing everyone on board and shocking a world that had just embraced jet travel. The painstaking investigation that followed helped uncover metal fatigue in pressurized fuselages, rewriting aviation safety and saving countless future lives.",
+    "fact_year": 1954,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BOAC_Flight_781",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the NPT withdrawal and the episode examine what happens when a system built on fragile agreements and invisible networks is abruptly stepped away from."
+    "match_reason": "A sudden, catastrophic failure in a cutting-edge machine resonates with an episode themed around high-voltage intensity—like an \"electric shock\" that forced aviation to rethink risk."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "BOAC Flight 781, a de Havilland Comet, disintegrated mid-air over the Tyrrhenian Sea in 1954, killing everyone on board and shocking a world that had just embraced jet travel. The painstaking investigation that followed helped uncover metal fatigue in pressurized fuselages, rewriting aviation safety and saving countless future lives.",
-      "fact_year": 1954,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BOAC_Flight_781",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden, catastrophic failure in a cutting-edge machine resonates with an episode themed around high-voltage intensity—like an \"electric shock\" that forced aviation to rethink risk."
-    },
     {
       "hour": 6,
       "fact_text": "In January 1941, Greek forces captured the Klisura Pass (near modern Këlcyrë) during the Greco-Italian War, seizing a critical mountain corridor in brutal winter conditions. The victory became a symbol of a smaller nation’s resilience against a larger invading power.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "Both the NPT withdrawal and the episode examine what happens when a system built on fragile agreements and invisible networks is abruptly stepped away from."
+    },
+    {
+      "hour": 5,
+      "fact_text": "BOAC Flight 781, a de Havilland Comet, disintegrated mid-air over the Tyrrhenian Sea in 1954, killing everyone on board and shocking a world that had just embraced jet travel. The painstaking investigation that followed helped uncover metal fatigue in pressurized fuselages, rewriting aviation safety and saving countless future lives.",
+      "fact_year": 1954,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BOAC_Flight_781",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden, catastrophic failure in a cutting-edge machine resonates with an episode themed around high-voltage intensity—like an \"electric shock\" that forced aviation to rethink risk."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T04:00:01.525984+00:00"
+  "updated_at": "2026-01-10T05:00:01.917678+00:00"
 }
