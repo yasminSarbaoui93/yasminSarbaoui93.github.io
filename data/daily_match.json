@@ -1,52 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1861, Florida became the third U.S. state to secede from the Union, joining a chain reaction that would ignite the American Civil War. Leaders saw the decision as a defense of states’ rights and slavery, but it plunged the region into one of the bloodiest conflicts in U.S. history.",
-    "fact_year": 1861,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Civil_War",
+    "hour": 8,
+    "fact_text": "On January 10, 1941, in the midst of World War II’s Balkan campaign, Greek forces captured the Kleisoura Pass (Klisura) from Italian troops. This mountain pass became a symbol of a smaller nation’s unexpected resistance in difficult terrain against a supposedly superior army.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A secession driven by power and race politics contrasts with an episode that uses conscious rap to interrogate identity, oppression, and the boxes societies create."
+    "match_reason": "A fierce mountain battle in the Greco-Italian war is paired with an Italian-led episode about defiant rock rebels, each telling stories of resistance against expectations."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On January 10, 1941, in the midst of World War II’s Balkan campaign, Greek forces captured the Kleisoura Pass (Klisura) from Italian troops. This mountain pass became a symbol of a smaller nation’s unexpected resistance in difficult terrain against a supposedly superior army.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A fierce mountain battle in the Greco-Italian war is paired with an Italian-led episode about defiant rock rebels, each telling stories of resistance against expectations."
-    },
     {
       "hour": 9,
       "fact_text": "On this day in 1954, BOAC Flight 781, a pioneering de Havilland Comet jet airliner, broke apart mid-flight over the Tyrrhenian Sea, killing all 35 on board. The tragedy led to one of the earliest deep forensic investigations in aviation, revealing metal fatigue and fundamentally changing how aircraft are designed and tested.",
@@ -637,9 +615,33 @@
         ]
       },
       "match_reason": "A secession driven by power and race politics contrasts with an episode that uses conscious rap to interrogate identity, oppression, and the boxes societies create."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On January 10, 1941, in the midst of World War II’s Balkan campaign, Greek forces captured the Kleisoura Pass (Klisura) from Italian troops. This mountain pass became a symbol of a smaller nation’s unexpected resistance in difficult terrain against a supposedly superior army.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A fierce mountain battle in the Greco-Italian war is paired with an Italian-led episode about defiant rock rebels, each telling stories of resistance against expectations."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T07:00:01.719363+00:00"
+  "updated_at": "2026-01-10T08:00:01.794182+00:00"
 }
