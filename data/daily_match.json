@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1946, Project Diana became the first experiment to successfully bounce radio waves off the Moon and receive the echo back on Earth. This proof that signals could pierce the ionosphere not only opened the door to radar astronomy, but also quietly foreshadowed the age of deep-space communication and interplanetary broadcasting.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Diana",
+    "hour": 1,
+    "fact_text": "On 10 January 1917, seven exhausted members of the Ross Sea party were finally rescued after being stranded for months in Antarctica. They had laid supply depots in blizzards and darkness, losing comrades along the way, so that another team—who never arrived—might one day cross the continent.",
+    "fact_year": 1917,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
+        "Neo-Classical",
         "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A story about literally sending signals into space pairs with an episode that reimagines empty space as a creative frontier, both reframing the void as possibility."
+    "match_reason": "Both the Antarctic rescue and the episode live in polar light: cold seas, long endurance, and quiet, cinematic awe at the edges of the Earth."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 10 January 1917, seven exhausted members of the Ross Sea party were finally rescued after being stranded for months in Antarctica. They had laid supply depots in blizzards and darkness, losing comrades along the way, so that another team—who never arrived—might one day cross the continent.",
-      "fact_year": 1917,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the Antarctic rescue and the episode live in polar light: cold seas, long endurance, and quiet, cinematic awe at the edges of the Earth."
-    },
     {
       "hour": 2,
       "fact_text": "When Fritz Lang's silent film \"Metropolis\" premiered in 1927, its towering cityscapes, robot double, and class-struggle story invented much of the visual language of science fiction cinema. Many of its most iconic scenes survive only in fragments, making the movie itself feel like a lost future we keep trying to reconstruct.",
@@ -648,9 +625,34 @@
         ]
       },
       "match_reason": "A story about literally sending signals into space pairs with an episode that reimagines empty space as a creative frontier, both reframing the void as possibility."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 10 January 1917, seven exhausted members of the Ross Sea party were finally rescued after being stranded for months in Antarctica. They had laid supply depots in blizzards and darkness, losing comrades along the way, so that another team—who never arrived—might one day cross the continent.",
+      "fact_year": 1917,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the Antarctic rescue and the episode live in polar light: cold seas, long endurance, and quiet, cinematic awe at the edges of the Earth."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T00:00:46.990308+00:00"
+  "updated_at": "2026-01-10T01:00:01.697051+00:00"
 }
