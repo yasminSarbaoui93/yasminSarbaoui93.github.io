@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On this day in 1984, as Washington and the Vatican exchanged ambassadors again, another, quieter shift was underway: global pop culture was increasingly blending sacred symbols with secular sounds. From cathedrals in film to spiritual samples in electronic music, the boundary between ritual and entertainment was blurring.",
-    "fact_year": 1984,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Holy_See",
+    "hour": 23,
+    "fact_text": "Meanwhile, far from treaties and headlines, Earth’s own nature keeps writing its quiet history on January 10: river levels rise and fall, migratory birds adjust their routes, and polar ice creaks under shifting temperatures. On any given day, the planet is full of small, barely noticed tipping points that shape tomorrow’s landscapes.",
+    "fact_year": 2026,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nature",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "An institution of towering cathedrals pairs with a mountain-themed, reflective episode—both spaces where people search for perspective above everyday life."
+    "match_reason": "A broad, planet-wide reflection on subtle natural shifts finds a companion in a water-themed, immersive episode that invites listeners to notice what moves beneath the surface."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Meanwhile, far from treaties and headlines, Earth’s own nature keeps writing its quiet history on January 10: river levels rise and fall, migratory birds adjust their routes, and polar ice creaks under shifting temperatures. On any given day, the planet is full of small, barely noticed tipping points that shape tomorrow’s landscapes.",
-      "fact_year": 2026,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nature",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A broad, planet-wide reflection on subtle natural shifts finds a companion in a water-themed, immersive episode that invites listeners to notice what moves beneath the surface."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -640,9 +614,34 @@
         ]
       },
       "match_reason": "An institution of towering cathedrals pairs with a mountain-themed, reflective episode—both spaces where people search for perspective above everyday life."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Meanwhile, far from treaties and headlines, Earth’s own nature keeps writing its quiet history on January 10: river levels rise and fall, migratory birds adjust their routes, and polar ice creaks under shifting temperatures. On any given day, the planet is full of small, barely noticed tipping points that shape tomorrow’s landscapes.",
+      "fact_year": 2026,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nature",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A broad, planet-wide reflection on subtle natural shifts finds a companion in a water-themed, immersive episode that invites listeners to notice what moves beneath the surface."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T22:00:01.801445+00:00"
+  "updated_at": "2026-01-10T23:00:01.622263+00:00"
 }
