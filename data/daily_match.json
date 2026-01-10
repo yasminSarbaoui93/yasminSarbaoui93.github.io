@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "BOAC Flight 781, a de Havilland Comet, disintegrated mid-air over the Tyrrhenian Sea in 1954, killing everyone on board and shocking a world that had just embraced jet travel. The painstaking investigation that followed helped uncover metal fatigue in pressurized fuselages, rewriting aviation safety and saving countless future lives.",
-    "fact_year": 1954,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BOAC_Flight_781",
+    "hour": 6,
+    "fact_text": "In January 1941, Greek forces captured the Klisura Pass (near modern Këlcyrë) during the Greco-Italian War, seizing a critical mountain corridor in brutal winter conditions. The victory became a symbol of a smaller nation’s resilience against a larger invading power.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A sudden, catastrophic failure in a cutting-edge machine resonates with an episode themed around high-voltage intensity—like an \"electric shock\" that forced aviation to rethink risk."
+    "match_reason": "A fierce mountain battle in the Balkans is anchored between Greece and Italy, perfectly echoed by a Mediterranean-focused episode that sails between those same coasts in sound instead of war."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In January 1941, Greek forces captured the Klisura Pass (near modern Këlcyrë) during the Greco-Italian War, seizing a critical mountain corridor in brutal winter conditions. The victory became a symbol of a smaller nation’s resilience against a larger invading power.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A fierce mountain battle in the Balkans is anchored between Greece and Italy, perfectly echoed by a Mediterranean-focused episode that sails between those same coasts in sound instead of war."
-    },
     {
       "hour": 7,
       "fact_text": "Time Warner was born on 10 January 1990, merging a magazine empire with a film-and-music conglomerate and foreshadowing the age of mega media companies. It was an early experiment in owning stories, channels, and audiences across nearly every screen and page at once.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "A sudden, catastrophic failure in a cutting-edge machine resonates with an episode themed around high-voltage intensity—like an \"electric shock\" that forced aviation to rethink risk."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In January 1941, Greek forces captured the Klisura Pass (near modern Këlcyrë) during the Greco-Italian War, seizing a critical mountain corridor in brutal winter conditions. The victory became a symbol of a smaller nation’s resilience against a larger invading power.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Capture_of_Klisura_Pass",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A fierce mountain battle in the Balkans is anchored between Greece and Italy, perfectly echoed by a Mediterranean-focused episode that sails between those same coasts in sound instead of war."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T05:00:01.917678+00:00"
+  "updated_at": "2026-01-10T06:00:01.912907+00:00"
 }
