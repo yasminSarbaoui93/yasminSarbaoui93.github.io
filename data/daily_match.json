@@ -1,55 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On January 10, 1927, Fritz Lang’s Metropolis premiered in Germany, introducing one of cinema’s first sprawling futuristic cities and an iconic robot double. The film’s towering machines, class struggle, and expressionist visuals helped define the look and politics of science fiction for almost a century.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
+    "hour": 4,
+    "fact_text": "In 49 BC, Julius Caesar led a single legion across the small Italian river Rubicon, an apparently simple march that amounted to a declaration of war on the Roman Senate. The act was so decisive that “crossing the Rubicon” still means taking an irreversible step with enormous consequences.",
+    "fact_year": -49,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "Metropolis’s towering machines and futuristic cityscape resonate with an episode built around synths, machines, and the electronic pulse that reshaped nightlife."
+    "match_reason": "Caesar’s Rubicon crossing is a monumental turning point, echoing an episode centered on bold transitions and the courage to embrace irreversible change."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 49 BC, Julius Caesar led a single legion across the small Italian river Rubicon, an apparently simple march that amounted to a declaration of war on the Roman Senate. The act was so decisive that “crossing the Rubicon” still means taking an irreversible step with enormous consequences.",
-      "fact_year": -49,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "Caesar’s Rubicon crossing is a monumental turning point, echoing an episode centered on bold transitions and the courage to embrace irreversible change."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 1901, a drilling crew near Beaumont, Texas hit the Spindletop oil reservoir, and crude oil erupted more than 45 meters into the air for nine days. The gusher kicked off the Texas Oil Boom, flooding the world with cheap petroleum and reshaping industry, transport, and geopolitics.",
@@ -640,9 +615,33 @@
         ]
       },
       "match_reason": "Metropolis’s towering machines and futuristic cityscape resonate with an episode built around synths, machines, and the electronic pulse that reshaped nightlife."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 49 BC, Julius Caesar led a single legion across the small Italian river Rubicon, an apparently simple march that amounted to a declaration of war on the Roman Senate. The act was so decisive that “crossing the Rubicon” still means taking an irreversible step with enormous consequences.",
+      "fact_year": -49,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "Caesar’s Rubicon crossing is a monumental turning point, echoing an episode centered on bold transitions and the courage to embrace irreversible change."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T03:00:01.475672+00:00"
+  "updated_at": "2026-01-10T04:00:01.932699+00:00"
 }
