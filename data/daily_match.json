@@ -1,64 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On the same day in 1946, delegates from 51 nations gathered in London for the very first session of the United Nations General Assembly. In a building normally used for church services, they laid the foundations for a new experiment in global cooperation after the devastation of World War II.",
-    "fact_year": 1946,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+    "hour": 2,
+    "fact_text": "In 1917, after being stranded for months on the frozen edge of Antarctica, seven members of Shackleton’s Ross Sea party were finally rescued. They had endured scurvy, extreme cold, and the deaths of companions while continuing their mission to lay vital supply depots for explorers who never came.",
+    "fact_year": 1917,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 46,
+      "title": "Morning Drops #36 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "The UN’s first assembly is a \"where it all began\" moment for global diplomacy, mirroring Sedna FM’s own first, foundational episode."
+    "match_reason": "Both stories unfold in icy waters near the poles, blending human endurance with the haunting, cinematic mood of high-latitude seas."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1917, after being stranded for months on the frozen edge of Antarctica, seven members of Shackleton’s Ross Sea party were finally rescued. They had endured scurvy, extreme cold, and the deaths of companions while continuing their mission to lay vital supply depots for explorers who never came.",
-      "fact_year": 1917,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #36 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both stories unfold in icy waters near the poles, blending human endurance with the haunting, cinematic mood of high-latitude seas."
-    },
     {
       "hour": 3,
       "fact_text": "On January 10, 1927, Fritz Lang’s Metropolis premiered in Germany, introducing one of cinema’s first sprawling futuristic cities and an iconic robot double. The film’s towering machines, class struggle, and expressionist visuals helped define the look and politics of science fiction for almost a century.",
@@ -648,9 +615,34 @@
         ]
       },
       "match_reason": "The UN’s first assembly is a \"where it all began\" moment for global diplomacy, mirroring Sedna FM’s own first, foundational episode."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1917, after being stranded for months on the frozen edge of Antarctica, seven members of Shackleton’s Ross Sea party were finally rescued. They had endured scurvy, extreme cold, and the deaths of companions while continuing their mission to lay vital supply depots for explorers who never came.",
+      "fact_year": 1917,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #36 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both stories unfold in icy waters near the poles, blending human endurance with the haunting, cinematic mood of high-latitude seas."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T01:00:01.593656+00:00"
+  "updated_at": "2026-01-10T02:00:01.817473+00:00"
 }
