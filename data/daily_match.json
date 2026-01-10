@@ -1,64 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1812, the steamboat New Orleans completed an 82-day journey from Pittsburgh, becoming the first steamboat to reach New Orleans via the Ohio and Mississippi Rivers. It marked a turning point where river currents no longer dictated direction—steam power did.",
-    "fact_year": 1812,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_Orleans_(steamboat)",
+    "hour": 11,
+    "fact_text": "In the chaotic \"Year of the Four Emperors\" (AD 69), Galba named Lucius Calpurnius Piso Licinianus as his heir, trying to stabilize Rome with a carefully chosen successor. Within days, both were murdered, and the empire plunged even deeper into political whiplash.",
+    "fact_year": 69,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Frugi_Licinianus",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A pioneering river voyage that redefined \"on the move\" pairs naturally with an episode explicitly built as a soundtrack for travel and forward motion."
+    "match_reason": "The raw instability and power struggles of imperial Rome echo the defiant, distorted energy of rock—an artform born of challenging who is allowed to hold power on stage."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In the chaotic \"Year of the Four Emperors\" (AD 69), Galba named Lucius Calpurnius Piso Licinianus as his heir, trying to stabilize Rome with a carefully chosen successor. Within days, both were murdered, and the empire plunged even deeper into political whiplash.",
-      "fact_year": 69,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Frugi_Licinianus",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "The raw instability and power struggles of imperial Rome echo the defiant, distorted energy of rock—an artform born of challenging who is allowed to hold power on stage."
-    },
     {
       "hour": 12,
       "fact_text": "In 2019, 13-year-old Jayme Closs escaped from captivity in rural Wisconsin, months after her parents were murdered and she was abducted. Her survival and self-rescue baffled investigators and became a stark reminder of both human cruelty and human resilience.",
@@ -659,9 +625,33 @@
         ]
       },
       "match_reason": "A pioneering river voyage that redefined \"on the move\" pairs naturally with an episode explicitly built as a soundtrack for travel and forward motion."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In the chaotic \"Year of the Four Emperors\" (AD 69), Galba named Lucius Calpurnius Piso Licinianus as his heir, trying to stabilize Rome with a carefully chosen successor. Within days, both were murdered, and the empire plunged even deeper into political whiplash.",
+      "fact_year": 69,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Frugi_Licinianus",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "The raw instability and power struggles of imperial Rome echo the defiant, distorted energy of rock—an artform born of challenging who is allowed to hold power on stage."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T10:00:01.907545+00:00"
+  "updated_at": "2026-01-10T11:00:01.435874+00:00"
 }
