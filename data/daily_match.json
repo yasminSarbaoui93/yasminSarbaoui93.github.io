@@ -1,53 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On a winter night in 49 BCE, Julius Caesar led a single legion across the shallow Rubicon River, an act that violated Roman law and made civil war almost inevitable. According to legend he murmured \"alea iacta est\"—the die is cast—as he walked into a point of no return.",
-    "fact_year": -49,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+    "hour": 4,
+    "fact_text": "In 2003, North Korea became the first country to withdraw from the Nuclear Non-Proliferation Treaty, stepping out of a global effort meant to restrain atomic weapons. The move exposed how fragile international agreements can be when trust, fear, and power politics collide.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Caesar’s crossing was a radical choice to break rules and redefine power, mirroring the episode’s theme of stepping across boundaries and refusing old labels."
+    "match_reason": "Both the NPT withdrawal and the episode examine what happens when a system built on fragile agreements and invisible networks is abruptly stepped away from."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 2003, North Korea became the first country to withdraw from the Nuclear Non-Proliferation Treaty, stepping out of a global effort meant to restrain atomic weapons. The move exposed how fragile international agreements can be when trust, fear, and power politics collide.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Both the NPT withdrawal and the episode examine what happens when a system built on fragile agreements and invisible networks is abruptly stepped away from."
-    },
     {
       "hour": 5,
       "fact_text": "BOAC Flight 781, a de Havilland Comet, disintegrated mid-air over the Tyrrhenian Sea in 1954, killing everyone on board and shocking a world that had just embraced jet travel. The painstaking investigation that followed helped uncover metal fatigue in pressurized fuselages, rewriting aviation safety and saving countless future lives.",
@@ -647,9 +625,34 @@
         ]
       },
       "match_reason": "Caesar’s crossing was a radical choice to break rules and redefine power, mirroring the episode’s theme of stepping across boundaries and refusing old labels."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 2003, North Korea became the first country to withdraw from the Nuclear Non-Proliferation Treaty, stepping out of a global effort meant to restrain atomic weapons. The move exposed how fragile international agreements can be when trust, fear, and power politics collide.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Both the NPT withdrawal and the episode examine what happens when a system built on fragile agreements and invisible networks is abruptly stepped away from."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T03:00:01.794628+00:00"
+  "updated_at": "2026-01-10T04:00:01.525984+00:00"
 }
