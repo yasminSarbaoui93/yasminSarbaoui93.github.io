@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1917, after being stranded for months on the frozen edge of Antarctica, seven members of Shackleton’s Ross Sea party were finally rescued. They had endured scurvy, extreme cold, and the deaths of companions while continuing their mission to lay vital supply depots for explorers who never came.",
-    "fact_year": 1917,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ross_Sea_party",
+    "hour": 3,
+    "fact_text": "On January 10, 1927, Fritz Lang’s Metropolis premiered in Germany, introducing one of cinema’s first sprawling futuristic cities and an iconic robot double. The film’s towering machines, class struggle, and expressionist visuals helped define the look and politics of science fiction for almost a century.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #36 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "Both stories unfold in icy waters near the poles, blending human endurance with the haunting, cinematic mood of high-latitude seas."
+    "match_reason": "Metropolis’s towering machines and futuristic cityscape resonate with an episode built around synths, machines, and the electronic pulse that reshaped nightlife."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On January 10, 1927, Fritz Lang’s Metropolis premiered in Germany, introducing one of cinema’s first sprawling futuristic cities and an iconic robot double. The film’s towering machines, class struggle, and expressionist visuals helped define the look and politics of science fiction for almost a century.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "Metropolis’s towering machines and futuristic cityscape resonate with an episode built around synths, machines, and the electronic pulse that reshaped nightlife."
-    },
     {
       "hour": 4,
       "fact_text": "In 49 BC, Julius Caesar led a single legion across the small Italian river Rubicon, an apparently simple march that amounted to a declaration of war on the Roman Senate. The act was so decisive that “crossing the Rubicon” still means taking an irreversible step with enormous consequences.",
@@ -640,9 +615,34 @@
         ]
       },
       "match_reason": "Both stories unfold in icy waters near the poles, blending human endurance with the haunting, cinematic mood of high-latitude seas."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On January 10, 1927, Fritz Lang’s Metropolis premiered in Germany, introducing one of cinema’s first sprawling futuristic cities and an iconic robot double. The film’s towering machines, class struggle, and expressionist visuals helped define the look and politics of science fiction for almost a century.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "Metropolis’s towering machines and futuristic cityscape resonate with an episode built around synths, machines, and the electronic pulse that reshaped nightlife."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T02:00:01.817473+00:00"
+  "updated_at": "2026-01-10T03:00:01.475672+00:00"
 }
