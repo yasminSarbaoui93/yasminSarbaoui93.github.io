@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On January 10, 1984, the United States and the Holy See restored full diplomatic relations after 117 years without formal ties. The move symbolized a new era of engagement between a global superpower and the tiny but influential Vatican microstate.",
-    "fact_year": 1984,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Holy_See%E2%80%93United_States_relations",
+    "hour": 12,
+    "fact_text": "In 1972, Sheikh Mujibur Rahman returned to a newborn Bangladesh after more than nine months in a Pakistani prison, stepping off the plane to cheering crowds. Often called the \"Father of the Nation,\" his return symbolized the survival and self-determination of a country just emerging from a brutal war of independence.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "The delicate dance between state power and spiritual authority echoes an episode centered on powerful, questioning voices that negotiate faith, identity, and autonomy."
+    "match_reason": "A story of national liberation and postcolonial identity resonates with Afrobeat’s own history as a soundtrack of political struggle, independence, and cultural pride."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1972, Sheikh Mujibur Rahman returned to a newborn Bangladesh after more than nine months in a Pakistani prison, stepping off the plane to cheering crowds. Often called the \"Father of the Nation,\" his return symbolized the survival and self-determination of a country just emerging from a brutal war of independence.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A story of national liberation and postcolonial identity resonates with Afrobeat’s own history as a soundtrack of political struggle, independence, and cultural pride."
-    },
     {
       "hour": 13,
       "fact_text": "On January 10, 1981, the Farabundo Martí National Liberation Front (FMLN) launched its first major offensive in the Salvadoran Civil War, seizing large areas in Morazán and Chalatenango. The coordinated attacks signaled that a guerrilla coalition could challenge a heavily armed government for years to come.",
@@ -640,9 +615,33 @@
         ]
       },
       "match_reason": "The delicate dance between state power and spiritual authority echoes an episode centered on powerful, questioning voices that negotiate faith, identity, and autonomy."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1972, Sheikh Mujibur Rahman returned to a newborn Bangladesh after more than nine months in a Pakistani prison, stepping off the plane to cheering crowds. Often called the \"Father of the Nation,\" his return symbolized the survival and self-determination of a country just emerging from a brutal war of independence.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A story of national liberation and postcolonial identity resonates with Afrobeat’s own history as a soundtrack of political struggle, independence, and cultural pride."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T11:00:01.535717+00:00"
+  "updated_at": "2026-01-10T12:00:01.702510+00:00"
 }
