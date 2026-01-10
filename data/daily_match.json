@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On 10 January 1984, the United States and the Holy See restored full diplomatic ties after more than a century, bridging a gap that had existed since Congress banned such relations in 1867. It was an unusual handshake between a superpower and a city-state that is also a global church.",
-    "fact_year": 1984,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Holy_See%E2%80%93United_States_relations",
+    "hour": 16,
+    "fact_text": "On this day in 1981, the FMLN guerrilla movement launched its first major offensive in El Salvador, seizing large areas in Morazán and Chalatenango. The operation signaled that the civil war would be long, entrenched, and fought as much in remote villages as in the capital.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "The reopening of official ties with the Vatican touches faith, ritual, and European history; flamenco’s deep spiritual and cultural roots in Catholic Spain echo that layered, ceremonial world."
+    "match_reason": "A rural guerrilla insurgency and Tuareg desert blues share themes of armed resistance, marginalised regions, and music emerging from landscapes of conflict and exile."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On this day in 1981, the FMLN guerrilla movement launched its first major offensive in El Salvador, seizing large areas in Morazán and Chalatenango. The operation signaled that the civil war would be long, entrenched, and fought as much in remote villages as in the capital.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A rural guerrilla insurgency and Tuareg desert blues share themes of armed resistance, marginalised regions, and music emerging from landscapes of conflict and exile."
-    },
     {
       "hour": 17,
       "fact_text": "In 1980, a brief letter titled \"Addiction Rare in Patients Treated with Narcotics\" appeared in The New England Journal of Medicine, reporting low addiction rates in one hospital. Decades later, it was repeatedly misquoted as proof that opioids were safe, becoming a tiny spark at the center of a vast addiction crisis.",
@@ -650,9 +625,33 @@
         ]
       },
       "match_reason": "The reopening of official ties with the Vatican touches faith, ritual, and European history; flamenco’s deep spiritual and cultural roots in Catholic Spain echo that layered, ceremonial world."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On this day in 1981, the FMLN guerrilla movement launched its first major offensive in El Salvador, seizing large areas in Morazán and Chalatenango. The operation signaled that the civil war would be long, entrenched, and fought as much in remote villages as in the capital.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A rural guerrilla insurgency and Tuareg desert blues share themes of armed resistance, marginalised regions, and music emerging from landscapes of conflict and exile."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T15:00:02.117420+00:00"
+  "updated_at": "2026-01-10T16:00:01.779359+00:00"
 }
