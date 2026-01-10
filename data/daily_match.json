@@ -1,57 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In 1980, a brief letter titled \"Addiction Rare in Patients Treated with Narcotics\" appeared in The New England Journal of Medicine, reporting low addiction rates in one hospital. Decades later, it was repeatedly misquoted as proof that opioids were safe, becoming a tiny spark at the center of a vast addiction crisis.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Addiction_Rare_in_Patients_Treated_with_Narcotics",
+    "hour": 18,
+    "fact_text": "Sheikh Mujibur Rahman returned to Bangladesh on 10 January 1972 after months in a Pakistani prison, stepping into Dhaka as the founding president of a war-ravaged new nation. For many Bangladeshis, his arrival felt like the moment their long-imagined country finally became real.",
+    "fact_year": 1972,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A tiny piece of medical literature being catastrophically mislearned fits an episode about how learning works, how small ideas snowball, and why we must question what we think we know."
+    "match_reason": "Both are stories of crossing borders after confinement and stepping into a landscape charged with recent struggle, where travel and arrival carry heavy historical weight."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "Sheikh Mujibur Rahman returned to Bangladesh on 10 January 1972 after months in a Pakistani prison, stepping into Dhaka as the founding president of a war-ravaged new nation. For many Bangladeshis, his arrival felt like the moment their long-imagined country finally became real.",
-      "fact_year": 1972,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "Both are stories of crossing borders after confinement and stepping into a landscape charged with recent struggle, where travel and arrival carry heavy historical weight."
-    },
     {
       "hour": 19,
       "fact_text": "On 10 January 1946, delegates from 51 countries gathered in Methodist Central Hall in London for the first General Assembly of the United Nations. In a building usually used for sermons and concerts, they tried to design a system that might keep the next world war from happening.",
@@ -651,9 +625,34 @@
         ]
       },
       "match_reason": "A tiny piece of medical literature being catastrophically mislearned fits an episode about how learning works, how small ideas snowball, and why we must question what we think we know."
+    },
+    {
+      "hour": 18,
+      "fact_text": "Sheikh Mujibur Rahman returned to Bangladesh on 10 January 1972 after months in a Pakistani prison, stepping into Dhaka as the founding president of a war-ravaged new nation. For many Bangladeshis, his arrival felt like the moment their long-imagined country finally became real.",
+      "fact_year": 1972,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "Both are stories of crossing borders after confinement and stepping into a landscape charged with recent struggle, where travel and arrival carry heavy historical weight."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T17:00:01.758902+00:00"
+  "updated_at": "2026-01-10T18:00:02.077378+00:00"
 }
