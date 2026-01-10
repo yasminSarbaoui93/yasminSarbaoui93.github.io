@@ -1,61 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 2007, a massive general strike erupted in Guinea, uniting trade unions and civil society in an effort to force President Lansana Conté to resign. The country ground to a halt as protesters challenged decades of authoritarian rule and economic hardship.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2007_Guinean_general_strike",
+    "hour": 17,
+    "fact_text": "On January 10, 2015, a collision between an oil tanker and a passenger coach near Karachi, Pakistan turned the highway into an inferno, killing at least 62 people. The crash highlighted how fuel, infrastructure, and safety standards can turn routine travel into sudden catastrophe.",
+    "fact_year": 2015,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/List_of_traffic_collisions_(2000%E2%80%93present)",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A West African mass movement against entrenched power pairs with an Afro-leaning, slowly intensifying sonic journey that moves, symbolically, from pressure to release."
+    "match_reason": "A deadly highway disaster involving speed and fuel is set against an episode that advocates slowing down and moving more gently through the world."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On January 10, 2015, a collision between an oil tanker and a passenger coach near Karachi, Pakistan turned the highway into an inferno, killing at least 62 people. The crash highlighted how fuel, infrastructure, and safety standards can turn routine travel into sudden catastrophe.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/List_of_traffic_collisions_(2000%E2%80%93present)",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A deadly highway disaster involving speed and fuel is set against an episode that advocates slowing down and moving more gently through the world."
-    },
     {
       "hour": 18,
       "fact_text": "In 2019, 13-year-old Jayme Closs escaped from a remote house in Wisconsin after being held captive for 88 days by the man who had murdered her parents. Her survival and self-rescue stunned investigators and turned her into a symbol of endurance in the face of unimaginable trauma.",
@@ -645,9 +615,34 @@
         ]
       },
       "match_reason": "A West African mass movement against entrenched power pairs with an Afro-leaning, slowly intensifying sonic journey that moves, symbolically, from pressure to release."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On January 10, 2015, a collision between an oil tanker and a passenger coach near Karachi, Pakistan turned the highway into an inferno, killing at least 62 people. The crash highlighted how fuel, infrastructure, and safety standards can turn routine travel into sudden catastrophe.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/List_of_traffic_collisions_(2000%E2%80%93present)",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A deadly highway disaster involving speed and fuel is set against an episode that advocates slowing down and moving more gently through the world."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T16:00:01.614428+00:00"
+  "updated_at": "2026-01-10T17:00:01.814038+00:00"
 }
