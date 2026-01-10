@@ -1,64 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "Time Warner was born on 10 January 1990, merging a magazine empire with a film-and-music conglomerate and foreshadowing the age of mega media companies. It was an early experiment in owning stories, channels, and audiences across nearly every screen and page at once.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/WarnerMedia",
+    "hour": 8,
+    "fact_text": "The Spindletop gusher in Texas roared to life in 1901, blasting oil over 45 meters into the air and flowing at rates that stunned engineers. That single well helped ignite the modern petroleum age, transforming everything from cars and plastics to geopolitics.",
+    "fact_year": 1901,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spindletop",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A sprawling media conglomerate weaving multiple formats together fits with Sedna’s own origin episode: a multi-genre 'network' in miniature where many stories share one channel."
+    "match_reason": "The explosive energy of an oil gusher that powered the machine age mirrors an 80s dance floor driven by electronic machines and an almost gushing, unstoppable rhythm."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "The Spindletop gusher in Texas roared to life in 1901, blasting oil over 45 meters into the air and flowing at rates that stunned engineers. That single well helped ignite the modern petroleum age, transforming everything from cars and plastics to geopolitics.",
-      "fact_year": 1901,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spindletop",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "The explosive energy of an oil gusher that powered the machine age mirrors an 80s dance floor driven by electronic machines and an almost gushing, unstoppable rhythm."
-    },
     {
       "hour": 9,
       "fact_text": "On 10 January 1861, Florida became the third U.S. state to secede from the Union, joining a cascade of departures that would soon ignite the American Civil War. For many residents, it meant waking up to find their \"country\" redefined almost overnight.",
@@ -658,9 +625,34 @@
         ]
       },
       "match_reason": "A sprawling media conglomerate weaving multiple formats together fits with Sedna’s own origin episode: a multi-genre 'network' in miniature where many stories share one channel."
+    },
+    {
+      "hour": 8,
+      "fact_text": "The Spindletop gusher in Texas roared to life in 1901, blasting oil over 45 meters into the air and flowing at rates that stunned engineers. That single well helped ignite the modern petroleum age, transforming everything from cars and plastics to geopolitics.",
+      "fact_year": 1901,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spindletop",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "The explosive energy of an oil gusher that powered the machine age mirrors an 80s dance floor driven by electronic machines and an almost gushing, unstoppable rhythm."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T07:00:01.980488+00:00"
+  "updated_at": "2026-01-10T08:00:01.855405+00:00"
 }
