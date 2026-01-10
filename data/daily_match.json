@@ -1,55 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1972, Sheikh Mujibur Rahman returned to a newborn Bangladesh after more than nine months in a Pakistani prison, stepping off the plane to cheering crowds. Often called the \"Father of the Nation,\" his return symbolized the survival and self-determination of a country just emerging from a brutal war of independence.",
-    "fact_year": 1972,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+    "hour": 13,
+    "fact_text": "On January 10, 1981, the Farabundo Martí National Liberation Front (FMLN) launched its first major offensive in the Salvadoran Civil War, seizing large areas in Morazán and Chalatenango. The coordinated attacks signaled that a guerrilla coalition could challenge a heavily armed government for years to come.",
+    "fact_year": 1981,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A story of national liberation and postcolonial identity resonates with Afrobeat’s own history as a soundtrack of political struggle, independence, and cultural pride."
+    "match_reason": "An underground guerrilla movement challenging the status quo parallels a genre born from the margins—trip-hop—quietly subverting mainstream musical structures."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On January 10, 1981, the Farabundo Martí National Liberation Front (FMLN) launched its first major offensive in the Salvadoran Civil War, seizing large areas in Morazán and Chalatenango. The coordinated attacks signaled that a guerrilla coalition could challenge a heavily armed government for years to come.",
-      "fact_year": 1981,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "An underground guerrilla movement challenging the status quo parallels a genre born from the margins—trip-hop—quietly subverting mainstream musical structures."
-    },
     {
       "hour": 14,
       "fact_text": "In 1990, Time Inc. and Warner Communications merged to form Time Warner, creating one of the world’s largest media conglomerates. The deal bundled magazines, movies, music labels, and television into a single corporate web, foreshadowing the media mega-mergers of the digital age.",
@@ -639,9 +615,34 @@
         ]
       },
       "match_reason": "A story of national liberation and postcolonial identity resonates with Afrobeat’s own history as a soundtrack of political struggle, independence, and cultural pride."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On January 10, 1981, the Farabundo Martí National Liberation Front (FMLN) launched its first major offensive in the Salvadoran Civil War, seizing large areas in Morazán and Chalatenango. The coordinated attacks signaled that a guerrilla coalition could challenge a heavily armed government for years to come.",
+      "fact_year": 1981,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Salvadoran_Civil_War",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "An underground guerrilla movement challenging the status quo parallels a genre born from the margins—trip-hop—quietly subverting mainstream musical structures."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.007616+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T12:00:01.702510+00:00"
+  "updated_at": "2026-01-10T13:00:01.877623+00:00"
 }
