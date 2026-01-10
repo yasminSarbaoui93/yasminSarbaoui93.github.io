@@ -1,54 +1,30 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The Rubicon itself is a modest river in northeastern Italy, once the legal boundary Caesar was forbidden to cross with his army. Today it’s small enough to wade through in places, yet its name has come to mean making any irreversible, world-changing decision.",
-    "fact_year": -49,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Rubicon",
+    "hour": 22,
+    "fact_text": "The Ohio River, first navigated by steamboats like the New Orleans, drains a vast swath of the eastern United States and once acted as a symbolic boundary between \"free\" and \"slave\" states. For those escaping bondage, crossing its waters could mean the difference between property and personhood.",
+    "fact_year": 1812,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ohio_River",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "A small river with outsized symbolic weight for life-changing choices matches an episode about artistic turning points and the courage to cross into a new version of yourself."
+    "match_reason": "The Ohio’s role as a freedom boundary resonates with reggae and dub’s long tradition of singing about crossing out of \"Babylon\" and imagining liberation across the water."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Ohio River, first navigated by steamboats like the New Orleans, drains a vast swath of the eastern United States and once acted as a symbolic boundary between \"free\" and \"slave\" states. For those escaping bondage, crossing its waters could mean the difference between property and personhood.",
-      "fact_year": 1812,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ohio_River",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "The Ohio’s role as a freedom boundary resonates with reggae and dub’s long tradition of singing about crossing out of \"Babylon\" and imagining liberation across the water."
-    },
     {
       "hour": 23,
       "fact_text": "The Mississippi River, joined by the Ohio at Cairo, Illinois, became an industrial superhighway once steam power allowed boats to push upriver. Long before highways and fiber-optic cables, this muddy current carried people, cotton, ideas, and music that would help birth the blues and reshape global culture.",
@@ -649,9 +625,33 @@
         ]
       },
       "match_reason": "A small river with outsized symbolic weight for life-changing choices matches an episode about artistic turning points and the courage to cross into a new version of yourself."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Ohio River, first navigated by steamboats like the New Orleans, drains a vast swath of the eastern United States and once acted as a symbolic boundary between \"free\" and \"slave\" states. For those escaping bondage, crossing its waters could mean the difference between property and personhood.",
+      "fact_year": 1812,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ohio_River",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "The Ohio’s role as a freedom boundary resonates with reggae and dub’s long tradition of singing about crossing out of \"Babylon\" and imagining liberation across the water."
     }
   ],
   "generated_at": "2026-01-10T00:00:00.016101+00:00",
   "date": "2026-01-10",
-  "updated_at": "2026-01-10T21:00:01.921956+00:00"
+  "updated_at": "2026-01-10T22:00:01.942943+00:00"
 }
