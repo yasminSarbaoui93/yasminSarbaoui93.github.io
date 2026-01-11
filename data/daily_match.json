@@ -1,74 +1,41 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On this day in 1949, KDKA‑TV in Pittsburgh began broadcasting, creating the first regular networked television link between the U.S. East Coast and Midwest. For the first time, moving images flowed in real time across multiple cities, knitting distant audiences together.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KDKA-TV",
+    "hour": 8,
+    "fact_text": "On January 11, 1927, MGM boss Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Hollywood banquet. What began as a studio‑driven idea to manage labor disputes became the institution behind the Oscars and cinema’s most famous golden statuette.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "The first networked TV bridge mirrors the first Sedna FM episode—both are inaugural broadcasts that open a new channel between distant communities."
+    "match_reason": "The founding of the Academy formalized cinema as an art of emotion and storytelling, fitting an episode devoted to love as the vulnerable engine behind great art."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On January 11, 1927, MGM boss Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Hollywood banquet. What began as a studio‑driven idea to manage labor disputes became the institution behind the Oscars and cinema’s most famous golden statuette.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "The founding of the Academy formalized cinema as an art of emotion and storytelling, fitting an episode devoted to love as the vulnerable engine behind great art."
-    },
     {
       "hour": 9,
       "fact_text": "In 1942, during World War II, Japanese forces captured Kuala Lumpur, then capital of the Federated Malay States, after rapidly advancing down the Malayan peninsula. The fall of the city foreshadowed the later collapse of British strongholds in Southeast Asia.",
@@ -679,9 +646,44 @@
         ]
       },
       "match_reason": "The first networked TV bridge mirrors the first Sedna FM episode—both are inaugural broadcasts that open a new channel between distant communities."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On January 11, 1927, MGM boss Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Hollywood banquet. What began as a studio‑driven idea to manage labor disputes became the institution behind the Oscars and cinema’s most famous golden statuette.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "The founding of the Academy formalized cinema as an art of emotion and storytelling, fitting an episode devoted to love as the vulnerable engine behind great art."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.010084+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T07:00:01.748764+00:00"
+  "updated_at": "2026-01-11T08:00:02.149184+00:00"
 }
