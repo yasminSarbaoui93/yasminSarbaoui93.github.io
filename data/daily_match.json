@@ -1,56 +1,31 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On this day in 532, a brawl between rival chariot racing factions—the Blues and the Greens—erupted into the Nika riots in Constantinople. The sports‑fueled unrest nearly toppled Emperor Justinian and left much of the city in flames.",
-    "fact_year": 532,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nika_riots",
+    "hour": 17,
+    "fact_text": "On January 11, 1914, municipal authorities in Wuhan would one day become known for issuing the first reported death from COVID‑19 in 2020. That announcement was the earliest marker of a pandemic that would transform daily life across the planet.",
+    "fact_year": 2020,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Hubei",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The Nika riots began with fanatical city crowds and spiraled into urban chaos; an episode about one modern city’s intense music scene reflects how urban energy can both unite and fracture people."
+    "match_reason": "The first reported COVID‑19 death prefigured a world of lockdowns, screens, and mediated contact; an episode interrogating our relationship with devices and isolation speaks directly to that shifted reality."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On January 11, 1914, municipal authorities in Wuhan would one day become known for issuing the first reported death from COVID‑19 in 2020. That announcement was the earliest marker of a pandemic that would transform daily life across the planet.",
-      "fact_year": 2020,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Hubei",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The first reported COVID‑19 death prefigured a world of lockdowns, screens, and mediated contact; an episode interrogating our relationship with devices and isolation speaks directly to that shifted reality."
-    },
     {
       "hour": 18,
       "fact_text": "On January 11, 1994, the Irish government ended a 15‑year broadcasting ban that had effectively silenced the voices of the IRA and Sinn Féin on radio and television. The move signaled a shift toward open dialogue that paralleled the emerging Northern Ireland peace process.",
@@ -671,9 +646,34 @@
         ]
       },
       "match_reason": "The Nika riots began with fanatical city crowds and spiraled into urban chaos; an episode about one modern city’s intense music scene reflects how urban energy can both unite and fracture people."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On January 11, 1914, municipal authorities in Wuhan would one day become known for issuing the first reported death from COVID‑19 in 2020. That announcement was the earliest marker of a pandemic that would transform daily life across the planet.",
+      "fact_year": 2020,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Hubei",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The first reported COVID‑19 death prefigured a world of lockdowns, screens, and mediated contact; an episode interrogating our relationship with devices and isolation speaks directly to that shifted reality."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.010084+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T16:00:01.555262+00:00"
+  "updated_at": "2026-01-11T17:00:01.638836+00:00"
 }
