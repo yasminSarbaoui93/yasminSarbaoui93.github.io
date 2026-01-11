@@ -1,56 +1,34 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1851, Hong Xiuquan proclaimed the Taiping Heavenly Kingdom and launched the Jintian Uprising, envisioning a radically new, quasi‑theocratic order in China. This spark grew into the Taiping Rebellion, one of history’s deadliest civil wars.",
-    "fact_year": 1851,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+    "hour": 12,
+    "fact_text": "On January 11, 1863, Union forces under General John McClernand and Admiral David Dixon Porter captured Fort Hindman at Arkansas Post. Controlling this river stronghold gave the Union a strategic grip on the Arkansas River during the American Civil War.",
+    "fact_year": 1863,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A radical attempt to overturn an entire social order parallels an episode about unboxing identity and challenging entrenched systems and labels."
+    "match_reason": "A riverine battle led jointly by army and navy reflects an episode built around life on the water and the shared navigation of a journey."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On January 11, 1863, Union forces under General John McClernand and Admiral David Dixon Porter captured Fort Hindman at Arkansas Post. Controlling this river stronghold gave the Union a strategic grip on the Arkansas River during the American Civil War.",
-      "fact_year": 1863,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A riverine battle led jointly by army and navy reflects an episode built around life on the water and the shared navigation of a journey."
-    },
     {
       "hour": 13,
       "fact_text": "That same day in 1863, the Confederate raider CSS Alabama lured the Union ship USS Hatteras away from Galveston and sank it in a brief night battle. The encounter showed how nimble commerce raiders could harass a much larger navy on the high seas.",
@@ -668,9 +646,37 @@
         ]
       },
       "match_reason": "A radical attempt to overturn an entire social order parallels an episode about unboxing identity and challenging entrenched systems and labels."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On January 11, 1863, Union forces under General John McClernand and Admiral David Dixon Porter captured Fort Hindman at Arkansas Post. Controlling this river stronghold gave the Union a strategic grip on the Arkansas River during the American Civil War.",
+      "fact_year": 1863,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A riverine battle led jointly by army and navy reflects an episode built around life on the water and the shared navigation of a journey."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.010084+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T11:00:01.863787+00:00"
+  "updated_at": "2026-01-11T12:00:01.743317+00:00"
 }
