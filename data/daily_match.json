@@ -1,55 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Louis B. Mayer’s Academy paved the way for cinematic glamour, but it was also born from a practical desire to manage labor disputes and studio image. The Oscars emerged from that mix of artistry and control, giving golden statues to human faces while keeping the machinery behind them carefully choreographed.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Louis_B._Mayer",
+    "hour": 21,
+    "fact_text": "When KDKA‑TV linked U.S. cities by television in 1949, it quietly birthed a new kind of shared memory: people in different places watching the same show at the same time. That networked experience reshaped how music, fashion, and ideas could go viral long before the internet.",
+    "fact_year": 1949,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pittsburgh",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "Hollywood’s invention of the Oscars literally offers ‘star treatment’ to actors and filmmakers, mirroring an episode that plays with the same phrase while exploring how artists evolve under the spotlight."
+    "match_reason": "Early TV networks pioneered cross‑regional culture sharing, just as trip‑hop’s evolution across Bristol, California, and D.C. shows how sound travels and mutates through connected media."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "When KDKA‑TV linked U.S. cities by television in 1949, it quietly birthed a new kind of shared memory: people in different places watching the same show at the same time. That networked experience reshaped how music, fashion, and ideas could go viral long before the internet.",
-      "fact_year": 1949,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pittsburgh",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Early TV networks pioneered cross‑regional culture sharing, just as trip‑hop’s evolution across Bristol, California, and D.C. shows how sound travels and mutates through connected media."
-    },
     {
       "hour": 22,
       "fact_text": "The first English state lottery in 1569 offered not just money but exotic prizes like fine tapestries and plate, advertised as a patriotic investment in infrastructure. Buyers were essentially backing a national project with a side of dream logic: a ticket that might turn a commoner into a patron of grand works overnight.",
@@ -661,9 +637,34 @@
         ]
       },
       "match_reason": "Hollywood’s invention of the Oscars literally offers ‘star treatment’ to actors and filmmakers, mirroring an episode that plays with the same phrase while exploring how artists evolve under the spotlight."
+    },
+    {
+      "hour": 21,
+      "fact_text": "When KDKA‑TV linked U.S. cities by television in 1949, it quietly birthed a new kind of shared memory: people in different places watching the same show at the same time. That networked experience reshaped how music, fashion, and ideas could go viral long before the internet.",
+      "fact_year": 1949,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pittsburgh",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Early TV networks pioneered cross‑regional culture sharing, just as trip‑hop’s evolution across Bristol, California, and D.C. shows how sound travels and mutates through connected media."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T20:00:01.452707+00:00"
+  "updated_at": "2026-01-11T21:00:01.519501+00:00"
 }
