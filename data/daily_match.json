@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "Also in 1962, a massive avalanche thundered down the slopes of Huascarán in Peru, burying towns and killing around 4,000 people. Triggered by ice and rock collapsing from one of the Andes’ highest peaks, it revealed how seemingly solid mountains can suddenly flow like liquid stone.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Huascar%C3%A1n",
+    "hour": 9,
+    "fact_text": "On January 11, 1942, Japanese troops captured Kuala Lumpur during their rapid World War II campaign down the Malay Peninsula. The fall of the city showed how quickly control of key urban hubs can shift, reshaping trade routes, daily life, and the cultural fabric of a region.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Kuala_Lumpur",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A catastrophic Andean avalanche and an episode inspired by the Dolomites both center on mountain landscapes—one as serene memory, the other as a reminder of their raw, unpredictable power."
+    "match_reason": "The capture of Kuala Lumpur is a stark, forced ‘travel’ and shift of power, contrasted with the episode’s gentler idea of movement changing perspective—both show how entering new territory alters the story."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On January 11, 1942, Japanese troops captured Kuala Lumpur during their rapid World War II campaign down the Malay Peninsula. The fall of the city showed how quickly control of key urban hubs can shift, reshaping trade routes, daily life, and the cultural fabric of a region.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Kuala_Lumpur",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "The capture of Kuala Lumpur is a stark, forced ‘travel’ and shift of power, contrasted with the episode’s gentler idea of movement changing perspective—both show how entering new territory alters the story."
-    },
     {
       "hour": 10,
       "fact_text": "In 1935, Amelia Earhart became the first person—man or woman—to fly solo from Hawaii to California, crossing 3,800 kilometers of open ocean. Navigating with limited instruments and no rescue possible mid‑Pacific, she turned the sky into a lonely highway and expanded the map of what solo flight could mean.",
@@ -662,9 +637,34 @@
         ]
       },
       "match_reason": "A catastrophic Andean avalanche and an episode inspired by the Dolomites both center on mountain landscapes—one as serene memory, the other as a reminder of their raw, unpredictable power."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On January 11, 1942, Japanese troops captured Kuala Lumpur during their rapid World War II campaign down the Malay Peninsula. The fall of the city showed how quickly control of key urban hubs can shift, reshaping trade routes, daily life, and the cultural fabric of a region.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Kuala_Lumpur",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "The capture of Kuala Lumpur is a stark, forced ‘travel’ and shift of power, contrasted with the episode’s gentler idea of movement changing perspective—both show how entering new territory alters the story."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T08:00:01.746354+00:00"
+  "updated_at": "2026-01-11T09:00:02.050465+00:00"
 }
