@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On January 11, 1569, England held its first recorded state lottery, selling tickets to fund harbor repairs and other public works. The scheme mixed civic finance with the thrill of chance, offering prizes like tapestries and money to lucky winners.",
-    "fact_year": 1569,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lottery",
+    "hour": 16,
+    "fact_text": "On this day in 532, a brawl between rival chariot racing factions—the Blues and the Greens—erupted into the Nika riots in Constantinople. The sports‑fueled unrest nearly toppled Emperor Justinian and left much of the city in flames.",
+    "fact_year": 532,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nika_riots",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Disco",
         "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "A game of chance that drew crowds in Tudor England pairs well with a neon‑lit 80s club mood—both are about risk, luck, and the excitement of not knowing what the next spin will bring."
+    "match_reason": "The Nika riots began with fanatical city crowds and spiraled into urban chaos; an episode about one modern city’s intense music scene reflects how urban energy can both unite and fracture people."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On this day in 532, a brawl between rival chariot racing factions—the Blues and the Greens—erupted into the Nika riots in Constantinople. The sports‑fueled unrest nearly toppled Emperor Justinian and left much of the city in flames.",
-      "fact_year": 532,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nika_riots",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "The Nika riots began with fanatical city crowds and spiraled into urban chaos; an episode about one modern city’s intense music scene reflects how urban energy can both unite and fracture people."
-    },
     {
       "hour": 17,
       "fact_text": "On January 11, 1914, municipal authorities in Wuhan would one day become known for issuing the first reported death from COVID‑19 in 2020. That announcement was the earliest marker of a pandemic that would transform daily life across the planet.",
@@ -671,9 +646,34 @@
         ]
       },
       "match_reason": "A game of chance that drew crowds in Tudor England pairs well with a neon‑lit 80s club mood—both are about risk, luck, and the excitement of not knowing what the next spin will bring."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On this day in 532, a brawl between rival chariot racing factions—the Blues and the Greens—erupted into the Nika riots in Constantinople. The sports‑fueled unrest nearly toppled Emperor Justinian and left much of the city in flames.",
+      "fact_year": 532,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nika_riots",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "The Nika riots began with fanatical city crowds and spiraled into urban chaos; an episode about one modern city’s intense music scene reflects how urban energy can both unite and fracture people."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.010084+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T15:00:01.625491+00:00"
+  "updated_at": "2026-01-11T16:00:01.555262+00:00"
 }
