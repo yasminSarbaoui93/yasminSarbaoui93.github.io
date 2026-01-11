@@ -1,73 +1,39 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1935, Amelia Earhart became the first person—man or woman—to fly solo from Hawaii to California, crossing 3,800 kilometers of open ocean. Navigating with limited instruments and no rescue possible mid‑Pacific, she turned the sky into a lonely highway and expanded the map of what solo flight could mean.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+    "hour": 11,
+    "fact_text": "On this day in 1994, the Irish government ended a 15‑year broadcasting ban that had prevented the IRA and Sinn Féin from being heard directly on radio and television. The move didn’t erase conflict, but it acknowledged that silencing voices rarely silences ideas—and that dialogue needs to be heard to exist.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
+        "Hip-Hop",
         "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Earhart’s bold transoceanic solo flight is the ultimate ‘on the go’ journey, fitting an episode built around motion, travel, and the thrill of starting from “zero zero.”"
+    "match_reason": "Lifting a broadcasting ban is about finally letting voices out into the airwaves, just as Sedna’s first episode marks a station finding and releasing its own voice."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On this day in 1994, the Irish government ended a 15‑year broadcasting ban that had prevented the IRA and Sinn Féin from being heard directly on radio and television. The move didn’t erase conflict, but it acknowledged that silencing voices rarely silences ideas—and that dialogue needs to be heard to exist.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "Lifting a broadcasting ban is about finally letting voices out into the airwaves, just as Sedna’s first episode marks a station finding and releasing its own voice."
-    },
     {
       "hour": 12,
       "fact_text": "In 1863, the Battle of Arkansas Post ended with Union forces capturing Fort Hindman and seizing control of a crucial stretch of the Arkansas River. By mastering the river, they opened a watery corridor deep into Confederate territory, showing how geography can be a weapon as much as any cannon.",
@@ -671,9 +637,42 @@
         ]
       },
       "match_reason": "Earhart’s bold transoceanic solo flight is the ultimate ‘on the go’ journey, fitting an episode built around motion, travel, and the thrill of starting from “zero zero.”"
+    },
+    {
+      "hour": 11,
+      "fact_text": "On this day in 1994, the Irish government ended a 15‑year broadcasting ban that had prevented the IRA and Sinn Féin from being heard directly on radio and television. The move didn’t erase conflict, but it acknowledged that silencing voices rarely silences ideas—and that dialogue needs to be heard to exist.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "Lifting a broadcasting ban is about finally letting voices out into the airwaves, just as Sedna’s first episode marks a station finding and releasing its own voice."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T10:00:01.640720+00:00"
+  "updated_at": "2026-01-11T11:00:01.484149+00:00"
 }
