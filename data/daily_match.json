@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1914, the Karluk—the flagship of the Canadian Arctic Expedition—was slowly crushed and sunk by shifting polar sea ice. The crew then faced a brutal survival saga across drifting floes and desolate islands in one of the Arctic’s starkest cautionary tales.",
-    "fact_year": 1914,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Last_voyage_of_the_Karluk",
+    "hour": 3,
+    "fact_text": "On January 11, 1962, the Soviet submarine B-37 exploded at its pier in Polyarny when a fire set off its torpedoes, devastating the vessel and nearby ships in seconds. The accident revealed how volatile Cold War technology could be even far from the battlefield.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the Karluk’s fate and this episode unfold in icy northern seas, contrasting the harshness of polar exploration with the quiet awe of modern Arctic encounters."
+    "match_reason": "A sudden torpedo detonation that turned a quiet harbor into chaos symbolically mirrors the ‘electric shock’ jolt of this fiery, guitar-driven episode."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On January 11, 1962, the Soviet submarine B-37 exploded at its pier in Polyarny when a fire set off its torpedoes, devastating the vessel and nearby ships in seconds. The accident revealed how volatile Cold War technology could be even far from the battlefield.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden torpedo detonation that turned a quiet harbor into chaos symbolically mirrors the ‘electric shock’ jolt of this fiery, guitar-driven episode."
-    },
     {
       "hour": 4,
       "fact_text": "In 1962, a colossal avalanche thundered down from Peru’s Huascarán, one of the highest tropical mountains on Earth, burying towns and killing around 4,000 people. It highlighted how even seemingly solid mountains can become sudden forces of destruction.",
@@ -671,9 +646,34 @@
         ]
       },
       "match_reason": "Both the Karluk’s fate and this episode unfold in icy northern seas, contrasting the harshness of polar exploration with the quiet awe of modern Arctic encounters."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On January 11, 1962, the Soviet submarine B-37 exploded at its pier in Polyarny when a fire set off its torpedoes, devastating the vessel and nearby ships in seconds. The accident revealed how volatile Cold War technology could be even far from the battlefield.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden torpedo detonation that turned a quiet harbor into chaos symbolically mirrors the ‘electric shock’ jolt of this fiery, guitar-driven episode."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.010084+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T02:00:01.721699+00:00"
+  "updated_at": "2026-01-11T03:00:01.913536+00:00"
 }
