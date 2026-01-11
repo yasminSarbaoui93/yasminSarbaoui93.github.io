@@ -1,66 +1,41 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1962, the Soviet submarine B-37 exploded while moored at Polyarny when a fire in its torpedo compartment triggered a catastrophic chain reaction. The blast was so powerful it hurled torpedoes into nearby ships, illustrating the hidden volatility beneath Cold War seas.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
+    "hour": 4,
+    "fact_text": "In 1927, studio mogul Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Los Angeles banquet. What began as a trade organization and PR project eventually grew into the Academy that hands out the Oscars, shaping global film culture and celebrity mythology.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
         "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "The sudden, devastating blast in B-37’s torpedo room parallels the idea of an ‘electric shock’—violent energy released in an instant, echoing the episode’s intense, high-voltage mood."
+    "match_reason": "The founding of the Academy formalized the celebration of film artistry and emotion, resonating with an episode about love-driven art and the vulnerable heart behind the movies we honor."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1927, studio mogul Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Los Angeles banquet. What began as a trade organization and PR project eventually grew into the Academy that hands out the Oscars, shaping global film culture and celebrity mythology.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "The founding of the Academy formalized the celebration of film artistry and emotion, resonating with an episode about love-driven art and the vulnerable heart behind the movies we honor."
-    },
     {
       "hour": 5,
       "fact_text": "On January 11, 1949, Pittsburgh’s KDKA-TV started broadcasting as part of the first true U.S. television network, linking East Coast and Midwest programming. It quietly marked the moment when television began flowing across regions in real time, rewiring how people experienced news, stories, and shared culture.",
@@ -662,9 +637,44 @@
         ]
       },
       "match_reason": "The sudden, devastating blast in B-37’s torpedo room parallels the idea of an ‘electric shock’—violent energy released in an instant, echoing the episode’s intense, high-voltage mood."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1927, studio mogul Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Los Angeles banquet. What began as a trade organization and PR project eventually grew into the Academy that hands out the Oscars, shaping global film culture and celebrity mythology.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "The founding of the Academy formalized the celebration of film artistry and emotion, resonating with an episode about love-driven art and the vulnerable heart behind the movies we honor."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T03:00:01.840758+00:00"
+  "updated_at": "2026-01-11T04:00:01.609508+00:00"
 }
