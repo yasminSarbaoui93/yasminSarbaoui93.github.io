@@ -1,56 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "When KDKA‑TV linked U.S. cities by television in 1949, it quietly birthed a new kind of shared memory: people in different places watching the same show at the same time. That networked experience reshaped how music, fashion, and ideas could go viral long before the internet.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pittsburgh",
+    "hour": 22,
+    "fact_text": "The first English state lottery in 1569 offered not just money but exotic prizes like fine tapestries and plate, advertised as a patriotic investment in infrastructure. Buyers were essentially backing a national project with a side of dream logic: a ticket that might turn a commoner into a patron of grand works overnight.",
+    "fact_year": 1569,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_England",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "Early TV networks pioneered cross‑regional culture sharing, just as trip‑hop’s evolution across Bristol, California, and D.C. shows how sound travels and mutates through connected media."
+    "match_reason": "The lottery’s blend of state power and popular spectacle parallels flamenco’s evolution from marginalized folk to staged, ticketed performances where emotion itself becomes the prize."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The first English state lottery in 1569 offered not just money but exotic prizes like fine tapestries and plate, advertised as a patriotic investment in infrastructure. Buyers were essentially backing a national project with a side of dream logic: a ticket that might turn a commoner into a patron of grand works overnight.",
-      "fact_year": 1569,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_England",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "The lottery’s blend of state power and popular spectacle parallels flamenco’s evolution from marginalized folk to staged, ticketed performances where emotion itself becomes the prize."
-    },
     {
       "hour": 23,
       "fact_text": "The Huascarán avalanche’s ice and rock traveled so fast that air ahead of it was compressed into a devastating blast wave, flattening villages even before the debris arrived. It’s a reminder that in nature, some of the deadliest forces are not solid or liquid, but invisible waves of pressure moving through the air.",
@@ -662,9 +637,34 @@
         ]
       },
       "match_reason": "Early TV networks pioneered cross‑regional culture sharing, just as trip‑hop’s evolution across Bristol, California, and D.C. shows how sound travels and mutates through connected media."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The first English state lottery in 1569 offered not just money but exotic prizes like fine tapestries and plate, advertised as a patriotic investment in infrastructure. Buyers were essentially backing a national project with a side of dream logic: a ticket that might turn a commoner into a patron of grand works overnight.",
+      "fact_year": 1569,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_England",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "The lottery’s blend of state power and popular spectacle parallels flamenco’s evolution from marginalized folk to staged, ticketed performances where emotion itself becomes the prize."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T21:00:01.519501+00:00"
+  "updated_at": "2026-01-11T22:00:01.593588+00:00"
 }
