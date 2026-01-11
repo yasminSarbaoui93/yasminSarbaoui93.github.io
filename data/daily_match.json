@@ -1,66 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1927, studio mogul Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Los Angeles banquet. What began as a trade organization and PR project eventually grew into the Academy that hands out the Oscars, shaping global film culture and celebrity mythology.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences",
+    "hour": 5,
+    "fact_text": "On January 11, 1949, Pittsburgh’s KDKA-TV started broadcasting as part of the first true U.S. television network, linking East Coast and Midwest programming. It quietly marked the moment when television began flowing across regions in real time, rewiring how people experienced news, stories, and shared culture.",
+    "fact_year": 1949,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KDKA-TV",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "The founding of the Academy formalized the celebration of film artistry and emotion, resonating with an episode about love-driven art and the vulnerable heart behind the movies we honor."
+    "match_reason": "A pioneering TV station in an industrial U.S. city mirrors an episode centered on another steel city’s cultural soundscape, both exploring how urban hubs broadcast their voices outward."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On January 11, 1949, Pittsburgh’s KDKA-TV started broadcasting as part of the first true U.S. television network, linking East Coast and Midwest programming. It quietly marked the moment when television began flowing across regions in real time, rewiring how people experienced news, stories, and shared culture.",
-      "fact_year": 1949,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KDKA-TV",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A pioneering TV station in an industrial U.S. city mirrors an episode centered on another steel city’s cultural soundscape, both exploring how urban hubs broadcast their voices outward."
-    },
     {
       "hour": 6,
       "fact_text": "In 1654, during the Arauco War, Mapuche-Huilliche fighters defeated a Spanish force attempting to cross the Bueno River in southern Chile. Indigenous warriors used intimate knowledge of river currents and terrain to overturn imperial power, turning a waterway into an ally and a defense.",
@@ -672,9 +637,34 @@
         ]
       },
       "match_reason": "The founding of the Academy formalized the celebration of film artistry and emotion, resonating with an episode about love-driven art and the vulnerable heart behind the movies we honor."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On January 11, 1949, Pittsburgh’s KDKA-TV started broadcasting as part of the first true U.S. television network, linking East Coast and Midwest programming. It quietly marked the moment when television began flowing across regions in real time, rewiring how people experienced news, stories, and shared culture.",
+      "fact_year": 1949,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KDKA-TV",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A pioneering TV station in an industrial U.S. city mirrors an episode centered on another steel city’s cultural soundscape, both exploring how urban hubs broadcast their voices outward."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T04:00:01.609508+00:00"
+  "updated_at": "2026-01-11T05:00:01.893005+00:00"
 }
