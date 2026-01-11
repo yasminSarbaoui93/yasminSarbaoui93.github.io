@@ -1,67 +1,34 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On this day in 1994, the Irish government ended a 15‑year broadcasting ban that had prevented the IRA and Sinn Féin from being heard directly on radio and television. The move didn’t erase conflict, but it acknowledged that silencing voices rarely silences ideas—and that dialogue needs to be heard to exist.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
+    "hour": 12,
+    "fact_text": "In 1863, the Battle of Arkansas Post ended with Union forces capturing Fort Hindman and seizing control of a crucial stretch of the Arkansas River. By mastering the river, they opened a watery corridor deep into Confederate territory, showing how geography can be a weapon as much as any cannon.",
+    "fact_year": 1863,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Lifting a broadcasting ban is about finally letting voices out into the airwaves, just as Sedna’s first episode marks a station finding and releasing its own voice."
+    "match_reason": "A Civil War battle fought to control a river sits against an episode set on a peaceful sailboat; both revolve around how water routes shape journeys, whether military or meandering."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1863, the Battle of Arkansas Post ended with Union forces capturing Fort Hindman and seizing control of a crucial stretch of the Arkansas River. By mastering the river, they opened a watery corridor deep into Confederate territory, showing how geography can be a weapon as much as any cannon.",
-      "fact_year": 1863,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A Civil War battle fought to control a river sits against an episode set on a peaceful sailboat; both revolve around how water routes shape journeys, whether military or meandering."
-    },
     {
       "hour": 13,
       "fact_text": "On January 11, 1851, Hong Xiuquan proclaimed the Taiping Heavenly Kingdom and launched the Jintian Uprising, envisioning a radical new society in southern China. His hybrid of Christian ideas, personal visions, and social revolt ignited one of history’s deadliest civil wars and a clash over who gets to define heaven on Earth.",
@@ -670,9 +637,37 @@
         ]
       },
       "match_reason": "Lifting a broadcasting ban is about finally letting voices out into the airwaves, just as Sedna’s first episode marks a station finding and releasing its own voice."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1863, the Battle of Arkansas Post ended with Union forces capturing Fort Hindman and seizing control of a crucial stretch of the Arkansas River. By mastering the river, they opened a watery corridor deep into Confederate territory, showing how geography can be a weapon as much as any cannon.",
+      "fact_year": 1863,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A Civil War battle fought to control a river sits against an episode set on a peaceful sailboat; both revolve around how water routes shape journeys, whether military or meandering."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T11:00:01.484149+00:00"
+  "updated_at": "2026-01-11T12:00:02.359514+00:00"
 }
