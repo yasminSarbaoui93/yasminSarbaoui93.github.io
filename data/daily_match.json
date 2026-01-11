@@ -1,55 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On January 11, 1949, Pittsburgh’s KDKA-TV started broadcasting as part of the first true U.S. television network, linking East Coast and Midwest programming. It quietly marked the moment when television began flowing across regions in real time, rewiring how people experienced news, stories, and shared culture.",
-    "fact_year": 1949,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KDKA-TV",
+    "hour": 6,
+    "fact_text": "In 1654, during the Arauco War, Mapuche-Huilliche fighters defeated a Spanish force attempting to cross the Bueno River in southern Chile. Indigenous warriors used intimate knowledge of river currents and terrain to overturn imperial power, turning a waterway into an ally and a defense.",
+    "fact_year": 1654,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Bueno_(1654)",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A pioneering TV station in an industrial U.S. city mirrors an episode centered on another steel city’s cultural soundscape, both exploring how urban hubs broadcast their voices outward."
+    "match_reason": "The Mapuche-Huilliche victory and Tuareg music both embody indigenous resistance shaped by harsh landscapes, transforming rivers and deserts into tools of survival and identity."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1654, during the Arauco War, Mapuche-Huilliche fighters defeated a Spanish force attempting to cross the Bueno River in southern Chile. Indigenous warriors used intimate knowledge of river currents and terrain to overturn imperial power, turning a waterway into an ally and a defense.",
-      "fact_year": 1654,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Bueno_(1654)",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "The Mapuche-Huilliche victory and Tuareg music both embody indigenous resistance shaped by harsh landscapes, transforming rivers and deserts into tools of survival and identity."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 2020, health officials in Wuhan reported the first known death from COVID‑19, a 61‑year‑old regular at a live animal market. The single datapoint foreshadowed a pandemic that would transform global health, travel, work, and our understanding of how connected our species really is.",
@@ -662,9 +637,33 @@
         ]
       },
       "match_reason": "A pioneering TV station in an industrial U.S. city mirrors an episode centered on another steel city’s cultural soundscape, both exploring how urban hubs broadcast their voices outward."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1654, during the Arauco War, Mapuche-Huilliche fighters defeated a Spanish force attempting to cross the Bueno River in southern Chile. Indigenous warriors used intimate knowledge of river currents and terrain to overturn imperial power, turning a waterway into an ally and a defense.",
+      "fact_year": 1654,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_R%C3%ADo_Bueno_(1654)",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "The Mapuche-Huilliche victory and Tuareg music both embody indigenous resistance shaped by harsh landscapes, transforming rivers and deserts into tools of survival and identity."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T05:00:01.893005+00:00"
+  "updated_at": "2026-01-11T06:00:01.748291+00:00"
 }
