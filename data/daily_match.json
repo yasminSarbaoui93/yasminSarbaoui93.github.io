@@ -1,58 +1,30 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1863, the Battle of Arkansas Post ended with Union forces capturing Fort Hindman and seizing control of a crucial stretch of the Arkansas River. By mastering the river, they opened a watery corridor deep into Confederate territory, showing how geography can be a weapon as much as any cannon.",
-    "fact_year": 1863,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post",
+    "hour": 13,
+    "fact_text": "On January 11, 1851, Hong Xiuquan proclaimed the Taiping Heavenly Kingdom and launched the Jintian Uprising, envisioning a radical new society in southern China. His hybrid of Christian ideas, personal visions, and social revolt ignited one of history’s deadliest civil wars and a clash over who gets to define heaven on Earth.",
+    "fact_year": 1851,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 16,
+      "title": "Morning Drops #10 - The One With Many Names",
+      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ghost - Spirit",
+        "Ghost - Mary on a Cross",
+        "Ghost - Dance Macabre",
+        "Ghost - Umbra"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Hard Rock",
+        "Heavy Metal",
+        "Arena Rock"
       ]
     },
-    "match_reason": "A Civil War battle fought to control a river sits against an episode set on a peaceful sailboat; both revolve around how water routes shape journeys, whether military or meandering."
+    "match_reason": "Hong Xiuquan’s theocratic ‘Heavenly Kingdom’ and Ghost’s theatrical pseudo‑religious rock both blend spiritual imagery, ritual, and rebellion against existing orders."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On January 11, 1851, Hong Xiuquan proclaimed the Taiping Heavenly Kingdom and launched the Jintian Uprising, envisioning a radical new society in southern China. His hybrid of Christian ideas, personal visions, and social revolt ignited one of history’s deadliest civil wars and a clash over who gets to define heaven on Earth.",
-      "fact_year": 1851,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
-      "episode": {
-        "id": 16,
-        "title": "Morning Drops #10 - The One With Many Names",
-        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
-        "songs": [
-          "Ghost - Spirit",
-          "Ghost - Mary on a Cross",
-          "Ghost - Dance Macabre",
-          "Ghost - Umbra"
-        ],
-        "music-genres": [
-          "Hard Rock",
-          "Heavy Metal",
-          "Arena Rock"
-        ]
-      },
-      "match_reason": "Hong Xiuquan’s theocratic ‘Heavenly Kingdom’ and Ghost’s theatrical pseudo‑religious rock both blend spiritual imagery, ritual, and rebellion against existing orders."
-    },
     {
       "hour": 14,
       "fact_text": "In 2013, French special forces attempted a daring night raid on the Somali town of Bulo Marer to rescue a hostage held by al‑Shabaab. The operation failed, costing the life of one French soldier and the captive himself, a stark reminder that even elite missions can unravel in the fog of real combat.",
@@ -665,9 +637,33 @@
         ]
       },
       "match_reason": "A Civil War battle fought to control a river sits against an episode set on a peaceful sailboat; both revolve around how water routes shape journeys, whether military or meandering."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On January 11, 1851, Hong Xiuquan proclaimed the Taiping Heavenly Kingdom and launched the Jintian Uprising, envisioning a radical new society in southern China. His hybrid of Christian ideas, personal visions, and social revolt ignited one of history’s deadliest civil wars and a clash over who gets to define heaven on Earth.",
+      "fact_year": 1851,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+      "episode": {
+        "id": 16,
+        "title": "Morning Drops #10 - The One With Many Names",
+        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+        "songs": [
+          "Ghost - Spirit",
+          "Ghost - Mary on a Cross",
+          "Ghost - Dance Macabre",
+          "Ghost - Umbra"
+        ],
+        "music-genres": [
+          "Hard Rock",
+          "Heavy Metal",
+          "Arena Rock"
+        ]
+      },
+      "match_reason": "Hong Xiuquan’s theocratic ‘Heavenly Kingdom’ and Ghost’s theatrical pseudo‑religious rock both blend spiritual imagery, ritual, and rebellion against existing orders."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T12:00:02.359514+00:00"
+  "updated_at": "2026-01-11T13:00:01.851093+00:00"
 }
