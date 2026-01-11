@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The first English state lottery in 1569 offered not just money but exotic prizes like fine tapestries and plate, advertised as a patriotic investment in infrastructure. Buyers were essentially backing a national project with a side of dream logic: a ticket that might turn a commoner into a patron of grand works overnight.",
-    "fact_year": 1569,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_England",
+    "hour": 23,
+    "fact_text": "The Huascarán avalanche’s ice and rock traveled so fast that air ahead of it was compressed into a devastating blast wave, flattening villages even before the debris arrived. It’s a reminder that in nature, some of the deadliest forces are not solid or liquid, but invisible waves of pressure moving through the air.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peru",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "The lottery’s blend of state power and popular spectacle parallels flamenco’s evolution from marginalized folk to staged, ticketed performances where emotion itself becomes the prize."
+    "match_reason": "The violent, invisible shock wave of an avalanche is nature’s most brutal ‘fast planet’; Slow Planet offers the opposite: gentle waves of sound and time to contemplate how fragile our ground really is."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "The Huascarán avalanche’s ice and rock traveled so fast that air ahead of it was compressed into a devastating blast wave, flattening villages even before the debris arrived. It’s a reminder that in nature, some of the deadliest forces are not solid or liquid, but invisible waves of pressure moving through the air.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peru",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "The violent, invisible shock wave of an avalanche is nature’s most brutal ‘fast planet’; Slow Planet offers the opposite: gentle waves of sound and time to contemplate how fragile our ground really is."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -662,9 +636,34 @@
         ]
       },
       "match_reason": "The lottery’s blend of state power and popular spectacle parallels flamenco’s evolution from marginalized folk to staged, ticketed performances where emotion itself becomes the prize."
+    },
+    {
+      "hour": 23,
+      "fact_text": "The Huascarán avalanche’s ice and rock traveled so fast that air ahead of it was compressed into a devastating blast wave, flattening villages even before the debris arrived. It’s a reminder that in nature, some of the deadliest forces are not solid or liquid, but invisible waves of pressure moving through the air.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Peru",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "The violent, invisible shock wave of an avalanche is nature’s most brutal ‘fast planet’; Slow Planet offers the opposite: gentle waves of sound and time to contemplate how fragile our ground really is."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T22:00:01.593588+00:00"
+  "updated_at": "2026-01-11T23:00:01.669264+00:00"
 }
