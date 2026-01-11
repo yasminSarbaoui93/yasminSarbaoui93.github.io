@@ -1,56 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1914, the exploration ship Karluk was slowly crushed by Arctic pack ice and sank, leaving her crew stranded on drifting floes. Their story became a harrowing saga of survival, improvisation, and navigation across one of Earth’s most hostile, shifting landscapes.",
-    "fact_year": 1914,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Last_voyage_of_the_Karluk",
+    "hour": 3,
+    "fact_text": "On this day in 1962, the Soviet submarine B-37 exploded while moored at Polyarny when a fire in its torpedo compartment triggered a catastrophic chain reaction. The blast was so powerful it hurled torpedoes into nearby ships, illustrating the hidden volatility beneath Cold War seas.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Both the Karluk’s fate and the episode journey into Arctic waters, sharing an icy setting and a mix of danger, awe, and fragile human presence in the polar world."
+    "match_reason": "The sudden, devastating blast in B-37’s torpedo room parallels the idea of an ‘electric shock’—violent energy released in an instant, echoing the episode’s intense, high-voltage mood."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 1962, the Soviet submarine B-37 exploded while moored at Polyarny when a fire in its torpedo compartment triggered a catastrophic chain reaction. The blast was so powerful it hurled torpedoes into nearby ships, illustrating the hidden volatility beneath Cold War seas.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden, devastating blast in B-37’s torpedo room parallels the idea of an ‘electric shock’—violent energy released in an instant, echoing the episode’s intense, high-voltage mood."
-    },
     {
       "hour": 4,
       "fact_text": "In 1927, studio mogul Louis B. Mayer announced the creation of the Academy of Motion Picture Arts and Sciences at a Los Angeles banquet. What began as a trade organization and PR project eventually grew into the Academy that hands out the Oscars, shaping global film culture and celebrity mythology.",
@@ -662,9 +637,34 @@
         ]
       },
       "match_reason": "Both the Karluk’s fate and the episode journey into Arctic waters, sharing an icy setting and a mix of danger, awe, and fragile human presence in the polar world."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1962, the Soviet submarine B-37 exploded while moored at Polyarny when a fire in its torpedo compartment triggered a catastrophic chain reaction. The blast was so powerful it hurled torpedoes into nearby ships, illustrating the hidden volatility beneath Cold War seas.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet_submarine_B-37",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden, devastating blast in B-37’s torpedo room parallels the idea of an ‘electric shock’—violent energy released in an instant, echoing the episode’s intense, high-voltage mood."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T02:00:01.651741+00:00"
+  "updated_at": "2026-01-11T03:00:01.840758+00:00"
 }
