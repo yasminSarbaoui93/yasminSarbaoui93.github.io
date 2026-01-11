@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1787, William Herschel pointed his telescope toward the dim ice giant Uranus and spotted two tiny moving points of light: Titania and Oberon. These became the first moons discovered around Uranus and were later named after characters from Shakespeare, linking deep space to earthly literature.",
-    "fact_year": 1787,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Titania_(moon)",
+    "hour": 1,
+    "fact_text": "On January 11, 1996, Space Shuttle Endeavour lifted off on mission STS-72, the 74th shuttle flight. Its crew performed a high‑precision orbital retrieval of Japan’s Space Flyer Unit, demonstrating how humans can rendezvous with, repair, and return robotic spacecraft from the void.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-72",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A cosmic discovery of new moons pairs with an episode about reimagining empty space as possibility, echoing Herschel’s shift from darkness to discovery."
+    "match_reason": "A shuttle voyage to rendezvous in orbit aligns with a sound voyage called “Destination Sedna,” both mapping careful journeys through vast space."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 11, 1996, Space Shuttle Endeavour lifted off on mission STS-72, the 74th shuttle flight. Its crew performed a high‑precision orbital retrieval of Japan’s Space Flyer Unit, demonstrating how humans can rendezvous with, repair, and return robotic spacecraft from the void.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-72",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A shuttle voyage to rendezvous in orbit aligns with a sound voyage called “Destination Sedna,” both mapping careful journeys through vast space."
-    },
     {
       "hour": 2,
       "fact_text": "In 1914, the exploration ship Karluk was slowly crushed by Arctic pack ice and sank, leaving her crew stranded on drifting floes. Their story became a harrowing saga of survival, improvisation, and navigation across one of Earth’s most hostile, shifting landscapes.",
@@ -660,9 +637,43 @@
         ]
       },
       "match_reason": "A cosmic discovery of new moons pairs with an episode about reimagining empty space as possibility, echoing Herschel’s shift from darkness to discovery."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 11, 1996, Space Shuttle Endeavour lifted off on mission STS-72, the 74th shuttle flight. Its crew performed a high‑precision orbital retrieval of Japan’s Space Flyer Unit, demonstrating how humans can rendezvous with, repair, and return robotic spacecraft from the void.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-72",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A shuttle voyage to rendezvous in orbit aligns with a sound voyage called “Destination Sedna,” both mapping careful journeys through vast space."
     }
   ],
   "generated_at": "2026-01-11T00:00:00.004909+00:00",
   "date": "2026-01-11",
-  "updated_at": "2026-01-11T00:01:23.617826+00:00"
+  "updated_at": "2026-01-11T01:00:01.729294+00:00"
 }
