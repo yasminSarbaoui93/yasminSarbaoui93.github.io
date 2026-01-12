@@ -1,63 +1,39 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1916, German pilots Oswald Boelcke and Max Immelmann became the first aviators awarded the Pour le Mérite for achieving eight aerial victories each. Their tactics turned dogfighting into a deadly art form, and Immelmann even gave his name to a famous aerobatic maneuver.",
-    "fact_year": 1916,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Oswald_Boelcke",
+    "hour": 13,
+    "fact_text": "On this day in 1942, Franklin D. Roosevelt created the National War Labor Board to arbitrate disputes in American factories turned over to war production. It was a wartime experiment in balancing workers’ rights with the urgent need to keep assembly lines humming for a global conflict.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_War_Labor_Board_(1942%E2%80%931945)",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Aces rewriting aerial combat rules connect with rock musicians breaking barriers; both turn risk and rebellion into high‑octane art."
+    "match_reason": "A coordinating board created in a moment of upheaval mirrors Sedna FM’s own foundational episode, where many energies had to be balanced to kick off a project."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On this day in 1942, Franklin D. Roosevelt created the National War Labor Board to arbitrate disputes in American factories turned over to war production. It was a wartime experiment in balancing workers’ rights with the urgent need to keep assembly lines humming for a global conflict.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_War_Labor_Board_(1942%E2%80%931945)",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A coordinating board created in a moment of upheaval mirrors Sedna FM’s own foundational episode, where many energies had to be balanced to kick off a project."
-    },
     {
       "hour": 14,
       "fact_text": "In 1945, the Red Army launched the Vistula–Oder Offensive, a fast and brutal winter push from the Vistula River almost to the gates of Berlin. In just weeks, Soviet forces shattered German lines across frozen plains, reshaping the map of Eastern Europe.",
@@ -655,9 +631,42 @@
         ]
       },
       "match_reason": "Aces rewriting aerial combat rules connect with rock musicians breaking barriers; both turn risk and rebellion into high‑octane art."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On this day in 1942, Franklin D. Roosevelt created the National War Labor Board to arbitrate disputes in American factories turned over to war production. It was a wartime experiment in balancing workers’ rights with the urgent need to keep assembly lines humming for a global conflict.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_War_Labor_Board_(1942%E2%80%931945)",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A coordinating board created in a moment of upheaval mirrors Sedna FM’s own foundational episode, where many energies had to be balanced to kick off a project."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T12:00:01.675651+00:00"
+  "updated_at": "2026-01-12T13:00:01.704975+00:00"
 }
