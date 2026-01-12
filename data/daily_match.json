@@ -1,64 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On this day in 1942, Franklin D. Roosevelt created the National War Labor Board to arbitrate disputes in American factories turned over to war production. It was a wartime experiment in balancing workers’ rights with the urgent need to keep assembly lines humming for a global conflict.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_War_Labor_Board_(1942%E2%80%931945)",
+    "hour": 14,
+    "fact_text": "In 1945, the Red Army launched the Vistula–Oder Offensive, a fast and brutal winter push from the Vistula River almost to the gates of Berlin. In just weeks, Soviet forces shattered German lines across frozen plains, reshaping the map of Eastern Europe.",
+    "fact_year": 1945,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vistula%E2%80%93Oder_offensive",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "A coordinating board created in a moment of upheaval mirrors Sedna FM’s own foundational episode, where many energies had to be balanced to kick off a project."
+    "match_reason": "A massive industrial-era offensive rolling across rail lines and factories pairs with an episode steeped in Sheffield’s steel, industry, and sharp edges."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 1945, the Red Army launched the Vistula–Oder Offensive, a fast and brutal winter push from the Vistula River almost to the gates of Berlin. In just weeks, Soviet forces shattered German lines across frozen plains, reshaping the map of Eastern Europe.",
-      "fact_year": 1945,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vistula%E2%80%93Oder_offensive",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A massive industrial-era offensive rolling across rail lines and factories pairs with an episode steeped in Sheffield’s steel, industry, and sharp edges."
-    },
     {
       "hour": 15,
       "fact_text": "On this day in 1991, the U.S. Congress voted to authorize the use of military force to drive Iraqi troops out of Kuwait, setting the stage for the Persian Gulf War. It was one of the most debated war powers decisions since Vietnam, and the first major televised conflict of the satellite-news era.",
@@ -664,9 +631,34 @@
         ]
       },
       "match_reason": "A coordinating board created in a moment of upheaval mirrors Sedna FM’s own foundational episode, where many energies had to be balanced to kick off a project."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 1945, the Red Army launched the Vistula–Oder Offensive, a fast and brutal winter push from the Vistula River almost to the gates of Berlin. In just weeks, Soviet forces shattered German lines across frozen plains, reshaping the map of Eastern Europe.",
+      "fact_year": 1945,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vistula%E2%80%93Oder_offensive",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A massive industrial-era offensive rolling across rail lines and factories pairs with an episode steeped in Sheffield’s steel, industry, and sharp edges."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T13:00:01.704975+00:00"
+  "updated_at": "2026-01-12T14:00:01.606665+00:00"
 }
