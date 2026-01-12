@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 2007, Comet C/2006 P1 (McNaught) became so bright that it was visible in broad daylight for observers in the Southern Hemisphere. For a brief time, an icy visitor from the outer solar system outshone the twilight sky, turning daytime into an impromptu stargazing session.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Comet_McNaught",
+    "hour": 4,
+    "fact_text": "In 1998, nineteen European nations jointly agreed to forbid human cloning, drawing a line around one of biotechnology’s most unsettling possibilities. The treaty reflected not just scientific caution but a shared ethical unease about making carbon copies of ourselves.",
+    "fact_year": 1998,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Human_cloning",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A brilliant comet in cold skies pairs with an Arctic-themed episode full of luminous, cinematic soundscapes."
+    "match_reason": "An ethical stand on cloning aligns with an episode questioning our relationship with technology and how far we let it shape us."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1998, nineteen European nations jointly agreed to forbid human cloning, drawing a line around one of biotechnology’s most unsettling possibilities. The treaty reflected not just scientific caution but a shared ethical unease about making carbon copies of ourselves.",
-      "fact_year": 1998,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Human_cloning",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "An ethical stand on cloning aligns with an episode questioning our relationship with technology and how far we let it shape us."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 1808, scientists and enthusiasts in Edinburgh held the organizational meeting that led to the creation of the Wernerian Natural History Society. For fifty years, this small Scottish society became a hub where early geologists, zoologists, and naturalists swapped specimens and ideas in candlelit rooms.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "A brilliant comet in cold skies pairs with an Arctic-themed episode full of luminous, cinematic soundscapes."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1998, nineteen European nations jointly agreed to forbid human cloning, drawing a line around one of biotechnology’s most unsettling possibilities. The treaty reflected not just scientific caution but a shared ethical unease about making carbon copies of ourselves.",
+      "fact_year": 1998,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Human_cloning",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "An ethical stand on cloning aligns with an episode questioning our relationship with technology and how far we let it shape us."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T03:00:01.836922+00:00"
+  "updated_at": "2026-01-12T04:00:01.849343+00:00"
 }
