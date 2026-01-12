@@ -1,56 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On this day in 1808, scientists and enthusiasts in Edinburgh held the organizational meeting that led to the creation of the Wernerian Natural History Society. For fifty years, this small Scottish society became a hub where early geologists, zoologists, and naturalists swapped specimens and ideas in candlelit rooms.",
+    "hour": 6,
+    "fact_text": "Also in 1808, engineers abandoned plans to protect St Mary’s Church at Reculver from the encroaching sea and chose demolition instead. The church, founded in 669 and famed for its Anglo-Saxon architecture, was sacrificed to coastal erosion, leaving its twin towers as lonely sentinels above the waves.",
     "fact_year": 1808,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wernerian_Natural_History_Society",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Mary%27s_Church,_Reculver",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A historic Scottish learned society about nature fits perfectly with an episode rooted in Scotland’s landscapes and reflective curiosity."
+    "match_reason": "A story about the slow, unstoppable force of the sea resonates with an episode centered on slowness, erosion of time, and gentle reflection."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "Also in 1808, engineers abandoned plans to protect St Mary’s Church at Reculver from the encroaching sea and chose demolition instead. The church, founded in 669 and famed for its Anglo-Saxon architecture, was sacrificed to coastal erosion, leaving its twin towers as lonely sentinels above the waves.",
-      "fact_year": 1808,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Mary%27s_Church,_Reculver",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A story about the slow, unstoppable force of the sea resonates with an episode centered on slowness, erosion of time, and gentle reflection."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1616, the city of Belém was founded at the mouth of the Amazon River by Portuguese captain Francisco Caldeira Castelo Branco. It grew into a rainforest port where river, ocean, and cultures collided—rubber barons, Indigenous communities, and European colonists sharing the same humid air.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "A historic Scottish learned society about nature fits perfectly with an episode rooted in Scotland’s landscapes and reflective curiosity."
+    },
+    {
+      "hour": 6,
+      "fact_text": "Also in 1808, engineers abandoned plans to protect St Mary’s Church at Reculver from the encroaching sea and chose demolition instead. The church, founded in 669 and famed for its Anglo-Saxon architecture, was sacrificed to coastal erosion, leaving its twin towers as lonely sentinels above the waves.",
+      "fact_year": 1808,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/St_Mary%27s_Church,_Reculver",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A story about the slow, unstoppable force of the sea resonates with an episode centered on slowness, erosion of time, and gentle reflection."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T05:00:01.807761+00:00"
+  "updated_at": "2026-01-12T06:00:01.434651+00:00"
 }
