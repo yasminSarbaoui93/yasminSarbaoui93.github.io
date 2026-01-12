@@ -1,53 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1971, the 'Harrisburg Seven'—including Catholic priest Philip Berrigan—were indicted on charges of plotting to kidnap Henry Kissinger and blow up heating tunnels in Washington, D.C. The case blurred the line between radical peace activism and domestic terrorism in the heated atmosphere of the Vietnam War.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Harrisburg_Seven",
+    "hour": 11,
+    "fact_text": "On this day in 1962, Operation Chopper became the first American helicopter assault of the Vietnam War. U.S. helicopters carried South Vietnamese troops into battle, foreshadowing how rotor blades and jungle clearings would come to define the conflict’s imagery.",
+    "fact_year": 1962,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Chopper_(Vietnam)",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Radical anti-war activism and contested labels mirror an episode focused on challenging boxes, norms, and how society defines us."
+    "match_reason": "The mechanical roar and adrenaline of the first helicopter assault pairs with a high-voltage rock set designed to jolt listeners awake."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On this day in 1962, Operation Chopper became the first American helicopter assault of the Vietnam War. U.S. helicopters carried South Vietnamese troops into battle, foreshadowing how rotor blades and jungle clearings would come to define the conflict’s imagery.",
-      "fact_year": 1962,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Chopper_(Vietnam)",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The mechanical roar and adrenaline of the first helicopter assault pairs with a high-voltage rock set designed to jolt listeners awake."
-    },
     {
       "hour": 12,
       "fact_text": "In 1916, German pilots Oswald Boelcke and Max Immelmann became the first aviators awarded the Pour le Mérite for achieving eight aerial victories each. Their tactics turned dogfighting into a deadly art form, and Immelmann even gave his name to a famous aerobatic maneuver.",
@@ -653,9 +631,34 @@
         ]
       },
       "match_reason": "Radical anti-war activism and contested labels mirror an episode focused on challenging boxes, norms, and how society defines us."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On this day in 1962, Operation Chopper became the first American helicopter assault of the Vietnam War. U.S. helicopters carried South Vietnamese troops into battle, foreshadowing how rotor blades and jungle clearings would come to define the conflict’s imagery.",
+      "fact_year": 1962,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Chopper_(Vietnam)",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The mechanical roar and adrenaline of the first helicopter assault pairs with a high-voltage rock set designed to jolt listeners awake."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T10:00:01.763927+00:00"
+  "updated_at": "2026-01-12T11:00:01.985169+00:00"
 }
