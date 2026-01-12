@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1986, U.S. Congressman Bill Nelson left Earth not as a career astronaut but as a 'payload specialist' aboard Space Shuttle Columbia on mission STS-61-C. He later went on to lead NASA, making him one of the few space agency heads who has actually orbited the planet he’s responsible for exploring.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-61-C",
+    "hour": 1,
+    "fact_text": "On this day in 1997, Space Shuttle Atlantis launched on mission STS-81 to dock with the Russian space station Mir. The crew performed a literal orbital crew swap, leaving astronaut Jerry M. Linenger for a four-month stay and bringing John E. Blaha back to Earth, a quiet exchange happening hundreds of kilometers above our heads.",
+    "fact_year": 1997,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-81",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A real-life shift from politician to spacefarer pairs well with an episode themed around reimagining 'space' as possibility and motion."
+    "match_reason": "An orbital voyage between two space stations resonates with the episode’s idea of a shared journey toward distant destinations."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1997, Space Shuttle Atlantis launched on mission STS-81 to dock with the Russian space station Mir. The crew performed a literal orbital crew swap, leaving astronaut Jerry M. Linenger for a four-month stay and bringing John E. Blaha back to Earth, a quiet exchange happening hundreds of kilometers above our heads.",
-      "fact_year": 1997,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-81",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "An orbital voyage between two space stations resonates with the episode’s idea of a shared journey toward distant destinations."
-    },
     {
       "hour": 2,
       "fact_text": "In 2005, NASA’s Deep Impact spacecraft launched on a mission to literally punch a hole in a comet. Months later it would slam a copper projectile into Comet Tempel 1, letting scientists peer into pristine material from the early solar system, like cracking open a cosmic time capsule.",
@@ -654,9 +631,43 @@
         ]
       },
       "match_reason": "A real-life shift from politician to spacefarer pairs well with an episode themed around reimagining 'space' as possibility and motion."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1997, Space Shuttle Atlantis launched on mission STS-81 to dock with the Russian space station Mir. The crew performed a literal orbital crew swap, leaving astronaut Jerry M. Linenger for a four-month stay and bringing John E. Blaha back to Earth, a quiet exchange happening hundreds of kilometers above our heads.",
+      "fact_year": 1997,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-81",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "An orbital voyage between two space stations resonates with the episode’s idea of a shared journey toward distant destinations."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T00:01:07.905377+00:00"
+  "updated_at": "2026-01-12T01:00:01.834743+00:00"
 }
