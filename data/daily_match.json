@@ -1,70 +1,36 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On this day in 1997, Space Shuttle Atlantis launched on mission STS-81 to dock with the Russian space station Mir. The crew performed a literal orbital crew swap, leaving astronaut Jerry M. Linenger for a four-month stay and bringing John E. Blaha back to Earth, a quiet exchange happening hundreds of kilometers above our heads.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-81",
+    "hour": 2,
+    "fact_text": "In 2005, NASA’s Deep Impact spacecraft launched on a mission to literally punch a hole in a comet. Months later it would slam a copper projectile into Comet Tempel 1, letting scientists peer into pristine material from the early solar system, like cracking open a cosmic time capsule.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Impact_(spacecraft)",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "An orbital voyage between two space stations resonates with the episode’s idea of a shared journey toward distant destinations."
+    "match_reason": "A probe diving into a comet’s heart mirrors the episode’s slow build from mysterious spacey ambience into energetic exploration."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 2005, NASA’s Deep Impact spacecraft launched on a mission to literally punch a hole in a comet. Months later it would slam a copper projectile into Comet Tempel 1, letting scientists peer into pristine material from the early solar system, like cracking open a cosmic time capsule.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Impact_(spacecraft)",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A probe diving into a comet’s heart mirrors the episode’s slow build from mysterious spacey ambience into energetic exploration."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 2007, Comet C/2006 P1 (McNaught) became so bright that it was visible in broad daylight for observers in the Southern Hemisphere. For a brief time, an icy visitor from the outer solar system outshone the twilight sky, turning daytime into an impromptu stargazing session.",
@@ -665,9 +631,39 @@
         ]
       },
       "match_reason": "An orbital voyage between two space stations resonates with the episode’s idea of a shared journey toward distant destinations."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 2005, NASA’s Deep Impact spacecraft launched on a mission to literally punch a hole in a comet. Months later it would slam a copper projectile into Comet Tempel 1, letting scientists peer into pristine material from the early solar system, like cracking open a cosmic time capsule.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Deep_Impact_(spacecraft)",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A probe diving into a comet’s heart mirrors the episode’s slow build from mysterious spacey ambience into energetic exploration."
     }
   ],
   "generated_at": "2026-01-12T00:00:00.007921+00:00",
   "date": "2026-01-12",
-  "updated_at": "2026-01-12T01:00:01.834743+00:00"
+  "updated_at": "2026-01-12T02:00:01.533133+00:00"
 }
