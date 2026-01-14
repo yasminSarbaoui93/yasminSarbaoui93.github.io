@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "Giacomo Puccini’s opera Tosca premiered in Rome in 1900, and contemporary critics thought it was almost too realistic and brutal for the stage. With torture, execution, and a heroine who hurls herself from a rampart, it felt like early cinematic thriller material long before film embraced such intensity.",
-    "fact_year": 1900,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
+    "hour": 11,
+    "fact_text": "The 1814 Treaty of Kiel forced Denmark to cede Norway to Sweden in exchange for Pomerania, reshaping Scandinavia’s political map overnight. Norwegians were not consulted; the decision treated an entire kingdom almost like a bargaining chip on a diplomatic chessboard.",
+    "fact_year": 1814,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kiel",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A dramatic, emotionally charged Italian opera lines up with Flamenco’s own intense theatricality and deep, stage-born passion."
+    "match_reason": "A treaty that rearranged borders and identities across Nordic landscapes pairs with an episode about travel, mountains, and how places shape who we are."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "The 1814 Treaty of Kiel forced Denmark to cede Norway to Sweden in exchange for Pomerania, reshaping Scandinavia’s political map overnight. Norwegians were not consulted; the decision treated an entire kingdom almost like a bargaining chip on a diplomatic chessboard.",
-      "fact_year": 1814,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kiel",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A treaty that rearranged borders and identities across Nordic landscapes pairs with an episode about travel, mountains, and how places shape who we are."
-    },
     {
       "hour": 12,
       "fact_text": "On Ratification Day in 1784, the U.S. Congress formally ratified the Treaty of Paris, officially ending the American Revolutionary War. The delegates signed the document in a chilly building in Annapolis, Maryland, because too few representatives had arrived earlier to make a legal quorum.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A dramatic, emotionally charged Italian opera lines up with Flamenco’s own intense theatricality and deep, stage-born passion."
+    },
+    {
+      "hour": 11,
+      "fact_text": "The 1814 Treaty of Kiel forced Denmark to cede Norway to Sweden in exchange for Pomerania, reshaping Scandinavia’s political map overnight. Norwegians were not consulted; the decision treated an entire kingdom almost like a bargaining chip on a diplomatic chessboard.",
+      "fact_year": 1814,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kiel",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A treaty that rearranged borders and identities across Nordic landscapes pairs with an episode about travel, mountains, and how places shape who we are."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T10:00:01.879701+00:00"
+  "updated_at": "2026-01-14T11:00:01.858730+00:00"
 }
