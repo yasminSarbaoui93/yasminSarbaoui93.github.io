@@ -1,74 +1,39 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "In 1236, England’s King Henry III married Eleanor of Provence, a French noblewoman who arrived in her new kingdom as a teenager and never even spoke English fluently. Though politically arranged, their marriage appears to have been personally affectionate, and Eleanor became a key patron of art and poetry at court.",
-    "fact_year": 1236,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "hour": 20,
+    "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” fused gospel, country, and rhythm and blues into a sound that scandalized some and electrified millions. His early recordings at Sun Studio are often cited as the moment when rock music crystallized into a global cultural force.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A royal marriage blending politics and genuine affection fits an episode devoted to love’s vulnerable, complicated, and sometimes strategic nature."
+    "match_reason": "The birth of Elvis as a musical ‘origin point’ aligns with Sedna’s own first episode — both are starting blasts that set a whole universe of sound in motion."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” fused gospel, country, and rhythm and blues into a sound that scandalized some and electrified millions. His early recordings at Sun Studio are often cited as the moment when rock music crystallized into a global cultural force.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The birth of Elvis as a musical ‘origin point’ aligns with Sedna’s own first episode — both are starting blasts that set a whole universe of sound in motion."
-    },
     {
       "hour": 21,
       "fact_text": "The founding of the Árpád dynasty in the 9th century gave medieval Hungary a ruling house that would last until 1301, guiding its conversion to Christianity and expansion in Central Europe. Legend ties their ancestor Álmos to dreams and omens, blending myth and statecraft from the very start.",
@@ -662,9 +627,42 @@
         ]
       },
       "match_reason": "A royal marriage blending politics and genuine affection fits an episode devoted to love’s vulnerable, complicated, and sometimes strategic nature."
+    },
+    {
+      "hour": 20,
+      "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” fused gospel, country, and rhythm and blues into a sound that scandalized some and electrified millions. His early recordings at Sun Studio are often cited as the moment when rock music crystallized into a global cultural force.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The birth of Elvis as a musical ‘origin point’ aligns with Sedna’s own first episode — both are starting blasts that set a whole universe of sound in motion."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T19:00:01.708969+00:00"
+  "updated_at": "2026-01-14T20:00:01.918624+00:00"
 }
