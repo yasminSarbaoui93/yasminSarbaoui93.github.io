@@ -1,53 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1858, Italian revolutionary Felice Orsini tried to assassinate Napoleon III in Paris using homemade bombs filled with bullets. The blasts killed and injured dozens of bystanders but left the emperor relatively unscathed, and Orsini’s letters from prison later helped inspire liberal reforms in Italy and France.",
-    "fact_year": 1858,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Felice_Orsini",
+    "hour": 9,
+    "fact_text": "In 1969, an accidental rocket warhead explosion on the aircraft carrier USS Enterprise near Hawaii triggered a chain reaction of fires and detonations on deck, killing 28 sailors. The inferno was so intense that some aircraft simply melted, yet the crew managed to save the ship.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_fire",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 11,
+      "title": "Morning Drops #04 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A failed assassination by a radical idealist reflects explosive attempts to break oppressive structures, resonating with the episode’s themes of resistance and breaking boxes."
+    "match_reason": "The catastrophic chain reaction of explosions is echoed in the episode’s fierce, high-energy guitar surges and the idea of raw, uncontrolled power."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1969, an accidental rocket warhead explosion on the aircraft carrier USS Enterprise near Hawaii triggered a chain reaction of fires and detonations on deck, killing 28 sailors. The inferno was so intense that some aircraft simply melted, yet the crew managed to save the ship.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_fire",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #04 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The catastrophic chain reaction of explosions is echoed in the episode’s fierce, high-energy guitar surges and the idea of raw, uncontrolled power."
-    },
     {
       "hour": 10,
       "fact_text": "Giacomo Puccini’s opera Tosca premiered in Rome in 1900, and contemporary critics thought it was almost too realistic and brutal for the stage. With torture, execution, and a heroine who hurls herself from a rampart, it felt like early cinematic thriller material long before film embraced such intensity.",
@@ -649,9 +627,34 @@
         ]
       },
       "match_reason": "A failed assassination by a radical idealist reflects explosive attempts to break oppressive structures, resonating with the episode’s themes of resistance and breaking boxes."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1969, an accidental rocket warhead explosion on the aircraft carrier USS Enterprise near Hawaii triggered a chain reaction of fires and detonations on deck, killing 28 sailors. The inferno was so intense that some aircraft simply melted, yet the crew managed to save the ship.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_fire",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #04 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The catastrophic chain reaction of explosions is echoed in the episode’s fierce, high-energy guitar surges and the idea of raw, uncontrolled power."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T08:00:01.709905+00:00"
+  "updated_at": "2026-01-14T09:00:01.910464+00:00"
 }
