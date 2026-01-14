@@ -1,58 +1,34 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1939, Norway formally claimed Queen Maud Land, a vast, icy sector of Antarctica stretching from the coast deep into the continent’s interior. The claim reflected both polar exploration ambitions and a quiet race among nations to map and name the frozen south.",
-    "fact_year": 1939,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Maud_Land",
+    "hour": 5,
+    "fact_text": "On this day in 1899, the RMS Oceanic was launched, briefly becoming the largest ship afloat since Brunel’s colossal SS Great Eastern. She symbolized a new age of luxurious, steel-hulled ocean liners bridging continents by sea.",
+    "fact_year": 1899,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "An Antarctic territorial claim mirrors other extreme landscapes of survival; desert blues from the Sahara parallels the starkness and endurance of polar frontiers."
+    "match_reason": "The launch of a grand ocean liner fits perfectly with an episode literally recorded at sea, immersed in life aboard a boat."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On this day in 1899, the RMS Oceanic was launched, briefly becoming the largest ship afloat since Brunel’s colossal SS Great Eastern. She symbolized a new age of luxurious, steel-hulled ocean liners bridging continents by sea.",
-      "fact_year": 1899,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "The launch of a grand ocean liner fits perfectly with an episode literally recorded at sea, immersed in life aboard a boat."
-    },
     {
       "hour": 6,
       "fact_text": "In 1943, Japan began Operation Ke, a carefully orchestrated withdrawal of its troops from Guadalcanal during World War II. Executed largely under cover of darkness and bad weather, it turned a chaotic retreat into one of the war’s most successful evacuations.",
@@ -655,9 +631,37 @@
         ]
       },
       "match_reason": "An Antarctic territorial claim mirrors other extreme landscapes of survival; desert blues from the Sahara parallels the starkness and endurance of polar frontiers."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On this day in 1899, the RMS Oceanic was launched, briefly becoming the largest ship afloat since Brunel’s colossal SS Great Eastern. She symbolized a new age of luxurious, steel-hulled ocean liners bridging continents by sea.",
+      "fact_year": 1899,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "The launch of a grand ocean liner fits perfectly with an episode literally recorded at sea, immersed in life aboard a boat."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T04:00:01.577739+00:00"
+  "updated_at": "2026-01-14T05:00:01.842244+00:00"
 }
