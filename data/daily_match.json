@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1969, an accidental rocket warhead explosion on the aircraft carrier USS Enterprise near Hawaii triggered a chain reaction of fires and detonations on deck, killing 28 sailors. The inferno was so intense that some aircraft simply melted, yet the crew managed to save the ship.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_fire",
+    "hour": 10,
+    "fact_text": "Giacomo Puccini’s opera Tosca premiered in Rome in 1900, and contemporary critics thought it was almost too realistic and brutal for the stage. With torture, execution, and a heroine who hurls herself from a rampart, it felt like early cinematic thriller material long before film embraced such intensity.",
+    "fact_year": 1900,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #04 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "The catastrophic chain reaction of explosions is echoed in the episode’s fierce, high-energy guitar surges and the idea of raw, uncontrolled power."
+    "match_reason": "A dramatic, emotionally charged Italian opera lines up with Flamenco’s own intense theatricality and deep, stage-born passion."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "Giacomo Puccini’s opera Tosca premiered in Rome in 1900, and contemporary critics thought it was almost too realistic and brutal for the stage. With torture, execution, and a heroine who hurls herself from a rampart, it felt like early cinematic thriller material long before film embraced such intensity.",
-      "fact_year": 1900,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A dramatic, emotionally charged Italian opera lines up with Flamenco’s own intense theatricality and deep, stage-born passion."
-    },
     {
       "hour": 11,
       "fact_text": "The 1814 Treaty of Kiel forced Denmark to cede Norway to Sweden in exchange for Pomerania, reshaping Scandinavia’s political map overnight. Norwegians were not consulted; the decision treated an entire kingdom almost like a bargaining chip on a diplomatic chessboard.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "The catastrophic chain reaction of explosions is echoed in the episode’s fierce, high-energy guitar surges and the idea of raw, uncontrolled power."
+    },
+    {
+      "hour": 10,
+      "fact_text": "Giacomo Puccini’s opera Tosca premiered in Rome in 1900, and contemporary critics thought it was almost too realistic and brutal for the stage. With torture, execution, and a heroine who hurls herself from a rampart, it felt like early cinematic thriller material long before film embraced such intensity.",
+      "fact_year": 1900,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A dramatic, emotionally charged Italian opera lines up with Flamenco’s own intense theatricality and deep, stage-born passion."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T09:00:01.910464+00:00"
+  "updated_at": "2026-01-14T10:00:01.879701+00:00"
 }
