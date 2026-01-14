@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 2016, coordinated explosions and gunfire near Jakarta’s Sarinah Building brought the tactics of the Islamic State group into the heart of Indonesia’s capital. The urban attack, though limited in scale, signaled the reach of global extremism into Southeast Asia’s bustling megacities.",
-    "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2016_Jakarta_attacks",
+    "hour": 15,
+    "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank in a violent storm off the German island of Rügen, killing 55 people. Years of structural modifications and previous damage likely contributed to the disaster, making it Poland’s worst peacetime maritime tragedy.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "An attack that disrupts the everyday life of a capital city connects with an episode centered on the complex, gritty stories of an urban soundscape."
+    "match_reason": "A Polish maritime disaster is linked with an intimate musical road-trip through Poland, tying national tragedy to contemporary cultural memory."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank in a violent storm off the German island of Rügen, killing 55 people. Years of structural modifications and previous damage likely contributed to the disaster, making it Poland’s worst peacetime maritime tragedy.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A Polish maritime disaster is linked with an intimate musical road-trip through Poland, tying national tragedy to contemporary cultural memory."
-    },
     {
       "hour": 16,
       "fact_text": "Also in 1943, Franklin D. Roosevelt and Winston Churchill convened the Casablanca Conference in Morocco, plotting the Allies’ next moves against the Axis. The meeting produced the doctrine of “unconditional surrender,” signaling that the war would only end with total defeat of the enemy regimes.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "An attack that disrupts the everyday life of a capital city connects with an episode centered on the complex, gritty stories of an urban soundscape."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank in a violent storm off the German island of Rügen, killing 55 people. Years of structural modifications and previous damage likely contributed to the disaster, making it Poland’s worst peacetime maritime tragedy.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A Polish maritime disaster is linked with an intimate musical road-trip through Poland, tying national tragedy to contemporary cultural memory."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T14:00:01.889954+00:00"
+  "updated_at": "2026-01-14T15:00:02.098961+00:00"
 }
