@@ -1,59 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On this day in 1899, the RMS Oceanic was launched, briefly becoming the largest ship afloat since Brunel’s colossal SS Great Eastern. She symbolized a new age of luxurious, steel-hulled ocean liners bridging continents by sea.",
-    "fact_year": 1899,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Oceanic_(1899)",
+    "hour": 6,
+    "fact_text": "In 1943, Japan began Operation Ke, a carefully orchestrated withdrawal of its troops from Guadalcanal during World War II. Executed largely under cover of darkness and bad weather, it turned a chaotic retreat into one of the war’s most successful evacuations.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Ke",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "The launch of a grand ocean liner fits perfectly with an episode literally recorded at sea, immersed in life aboard a boat."
+    "match_reason": "A stealthy, nocturnal military evacuation matches the shadowy, cinematic, tension-filled atmosphere of classic trip‑hop."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1943, Japan began Operation Ke, a carefully orchestrated withdrawal of its troops from Guadalcanal during World War II. Executed largely under cover of darkness and bad weather, it turned a chaotic retreat into one of the war’s most successful evacuations.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Ke",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A stealthy, nocturnal military evacuation matches the shadowy, cinematic, tension-filled atmosphere of classic trip‑hop."
-    },
     {
       "hour": 7,
       "fact_text": "The Battle of Rivoli in 1797 marked a decisive French victory under the young General Napoleon Bonaparte, breaking Austrian resistance in northern Italy. It turned a bold, risky campaign in the Alps into the foundation of French dominance in the region for years to come.",
@@ -659,9 +631,34 @@
         ]
       },
       "match_reason": "The launch of a grand ocean liner fits perfectly with an episode literally recorded at sea, immersed in life aboard a boat."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1943, Japan began Operation Ke, a carefully orchestrated withdrawal of its troops from Guadalcanal during World War II. Executed largely under cover of darkness and bad weather, it turned a chaotic retreat into one of the war’s most successful evacuations.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Ke",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A stealthy, nocturnal military evacuation matches the shadowy, cinematic, tension-filled atmosphere of classic trip‑hop."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T05:00:01.842244+00:00"
+  "updated_at": "2026-01-14T06:00:02.207397+00:00"
 }
