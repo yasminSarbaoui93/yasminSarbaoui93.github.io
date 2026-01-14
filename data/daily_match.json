@@ -1,66 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "Giacomo Puccini’s opera “Tosca” premiered in Rome in 1900, shocking some early audiences with its brutal realism, torture scene, and onstage execution. Its intense mix of political intrigue, passion, and tragedy has since made it one of the most performed operas in the world.",
-    "fact_year": 1900,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
+    "hour": 11,
+    "fact_text": "The Treaty of Kiel in 1814 forced Denmark’s Frederick VI to cede Norway to Sweden’s Charles XIII in exchange for Pomerania, effectively dissolving the centuries-old Danish‑Norwegian union. The deal reshaped the political map of Scandinavia and set the stage for Norway’s later path to independence.",
+    "fact_year": 1814,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kiel",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "An opera of doomed, irrational love and political passion fits an episode dedicated to love’s vulnerable, high‑drama side."
+    "match_reason": "A treaty redrawing European borders and identities matches an episode about landscapes, crossing regions, and the stories that tie people to place."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "The Treaty of Kiel in 1814 forced Denmark’s Frederick VI to cede Norway to Sweden’s Charles XIII in exchange for Pomerania, effectively dissolving the centuries-old Danish‑Norwegian union. The deal reshaped the political map of Scandinavia and set the stage for Norway’s later path to independence.",
-      "fact_year": 1814,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kiel",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A treaty redrawing European borders and identities matches an episode about landscapes, crossing regions, and the stories that tie people to place."
-    },
     {
       "hour": 12,
       "fact_text": "On Ratification Day in 1784, the U.S. Congress in Annapolis formally ratified the Treaty of Paris, officially ending the American Revolutionary War. The vote transformed a fragile rebellion into a recognized, independent nation on the world stage.",
@@ -666,9 +631,34 @@
         ]
       },
       "match_reason": "An opera of doomed, irrational love and political passion fits an episode dedicated to love’s vulnerable, high‑drama side."
+    },
+    {
+      "hour": 11,
+      "fact_text": "The Treaty of Kiel in 1814 forced Denmark’s Frederick VI to cede Norway to Sweden’s Charles XIII in exchange for Pomerania, effectively dissolving the centuries-old Danish‑Norwegian union. The deal reshaped the political map of Scandinavia and set the stage for Norway’s later path to independence.",
+      "fact_year": 1814,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kiel",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A treaty redrawing European borders and identities matches an episode about landscapes, crossing regions, and the stories that tie people to place."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T10:00:01.817847+00:00"
+  "updated_at": "2026-01-14T11:00:01.714366+00:00"
 }
