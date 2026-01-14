@@ -1,54 +1,31 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On this day in 1952, NBC’s “Today” show debuted, blending news, interviews, and light features into a new kind of morning ritual. It helped define the modern idea of starting the day with a window onto the wider world.",
-    "fact_year": 1952,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Today_(American_TV_program)",
+    "hour": 3,
+    "fact_text": "In 1907, a powerful earthquake struck Kingston, Jamaica, killing more than 1,000 people and devastating much of the city’s infrastructure. The disaster reshaped Kingston’s urban landscape and remains one of the deadliest natural events in the Caribbean’s seismic history.",
+    "fact_year": 1907,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1907_Kingston_earthquake",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "The launch of a groundbreaking morning show pairs naturally with a first Morning Drops episode built to start the day."
+    "match_reason": "The sudden, violent energy of an earthquake is echoed metaphorically in an ‘electric shock’ of high-voltage guitar-driven tracks."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1907, a powerful earthquake struck Kingston, Jamaica, killing more than 1,000 people and devastating much of the city’s infrastructure. The disaster reshaped Kingston’s urban landscape and remains one of the deadliest natural events in the Caribbean’s seismic history.",
-      "fact_year": 1907,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1907_Kingston_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden, violent energy of an earthquake is echoed metaphorically in an ‘electric shock’ of high-voltage guitar-driven tracks."
-    },
     {
       "hour": 4,
       "fact_text": "In 1939, Norway formally claimed Queen Maud Land, a vast, icy sector of Antarctica stretching from the coast deep into the continent’s interior. The claim reflected both polar exploration ambitions and a quiet race among nations to map and name the frozen south.",
@@ -654,9 +631,34 @@
         ]
       },
       "match_reason": "The launch of a groundbreaking morning show pairs naturally with a first Morning Drops episode built to start the day."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1907, a powerful earthquake struck Kingston, Jamaica, killing more than 1,000 people and devastating much of the city’s infrastructure. The disaster reshaped Kingston’s urban landscape and remains one of the deadliest natural events in the Caribbean’s seismic history.",
+      "fact_year": 1907,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1907_Kingston_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden, violent energy of an earthquake is echoed metaphorically in an ‘electric shock’ of high-voltage guitar-driven tracks."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T02:00:01.928621+00:00"
+  "updated_at": "2026-01-14T03:00:01.662504+00:00"
 }
