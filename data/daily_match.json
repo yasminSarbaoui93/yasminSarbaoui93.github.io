@@ -1,52 +1,28 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "The 1797 Battle of Rivoli cemented Napoleon Bonaparte’s reputation when he outmaneuvered a larger Austrian force in the Italian Alps. He exploited the terrain so precisely that some historians compare the battle lines to a carefully choreographed piece of theater.",
-    "fact_year": 1797,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
+    "hour": 8,
+    "fact_text": "In 1858, Italian revolutionary Felice Orsini tried to assassinate Napoleon III in Paris using homemade bombs filled with bullets. The blasts killed and injured dozens of bystanders but left the emperor relatively unscathed, and Orsini’s letters from prison later helped inspire liberal reforms in Italy and France.",
+    "fact_year": 1858,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Felice_Orsini",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A bold Alpine victory that reshaped power in Italy pairs with an Italian-framed episode about defiant, battle-ready rock energy and breaking through resistance."
+    "match_reason": "A failed assassination by a radical idealist reflects explosive attempts to break oppressive structures, resonating with the episode’s themes of resistance and breaking boxes."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1858, Italian revolutionary Felice Orsini tried to assassinate Napoleon III in Paris using homemade bombs filled with bullets. The blasts killed and injured dozens of bystanders but left the emperor relatively unscathed, and Orsini’s letters from prison later helped inspire liberal reforms in Italy and France.",
-      "fact_year": 1858,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Felice_Orsini",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A failed assassination by a radical idealist reflects explosive attempts to break oppressive structures, resonating with the episode’s themes of resistance and breaking boxes."
-    },
     {
       "hour": 9,
       "fact_text": "In 1969, an accidental rocket warhead explosion on the aircraft carrier USS Enterprise near Hawaii triggered a chain reaction of fires and detonations on deck, killing 28 sailors. The inferno was so intense that some aircraft simply melted, yet the crew managed to save the ship.",
@@ -651,9 +627,31 @@
         ]
       },
       "match_reason": "A bold Alpine victory that reshaped power in Italy pairs with an Italian-framed episode about defiant, battle-ready rock energy and breaking through resistance."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1858, Italian revolutionary Felice Orsini tried to assassinate Napoleon III in Paris using homemade bombs filled with bullets. The blasts killed and injured dozens of bystanders but left the emperor relatively unscathed, and Orsini’s letters from prison later helped inspire liberal reforms in Italy and France.",
+      "fact_year": 1858,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Felice_Orsini",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A failed assassination by a radical idealist reflects explosive attempts to break oppressive structures, resonating with the episode’s themes of resistance and breaking boxes."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T07:00:02.015958+00:00"
+  "updated_at": "2026-01-14T08:00:01.709905+00:00"
 }
