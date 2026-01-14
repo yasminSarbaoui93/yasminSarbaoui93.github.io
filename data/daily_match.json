@@ -1,55 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 2016, coordinated bomb blasts and gunfire struck near Jakarta’s Sarinah Building, with attackers staging an urban assault that unfolded in real time across social media. The Islamic State’s claim of responsibility marked one of its most visible operations in Southeast Asia.",
-    "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2016_Jakarta_attacks",
+    "hour": 15,
+    "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank off the island of Rügen during a storm, killing 55 people in the country’s worst peacetime maritime disaster. The ship had a history of stability problems and previous damage, raising haunting questions about how risk is managed at sea.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
     "episode": {
-      "id": 10,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "Yasmin dives into Women's Day through the voices of four incredible female rappers. Morning fire from the magic planet of Sedna FM — move your hands up and down with us. Hip hop culture through a feminine lens.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-bars-with-balls",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "Ele A - Globo",
-        "Little Simz - Point and Kill (feat. Obongjayar)",
-        "Lil' Kim - Lighters Up",
-        "Queen Latifah - U.N.I.T.Y."
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeats",
-        "Rap"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "An attack in a modern city square and the broader struggle against violence and extremism pair with an episode centered on powerful voices using rap to confront and resist."
+    "match_reason": "A Polish maritime tragedy off Rügen connects geographically and emotionally with an episode tracing a Polish journey, inviting reflection on the country’s waters and roads."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank off the island of Rügen during a storm, killing 55 people in the country’s worst peacetime maritime disaster. The ship had a history of stability problems and previous damage, raising haunting questions about how risk is managed at sea.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A Polish maritime tragedy off Rügen connects geographically and emotionally with an episode tracing a Polish journey, inviting reflection on the country’s waters and roads."
-    },
     {
       "hour": 16,
       "fact_text": "Also in 1943, Franklin D. Roosevelt and Winston Churchill convened the Casablanca Conference in Morocco, deciding on the policy of demanding “unconditional surrender” from the Axis powers. Behind the famous photographs, they wrestled with logistics, egos, and the weight of choosing how millions of lives would be risked.",
@@ -651,9 +627,34 @@
         ]
       },
       "match_reason": "An attack in a modern city square and the broader struggle against violence and extremism pair with an episode centered on powerful voices using rap to confront and resist."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank off the island of Rügen during a storm, killing 55 people in the country’s worst peacetime maritime disaster. The ship had a history of stability problems and previous damage, raising haunting questions about how risk is managed at sea.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A Polish maritime tragedy off Rügen connects geographically and emotionally with an episode tracing a Polish journey, inviting reflection on the country’s waters and roads."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T14:00:01.766591+00:00"
+  "updated_at": "2026-01-14T15:00:01.943598+00:00"
 }
