@@ -1,66 +1,41 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "Andrew III of Hungary died in 1301 without a male heir, bringing an end to the centuries‑old Árpád dynasty that had founded the medieval Hungarian state. The power vacuum triggered competing claims from foreign rulers, turning succession into a multinational tug‑of‑war.",
-    "fact_year": 1301,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_III_of_Hungary",
+    "hour": 19,
+    "fact_text": "In 1236, England’s King Henry III married Eleanor of Provence, a French noblewoman who arrived in her new kingdom as a teenager and never even spoke English fluently. Though politically arranged, their marriage appears to have been personally affectionate, and Eleanor became a key patron of art and poetry at court.",
+    "fact_year": 1236,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
         "Soul",
-        "Celtic Rock"
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "A dynastic end and contested succession echo the episode’s focus on transitions, uncertainty, and finding what grounds you when political and personal seasons change."
+    "match_reason": "A royal marriage blending politics and genuine affection fits an episode devoted to love’s vulnerable, complicated, and sometimes strategic nature."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "In 1236, England’s King Henry III married Eleanor of Provence, a French noblewoman who arrived in her new kingdom as a teenager and never even spoke English fluently. Though politically arranged, their marriage appears to have been personally affectionate, and Eleanor became a key patron of art and poetry at court.",
-      "fact_year": 1236,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "A royal marriage blending politics and genuine affection fits an episode devoted to love’s vulnerable, complicated, and sometimes strategic nature."
-    },
     {
       "hour": 20,
       "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” fused gospel, country, and rhythm and blues into a sound that scandalized some and electrified millions. His early recordings at Sun Studio are often cited as the moment when rock music crystallized into a global cultural force.",
@@ -652,9 +627,44 @@
         ]
       },
       "match_reason": "A dynastic end and contested succession echo the episode’s focus on transitions, uncertainty, and finding what grounds you when political and personal seasons change."
+    },
+    {
+      "hour": 19,
+      "fact_text": "In 1236, England’s King Henry III married Eleanor of Provence, a French noblewoman who arrived in her new kingdom as a teenager and never even spoke English fluently. Though politically arranged, their marriage appears to have been personally affectionate, and Eleanor became a key patron of art and poetry at court.",
+      "fact_year": 1236,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "A royal marriage blending politics and genuine affection fits an episode devoted to love’s vulnerable, complicated, and sometimes strategic nature."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T18:00:01.733948+00:00"
+  "updated_at": "2026-01-14T19:00:01.708969+00:00"
 }
