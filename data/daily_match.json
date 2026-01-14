@@ -1,71 +1,41 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1969, a devastating fire aboard the nuclear-powered aircraft carrier USS Enterprise near Hawaii killed 28 sailors and injured more than 300. Triggered by an accidentally detonated rocket on the flight deck, the blaze highlighted the dangers of high‑tech weaponry packed tightly at sea.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Enterprise_fire",
+    "hour": 10,
+    "fact_text": "Giacomo Puccini’s opera “Tosca” premiered in Rome in 1900, shocking some early audiences with its brutal realism, torture scene, and onstage execution. Its intense mix of political intrigue, passion, and tragedy has since made it one of the most performed operas in the world.",
+    "fact_year": 1900,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "A deadly accident on a massive warship is paired with an episode that shifts from tense, mysterious ambience into release, echoing movement from crisis to catharsis."
+    "match_reason": "An opera of doomed, irrational love and political passion fits an episode dedicated to love’s vulnerable, high‑drama side."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "Giacomo Puccini’s opera “Tosca” premiered in Rome in 1900, shocking some early audiences with its brutal realism, torture scene, and onstage execution. Its intense mix of political intrigue, passion, and tragedy has since made it one of the most performed operas in the world.",
-      "fact_year": 1900,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "An opera of doomed, irrational love and political passion fits an episode dedicated to love’s vulnerable, high‑drama side."
-    },
     {
       "hour": 11,
       "fact_text": "The Treaty of Kiel in 1814 forced Denmark’s Frederick VI to cede Norway to Sweden’s Charles XIII in exchange for Pomerania, effectively dissolving the centuries-old Danish‑Norwegian union. The deal reshaped the political map of Scandinavia and set the stage for Norway’s later path to independence.",
@@ -661,9 +631,44 @@
         ]
       },
       "match_reason": "A deadly accident on a massive warship is paired with an episode that shifts from tense, mysterious ambience into release, echoing movement from crisis to catharsis."
+    },
+    {
+      "hour": 10,
+      "fact_text": "Giacomo Puccini’s opera “Tosca” premiered in Rome in 1900, shocking some early audiences with its brutal realism, torture scene, and onstage execution. Its intense mix of political intrigue, passion, and tragedy has since made it one of the most performed operas in the world.",
+      "fact_year": 1900,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tosca",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "An opera of doomed, irrational love and political passion fits an episode dedicated to love’s vulnerable, high‑drama side."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T09:00:01.700959+00:00"
+  "updated_at": "2026-01-14T10:00:01.817847+00:00"
 }
