@@ -1,55 +1,30 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1907, a powerful earthquake struck Kingston, Jamaica, collapsing much of the city’s Victorian architecture and killing over a thousand people in minutes. The ground shook so violently that people reported feeling as if the solid earth had briefly turned to waves.",
-    "fact_year": 1907,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1907_Kingston_earthquake",
+    "hour": 4,
+    "fact_text": "In 1939, Norway laid claim to Queen Maud Land, a vast sector of Antarctica named after its queen. The claim was driven not by settlers but by whalers and polar explorers, sketching nationhood onto a landscape of ice, wind, and almost no permanent human presence.",
+    "fact_year": 1939,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Maud_Land",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #04 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "The sudden, overwhelming force of an earthquake resonates with the episode’s theme of jolts and shocks delivered through high-voltage guitars."
+    "match_reason": "An icy ‘white desert’ claim in Antarctica mirrors the episode’s evocation of desert landscapes and the way humans inscribe identity onto harsh, open spaces."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1939, Norway laid claim to Queen Maud Land, a vast sector of Antarctica named after its queen. The claim was driven not by settlers but by whalers and polar explorers, sketching nationhood onto a landscape of ice, wind, and almost no permanent human presence.",
-      "fact_year": 1939,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Maud_Land",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "An icy ‘white desert’ claim in Antarctica mirrors the episode’s evocation of desert landscapes and the way humans inscribe identity onto harsh, open spaces."
-    },
     {
       "hour": 5,
       "fact_text": "When the RMS Oceanic was launched in 1899, it was the largest ship afloat since the colossal SS Great Eastern decades earlier. Oceanic was so lavish that it featured electric lighting, a novelty for many passengers who had never flipped a switch before boarding.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "The sudden, overwhelming force of an earthquake resonates with the episode’s theme of jolts and shocks delivered through high-voltage guitars."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1939, Norway laid claim to Queen Maud Land, a vast sector of Antarctica named after its queen. The claim was driven not by settlers but by whalers and polar explorers, sketching nationhood onto a landscape of ice, wind, and almost no permanent human presence.",
+      "fact_year": 1939,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Maud_Land",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "An icy ‘white desert’ claim in Antarctica mirrors the episode’s evocation of desert landscapes and the way humans inscribe identity onto harsh, open spaces."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T03:00:02.107241+00:00"
+  "updated_at": "2026-01-14T04:00:01.675221+00:00"
 }
