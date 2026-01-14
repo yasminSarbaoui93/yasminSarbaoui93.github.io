@@ -1,61 +1,36 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1993, the Polish ferry MS Jan Heweliusz capsized and sank off the island of Rügen during a storm, killing 55 people in the country’s worst peacetime maritime disaster. The ship had a history of stability problems and previous damage, raising haunting questions about how risk is managed at sea.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_MS_Jan_Heweliusz",
+    "hour": 16,
+    "fact_text": "Also in 1943, Franklin D. Roosevelt and Winston Churchill convened the Casablanca Conference in Morocco, deciding on the policy of demanding “unconditional surrender” from the Axis powers. Behind the famous photographs, they wrestled with logistics, egos, and the weight of choosing how millions of lives would be risked.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Casablanca_Conference",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A Polish maritime tragedy off Rügen connects geographically and emotionally with an episode tracing a Polish journey, inviting reflection on the country’s waters and roads."
+    "match_reason": "A wartime summit in North Africa fits the medina‑rooted, North African and sub‑Saharan journey of the episode, both mapping pivotal decisions against Moroccan and broader Afro-Atlantic soundscapes."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "Also in 1943, Franklin D. Roosevelt and Winston Churchill convened the Casablanca Conference in Morocco, deciding on the policy of demanding “unconditional surrender” from the Axis powers. Behind the famous photographs, they wrestled with logistics, egos, and the weight of choosing how millions of lives would be risked.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Casablanca_Conference",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A wartime summit in North Africa fits the medina‑rooted, North African and sub‑Saharan journey of the episode, both mapping pivotal decisions against Moroccan and broader Afro-Atlantic soundscapes."
-    },
     {
       "hour": 17,
       "fact_text": "The Third Battle of Panipat in 1761 was one of the largest battles of the 18th century, with perhaps 100,000 combatants clashing on the plains of northern India. The struggle between the Maratha Empire and Ahmad Shah Durrani’s Afghan forces reshaped power across the Indian subcontinent for decades.",
@@ -652,9 +627,39 @@
         ]
       },
       "match_reason": "A Polish maritime tragedy off Rügen connects geographically and emotionally with an episode tracing a Polish journey, inviting reflection on the country’s waters and roads."
+    },
+    {
+      "hour": 16,
+      "fact_text": "Also in 1943, Franklin D. Roosevelt and Winston Churchill convened the Casablanca Conference in Morocco, deciding on the policy of demanding “unconditional surrender” from the Axis powers. Behind the famous photographs, they wrestled with logistics, egos, and the weight of choosing how millions of lives would be risked.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Casablanca_Conference",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A wartime summit in North Africa fits the medina‑rooted, North African and sub‑Saharan journey of the episode, both mapping pivotal decisions against Moroccan and broader Afro-Atlantic soundscapes."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T15:00:01.943598+00:00"
+  "updated_at": "2026-01-14T16:00:02.017624+00:00"
 }
