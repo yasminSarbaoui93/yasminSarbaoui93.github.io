@@ -1,63 +1,39 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On this day in 1236, England’s King Henry III married Eleanor of Provence, a politically strategic union that brought a cosmopolitan French influence to his court. Eleanor later became a controversial figure, admired for her culture yet criticized for favoring her foreign relatives.",
-    "fact_year": 1236,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "hour": 20,
+    "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” transformed popular music by fusing blues, country, and gospel into a new sound that scandalized and electrified 1950s audiences. His stage presence, from hip‑swivels to Vegas jumpsuits, helped define the modern musical icon.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A royal marriage that reshaped cultural ties between regions connects with an episode about how a place and its people shape personal and family journeys."
+    "match_reason": "The birth of a musical ‘king’ who reshaped culture fits with Sedna FM’s own origin episode—where its eclectic, boundary-breaking sound first began."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” transformed popular music by fusing blues, country, and gospel into a new sound that scandalized and electrified 1950s audiences. His stage presence, from hip‑swivels to Vegas jumpsuits, helped define the modern musical icon.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The birth of a musical ‘king’ who reshaped culture fits with Sedna FM’s own origin episode—where its eclectic, boundary-breaking sound first began."
-    },
     {
       "hour": 21,
       "fact_text": "The Ross Ice Shelf in Antarctica—where Amundsen’s party made landfall in 1911—is one of the largest floating ice platforms on Earth, roughly the size of France. Its sheer ice cliffs and hidden currents make it both a gateway to the continent and a key player in global sea‑level dynamics.",
@@ -655,9 +631,42 @@
         ]
       },
       "match_reason": "A royal marriage that reshaped cultural ties between regions connects with an episode about how a place and its people shape personal and family journeys."
+    },
+    {
+      "hour": 20,
+      "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” transformed popular music by fusing blues, country, and gospel into a new sound that scandalized and electrified 1950s audiences. His stage presence, from hip‑swivels to Vegas jumpsuits, helped define the modern musical icon.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The birth of a musical ‘king’ who reshaped culture fits with Sedna FM’s own origin episode—where its eclectic, boundary-breaking sound first began."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T19:00:02.028422+00:00"
+  "updated_at": "2026-01-14T20:00:01.703032+00:00"
 }
