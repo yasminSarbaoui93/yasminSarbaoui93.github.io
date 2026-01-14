@@ -1,55 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "NBC, founded in 1926, became the first major national radio network in the United States before it later turned to television. Its early engineers had to experiment with relay stations and long‑distance lines, essentially teaching a continent how to listen together in real time.",
-    "fact_year": 1926,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NBC",
+    "hour": 23,
+    "fact_text": "Dave Garroway, the original host of NBC’s Today, was nicknamed the “quiet philosopher of television” because he favored calm, conversational delivery over showman theatrics. He would often sign off with a simple raised hand and the word “peace,” a surprisingly gentle gesture for early mass media.",
+    "fact_year": 1952,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dave_Garroway",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Indie Rock",
+        "Downtempo",
+        "Trip-Hop",
         "Electronic",
-        "Garage Rock"
+        "Chillout"
       ]
     },
-    "match_reason": "NBC’s early radio network turned empty airwaves into shared creative space, matching the episode’s theme of seeing emptiness as room for new signals and stories."
+    "match_reason": "Garroway’s soft-spoken, peaceful style resonates with a slow, downtempo episode that invites listeners to breathe and move gently through their day."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Dave Garroway, the original host of NBC’s Today, was nicknamed the “quiet philosopher of television” because he favored calm, conversational delivery over showman theatrics. He would often sign off with a simple raised hand and the word “peace,” a surprisingly gentle gesture for early mass media.",
-      "fact_year": 1952,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dave_Garroway",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "Garroway’s soft-spoken, peaceful style resonates with a slow, downtempo episode that invites listeners to breathe and move gently through their day."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -650,9 +626,34 @@
         ]
       },
       "match_reason": "NBC’s early radio network turned empty airwaves into shared creative space, matching the episode’s theme of seeing emptiness as room for new signals and stories."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Dave Garroway, the original host of NBC’s Today, was nicknamed the “quiet philosopher of television” because he favored calm, conversational delivery over showman theatrics. He would often sign off with a simple raised hand and the word “peace,” a surprisingly gentle gesture for early mass media.",
+      "fact_year": 1952,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dave_Garroway",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "Garroway’s soft-spoken, peaceful style resonates with a slow, downtempo episode that invites listeners to breathe and move gently through their day."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T22:00:02.276063+00:00"
+  "updated_at": "2026-01-14T23:00:02.050513+00:00"
 }
