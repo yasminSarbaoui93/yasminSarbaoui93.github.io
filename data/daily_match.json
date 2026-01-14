@@ -1,65 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1973, Elvis Presley’s “Aloha from Hawaii via Satellite” became the first concert broadcast live around the world by satellite, reaching an estimated 1–1.5 billion viewers. It was so logistically ambitious that it used more satellites than the Apollo missions, turning a single performance into a global, real-time event.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Aloha_from_Hawaii_via_Satellite",
+    "hour": 1,
+    "fact_text": "In 1911, Roald Amundsen’s expedition became the first to make landfall on the eastern edge of Antarctica’s Ross Ice Shelf on their way to the South Pole. They navigated an almost featureless white world using sled dogs, primitive equipment, and dead reckoning, treating the frozen continent like an uncharted ocean.",
+    "fact_year": 1911,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A global satellite concert mirrors the episode’s theme of long-distance voyage and connecting listeners across the world through sound."
+    "match_reason": "Both the expedition and the episode journey into polar extremes, evoking icy light, remote waters, and quiet endurance at the edge of the world."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1911, Roald Amundsen’s expedition became the first to make landfall on the eastern edge of Antarctica’s Ross Ice Shelf on their way to the South Pole. They navigated an almost featureless white world using sled dogs, primitive equipment, and dead reckoning, treating the frozen continent like an uncharted ocean.",
-      "fact_year": 1911,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the expedition and the episode journey into polar extremes, evoking icy light, remote waters, and quiet endurance at the edge of the world."
-    },
     {
       "hour": 2,
       "fact_text": "On a January morning in 1952, NBC’s Today show debuted and essentially invented the modern breakfast television format. Its host Dave Garroway broke the invisible wall of broadcast formality, talking to viewers as if they were friends sharing coffee in their living room.",
@@ -661,9 +627,34 @@
         ]
       },
       "match_reason": "A global satellite concert mirrors the episode’s theme of long-distance voyage and connecting listeners across the world through sound."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1911, Roald Amundsen’s expedition became the first to make landfall on the eastern edge of Antarctica’s Ross Ice Shelf on their way to the South Pole. They navigated an almost featureless white world using sled dogs, primitive equipment, and dead reckoning, treating the frozen continent like an uncharted ocean.",
+      "fact_year": 1911,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the expedition and the episode journey into polar extremes, evoking icy light, remote waters, and quiet endurance at the edge of the world."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T00:00:47.722866+00:00"
+  "updated_at": "2026-01-14T01:00:01.592344+00:00"
 }
