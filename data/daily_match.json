@@ -1,63 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "Elvis Presley, born in 1935 and later crowned the “King of Rock and Roll,” fused gospel, country, and rhythm and blues into a sound that scandalized some and electrified millions. His early recordings at Sun Studio are often cited as the moment when rock music crystallized into a global cultural force.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+    "hour": 21,
+    "fact_text": "The founding of the Árpád dynasty in the 9th century gave medieval Hungary a ruling house that would last until 1301, guiding its conversion to Christianity and expansion in Central Europe. Legend ties their ancestor Álmos to dreams and omens, blending myth and statecraft from the very start.",
+    "fact_year": 896,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_dynasty",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "The birth of Elvis as a musical ‘origin point’ aligns with Sedna’s own first episode — both are starting blasts that set a whole universe of sound in motion."
+    "match_reason": "An ancient dynasty rooted in place and legend fits with an episode about how a specific land — Sardinia — can anchor family history and identity across centuries."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The founding of the Árpád dynasty in the 9th century gave medieval Hungary a ruling house that would last until 1301, guiding its conversion to Christianity and expansion in Central Europe. Legend ties their ancestor Álmos to dreams and omens, blending myth and statecraft from the very start.",
-      "fact_year": 896,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_dynasty",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "An ancient dynasty rooted in place and legend fits with an episode about how a specific land — Sardinia — can anchor family history and identity across centuries."
-    },
     {
       "hour": 22,
       "fact_text": "NBC, founded in 1926, became the first major national radio network in the United States before it later turned to television. Its early engineers had to experiment with relay stations and long‑distance lines, essentially teaching a continent how to listen together in real time.",
@@ -660,9 +627,33 @@
         ]
       },
       "match_reason": "The birth of Elvis as a musical ‘origin point’ aligns with Sedna’s own first episode — both are starting blasts that set a whole universe of sound in motion."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The founding of the Árpád dynasty in the 9th century gave medieval Hungary a ruling house that would last until 1301, guiding its conversion to Christianity and expansion in Central Europe. Legend ties their ancestor Álmos to dreams and omens, blending myth and statecraft from the very start.",
+      "fact_year": 896,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_dynasty",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "An ancient dynasty rooted in place and legend fits with an episode about how a specific land — Sardinia — can anchor family history and identity across centuries."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T20:00:01.918624+00:00"
+  "updated_at": "2026-01-14T21:00:02.002076+00:00"
 }
