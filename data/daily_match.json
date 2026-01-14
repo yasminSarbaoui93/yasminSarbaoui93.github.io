@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1943, Japan began Operation Ke, a carefully orchestrated withdrawal of its troops from Guadalcanal during World War II. Executed largely under cover of darkness and bad weather, it turned a chaotic retreat into one of the war’s most successful evacuations.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Ke",
+    "hour": 7,
+    "fact_text": "The Battle of Rivoli in 1797 marked a decisive French victory under the young General Napoleon Bonaparte, breaking Austrian resistance in northern Italy. It turned a bold, risky campaign in the Alps into the foundation of French dominance in the region for years to come.",
+    "fact_year": 1797,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "A stealthy, nocturnal military evacuation matches the shadowy, cinematic, tension-filled atmosphere of classic trip‑hop."
+    "match_reason": "A turning-point victory in Napoleon’s rise is mirrored by an episode about evolution, ambition, and transformation over time."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "The Battle of Rivoli in 1797 marked a decisive French victory under the young General Napoleon Bonaparte, breaking Austrian resistance in northern Italy. It turned a bold, risky campaign in the Alps into the foundation of French dominance in the region for years to come.",
-      "fact_year": 1797,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "A turning-point victory in Napoleon’s rise is mirrored by an episode about evolution, ambition, and transformation over time."
-    },
     {
       "hour": 8,
       "fact_text": "In 1858, Emperor Napoleon III of France narrowly survived an assassination attempt by Italian revolutionary Felice Orsini, whose bombs killed and wounded dozens near the Paris Opéra. The attack shocked Europe and indirectly pushed Napoleon III toward support for Italian unification.",
@@ -656,9 +631,33 @@
         ]
       },
       "match_reason": "A stealthy, nocturnal military evacuation matches the shadowy, cinematic, tension-filled atmosphere of classic trip‑hop."
+    },
+    {
+      "hour": 7,
+      "fact_text": "The Battle of Rivoli in 1797 marked a decisive French victory under the young General Napoleon Bonaparte, breaking Austrian resistance in northern Italy. It turned a bold, risky campaign in the Alps into the foundation of French dominance in the region for years to come.",
+      "fact_year": 1797,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "A turning-point victory in Napoleon’s rise is mirrored by an episode about evolution, ambition, and transformation over time."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.012265+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T06:00:02.207397+00:00"
+  "updated_at": "2026-01-14T07:00:02.207151+00:00"
 }
