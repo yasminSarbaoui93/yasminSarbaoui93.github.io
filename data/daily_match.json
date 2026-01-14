@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1943, Japan began Operation Ke, an intricate nighttime evacuation of its troops from Guadalcanal under the noses of Allied forces. The withdrawal was so stealthy that the Allies initially mistook it for the build-up to a new offensive, not a retreat.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Ke",
+    "hour": 7,
+    "fact_text": "The 1797 Battle of Rivoli cemented Napoleon Bonaparte’s reputation when he outmaneuvered a larger Austrian force in the Italian Alps. He exploited the terrain so precisely that some historians compare the battle lines to a carefully choreographed piece of theater.",
+    "fact_year": 1797,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "The covert, nocturnal mood of a hidden evacuation works with the cinematic, shadowy textures and tension-filled calm of classic trip-hop."
+    "match_reason": "A bold Alpine victory that reshaped power in Italy pairs with an Italian-framed episode about defiant, battle-ready rock energy and breaking through resistance."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "The 1797 Battle of Rivoli cemented Napoleon Bonaparte’s reputation when he outmaneuvered a larger Austrian force in the Italian Alps. He exploited the terrain so precisely that some historians compare the battle lines to a carefully choreographed piece of theater.",
-      "fact_year": 1797,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A bold Alpine victory that reshaped power in Italy pairs with an Italian-framed episode about defiant, battle-ready rock energy and breaking through resistance."
-    },
     {
       "hour": 8,
       "fact_text": "In 1858, Italian revolutionary Felice Orsini tried to assassinate Napoleon III in Paris using homemade bombs filled with bullets. The blasts killed and injured dozens of bystanders but left the emperor relatively unscathed, and Orsini’s letters from prison later helped inspire liberal reforms in Italy and France.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "The covert, nocturnal mood of a hidden evacuation works with the cinematic, shadowy textures and tension-filled calm of classic trip-hop."
+    },
+    {
+      "hour": 7,
+      "fact_text": "The 1797 Battle of Rivoli cemented Napoleon Bonaparte’s reputation when he outmaneuvered a larger Austrian force in the Italian Alps. He exploited the terrain so precisely that some historians compare the battle lines to a carefully choreographed piece of theater.",
+      "fact_year": 1797,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rivoli",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A bold Alpine victory that reshaped power in Italy pairs with an Italian-framed episode about defiant, battle-ready rock energy and breaking through resistance."
     }
   ],
   "generated_at": "2026-01-14T00:00:00.017736+00:00",
   "date": "2026-01-14",
-  "updated_at": "2026-01-14T06:00:01.741243+00:00"
+  "updated_at": "2026-01-14T07:00:02.015958+00:00"
 }
