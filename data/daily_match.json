@@ -1,58 +1,30 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On January 15, 1962, during the Netherlands New Guinea conflict, the Indonesian Navy’s fast patrol boat RI Macan Tutul was sunk in the Arafura Sea. Its commander, Commodore Yos Sudarso, went down with his ship and later became a national hero, symbolizing Indonesia’s determination to claim what it saw as its remaining colonial territory. The brief clash compressed questions of empire, decolonization, and maritime power into a single, deadly encounter at sea.",
-    "fact_year": 1962,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Yos_Sudarso",
+    "hour": 13,
+    "fact_text": "On January 15, 1943, the Soviet Voronezh–Kastornoye offensive began, part of a broader winter push that would roll the front westward after the disaster at Stalingrad. The operation broke through Axis lines in deep snow and bitter cold, capturing key railway hubs and destabilizing German positions. It was one of several relentless blows that turned the Eastern Front from German advance into German retreat.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voronezh–Kastornoye_offensive",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 16,
+      "title": "Morning Drops #10 - The One With Many Names",
+      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Ghost - Spirit",
+        "Ghost - Mary on a Cross",
+        "Ghost - Dance Macabre",
+        "Ghost - Umbra"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Hard Rock",
+        "Heavy Metal",
+        "Arena Rock"
       ]
     },
-    "match_reason": "A naval clash and a commander lost at sea resonate with an episode literally recorded on a boat, transmuting stories of ships and oceans from war into shared travel and song."
+    "match_reason": "A grim winter offensive and the ghosts of a continent at war pair with a theatrical metal band steeped in ritual and specters, turning the idea of ‘ghosts of history’ into sound."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On January 15, 1943, the Soviet Voronezh–Kastornoye offensive began, part of a broader winter push that would roll the front westward after the disaster at Stalingrad. The operation broke through Axis lines in deep snow and bitter cold, capturing key railway hubs and destabilizing German positions. It was one of several relentless blows that turned the Eastern Front from German advance into German retreat.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voronezh–Kastornoye_offensive",
-      "episode": {
-        "id": 16,
-        "title": "Morning Drops #10 - The One With Many Names",
-        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
-        "songs": [
-          "Ghost - Spirit",
-          "Ghost - Mary on a Cross",
-          "Ghost - Dance Macabre",
-          "Ghost - Umbra"
-        ],
-        "music-genres": [
-          "Hard Rock",
-          "Heavy Metal",
-          "Arena Rock"
-        ]
-      },
-      "match_reason": "A grim winter offensive and the ghosts of a continent at war pair with a theatrical metal band steeped in ritual and specters, turning the idea of ‘ghosts of history’ into sound."
-    },
     {
       "hour": 14,
       "fact_text": "On January 15, 1865, Fort Fisher in North Carolina fell to Union forces after a massive land‑and‑sea assault. Its capture closed off Wilmington, the last major Confederate seaport, strangling the South’s ability to import weapons and supplies from abroad. In a war decided as much by logistics as by battles, the fall of one sandy fort quietly helped end a rebellion.",
@@ -666,9 +638,33 @@
         ]
       },
       "match_reason": "A naval clash and a commander lost at sea resonate with an episode literally recorded on a boat, transmuting stories of ships and oceans from war into shared travel and song."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On January 15, 1943, the Soviet Voronezh–Kastornoye offensive began, part of a broader winter push that would roll the front westward after the disaster at Stalingrad. The operation broke through Axis lines in deep snow and bitter cold, capturing key railway hubs and destabilizing German positions. It was one of several relentless blows that turned the Eastern Front from German advance into German retreat.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voronezh–Kastornoye_offensive",
+      "episode": {
+        "id": 16,
+        "title": "Morning Drops #10 - The One With Many Names",
+        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+        "songs": [
+          "Ghost - Spirit",
+          "Ghost - Mary on a Cross",
+          "Ghost - Dance Macabre",
+          "Ghost - Umbra"
+        ],
+        "music-genres": [
+          "Hard Rock",
+          "Heavy Metal",
+          "Arena Rock"
+        ]
+      },
+      "match_reason": "A grim winter offensive and the ghosts of a continent at war pair with a theatrical metal band steeped in ritual and specters, turning the idea of ‘ghosts of history’ into sound."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T12:00:01.732858+00:00"
+  "updated_at": "2026-01-15T13:00:01.790067+00:00"
 }
