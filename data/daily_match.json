@@ -1,59 +1,34 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "The European Space Agency, created in 1975, had by January 15, 2005, matured into a collaborative powerhouse capable of putting its own probe into lunar orbit with SMART‑1. ESA embodies a quieter, cooperative vision of space exploration, where many nations share the risks—and the wonder—of leaving Earth.",
-    "fact_year": 1975,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+    "hour": 21,
+    "fact_text": "Tonga, a Polynesian kingdom of scattered islands in the South Pacific, suddenly found itself at the center of global attention on January 15, 2022, when the Hunga Tonga–Hunga Haʻapai eruption shook its shores. Yet long before the eruption, Tonga’s navigators were masters of the sea, reading waves and stars to travel distances that put many early European explorers to shame.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga",
     "episode": {
-      "id": 38,
-      "title": "Morning Drops #32 - A Weekend In London",
-      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Dele Sosimi - E Go Betta",
-        "Jimmy Castor Bunch - It's Just Begun",
-        "Little Simz feat. Obongjayar - Lion",
-        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Funk",
-        "UK Hip-Hop",
-        "Electronic"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "ESA itself is a pan‑European weekend in orbit—different countries, languages, and cultures meeting to launch common dreams, much like the London‑set episode weaving global sounds into a shared journey."
+    "match_reason": "An island nation defined by ocean voyages aligns naturally with an episode recorded at sea; both celebrate the art of reading waves, weather, and human moods on the water."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Tonga, a Polynesian kingdom of scattered islands in the South Pacific, suddenly found itself at the center of global attention on January 15, 2022, when the Hunga Tonga–Hunga Haʻapai eruption shook its shores. Yet long before the eruption, Tonga’s navigators were masters of the sea, reading waves and stars to travel distances that put many early European explorers to shame.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "An island nation defined by ocean voyages aligns naturally with an episode recorded at sea; both celebrate the art of reading waves, weather, and human moods on the water."
-    },
     {
       "hour": 22,
       "fact_text": "Nepal, perched on the spine of the Himalayas, sits atop the collision zone between the Indian and Eurasian plates, making it both home to Earth’s highest peaks and some of its deadliest quakes. Events like the 1934 Nepal–Bihar earthquake underscore how this dramatic scenery is the visible edge of a deep, ongoing planetary experiment in mountain‑building.",
@@ -655,9 +630,37 @@
         ]
       },
       "match_reason": "ESA itself is a pan‑European weekend in orbit—different countries, languages, and cultures meeting to launch common dreams, much like the London‑set episode weaving global sounds into a shared journey."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Tonga, a Polynesian kingdom of scattered islands in the South Pacific, suddenly found itself at the center of global attention on January 15, 2022, when the Hunga Tonga–Hunga Haʻapai eruption shook its shores. Yet long before the eruption, Tonga’s navigators were masters of the sea, reading waves and stars to travel distances that put many early European explorers to shame.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tonga",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "An island nation defined by ocean voyages aligns naturally with an episode recorded at sea; both celebrate the art of reading waves, weather, and human moods on the water."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T20:00:02.070330+00:00"
+  "updated_at": "2026-01-15T21:00:01.946242+00:00"
 }
