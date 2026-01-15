@@ -1,54 +1,30 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On January 15, 1943, the Soviet Voronezh–Kastornoye offensive began, part of a broader winter push that would roll the front westward after the disaster at Stalingrad. The operation broke through Axis lines in deep snow and bitter cold, capturing key railway hubs and destabilizing German positions. It was one of several relentless blows that turned the Eastern Front from German advance into German retreat.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voronezh–Kastornoye_offensive",
+    "hour": 14,
+    "fact_text": "On January 15, 1865, Fort Fisher in North Carolina fell to Union forces after a massive land‑and‑sea assault. Its capture closed off Wilmington, the last major Confederate seaport, strangling the South’s ability to import weapons and supplies from abroad. In a war decided as much by logistics as by battles, the fall of one sandy fort quietly helped end a rebellion.",
+    "fact_year": 1865,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Fisher",
     "episode": {
-      "id": 16,
-      "title": "Morning Drops #10 - The One With Many Names",
-      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Ghost - Spirit",
-        "Ghost - Mary on a Cross",
-        "Ghost - Dance Macabre",
-        "Ghost - Umbra"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Hard Rock",
-        "Heavy Metal",
-        "Arena Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A grim winter offensive and the ghosts of a continent at war pair with a theatrical metal band steeped in ritual and specters, turning the idea of ‘ghosts of history’ into sound."
+    "match_reason": "A sand fort that sealed off sea routes connects thematically to desert peoples whose music is about survival, movement, and supply lines of a different, more human kind."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On January 15, 1865, Fort Fisher in North Carolina fell to Union forces after a massive land‑and‑sea assault. Its capture closed off Wilmington, the last major Confederate seaport, strangling the South’s ability to import weapons and supplies from abroad. In a war decided as much by logistics as by battles, the fall of one sandy fort quietly helped end a rebellion.",
-      "fact_year": 1865,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Fisher",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A sand fort that sealed off sea routes connects thematically to desert peoples whose music is about survival, movement, and supply lines of a different, more human kind."
-    },
     {
       "hour": 15,
       "fact_text": "On January 15, 1777, the region then known as New Connecticut declared itself independent as the Vermont Republic, refusing to be governed by either New York or New Hampshire. For 14 years it functioned as a de facto independent country, minting its own coins and experimenting with early forms of democratic self‑rule, before joining the United States as the 14th state. It’s a reminder that the map of North America once had more tiny, self‑invented countries than we often remember.",
@@ -662,9 +638,33 @@
         ]
       },
       "match_reason": "A grim winter offensive and the ghosts of a continent at war pair with a theatrical metal band steeped in ritual and specters, turning the idea of ‘ghosts of history’ into sound."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On January 15, 1865, Fort Fisher in North Carolina fell to Union forces after a massive land‑and‑sea assault. Its capture closed off Wilmington, the last major Confederate seaport, strangling the South’s ability to import weapons and supplies from abroad. In a war decided as much by logistics as by battles, the fall of one sandy fort quietly helped end a rebellion.",
+      "fact_year": 1865,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Fisher",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A sand fort that sealed off sea routes connects thematically to desert peoples whose music is about survival, movement, and supply lines of a different, more human kind."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T13:00:01.790067+00:00"
+  "updated_at": "2026-01-15T14:00:01.757660+00:00"
 }
