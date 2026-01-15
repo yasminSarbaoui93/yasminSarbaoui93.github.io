@@ -1,54 +1,30 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would test the limits of both spacecraft engineering and human improvisation. After a successful docking in orbit, a series of failures forced cosmonaut Boris Volynov to endure a fiery, near‑ballistic reentry, with his capsule flying heat‑shield first only at the last moment. His survival turned the flight into a legendary story of controlled bravery on the edge of space.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
+    "hour": 8,
+    "fact_text": "On January 15, 2016, Kenyan troops at a remote base in El‑Adde, Somalia, were overwhelmed in one of the deadliest attacks in their army’s history. Al‑Shabaab militants overran the camp at dawn, and the exact death toll remains disputed, in part because official accounts and survivors’ testimonies diverged. The battle exposed how opaque modern warfare can be, even for those whose loved ones are on the front line.",
+    "fact_year": 2016,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_El_Adde",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A perilous spaceflight that nearly ends in disaster, yet lands as a story of transformation, echoes an episode about evolving under pressure and finding new orbits for ourselves."
+    "match_reason": "A story of soldiers facing overwhelming force is paired with an episode about women who confront power differently—through loud guitars and refusal to stand down—highlighting courage in contrasting arenas."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On January 15, 2016, Kenyan troops at a remote base in El‑Adde, Somalia, were overwhelmed in one of the deadliest attacks in their army’s history. Al‑Shabaab militants overran the camp at dawn, and the exact death toll remains disputed, in part because official accounts and survivors’ testimonies diverged. The battle exposed how opaque modern warfare can be, even for those whose loved ones are on the front line.",
-      "fact_year": 2016,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_El_Adde",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A story of soldiers facing overwhelming force is paired with an episode about women who confront power differently—through loud guitars and refusal to stand down—highlighting courage in contrasting arenas."
-    },
     {
       "hour": 9,
       "fact_text": "On January 15, 1870, cartoonist Thomas Nast published “A Live Jackass Kicking a Dead Lion” in Harper’s Weekly, using a donkey to lampoon Democratic critics of U.S. Secretary of War Edwin Stanton. The stubborn, kicking animal resonated so strongly that it evolved into the enduring symbol of the Democratic Party. Nast’s playful insult accidentally turned into one of the most recognizable political logos in the world.",
@@ -662,9 +638,33 @@
         ]
       },
       "match_reason": "A perilous spaceflight that nearly ends in disaster, yet lands as a story of transformation, echoes an episode about evolving under pressure and finding new orbits for ourselves."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On January 15, 2016, Kenyan troops at a remote base in El‑Adde, Somalia, were overwhelmed in one of the deadliest attacks in their army’s history. Al‑Shabaab militants overran the camp at dawn, and the exact death toll remains disputed, in part because official accounts and survivors’ testimonies diverged. The battle exposed how opaque modern warfare can be, even for those whose loved ones are on the front line.",
+      "fact_year": 2016,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_El_Adde",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A story of soldiers facing overwhelming force is paired with an episode about women who confront power differently—through loud guitars and refusal to stand down—highlighting courage in contrasting arenas."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T07:00:02.061148+00:00"
+  "updated_at": "2026-01-15T08:00:02.051310+00:00"
 }
