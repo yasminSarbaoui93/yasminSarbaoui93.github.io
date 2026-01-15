@@ -1,61 +1,36 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "The 1934 Nepal–Bihar earthquake struck on January 15 with an estimated magnitude of 8.0, violently shaking the Himalayan region. It leveled entire districts, liquefied soil, and killed between 6,000 and 10,700 people, while also prompting some of the earliest systematic seismic studies in South Asia. The disaster reshaped not just landscapes and cities, but also how the region thought about building and risk.",
-    "fact_year": 1934,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1934_Nepal–India_earthquake",
+    "hour": 3,
+    "fact_text": "On January 15, 2022, the Hunga Tonga–Hunga Haʻapai volcano exploded with a force so immense it sent shock waves around the world and generated a trans‑Pacific tsunami. The eruption blasted ash up to the edge of space and briefly severed Tonga’s communication cables, cutting the island nation off from the outside world. It became one of the best‑recorded eruptions in history, offering scientists a rare global laboratory in real time.",
+    "fact_year": 2022,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A massive quake delivering a devastating jolt parallels the raw, high‑voltage shock of this rock‑driven set, channeling earth’s violent energy into sound."
+    "match_reason": "A slow‑building underwater volcano that erupts into a planet‑scale shock fits an episode built as a gradual crescendo from calm depths to explosive, dancing energy."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On January 15, 2022, the Hunga Tonga–Hunga Haʻapai volcano exploded with a force so immense it sent shock waves around the world and generated a trans‑Pacific tsunami. The eruption blasted ash up to the edge of space and briefly severed Tonga’s communication cables, cutting the island nation off from the outside world. It became one of the best‑recorded eruptions in history, offering scientists a rare global laboratory in real time.",
-      "fact_year": 2022,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A slow‑building underwater volcano that erupts into a planet‑scale shock fits an episode built as a gradual crescendo from calm depths to explosive, dancing energy."
-    },
     {
       "hour": 4,
       "fact_text": "In the early hours of January 15, 2021, a magnitude 6.2 earthquake struck West Sulawesi, Indonesia, collapsing hospitals and homes while survivors crawled from the rubble. More than 100 people were killed and thousands injured, yet local communities rapidly organized improvised rescue efforts using little more than tools and bare hands. The event highlighted both the region’s seismic fragility and the resilience of those living on the moving edges of tectonic plates.",
@@ -663,9 +638,39 @@
         ]
       },
       "match_reason": "A massive quake delivering a devastating jolt parallels the raw, high‑voltage shock of this rock‑driven set, channeling earth’s violent energy into sound."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On January 15, 2022, the Hunga Tonga–Hunga Haʻapai volcano exploded with a force so immense it sent shock waves around the world and generated a trans‑Pacific tsunami. The eruption blasted ash up to the edge of space and briefly severed Tonga’s communication cables, cutting the island nation off from the outside world. It became one of the best‑recorded eruptions in history, offering scientists a rare global laboratory in real time.",
+      "fact_year": 2022,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2022_Hunga_Tonga–Hunga_Haʻapai_eruption_and_tsunami",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A slow‑building underwater volcano that erupts into a planet‑scale shock fits an episode built as a gradual crescendo from calm depths to explosive, dancing energy."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T02:00:02.020018+00:00"
+  "updated_at": "2026-01-15T03:00:01.728671+00:00"
 }
