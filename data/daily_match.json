@@ -1,70 +1,36 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1991, a United Nations deadline passed for Iraqi forces to withdraw from occupied Kuwait, setting the stage for Operation Desert Storm. The moment crystallized a new era of televised, coalition‑led warfare in which satellites, diplomacy, and public opinion were as present on the battlefield as tanks and jets.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations",
+    "hour": 7,
+    "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would see spacecraft dock in orbit and cosmonauts perform a daring spacewalk transfer between vehicles. The flight unfolded under the shadow of earlier failures, turning orbital rendezvous into a test of human nerve and the Soviet space program’s resilience.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A global coalition coordinating across borders parallels a globe‑spanning playlist; both are multi‑national assemblages navigating power, perspective, and the ‘world in our eyes.’"
+    "match_reason": "An orbital docking and spacewalk feel like a slow ascent from gravity-bound streets into free‑floating motion, reflected in an episode that rises from ambient lift‑off to an orbital dance of rhythms."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would see spacecraft dock in orbit and cosmonauts perform a daring spacewalk transfer between vehicles. The flight unfolded under the shadow of earlier failures, turning orbital rendezvous into a test of human nerve and the Soviet space program’s resilience.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "An orbital docking and spacewalk feel like a slow ascent from gravity-bound streets into free‑floating motion, reflected in an episode that rises from ambient lift‑off to an orbital dance of rhythms."
-    },
     {
       "hour": 8,
       "fact_text": "In 2016, at the remote Somali town of El‑Adde, Al‑Shabaab militants overran a Kenyan Army camp in one of the deadliest days in Kenya’s military history. The attack exposed the hidden human costs of a long, low‑visibility conflict fought far from most citizens’ daily lives.",
@@ -664,9 +630,39 @@
         ]
       },
       "match_reason": "A global coalition coordinating across borders parallels a globe‑spanning playlist; both are multi‑national assemblages navigating power, perspective, and the ‘world in our eyes.’"
+    },
+    {
+      "hour": 7,
+      "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would see spacecraft dock in orbit and cosmonauts perform a daring spacewalk transfer between vehicles. The flight unfolded under the shadow of earlier failures, turning orbital rendezvous into a test of human nerve and the Soviet space program’s resilience.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "An orbital docking and spacewalk feel like a slow ascent from gravity-bound streets into free‑floating motion, reflected in an episode that rises from ambient lift‑off to an orbital dance of rhythms."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T06:00:01.686656+00:00"
+  "updated_at": "2026-01-15T07:00:01.676009+00:00"
 }
