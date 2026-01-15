@@ -1,65 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On January 15, 2019, Theresa May’s government suffered the largest parliamentary defeat in modern UK history when MPs rejected her Brexit withdrawal agreement by a staggering margin of 230 votes. The scale of the revolt underscored how deeply divided the country and its lawmakers were over Europe. For historians, it stands as a rare moment when a sitting prime minister’s central project was dramatically repudiated in a single vote.",
-    "fact_year": 2019,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Brexit_withdrawal_agreement",
+    "hour": 6,
+    "fact_text": "On January 15, 1991, the United Nations deadline for Iraq to withdraw from occupied Kuwait expired, setting the stage for Operation Desert Storm. The looming conflict was one of the first to be broadcast globally in near real time, turning missile strikes and night‑vision footage into a strange, mediated spectacle. It marked a turning point in how war, diplomacy, and public opinion intertwined under the glow of satellite TV.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 45,
+      "title": "Morning Drops #39 - Moving Meditation",
+      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Stella & The Longos - La Flamme",
+        "España Circo Este - Dormo poco e sogno molto",
+        "Mystic Jungle - Sunset Breaker",
+        "Talking Heads - This Must Be the Place (Naive Melody)"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Balearic",
+        "Italian Folk Rock",
+        "World Music",
+        "New Wave"
       ]
     },
-    "match_reason": "A dramatic break with Europe and a contested national ‘destination’ sits well beside an episode framed as a collective voyage, asking where we go next and how we travel together."
+    "match_reason": "A UN deadline that pushed nations into motion contrasts with an episode about moving more consciously, inviting a more reflective kind of global journey than military mobilization."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On January 15, 1991, the United Nations deadline for Iraq to withdraw from occupied Kuwait expired, setting the stage for Operation Desert Storm. The looming conflict was one of the first to be broadcast globally in near real time, turning missile strikes and night‑vision footage into a strange, mediated spectacle. It marked a turning point in how war, diplomacy, and public opinion intertwined under the glow of satellite TV.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations",
-      "episode": {
-        "id": 45,
-        "title": "Morning Drops #39 - Moving Meditation",
-        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
-        "songs": [
-          "Stella & The Longos - La Flamme",
-          "España Circo Este - Dormo poco e sogno molto",
-          "Mystic Jungle - Sunset Breaker",
-          "Talking Heads - This Must Be the Place (Naive Melody)"
-        ],
-        "music-genres": [
-          "Balearic",
-          "Italian Folk Rock",
-          "World Music",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A UN deadline that pushed nations into motion contrasts with an episode about moving more consciously, inviting a more reflective kind of global journey than military mobilization."
-    },
     {
       "hour": 7,
       "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would test the limits of both spacecraft engineering and human improvisation. After a successful docking in orbit, a series of failures forced cosmonaut Boris Volynov to endure a fiery, near‑ballistic reentry, with his capsule flying heat‑shield first only at the last moment. His survival turned the flight into a legendary story of controlled bravery on the edge of space.",
@@ -672,9 +638,34 @@
         ]
       },
       "match_reason": "A dramatic break with Europe and a contested national ‘destination’ sits well beside an episode framed as a collective voyage, asking where we go next and how we travel together."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On January 15, 1991, the United Nations deadline for Iraq to withdraw from occupied Kuwait expired, setting the stage for Operation Desert Storm. The looming conflict was one of the first to be broadcast globally in near real time, turning missile strikes and night‑vision footage into a strange, mediated spectacle. It marked a turning point in how war, diplomacy, and public opinion intertwined under the glow of satellite TV.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations",
+      "episode": {
+        "id": 45,
+        "title": "Morning Drops #39 - Moving Meditation",
+        "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+        "songs": [
+          "Stella & The Longos - La Flamme",
+          "España Circo Este - Dormo poco e sogno molto",
+          "Mystic Jungle - Sunset Breaker",
+          "Talking Heads - This Must Be the Place (Naive Melody)"
+        ],
+        "music-genres": [
+          "Balearic",
+          "Italian Folk Rock",
+          "World Music",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A UN deadline that pushed nations into motion contrasts with an episode about moving more consciously, inviting a more reflective kind of global journey than military mobilization."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T05:00:01.493186+00:00"
+  "updated_at": "2026-01-15T06:00:01.884242+00:00"
 }
