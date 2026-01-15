@@ -1,55 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On January 15, 1865, Fort Fisher in North Carolina fell to Union forces after a massive land‑and‑sea assault. Its capture closed off Wilmington, the last major Confederate seaport, strangling the South’s ability to import weapons and supplies from abroad. In a war decided as much by logistics as by battles, the fall of one sandy fort quietly helped end a rebellion.",
-    "fact_year": 1865,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fort_Fisher",
+    "hour": 15,
+    "fact_text": "On January 15, 1777, the region then known as New Connecticut declared itself independent as the Vermont Republic, refusing to be governed by either New York or New Hampshire. For 14 years it functioned as a de facto independent country, minting its own coins and experimenting with early forms of democratic self‑rule, before joining the United States as the 14th state. It’s a reminder that the map of North America once had more tiny, self‑invented countries than we often remember.",
+    "fact_year": 1777,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vermont_Republic",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "A sand fort that sealed off sea routes connects thematically to desert peoples whose music is about survival, movement, and supply lines of a different, more human kind."
+    "match_reason": "A small republic navigating its own identity amid larger powers fits with an episode sailing between coastal nations, listening to how different places define ‘home’ for themselves."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "On January 15, 1777, the region then known as New Connecticut declared itself independent as the Vermont Republic, refusing to be governed by either New York or New Hampshire. For 14 years it functioned as a de facto independent country, minting its own coins and experimenting with early forms of democratic self‑rule, before joining the United States as the 14th state. It’s a reminder that the map of North America once had more tiny, self‑invented countries than we often remember.",
-      "fact_year": 1777,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vermont_Republic",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "A small republic navigating its own identity amid larger powers fits with an episode sailing between coastal nations, listening to how different places define ‘home’ for themselves."
-    },
     {
       "hour": 16,
       "fact_text": "On January 15, 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France, a vast and icy concept that would one day become parts of Canada. Roberval was tasked not only with building settlements but with spreading Catholicism across an unfamiliar continent. His harsh attempt at a ‘model colony’ struggled with cold, scurvy, and rebellion, illustrating how fragile imperial dreams could be against real winters and real people.",
@@ -662,9 +638,34 @@
         ]
       },
       "match_reason": "A sand fort that sealed off sea routes connects thematically to desert peoples whose music is about survival, movement, and supply lines of a different, more human kind."
+    },
+    {
+      "hour": 15,
+      "fact_text": "On January 15, 1777, the region then known as New Connecticut declared itself independent as the Vermont Republic, refusing to be governed by either New York or New Hampshire. For 14 years it functioned as a de facto independent country, minting its own coins and experimenting with early forms of democratic self‑rule, before joining the United States as the 14th state. It’s a reminder that the map of North America once had more tiny, self‑invented countries than we often remember.",
+      "fact_year": 1777,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vermont_Republic",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "A small republic navigating its own identity amid larger powers fits with an episode sailing between coastal nations, listening to how different places define ‘home’ for themselves."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T14:00:01.757660+00:00"
+  "updated_at": "2026-01-15T15:00:01.767060+00:00"
 }
