@@ -1,64 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On January 15, 2015, the Swiss National Bank abruptly scrapped its cap on the franc’s exchange rate against the euro, sending currencies and markets into chaos within minutes. The move showed how a single decision by a small but influential institution can unleash invisible financial forces that ripple worldwide.",
-    "fact_year": 2015,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
+    "hour": 20,
+    "fact_text": "The European Space Agency, created in 1975, had by January 15, 2005, matured into a collaborative powerhouse capable of putting its own probe into lunar orbit with SMART‑1. ESA embodies a quieter, cooperative vision of space exploration, where many nations share the risks—and the wonder—of leaving Earth.",
+    "fact_year": 1975,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "Hip-Hop",
         "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "The franc’s sudden ‘bombshell’ revaluation parallels the explosive, foundational energy of Sedna’s first broadcast; both are single moments that unexpectedly reset the landscape around them."
+    "match_reason": "ESA itself is a pan‑European weekend in orbit—different countries, languages, and cultures meeting to launch common dreams, much like the London‑set episode weaving global sounds into a shared journey."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "The European Space Agency, created in 1975, had by January 15, 2005, matured into a collaborative powerhouse capable of putting its own probe into lunar orbit with SMART‑1. ESA embodies a quieter, cooperative vision of space exploration, where many nations share the risks—and the wonder—of leaving Earth.",
-      "fact_year": 1975,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "ESA itself is a pan‑European weekend in orbit—different countries, languages, and cultures meeting to launch common dreams, much like the London‑set episode weaving global sounds into a shared journey."
-    },
     {
       "hour": 21,
       "fact_text": "Tonga, a Polynesian kingdom of scattered islands in the South Pacific, suddenly found itself at the center of global attention on January 15, 2022, when the Hunga Tonga–Hunga Haʻapai eruption shook its shores. Yet long before the eruption, Tonga’s navigators were masters of the sea, reading waves and stars to travel distances that put many early European explorers to shame.",
@@ -663,9 +630,34 @@
         ]
       },
       "match_reason": "The franc’s sudden ‘bombshell’ revaluation parallels the explosive, foundational energy of Sedna’s first broadcast; both are single moments that unexpectedly reset the landscape around them."
+    },
+    {
+      "hour": 20,
+      "fact_text": "The European Space Agency, created in 1975, had by January 15, 2005, matured into a collaborative powerhouse capable of putting its own probe into lunar orbit with SMART‑1. ESA embodies a quieter, cooperative vision of space exploration, where many nations share the risks—and the wonder—of leaving Earth.",
+      "fact_year": 1975,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "ESA itself is a pan‑European weekend in orbit—different countries, languages, and cultures meeting to launch common dreams, much like the London‑set episode weaving global sounds into a shared journey."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T19:00:01.913863+00:00"
+  "updated_at": "2026-01-15T20:00:02.070330+00:00"
 }
