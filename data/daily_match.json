@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2005, the European Space Agency’s SMART‑1 probe quietly orbited the Moon, using an experimental ion engine to sip xenon instead of guzzling chemical fuel. On January 15, its instruments confirmed the presence of elements like calcium, aluminum, silicon, and iron on the lunar surface, turning the Moon from a pale disc into a chemically rich world in our neighborhood.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SMART-1",
+    "hour": 1,
+    "fact_text": "On January 15, 1818, David Brewster’s long-overlooked work on strange crystals that split light in two was finally read to the Royal Society. At nearly the same moment, Augustin‑Jean Fresnel was expanding the new science of polarized light, together laying foundations for the optics behind everything from polarizing sunglasses to fiber‑optic internet.",
+    "fact_year": 1818,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Birefringence",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "A literal space mission revealing hidden potential pairs with an episode about reimagining emptiness as creative space, both turning a 'void' into something vibrant."
+    "match_reason": "Birefringence splits light into two paths just as trip‑hop splits and refracts musical genres into parallel moods, both turning linear streams into layered, polarized textures."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 15, 1818, David Brewster’s long-overlooked work on strange crystals that split light in two was finally read to the Royal Society. At nearly the same moment, Augustin‑Jean Fresnel was expanding the new science of polarized light, together laying foundations for the optics behind everything from polarizing sunglasses to fiber‑optic internet.",
-      "fact_year": 1818,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Birefringence",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Birefringence splits light into two paths just as trip‑hop splits and refracts musical genres into parallel moods, both turning linear streams into layered, polarized textures."
-    },
     {
       "hour": 2,
       "fact_text": "In 1934, a magnitude 8.0 earthquake ripped along the boundary between Nepal and India’s Bihar region, shaking the Himalayas so violently that entire towns tilted, rails bent, and the landscape itself seemed to twist. Between 6,000 and 10,700 people died, but the event also triggered modern studies of Himalayan tectonics and the deep forces reshaping our planet.",
@@ -653,9 +630,34 @@
         ]
       },
       "match_reason": "A literal space mission revealing hidden potential pairs with an episode about reimagining emptiness as creative space, both turning a 'void' into something vibrant."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 15, 1818, David Brewster’s long-overlooked work on strange crystals that split light in two was finally read to the Royal Society. At nearly the same moment, Augustin‑Jean Fresnel was expanding the new science of polarized light, together laying foundations for the optics behind everything from polarizing sunglasses to fiber‑optic internet.",
+      "fact_year": 1818,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Birefringence",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Birefringence splits light into two paths just as trip‑hop splits and refracts musical genres into parallel moods, both turning linear streams into layered, polarized textures."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T00:00:51.674291+00:00"
+  "updated_at": "2026-01-15T01:00:02.079196+00:00"
 }
