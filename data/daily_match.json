@@ -1,56 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On January 15, 1818, the Royal Society in London heard a belated but profound announcement from David Brewster: certain crystals split light not just into two rays, but into a whole biaxial class of doubly-refracting behaviors. On the same day, Augustin-Jean Fresnel signed a supplement on the reflection of polarized light, helping to cement the wave theory of light. Together, their work showed that light could be twisted, split, and redirected in ways that would later underpin everything from optics to modern displays.",
-    "fact_year": 1818,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Birefringence",
+    "hour": 2,
+    "fact_text": "The 1934 Nepal–Bihar earthquake struck on January 15 with an estimated magnitude of 8.0, violently shaking the Himalayan region. It leveled entire districts, liquefied soil, and killed between 6,000 and 10,700 people, while also prompting some of the earliest systematic seismic studies in South Asia. The disaster reshaped not just landscapes and cities, but also how the region thought about building and risk.",
+    "fact_year": 1934,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1934_Nepal–India_earthquake",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Brewster and Fresnel dissected and bent light into multiple paths, just as trip‑hop bends sound into layered, refracted textures that defy a single straight line."
+    "match_reason": "A massive quake delivering a devastating jolt parallels the raw, high‑voltage shock of this rock‑driven set, channeling earth’s violent energy into sound."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "The 1934 Nepal–Bihar earthquake struck on January 15 with an estimated magnitude of 8.0, violently shaking the Himalayan region. It leveled entire districts, liquefied soil, and killed between 6,000 and 10,700 people, while also prompting some of the earliest systematic seismic studies in South Asia. The disaster reshaped not just landscapes and cities, but also how the region thought about building and risk.",
-      "fact_year": 1934,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1934_Nepal–India_earthquake",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A massive quake delivering a devastating jolt parallels the raw, high‑voltage shock of this rock‑driven set, channeling earth’s violent energy into sound."
-    },
     {
       "hour": 3,
       "fact_text": "On January 15, 2022, the Hunga Tonga–Hunga Haʻapai volcano exploded with a force so immense it sent shock waves around the world and generated a trans‑Pacific tsunami. The eruption blasted ash up to the edge of space and briefly severed Tonga’s communication cables, cutting the island nation off from the outside world. It became one of the best‑recorded eruptions in history, offering scientists a rare global laboratory in real time.",
@@ -663,9 +638,34 @@
         ]
       },
       "match_reason": "Brewster and Fresnel dissected and bent light into multiple paths, just as trip‑hop bends sound into layered, refracted textures that defy a single straight line."
+    },
+    {
+      "hour": 2,
+      "fact_text": "The 1934 Nepal–Bihar earthquake struck on January 15 with an estimated magnitude of 8.0, violently shaking the Himalayan region. It leveled entire districts, liquefied soil, and killed between 6,000 and 10,700 people, while also prompting some of the earliest systematic seismic studies in South Asia. The disaster reshaped not just landscapes and cities, but also how the region thought about building and risk.",
+      "fact_year": 1934,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1934_Nepal–India_earthquake",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A massive quake delivering a devastating jolt parallels the raw, high‑voltage shock of this rock‑driven set, channeling earth’s violent energy into sound."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T01:00:01.924063+00:00"
+  "updated_at": "2026-01-15T02:00:02.020018+00:00"
 }
