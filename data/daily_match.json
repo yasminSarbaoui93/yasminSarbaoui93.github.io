@@ -1,56 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On January 15, 1870, political cartoonist Thomas Nast published a drawing in Harper’s Weekly featuring a stubborn donkey kicking a lion, helping cement the donkey as the enduring symbol of the United States Democratic Party. With one sharp image, he turned animals into political shorthand that still dominates American visual language today.",
-    "fact_year": 1870,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Nast",
+    "hour": 10,
+    "fact_text": "In 2018, the British construction giant Carillion went into compulsory liquidation, abruptly unraveling a web of public contracts and thousands of jobs. The collapse exposed how fragile enormous infrastructural systems can be when held together by opaque finances and long supply chains.",
+    "fact_year": 2018,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carillion",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Nast used visual satire to tell sharp stories about class and power; ‘Steel City’ gathers bands famed for lyrical and sonic commentary on ordinary people and politics, a modern soundtrack to biting cartoons."
+    "match_reason": "A giant company suddenly failing and disrupting daily life mirrors the shock of losing a central ‘infrastructure’ like your phone; both invite reflection on the hidden systems we depend on."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 2018, the British construction giant Carillion went into compulsory liquidation, abruptly unraveling a web of public contracts and thousands of jobs. The collapse exposed how fragile enormous infrastructural systems can be when held together by opaque finances and long supply chains.",
-      "fact_year": 2018,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carillion",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A giant company suddenly failing and disrupting daily life mirrors the shock of losing a central ‘infrastructure’ like your phone; both invite reflection on the hidden systems we depend on."
-    },
     {
       "hour": 11,
       "fact_text": "On January 15, 1967, the very first Super Bowl kicked off in Los Angeles, pitting the Green Bay Packers against the Kansas City Chiefs before a not‑quite‑sold‑out crowd. Few could have guessed that this experimental championship game would evolve into one of the most watched and musically elaborate spectacles on Earth.",
@@ -655,9 +630,34 @@
         ]
       },
       "match_reason": "Nast used visual satire to tell sharp stories about class and power; ‘Steel City’ gathers bands famed for lyrical and sonic commentary on ordinary people and politics, a modern soundtrack to biting cartoons."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 2018, the British construction giant Carillion went into compulsory liquidation, abruptly unraveling a web of public contracts and thousands of jobs. The collapse exposed how fragile enormous infrastructural systems can be when held together by opaque finances and long supply chains.",
+      "fact_year": 2018,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Carillion",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A giant company suddenly failing and disrupting daily life mirrors the shock of losing a central ‘infrastructure’ like your phone; both invite reflection on the hidden systems we depend on."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T09:00:01.754769+00:00"
+  "updated_at": "2026-01-15T10:00:01.993863+00:00"
 }
