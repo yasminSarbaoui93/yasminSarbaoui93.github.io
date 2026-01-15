@@ -1,54 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On January 15, 2016, Kenyan troops at a remote base in El‑Adde, Somalia, were overwhelmed in one of the deadliest attacks in their army’s history. Al‑Shabaab militants overran the camp at dawn, and the exact death toll remains disputed, in part because official accounts and survivors’ testimonies diverged. The battle exposed how opaque modern warfare can be, even for those whose loved ones are on the front line.",
-    "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_El_Adde",
+    "hour": 9,
+    "fact_text": "On January 15, 1870, cartoonist Thomas Nast published “A Live Jackass Kicking a Dead Lion” in Harper’s Weekly, using a donkey to lampoon Democratic critics of U.S. Secretary of War Edwin Stanton. The stubborn, kicking animal resonated so strongly that it evolved into the enduring symbol of the Democratic Party. Nast’s playful insult accidentally turned into one of the most recognizable political logos in the world.",
+    "fact_year": 1870,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Nast",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 35,
+      "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
+      "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Georges Moustaki - Le Métèque",
+        "Georges Brassens - Les Passants",
+        "Dalida - Bambino (Guaglione)",
+        "Biga*Ranx - My Face"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "French Chanson",
+        "Italian Pop",
+        "Reggae"
       ]
     },
-    "match_reason": "A story of soldiers facing overwhelming force is paired with an episode about women who confront power differently—through loud guitars and refusal to stand down—highlighting courage in contrasting arenas."
+    "match_reason": "Nast’s cartoon turned images into political identity, just as this episode plays with how songs and symbols shift meaning between cultures and languages."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On January 15, 1870, cartoonist Thomas Nast published “A Live Jackass Kicking a Dead Lion” in Harper’s Weekly, using a donkey to lampoon Democratic critics of U.S. Secretary of War Edwin Stanton. The stubborn, kicking animal resonated so strongly that it evolved into the enduring symbol of the Democratic Party. Nast’s playful insult accidentally turned into one of the most recognizable political logos in the world.",
-      "fact_year": 1870,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Nast",
-      "episode": {
-        "id": 35,
-        "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
-        "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
-        "songs": [
-          "Georges Moustaki - Le Métèque",
-          "Georges Brassens - Les Passants",
-          "Dalida - Bambino (Guaglione)",
-          "Biga*Ranx - My Face"
-        ],
-        "music-genres": [
-          "French Chanson",
-          "Italian Pop",
-          "Reggae"
-        ]
-      },
-      "match_reason": "Nast’s cartoon turned images into political identity, just as this episode plays with how songs and symbols shift meaning between cultures and languages."
-    },
     {
       "hour": 10,
       "fact_text": "On January 15, 2018, the British construction giant Carillion collapsed into compulsory liquidation, abruptly freezing thousands of projects from hospitals to railways. It was described as the largest “trading liquidation” in UK history, revealing how deeply a single private firm had been woven into public infrastructure. The event sparked intense debate about outsourcing, risk, and who should actually build a country’s skeleton.",
@@ -662,9 +638,33 @@
         ]
       },
       "match_reason": "A story of soldiers facing overwhelming force is paired with an episode about women who confront power differently—through loud guitars and refusal to stand down—highlighting courage in contrasting arenas."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On January 15, 1870, cartoonist Thomas Nast published “A Live Jackass Kicking a Dead Lion” in Harper’s Weekly, using a donkey to lampoon Democratic critics of U.S. Secretary of War Edwin Stanton. The stubborn, kicking animal resonated so strongly that it evolved into the enduring symbol of the Democratic Party. Nast’s playful insult accidentally turned into one of the most recognizable political logos in the world.",
+      "fact_year": 1870,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Nast",
+      "episode": {
+        "id": 35,
+        "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
+        "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
+        "songs": [
+          "Georges Moustaki - Le Métèque",
+          "Georges Brassens - Les Passants",
+          "Dalida - Bambino (Guaglione)",
+          "Biga*Ranx - My Face"
+        ],
+        "music-genres": [
+          "French Chanson",
+          "Italian Pop",
+          "Reggae"
+        ]
+      },
+      "match_reason": "Nast’s cartoon turned images into political identity, just as this episode plays with how songs and symbols shift meaning between cultures and languages."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T08:00:02.051310+00:00"
+  "updated_at": "2026-01-15T09:00:01.984667+00:00"
 }
