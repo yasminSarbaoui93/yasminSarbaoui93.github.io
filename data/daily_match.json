@@ -1,64 +1,40 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France—parts of what is now Canada—and spread the Catholic faith. The venture struggled and never fully took root, but it marked an early attempt to graft European cities, beliefs, and power onto the harsh landscapes of North America.",
-    "fact_year": 1541,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_France",
+    "hour": 17,
+    "fact_text": "On January 15 in the tumultuous year of AD 69, the Roman general Otho seized power in Rome and declared himself emperor, beginning a reign that would last barely three months. His brief grasp on the imperial purple epitomizes how quickly fortunes could rise and fall in the ancient world’s most powerful city.",
+    "fact_year": 69,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Otho",
     "episode": {
-      "id": 24,
-      "title": "Morning Drops #18 - Sardegna",
-      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+      "id": 6,
+      "title": "Sedna FM #06 - Alters of an Ego",
+      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
       "songs": [
-        "Piero Marras - Istrales",
-        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-        "Fabrizio De André - Hotel Supramonte",
-        "Giuni Russo - Alghero"
+        "The Thin White Duke - Stay",
+        "Mac Miller - Dang (feat. Anderson .Paak)",
+        "Larry Lovestein - Love Affair",
+        "The Fireman - Strawberries Oceans Ships Forest",
+        "Paul McCartney - Oh! Darling",
+        "Prince - Kiss",
+        "Camille - Rebirth of the Flash",
+        "MF DOOM - Deep Fried Frenz",
+        "Gorillaz - Dirty Harry",
+        "Gorillaz - Andromeda"
       ],
       "music-genres": [
-        "Italian Folk",
-        "Sardinian",
-        "Italian Pop"
+        "Glam Rock",
+        "Hip-Hop",
+        "Jazz",
+        "Ambient",
+        "Classic Rock",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A royal project to imprint culture on distant land mirrors an episode about how a specific place shapes personal identity; both explore how geography and stories entwine across generations."
+    "match_reason": "Otho’s sudden transformation into emperor with a fragile new persona fits an episode about crafting and wearing identities, whether imperial titles or musical alter‑egos that can vanish as quickly as they appear."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On January 15 in the tumultuous year of AD 69, the Roman general Otho seized power in Rome and declared himself emperor, beginning a reign that would last barely three months. His brief grasp on the imperial purple epitomizes how quickly fortunes could rise and fall in the ancient world’s most powerful city.",
-      "fact_year": 69,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Otho",
-      "episode": {
-        "id": 6,
-        "title": "Sedna FM #06 - Alters of an Ego",
-        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
-        "songs": [
-          "The Thin White Duke - Stay",
-          "Mac Miller - Dang (feat. Anderson .Paak)",
-          "Larry Lovestein - Love Affair",
-          "The Fireman - Strawberries Oceans Ships Forest",
-          "Paul McCartney - Oh! Darling",
-          "Prince - Kiss",
-          "Camille - Rebirth of the Flash",
-          "MF DOOM - Deep Fried Frenz",
-          "Gorillaz - Dirty Harry",
-          "Gorillaz - Andromeda"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hip-Hop",
-          "Jazz",
-          "Ambient",
-          "Classic Rock",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Otho’s sudden transformation into emperor with a fragile new persona fits an episode about crafting and wearing identities, whether imperial titles or musical alter‑egos that can vanish as quickly as they appear."
-    },
     {
       "hour": 18,
       "fact_text": "In 2019, militants launched a coordinated attack on the DusitD2 hotel complex in Nairobi, Kenya, killing at least 21 people and injuring many more. The assault turned an upscale urban enclave into a frontline, highlighting how modern cities can contain hidden fault lines of global conflict.",
@@ -654,9 +630,43 @@
         ]
       },
       "match_reason": "A royal project to imprint culture on distant land mirrors an episode about how a specific place shapes personal identity; both explore how geography and stories entwine across generations."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On January 15 in the tumultuous year of AD 69, the Roman general Otho seized power in Rome and declared himself emperor, beginning a reign that would last barely three months. His brief grasp on the imperial purple epitomizes how quickly fortunes could rise and fall in the ancient world’s most powerful city.",
+      "fact_year": 69,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Otho",
+      "episode": {
+        "id": 6,
+        "title": "Sedna FM #06 - Alters of an Ego",
+        "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+        "songs": [
+          "The Thin White Duke - Stay",
+          "Mac Miller - Dang (feat. Anderson .Paak)",
+          "Larry Lovestein - Love Affair",
+          "The Fireman - Strawberries Oceans Ships Forest",
+          "Paul McCartney - Oh! Darling",
+          "Prince - Kiss",
+          "Camille - Rebirth of the Flash",
+          "MF DOOM - Deep Fried Frenz",
+          "Gorillaz - Dirty Harry",
+          "Gorillaz - Andromeda"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hip-Hop",
+          "Jazz",
+          "Ambient",
+          "Classic Rock",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Otho’s sudden transformation into emperor with a fragile new persona fits an episode about crafting and wearing identities, whether imperial titles or musical alter‑egos that can vanish as quickly as they appear."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T16:00:01.790577+00:00"
+  "updated_at": "2026-01-15T17:00:02.022139+00:00"
 }
