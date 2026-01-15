@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On January 15, 1991, the United Nations deadline for Iraq to withdraw from occupied Kuwait expired, setting the stage for Operation Desert Storm. The looming conflict was one of the first to be broadcast globally in near real time, turning missile strikes and night‑vision footage into a strange, mediated spectacle. It marked a turning point in how war, diplomacy, and public opinion intertwined under the glow of satellite TV.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations",
+    "hour": 7,
+    "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would test the limits of both spacecraft engineering and human improvisation. After a successful docking in orbit, a series of failures forced cosmonaut Boris Volynov to endure a fiery, near‑ballistic reentry, with his capsule flying heat‑shield first only at the last moment. His survival turned the flight into a legendary story of controlled bravery on the edge of space.",
+    "fact_year": 1969,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "A UN deadline that pushed nations into motion contrasts with an episode about moving more consciously, inviting a more reflective kind of global journey than military mobilization."
+    "match_reason": "A perilous spaceflight that nearly ends in disaster, yet lands as a story of transformation, echoes an episode about evolving under pressure and finding new orbits for ourselves."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would test the limits of both spacecraft engineering and human improvisation. After a successful docking in orbit, a series of failures forced cosmonaut Boris Volynov to endure a fiery, near‑ballistic reentry, with his capsule flying heat‑shield first only at the last moment. His survival turned the flight into a legendary story of controlled bravery on the edge of space.",
-      "fact_year": 1969,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "A perilous spaceflight that nearly ends in disaster, yet lands as a story of transformation, echoes an episode about evolving under pressure and finding new orbits for ourselves."
-    },
     {
       "hour": 8,
       "fact_text": "On January 15, 2016, Kenyan troops at a remote base in El‑Adde, Somalia, were overwhelmed in one of the deadliest attacks in their army’s history. Al‑Shabaab militants overran the camp at dawn, and the exact death toll remains disputed, in part because official accounts and survivors’ testimonies diverged. The battle exposed how opaque modern warfare can be, even for those whose loved ones are on the front line.",
@@ -663,9 +638,33 @@
         ]
       },
       "match_reason": "A UN deadline that pushed nations into motion contrasts with an episode about moving more consciously, inviting a more reflective kind of global journey than military mobilization."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On January 15, 1969, the Soviet Union launched Soyuz 5, a mission that would test the limits of both spacecraft engineering and human improvisation. After a successful docking in orbit, a series of failures forced cosmonaut Boris Volynov to endure a fiery, near‑ballistic reentry, with his capsule flying heat‑shield first only at the last moment. His survival turned the flight into a legendary story of controlled bravery on the edge of space.",
+      "fact_year": 1969,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soyuz_5",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "A perilous spaceflight that nearly ends in disaster, yet lands as a story of transformation, echoes an episode about evolving under pressure and finding new orbits for ourselves."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T06:00:01.884242+00:00"
+  "updated_at": "2026-01-15T07:00:02.061148+00:00"
 }
