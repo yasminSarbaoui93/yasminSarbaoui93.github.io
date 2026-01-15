@@ -1,56 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On January 15, 1777, the region then known as New Connecticut declared itself independent as the Vermont Republic, refusing to be governed by either New York or New Hampshire. For 14 years it functioned as a de facto independent country, minting its own coins and experimenting with early forms of democratic self‑rule, before joining the United States as the 14th state. It’s a reminder that the map of North America once had more tiny, self‑invented countries than we often remember.",
-    "fact_year": 1777,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vermont_Republic",
+    "hour": 16,
+    "fact_text": "On January 15, 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France, a vast and icy concept that would one day become parts of Canada. Roberval was tasked not only with building settlements but with spreading Catholicism across an unfamiliar continent. His harsh attempt at a ‘model colony’ struggled with cold, scurvy, and rebellion, illustrating how fragile imperial dreams could be against real winters and real people.",
+    "fact_year": 1541,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Roberval",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 34,
+      "title": "Morning Drops #28 - Under Scottish Skies",
+      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Paolo Nutini - Pencil Full of Lead",
+        "Lapse - Lady Bug",
+        "Joesef - Let's Stay Together",
+        "Vital Spark - Stone of Destiny"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Indie Rock",
+        "Scottish Folk",
+        "Soul",
+        "Celtic Rock"
       ]
     },
-    "match_reason": "A small republic navigating its own identity amid larger powers fits with an episode sailing between coastal nations, listening to how different places define ‘home’ for themselves."
+    "match_reason": "A French king sending settlers into cold northern frontiers rhymes with an episode under grey northern skies, both asking what sustains people when they move to harsh new lands."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On January 15, 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France, a vast and icy concept that would one day become parts of Canada. Roberval was tasked not only with building settlements but with spreading Catholicism across an unfamiliar continent. His harsh attempt at a ‘model colony’ struggled with cold, scurvy, and rebellion, illustrating how fragile imperial dreams could be against real winters and real people.",
-      "fact_year": 1541,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Roberval",
-      "episode": {
-        "id": 34,
-        "title": "Morning Drops #28 - Under Scottish Skies",
-        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
-        "songs": [
-          "Paolo Nutini - Pencil Full of Lead",
-          "Lapse - Lady Bug",
-          "Joesef - Let's Stay Together",
-          "Vital Spark - Stone of Destiny"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Scottish Folk",
-          "Soul",
-          "Celtic Rock"
-        ]
-      },
-      "match_reason": "A French king sending settlers into cold northern frontiers rhymes with an episode under grey northern skies, both asking what sustains people when they move to harsh new lands."
-    },
     {
       "hour": 17,
       "fact_text": "On January 15 in the chaotic Year of the Four Emperors (AD 69), Otho seized power in Rome, declaring himself emperor after a swift coup. His reign lasted only about three months before ending in defeat and suicide, showing how volatile imperial power had become. In a single year, the empire cycled through Galba, Otho, Vitellius, and Vespasian, as if the world’s most powerful office were a dangerously hot object passed from hand to hand.",
@@ -663,9 +638,34 @@
         ]
       },
       "match_reason": "A small republic navigating its own identity amid larger powers fits with an episode sailing between coastal nations, listening to how different places define ‘home’ for themselves."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On January 15, 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France, a vast and icy concept that would one day become parts of Canada. Roberval was tasked not only with building settlements but with spreading Catholicism across an unfamiliar continent. His harsh attempt at a ‘model colony’ struggled with cold, scurvy, and rebellion, illustrating how fragile imperial dreams could be against real winters and real people.",
+      "fact_year": 1541,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Roberval",
+      "episode": {
+        "id": 34,
+        "title": "Morning Drops #28 - Under Scottish Skies",
+        "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+        "songs": [
+          "Paolo Nutini - Pencil Full of Lead",
+          "Lapse - Lady Bug",
+          "Joesef - Let's Stay Together",
+          "Vital Spark - Stone of Destiny"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Scottish Folk",
+          "Soul",
+          "Celtic Rock"
+        ]
+      },
+      "match_reason": "A French king sending settlers into cold northern frontiers rhymes with an episode under grey northern skies, both asking what sustains people when they move to harsh new lands."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.019565+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T15:00:01.767060+00:00"
+  "updated_at": "2026-01-15T16:00:01.999730+00:00"
 }
