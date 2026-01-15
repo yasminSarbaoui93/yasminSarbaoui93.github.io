@@ -1,55 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On January 15, 1777, the region then known as New Connecticut declared itself independent, later becoming the Vermont Republic. For fourteen years it functioned as a de facto independent state with its own currency and postal system before joining the United States as the 14th state.",
-    "fact_year": 1777,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vermont_Republic",
+    "hour": 16,
+    "fact_text": "In 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France—parts of what is now Canada—and spread the Catholic faith. The venture struggled and never fully took root, but it marked an early attempt to graft European cities, beliefs, and power onto the harsh landscapes of North America.",
+    "fact_year": 1541,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_France",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "A small region declaring its own identity and ‘home’ fits with a musical voyage through borderlands of the Mediterranean, where cultures assert unique flavors along shared coasts."
+    "match_reason": "A royal project to imprint culture on distant land mirrors an episode about how a specific place shapes personal identity; both explore how geography and stories entwine across generations."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France—parts of what is now Canada—and spread the Catholic faith. The venture struggled and never fully took root, but it marked an early attempt to graft European cities, beliefs, and power onto the harsh landscapes of North America.",
-      "fact_year": 1541,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_France",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A royal project to imprint culture on distant land mirrors an episode about how a specific place shapes personal identity; both explore how geography and stories entwine across generations."
-    },
     {
       "hour": 17,
       "fact_text": "On January 15 in the tumultuous year of AD 69, the Roman general Otho seized power in Rome and declared himself emperor, beginning a reign that would last barely three months. His brief grasp on the imperial purple epitomizes how quickly fortunes could rise and fall in the ancient world’s most powerful city.",
@@ -655,9 +630,33 @@
         ]
       },
       "match_reason": "A small region declaring its own identity and ‘home’ fits with a musical voyage through borderlands of the Mediterranean, where cultures assert unique flavors along shared coasts."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1541, King Francis I of France granted Jean‑François Roberval a commission to colonize New France—parts of what is now Canada—and spread the Catholic faith. The venture struggled and never fully took root, but it marked an early attempt to graft European cities, beliefs, and power onto the harsh landscapes of North America.",
+      "fact_year": 1541,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/New_France",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "A royal project to imprint culture on distant land mirrors an episode about how a specific place shapes personal identity; both explore how geography and stories entwine across generations."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T15:00:01.990091+00:00"
+  "updated_at": "2026-01-15T16:00:01.790577+00:00"
 }
