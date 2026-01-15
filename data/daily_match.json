@@ -1,64 +1,39 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "In 2019, militants launched a coordinated attack on the DusitD2 hotel complex in Nairobi, Kenya, killing at least 21 people and injuring many more. The assault turned an upscale urban enclave into a frontline, highlighting how modern cities can contain hidden fault lines of global conflict.",
-    "fact_year": 2019,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Nairobi_DusitD2_complex_attack",
+    "hour": 19,
+    "fact_text": "On January 15, 2015, the Swiss National Bank abruptly scrapped its cap on the franc’s exchange rate against the euro, sending currencies and markets into chaos within minutes. The move showed how a single decision by a small but influential institution can unleash invisible financial forces that ripple worldwide.",
+    "fact_year": 2015,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
     "episode": {
-      "id": 47,
-      "title": "Morning Drops #41 - Sedna's friends: Marina",
-      "description": "Today's Morning Drops episode feels like an easy coffee with someone you instantly get along with. It also introduces Sedna's Friends, a new sub-format where friends are invited to drink coffee and share the music they love.\n\nGaia invites her friend Marina, artist and aspiring singer, to share music, small thoughts, and that comfortable kind of conversation between good friends. They met by chance at a party and connected right away through music, creativity, and a healthy dose of sarcasm.\n\nThis episode sounds exactly like that: relaxed, honest, and a bit spontaneous. Press play, get comfortable, and enjoy the listen.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sednas-friends-marina",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Florence + The Machine - Free",
-        "Jordan Rakei - Mind's Eye",
-        "Jill Scott - Golden",
-        "Pink Floyd - Fearless"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Neo-Soul",
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
         "R&B",
-        "Progressive Rock"
+        "Latin Rap"
       ]
     },
-    "match_reason": "A violent rupture in an everyday social space contrasts with an episode that imagines a café table of friends; together they emphasize how precious and fragile those relaxed, safe urban moments truly are."
+    "match_reason": "The franc’s sudden ‘bombshell’ revaluation parallels the explosive, foundational energy of Sedna’s first broadcast; both are single moments that unexpectedly reset the landscape around them."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On January 15, 2015, the Swiss National Bank abruptly scrapped its cap on the franc’s exchange rate against the euro, sending currencies and markets into chaos within minutes. The move showed how a single decision by a small but influential institution can unleash invisible financial forces that ripple worldwide.",
-      "fact_year": 2015,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The franc’s sudden ‘bombshell’ revaluation parallels the explosive, foundational energy of Sedna’s first broadcast; both are single moments that unexpectedly reset the landscape around them."
-    },
     {
       "hour": 20,
       "fact_text": "The European Space Agency, created in 1975, had by January 15, 2005, matured into a collaborative powerhouse capable of putting its own probe into lunar orbit with SMART‑1. ESA embodies a quieter, cooperative vision of space exploration, where many nations share the risks—and the wonder—of leaving Earth.",
@@ -655,9 +630,42 @@
         ]
       },
       "match_reason": "A violent rupture in an everyday social space contrasts with an episode that imagines a café table of friends; together they emphasize how precious and fragile those relaxed, safe urban moments truly are."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On January 15, 2015, the Swiss National Bank abruptly scrapped its cap on the franc’s exchange rate against the euro, sending currencies and markets into chaos within minutes. The move showed how a single decision by a small but influential institution can unleash invisible financial forces that ripple worldwide.",
+      "fact_year": 2015,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The franc’s sudden ‘bombshell’ revaluation parallels the explosive, foundational energy of Sedna’s first broadcast; both are single moments that unexpectedly reset the landscape around them."
     }
   ],
   "generated_at": "2026-01-15T00:00:00.009911+00:00",
   "date": "2026-01-15",
-  "updated_at": "2026-01-15T18:00:02.854032+00:00"
+  "updated_at": "2026-01-15T19:00:01.913863+00:00"
 }
