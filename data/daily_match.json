@@ -1,14 +1,14 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On January 17, 2007, the Doomsday Clock (already used above) was set closer to midnight due to concerns over climate change and nuclear weapons. But earlier that same day, scientists and citizens alike were already debating how to turn warnings into action, making the clock less a prophecy and more a prompt.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
+    "hour": 21,
+    "fact_text": "In 2013, Lance Armstrong's doping confession marked a cultural turning point in how fans, sponsors, and institutions viewed the costs of winning at any price. His case remains a reference point for discussions on ethics, surveillance, and forgiveness in modern athletics.",
+    "fact_year": 2013,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong",
     "episode": {
       "id": 32,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
       "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
         "Canserbero - Mañana será otro día",
@@ -22,33 +22,9 @@
         "Conscious Rap"
       ]
     },
-    "match_reason": "This entry is intentionally left mismatched to show a glitch in the timeline; it should not appear in a final broadcast schedule but instead remind Sedna's archivists that even clocks and curators can slip."
+    "match_reason": "Armstrong’s story of ambition, downfall, and self-interrogation matches Canserbero’s introspective, morally charged hip-hop, both asking what success is worth."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "In 2013, Lance Armstrong's doping confession marked a cultural turning point in how fans, sponsors, and institutions viewed the costs of winning at any price. His case remains a reference point for discussions on ethics, surveillance, and forgiveness in modern athletics.",
-      "fact_year": 2013,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "Armstrong’s story of ambition, downfall, and self-interrogation matches Canserbero’s introspective, morally charged hip-hop, both asking what success is worth."
-    },
     {
       "hour": 22,
       "fact_text": "On the same date in 1998, the Clinton–Lewinsky scandal highlighted the collision between private life, public office, and a 24-hour media cycle. The saga prefigured our current era of viral political narratives, where personal stories can shape global perceptions overnight.",
@@ -633,9 +609,33 @@
         ]
       },
       "match_reason": "This entry is intentionally left mismatched to show a glitch in the timeline; it should not appear in a final broadcast schedule but instead remind Sedna's archivists that even clocks and curators can slip."
+    },
+    {
+      "hour": 21,
+      "fact_text": "In 2013, Lance Armstrong's doping confession marked a cultural turning point in how fans, sponsors, and institutions viewed the costs of winning at any price. His case remains a reference point for discussions on ethics, surveillance, and forgiveness in modern athletics.",
+      "fact_year": 2013,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "Armstrong’s story of ambition, downfall, and self-interrogation matches Canserbero’s introspective, morally charged hip-hop, both asking what success is worth."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T20:00:01.649317+00:00"
+  "updated_at": "2026-01-17T21:00:02.006033+00:00"
 }
