@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 17 January 1961, U.S. President Dwight D. Eisenhower delivered a televised farewell address warning against the growing influence of the \"military–industrial complex\". It was strikingly candid for a departing president, urging citizens to stay alert to how war, technology, and profit might quietly reshape democracy.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower%27s_farewell_address",
+    "hour": 12,
+    "fact_text": "In 1899, the United States claimed Wake Island, a remote atoll in the Pacific that has no indigenous population and scant fresh water. Despite its tiny size, the island later became a crucial refueling and military outpost, proof that even specks of coral can shape the routes of global power.",
+    "fact_year": 1899,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wake_Island",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 24,
+      "title": "Morning Drops #18 - Sardegna",
+      "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Piero Marras - Istrales",
+        "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+        "Fabrizio De André - Hotel Supramonte",
+        "Giuni Russo - Alghero"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Italian Folk",
+        "Sardinian",
+        "Italian Pop"
       ]
     },
-    "match_reason": "A speech critiquing the entanglement of power, industry, and technology connects with an episode questioning our dependence on modern tech and invisible systems."
+    "match_reason": "A small, strategically important island in the Pacific parallels an episode celebrating how islands shape identity, memory, and movement."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1899, the United States claimed Wake Island, a remote atoll in the Pacific that has no indigenous population and scant fresh water. Despite its tiny size, the island later became a crucial refueling and military outpost, proof that even specks of coral can shape the routes of global power.",
-      "fact_year": 1899,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wake_Island",
-      "episode": {
-        "id": 24,
-        "title": "Morning Drops #18 - Sardegna",
-        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
-        "songs": [
-          "Piero Marras - Istrales",
-          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
-          "Fabrizio De André - Hotel Supramonte",
-          "Giuni Russo - Alghero"
-        ],
-        "music-genres": [
-          "Italian Folk",
-          "Sardinian",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "A small, strategically important island in the Pacific parallels an episode celebrating how islands shape identity, memory, and movement."
-    },
     {
       "hour": 13,
       "fact_text": "On 17 January 2002, Mount Nyiragongo in the Democratic Republic of the Congo erupted, sending rivers of fluid lava straight through parts of the city of Goma. The lava advanced at highway speeds in places, splitting the city and displacing around 400,000 people practically overnight.",
@@ -644,9 +619,33 @@
         ]
       },
       "match_reason": "A speech critiquing the entanglement of power, industry, and technology connects with an episode questioning our dependence on modern tech and invisible systems."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1899, the United States claimed Wake Island, a remote atoll in the Pacific that has no indigenous population and scant fresh water. Despite its tiny size, the island later became a crucial refueling and military outpost, proof that even specks of coral can shape the routes of global power.",
+      "fact_year": 1899,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wake_Island",
+      "episode": {
+        "id": 24,
+        "title": "Morning Drops #18 - Sardegna",
+        "description": "Yasmin traces her connection to Sardegna — the island where her Italian journey began. Through music and memory, she shares the story of how this place shaped her family's path, and why it still holds such a deep place in her heart.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-18-sardegna",
+        "songs": [
+          "Piero Marras - Istrales",
+          "Mahmood & Tenores di Bitti - Com’è profondo il mare",
+          "Fabrizio De André - Hotel Supramonte",
+          "Giuni Russo - Alghero"
+        ],
+        "music-genres": [
+          "Italian Folk",
+          "Sardinian",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "A small, strategically important island in the Pacific parallels an episode celebrating how islands shape identity, memory, and movement."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T11:00:01.893683+00:00"
+  "updated_at": "2026-01-17T12:00:01.793876+00:00"
 }
