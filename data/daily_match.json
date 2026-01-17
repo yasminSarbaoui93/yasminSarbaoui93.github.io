@@ -1,49 +1,25 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 2007, the symbolic Doomsday Clock was moved to five minutes to midnight, reflecting rising fears about nuclear proliferation and climate change, including North Korea's nuclear test. Maintained by the Bulletin of the Atomic Scientists, the clock doesn’t tell time but measures how close humanity might be edging toward self-destruction.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Doomsday_Clock",
+    "hour": 17,
+    "fact_text": "On January 17, 2013, Lance Armstrong sat down with Oprah Winfrey and, after years of denial, publicly admitted to using performance-enhancing drugs during his cycling career. The confession punctured the myth of an almost superhuman champion and reopened conversations about pressure, cheating, and redemption in elite sport.",
+    "fact_year": 2013,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong_doping_case",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #26 - Canserbero",
-      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Canserbero - Mañana será otro día",
-        "Canserbero - Querer Querernos",
-        "Canserbero - Jeremías",
-        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        "song 1"
       ],
       "music-genres": [
-        "Latin Rap",
-        "Hip-Hop",
-        "Conscious Rap"
+        "genre 1"
       ]
     },
-    "match_reason": "The Doomsday Clock’s existential dread fits with Canserbero’s deeply conscious, often apocalyptic lyrics, both confronting how close humanity and individuals can come to their own edge."
+    "match_reason": "Armstrong’s fall from polished hero to flawed, confessing human resonates with an episode about wabi-sabi, embracing imperfection and the cracks that appear when the glossy surface breaks."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "On January 17, 2013, Lance Armstrong sat down with Oprah Winfrey and, after years of denial, publicly admitted to using performance-enhancing drugs during his cycling career. The confession punctured the myth of an almost superhuman champion and reopened conversations about pressure, cheating, and redemption in elite sport.",
-      "fact_year": 2013,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong_doping_case",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Armstrong’s fall from polished hero to flawed, confessing human resonates with an episode about wabi-sabi, embracing imperfection and the cracks that appear when the glossy surface breaks."
-    },
     {
       "hour": 18,
       "fact_text": "In 1998, the internet-only Drudge Report scooped mainstream media by breaking the story of President Bill Clinton's relationship with Monica Lewinsky, igniting a scandal that would dominate U.S. politics for months. It was a turning point in how online outlets could challenge traditional news gatekeepers overnight.",
@@ -633,9 +609,28 @@
         ]
       },
       "match_reason": "The Doomsday Clock’s existential dread fits with Canserbero’s deeply conscious, often apocalyptic lyrics, both confronting how close humanity and individuals can come to their own edge."
+    },
+    {
+      "hour": 17,
+      "fact_text": "On January 17, 2013, Lance Armstrong sat down with Oprah Winfrey and, after years of denial, publicly admitted to using performance-enhancing drugs during his cycling career. The confession punctured the myth of an almost superhuman champion and reopened conversations about pressure, cheating, and redemption in elite sport.",
+      "fact_year": 2013,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong_doping_case",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Armstrong’s fall from polished hero to flawed, confessing human resonates with an episode about wabi-sabi, embracing imperfection and the cracks that appear when the glossy surface breaks."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T16:00:02.072006+00:00"
+  "updated_at": "2026-01-17T17:00:01.911083+00:00"
 }
