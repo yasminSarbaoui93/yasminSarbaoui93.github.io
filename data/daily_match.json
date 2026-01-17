@@ -1,55 +1,30 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On this day in 1899, the United States claimed Wake Island, a tiny coral atoll in the central Pacific, primarily as a strategic telegraph and later aviation waypoint. Despite its remote emptiness, the island would become a crucial refueling stop and military outpost, showing how specks of land can become pivotal in global networks.",
-    "fact_year": 1899,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wake_Island",
+    "hour": 13,
+    "fact_text": "In 2002, Mount Nyiragongo in the Democratic Republic of the Congo erupted, sending rivers of unusually fast-moving lava through parts of Goma and displacing around 400,000 people. Its lava lake is one of the world’s most spectacular and dangerous, a glowing cauldron that has repeatedly reshaped the surrounding landscape and lives.",
+    "fact_year": 2002,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Nyiragongo",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A remote Pacific atoll evokes slowness, isolation, and huge sky—a perfect match for an episode that turns a small, quiet place into a whole slow-moving planet of sound."
+    "match_reason": "An African volcano pouring out molten rock pairs with an episode about Afrobeat’s volcanic cultural energy, both radiating heat, rhythm, and transformative power across the continent."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 2002, Mount Nyiragongo in the Democratic Republic of the Congo erupted, sending rivers of unusually fast-moving lava through parts of Goma and displacing around 400,000 people. Its lava lake is one of the world’s most spectacular and dangerous, a glowing cauldron that has repeatedly reshaped the surrounding landscape and lives.",
-      "fact_year": 2002,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Nyiragongo",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "An African volcano pouring out molten rock pairs with an episode about Afrobeat’s volcanic cultural energy, both radiating heat, rhythm, and transformative power across the continent."
-    },
     {
       "hour": 14,
       "fact_text": "On January 17, 1893, a group of American and European businessmen led by Lorrin A. Thurston orchestrated the overthrow of the Hawaiian Kingdom, deposing Queen Liliʻuokalani. The coup, backed by U.S. Marines, marked the beginning of Hawaii’s transformation from an independent Polynesian monarchy into an American territory.",
@@ -634,9 +609,33 @@
         ]
       },
       "match_reason": "A remote Pacific atoll evokes slowness, isolation, and huge sky—a perfect match for an episode that turns a small, quiet place into a whole slow-moving planet of sound."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 2002, Mount Nyiragongo in the Democratic Republic of the Congo erupted, sending rivers of unusually fast-moving lava through parts of Goma and displacing around 400,000 people. Its lava lake is one of the world’s most spectacular and dangerous, a glowing cauldron that has repeatedly reshaped the surrounding landscape and lives.",
+      "fact_year": 2002,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Nyiragongo",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "An African volcano pouring out molten rock pairs with an episode about Afrobeat’s volcanic cultural energy, both radiating heat, rhythm, and transformative power across the continent."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T12:00:01.876004+00:00"
+  "updated_at": "2026-01-17T13:00:01.751396+00:00"
 }
