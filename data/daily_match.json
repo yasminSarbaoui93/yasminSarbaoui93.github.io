@@ -1,58 +1,33 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On January 17, 1997, a Delta II rocket carrying the GPS IIR-1 satellite exploded just 13 seconds after liftoff from Cape Canaveral, raining flaming debris and scrap metal across the pad area. The dramatic failure briefly lit up the Florida sky and reminded engineers how unforgiving rocketry remains, even in the age of precision guidance.",
-    "fact_year": 1997,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/GPS_IIR-1",
+    "hour": 3,
+    "fact_text": "In 1995, the Great Hanshin earthquake struck Japan's Hyōgo Prefecture with devastating force, collapsing highways, igniting fires, and killing over 5,500 people in and around Kobe. The disaster spurred major advances in Japanese urban planning, seismic engineering, and disaster response, reshaping how cities prepare for the ground to suddenly move.",
+    "fact_year": 1995,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kobe_earthquake",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 50,
+      "title": "Morning Drops #43 - Looking Back",
+      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Alt-J - 3WW",
+        "Kelly Finnigan - I Don't Wanna Wait",
+        "Goran Bregović & Iggy Pop - This Is a Film",
+        "Ishihonana - Lucia (Original Mix)",
+        "The Weeknd - Save Your Tears"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Indie Pop",
+        "Soul",
+        "World",
+        "Cinematic",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The sudden, blazing failure of a rocket launch feels like a literal electric shock, matching the episode’s high-voltage guitar energy and explosive rock mood."
+    "match_reason": "Both the earthquake and the episode revolve around sudden rupture followed by slow recovery, pairing seismic upheaval with reflective music about healing, vulnerability, and rebuilding."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1995, the Great Hanshin earthquake struck Japan's Hyōgo Prefecture with devastating force, collapsing highways, igniting fires, and killing over 5,500 people in and around Kobe. The disaster spurred major advances in Japanese urban planning, seismic engineering, and disaster response, reshaping how cities prepare for the ground to suddenly move.",
-      "fact_year": 1995,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kobe_earthquake",
-      "episode": {
-        "id": 50,
-        "title": "Morning Drops #43 - Looking Back",
-        "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
-        "songs": [
-          "Alt-J - 3WW",
-          "Kelly Finnigan - I Don't Wanna Wait",
-          "Goran Bregović & Iggy Pop - This Is a Film",
-          "Ishihonana - Lucia (Original Mix)",
-          "The Weeknd - Save Your Tears"
-        ],
-        "music-genres": [
-          "Indie Pop",
-          "Soul",
-          "World",
-          "Cinematic",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Both the earthquake and the episode revolve around sudden rupture followed by slow recovery, pairing seismic upheaval with reflective music about healing, vulnerability, and rebuilding."
-    },
     {
       "hour": 4,
       "fact_text": "The 1994 Northridge earthquake hit the Los Angeles region before dawn, a powerful jolt that snapped freeways, collapsed apartment buildings, and cut power across a massive urban sprawl. Its intense shaking taught seismologists and engineers new lessons about hidden faults beneath cities and the fragility of modern infrastructure.",
@@ -634,9 +609,36 @@
         ]
       },
       "match_reason": "The sudden, blazing failure of a rocket launch feels like a literal electric shock, matching the episode’s high-voltage guitar energy and explosive rock mood."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1995, the Great Hanshin earthquake struck Japan's Hyōgo Prefecture with devastating force, collapsing highways, igniting fires, and killing over 5,500 people in and around Kobe. The disaster spurred major advances in Japanese urban planning, seismic engineering, and disaster response, reshaping how cities prepare for the ground to suddenly move.",
+      "fact_year": 1995,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kobe_earthquake",
+      "episode": {
+        "id": 50,
+        "title": "Morning Drops #43 - Looking Back",
+        "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+        "songs": [
+          "Alt-J - 3WW",
+          "Kelly Finnigan - I Don't Wanna Wait",
+          "Goran Bregović & Iggy Pop - This Is a Film",
+          "Ishihonana - Lucia (Original Mix)",
+          "The Weeknd - Save Your Tears"
+        ],
+        "music-genres": [
+          "Indie Pop",
+          "Soul",
+          "World",
+          "Cinematic",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Both the earthquake and the episode revolve around sudden rupture followed by slow recovery, pairing seismic upheaval with reflective music about healing, vulnerability, and rebuilding."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T02:00:01.865226+00:00"
+  "updated_at": "2026-01-17T03:00:01.494874+00:00"
 }
