@@ -1,56 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On 17 January 1996, the Czech Republic formally applied for membership in the European Union, just three years after peacefully splitting from Slovakia. The move symbolized a rapid pivot from life behind the Iron Curtain to a future woven tightly into Europe’s political and economic fabric.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "hour": 20,
+    "fact_text": "On 17 January 2007, the Doomsday Clock decision referenced not only nuclear weapons but also accelerating climate change—linking atmospheric chemistry to existential risk. It underscored that tiny changes in greenhouse gases, measured in parts per million, can alter the fate of entire civilizations.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Polish Rock",
+        "Downtempo",
+        "Trip-Hop",
         "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Chillout"
       ]
     },
-    "match_reason": "A Central European country moving toward EU integration pairs with an episode about traveling through neighboring Poland, capturing post-communist landscapes, borders, and belonging."
+    "match_reason": "A symbolic warning about planetary limits and climate connects with an episode explicitly titled \"Slow Planet,\" inviting a gentler, more sustainable tempo for how we move through the world."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On 17 January 2007, the Doomsday Clock decision referenced not only nuclear weapons but also accelerating climate change—linking atmospheric chemistry to existential risk. It underscored that tiny changes in greenhouse gases, measured in parts per million, can alter the fate of entire civilizations.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A symbolic warning about planetary limits and climate connects with an episode explicitly titled \"Slow Planet,\" inviting a gentler, more sustainable tempo for how we move through the world."
-    },
     {
       "hour": 21,
       "fact_text": "On 17 January 2013, Lance Armstrong’s confession also peeled back the curtain on how sports science had been used to game anti-doping tests—microdosing, blood transfusions, and laboratory timing. It turned training logs and hematocrit levels into evidence, reminding us how close scientific optimization can drift toward ethical gray zones.",
@@ -644,9 +619,34 @@
         ]
       },
       "match_reason": "A Central European country moving toward EU integration pairs with an episode about traveling through neighboring Poland, capturing post-communist landscapes, borders, and belonging."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On 17 January 2007, the Doomsday Clock decision referenced not only nuclear weapons but also accelerating climate change—linking atmospheric chemistry to existential risk. It underscored that tiny changes in greenhouse gases, measured in parts per million, can alter the fate of entire civilizations.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A symbolic warning about planetary limits and climate connects with an episode explicitly titled \"Slow Planet,\" inviting a gentler, more sustainable tempo for how we move through the world."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T19:00:01.449234+00:00"
+  "updated_at": "2026-01-17T20:00:01.617771+00:00"
 }
