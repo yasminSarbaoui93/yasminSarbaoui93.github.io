@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "One year earlier, on 17 January 1994, the Northridge earthquake jolted Los Angeles awake with a violent intensity of IX on the Mercalli scale. It was strong enough to throw cars from freeways and collapse apartment buildings, yet it also became a landmark case in seismology for understanding how hidden faults can lurk beneath major cities.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1994_Northridge_earthquake",
+    "hour": 5,
+    "fact_text": "On 17 January 1943, the Greek submarine Papanikolis surfaced from the anonymity of the depths to capture the 200-ton sailing vessel Agios Stefanos in World War II. Instead of sinking her, they manned the ship with part of their own crew, turning an enemy vessel into a surprise ally against Axis supply lines.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_submarine_Papanikolis_(Y-2)",
     "episode": {
-      "id": 21,
-      "title": "Morning Drops #15 - Unfreezing",
-      "description": "A short, honest Morning Drop with no grand theme — just four tracks, a bit of voice, and the decision to not wait for the 'right' moment. Room to breathe today.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unfreezing",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Jelisa - Friendly Pressure",
-        "Jane Birkin & Serge Gainsbourg - Je t’aime… moi non plus",
-        "Feng Suave - Maybe Another Time",
-        "Bernard Badie - In Love (DJ Quad's at Night Mix)"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "French Pop",
+        "Italo Disco",
         "Indie",
-        "Deep House"
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A sudden, violent \"unfreezing\" of the Earth connects metaphorically with an episode about emerging from stuckness into motion and feeling again."
+    "match_reason": "An underwater submarine operation and capturing a ship fit naturally with a water-themed episode about immersion and life below the surface."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 17 January 1943, the Greek submarine Papanikolis surfaced from the anonymity of the depths to capture the 200-ton sailing vessel Agios Stefanos in World War II. Instead of sinking her, they manned the ship with part of their own crew, turning an enemy vessel into a surprise ally against Axis supply lines.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_submarine_Papanikolis_(Y-2)",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "An underwater submarine operation and capturing a ship fit naturally with a water-themed episode about immersion and life below the surface."
-    },
     {
       "hour": 6,
       "fact_text": "On 17 January 1991, Operation Desert Storm began with a coordinated aerial bombardment that also marked the first major combat missions for the stealthy F-117 Nighthawk. The war unfolded live on television, turning radar-evading aircraft and cruise missiles into night-vision icons of a new, high-tech era of warfare.",
@@ -644,9 +619,34 @@
         ]
       },
       "match_reason": "A sudden, violent \"unfreezing\" of the Earth connects metaphorically with an episode about emerging from stuckness into motion and feeling again."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 17 January 1943, the Greek submarine Papanikolis surfaced from the anonymity of the depths to capture the 200-ton sailing vessel Agios Stefanos in World War II. Instead of sinking her, they manned the ship with part of their own crew, turning an enemy vessel into a surprise ally against Axis supply lines.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Greek_submarine_Papanikolis_(Y-2)",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "An underwater submarine operation and capturing a ship fit naturally with a water-themed episode about immersion and life below the surface."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T04:00:01.966254+00:00"
+  "updated_at": "2026-01-17T05:00:01.837941+00:00"
 }
