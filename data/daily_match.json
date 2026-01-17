@@ -1,59 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 1773, James Cook became the first known commander to sail a ship south of the Antarctic Circle, pushing through treacherous pack ice into waters that Europeans had only imagined. His second voyage drew the early edges of Antarctica onto world maps and proved there was no habitable southern continent mirroring Europe.",
-    "fact_year": 1773,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook",
+    "hour": 2,
+    "fact_text": "On January 17, 1997, a Delta II rocket carrying the GPS IIR-1 satellite exploded just 13 seconds after liftoff from Cape Canaveral, raining flaming debris and scrap metal across the pad area. The dramatic failure briefly lit up the Florida sky and reminded engineers how unforgiving rocketry remains, even in the age of precision guidance.",
+    "fact_year": 1997,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/GPS_IIR-1",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Cook’s leap into unknown southern seas echoes the episode’s theme of life aboard a boat, using oceanic songs and shared stories to mirror a historic voyage into uncharted waters."
+    "match_reason": "The sudden, blazing failure of a rocket launch feels like a literal electric shock, matching the episode’s high-voltage guitar energy and explosive rock mood."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On January 17, 1997, a Delta II rocket carrying the GPS IIR-1 satellite exploded just 13 seconds after liftoff from Cape Canaveral, raining flaming debris and scrap metal across the pad area. The dramatic failure briefly lit up the Florida sky and reminded engineers how unforgiving rocketry remains, even in the age of precision guidance.",
-      "fact_year": 1997,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/GPS_IIR-1",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden, blazing failure of a rocket launch feels like a literal electric shock, matching the episode’s high-voltage guitar energy and explosive rock mood."
-    },
     {
       "hour": 3,
       "fact_text": "In 1995, the Great Hanshin earthquake struck Japan's Hyōgo Prefecture with devastating force, collapsing highways, igniting fires, and killing over 5,500 people in and around Kobe. The disaster spurred major advances in Japanese urban planning, seismic engineering, and disaster response, reshaping how cities prepare for the ground to suddenly move.",
@@ -637,9 +609,34 @@
         ]
       },
       "match_reason": "Cook’s leap into unknown southern seas echoes the episode’s theme of life aboard a boat, using oceanic songs and shared stories to mirror a historic voyage into uncharted waters."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On January 17, 1997, a Delta II rocket carrying the GPS IIR-1 satellite exploded just 13 seconds after liftoff from Cape Canaveral, raining flaming debris and scrap metal across the pad area. The dramatic failure briefly lit up the Florida sky and reminded engineers how unforgiving rocketry remains, even in the age of precision guidance.",
+      "fact_year": 1997,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/GPS_IIR-1",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden, blazing failure of a rocket launch feels like a literal electric shock, matching the episode’s high-voltage guitar energy and explosive rock mood."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T01:00:01.795606+00:00"
+  "updated_at": "2026-01-17T02:00:01.865226+00:00"
 }
