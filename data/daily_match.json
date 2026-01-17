@@ -1,66 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On the same date in 1998, the Clinton–Lewinsky scandal highlighted the collision between private life, public office, and a 24-hour media cycle. The saga prefigured our current era of viral political narratives, where personal stories can shape global perceptions overnight.",
-    "fact_year": 1998,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Drudge",
+    "hour": 23,
+    "fact_text": "On January 17, 1996, the Czech Republic's EU application symbolized not just a bureaucratic step but a cultural pivot toward a shared European future. It capped a decade of post-communist transition, where borders opened, identities shifted, and the map of Europe was literally redrawn.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Union",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 38,
+      "title": "Morning Drops #32 - A Weekend In London",
+      "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Dele Sosimi - E Go Betta",
+        "Jimmy Castor Bunch - It's Just Begun",
+        "Little Simz feat. Obongjayar - Lion",
+        "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Funk",
+        "UK Hip-Hop",
+        "Electronic"
       ]
     },
-    "match_reason": "A scandal that became a global media spectacle fits an episode about journeying through different perspectives and worlds, reflecting how a single story can travel and transform as it moves."
+    "match_reason": "Joining the EU is a story about European cities growing more interconnected; this pairs with an episode recorded in London, one of the Union’s cultural crossroads, soundtracking a continent in motion."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On January 17, 1996, the Czech Republic's EU application symbolized not just a bureaucratic step but a cultural pivot toward a shared European future. It capped a decade of post-communist transition, where borders opened, identities shifted, and the map of Europe was literally redrawn.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Union",
-      "episode": {
-        "id": 38,
-        "title": "Morning Drops #32 - A Weekend In London",
-        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
-        "songs": [
-          "Dele Sosimi - E Go Betta",
-          "Jimmy Castor Bunch - It's Just Begun",
-          "Little Simz feat. Obongjayar - Lion",
-          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Funk",
-          "UK Hip-Hop",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Joining the EU is a story about European cities growing more interconnected; this pairs with an episode recorded in London, one of the Union’s cultural crossroads, soundtracking a continent in motion."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -643,9 +608,34 @@
         ]
       },
       "match_reason": "A scandal that became a global media spectacle fits an episode about journeying through different perspectives and worlds, reflecting how a single story can travel and transform as it moves."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On January 17, 1996, the Czech Republic's EU application symbolized not just a bureaucratic step but a cultural pivot toward a shared European future. It capped a decade of post-communist transition, where borders opened, identities shifted, and the map of Europe was literally redrawn.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/European_Union",
+      "episode": {
+        "id": 38,
+        "title": "Morning Drops #32 - A Weekend In London",
+        "description": "Recorded in London, marking a weekend reunion between Gaia and Yasmin. A selection inspired by London's energy, seen through the eyes of two inseparable friends — music from concerts, club nights, and long walks across town. Four tracks to ease you into the week at the right pace.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-weekend-in-london",
+        "songs": [
+          "Dele Sosimi - E Go Betta",
+          "Jimmy Castor Bunch - It's Just Begun",
+          "Little Simz feat. Obongjayar - Lion",
+          "The Asphodells - Late Flowering Lust (Phil Kieran Remix)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Funk",
+          "UK Hip-Hop",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Joining the EU is a story about European cities growing more interconnected; this pairs with an episode recorded in London, one of the Union’s cultural crossroads, soundtracking a continent in motion."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T22:00:01.716342+00:00"
+  "updated_at": "2026-01-17T23:00:01.765391+00:00"
 }
