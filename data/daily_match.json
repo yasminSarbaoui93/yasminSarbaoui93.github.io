@@ -1,56 +1,30 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On January 17, 2016, President Barack Obama publicly announced the implementation of the Joint Comprehensive Plan of Action, the nuclear deal designed to limit Iran's nuclear program in exchange for sanctions relief. The agreement was a rare moment when physics, diplomacy, and global security converged into a single, fragile text.",
-    "fact_year": 2016,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action",
+    "hour": 16,
+    "fact_text": "In 2007, the symbolic Doomsday Clock was moved to five minutes to midnight, reflecting rising fears about nuclear proliferation and climate change, including North Korea's nuclear test. Maintained by the Bulletin of the Atomic Scientists, the clock doesn’t tell time but measures how close humanity might be edging toward self-destruction.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Doomsday_Clock",
     "episode": {
-      "id": 51,
-      "title": "Morning Drops #44 - Residente",
-      "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+      "id": 31,
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
-        "Calle 13 - La Jirafa",
-        "Calle 13 - Adentro",
-        "Residente - René",
-        "Calle 13 - La Vuelta al Mundo"
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
       ],
       "music-genres": [
-        "Latin Alternative",
-        "Hip Hop",
-        "Urban",
-        "Rap",
-        "World"
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A diplomatic effort to defuse nuclear tensions echoes an episode centered on a politically outspoken artist, both grappling with power, resistance, and the cost of trying to change the world."
+    "match_reason": "The Doomsday Clock’s existential dread fits with Canserbero’s deeply conscious, often apocalyptic lyrics, both confronting how close humanity and individuals can come to their own edge."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 2007, the symbolic Doomsday Clock was moved to five minutes to midnight, reflecting rising fears about nuclear proliferation and climate change, including North Korea's nuclear test. Maintained by the Bulletin of the Atomic Scientists, the clock doesn’t tell time but measures how close humanity might be edging toward self-destruction.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Doomsday_Clock",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "The Doomsday Clock’s existential dread fits with Canserbero’s deeply conscious, often apocalyptic lyrics, both confronting how close humanity and individuals can come to their own edge."
-    },
     {
       "hour": 17,
       "fact_text": "On January 17, 2013, Lance Armstrong sat down with Oprah Winfrey and, after years of denial, publicly admitted to using performance-enhancing drugs during his cycling career. The confession punctured the myth of an almost superhuman champion and reopened conversations about pressure, cheating, and redemption in elite sport.",
@@ -635,9 +609,33 @@
         ]
       },
       "match_reason": "A diplomatic effort to defuse nuclear tensions echoes an episode centered on a politically outspoken artist, both grappling with power, resistance, and the cost of trying to change the world."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 2007, the symbolic Doomsday Clock was moved to five minutes to midnight, reflecting rising fears about nuclear proliferation and climate change, including North Korea's nuclear test. Maintained by the Bulletin of the Atomic Scientists, the clock doesn’t tell time but measures how close humanity might be edging toward self-destruction.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Doomsday_Clock",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "The Doomsday Clock’s existential dread fits with Canserbero’s deeply conscious, often apocalyptic lyrics, both confronting how close humanity and individuals can come to their own edge."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T15:00:01.398598+00:00"
+  "updated_at": "2026-01-17T16:00:02.072006+00:00"
 }
