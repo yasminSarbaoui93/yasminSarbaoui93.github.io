@@ -1,55 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1781, at the Battle of Cowpens in South Carolina, General Daniel Morgan pulled off a rare double envelopment against British forces, luring them forward with a staged retreat. The victory was so tactically elegant that it’s still taught in military academies as a masterclass in using terrain, timing, and psychology instead of sheer numbers.",
-    "fact_year": 1781,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cowpens",
+    "hour": 10,
+    "fact_text": "On 17 January 1524, Giovanni da Verrazzano set sail westward from Madeira, hoping to find a sea route to the Pacific and Asia. Instead, he became one of the first Europeans to carefully chart large stretches of the North American Atlantic coast, including the bay that would one day cradle New York City.",
+    "fact_year": 1524,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A bold tactical stand in a revolutionary war links with an episode about defiant, guitar-driven rebellion and the courage to fight differently."
+    "match_reason": "An Italian navigator exploring new coasts resonates with an Italian-rooted episode about travel, landscapes, and journeys through unfamiliar terrain."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 17 January 1524, Giovanni da Verrazzano set sail westward from Madeira, hoping to find a sea route to the Pacific and Asia. Instead, he became one of the first Europeans to carefully chart large stretches of the North American Atlantic coast, including the bay that would one day cradle New York City.",
-      "fact_year": 1524,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "An Italian navigator exploring new coasts resonates with an Italian-rooted episode about travel, landscapes, and journeys through unfamiliar terrain."
-    },
     {
       "hour": 11,
       "fact_text": "On 17 January 1961, U.S. President Dwight D. Eisenhower delivered a televised farewell address warning against the growing influence of the \"military–industrial complex\". It was strikingly candid for a departing president, urging citizens to stay alert to how war, technology, and profit might quietly reshape democracy.",
@@ -643,9 +619,34 @@
         ]
       },
       "match_reason": "A bold tactical stand in a revolutionary war links with an episode about defiant, guitar-driven rebellion and the courage to fight differently."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 17 January 1524, Giovanni da Verrazzano set sail westward from Madeira, hoping to find a sea route to the Pacific and Asia. Instead, he became one of the first Europeans to carefully chart large stretches of the North American Atlantic coast, including the bay that would one day cradle New York City.",
+      "fact_year": 1524,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "An Italian navigator exploring new coasts resonates with an Italian-rooted episode about travel, landscapes, and journeys through unfamiliar terrain."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T09:00:01.585560+00:00"
+  "updated_at": "2026-01-17T10:00:01.848357+00:00"
 }
