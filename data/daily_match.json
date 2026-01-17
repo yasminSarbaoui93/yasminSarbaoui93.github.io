@@ -1,57 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1966, a U.S. B-52 bomber collided mid-air with a KC-135 tanker over Palomares, Spain, dropping four hydrogen bombs—three onto land and one into the Mediterranean Sea. Although none detonated at full nuclear yield, the incident scattered plutonium and triggered one of the most dramatic search-and-salvage operations of the Cold War.",
-    "fact_year": 1966,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1966_Palomares_accident",
+    "hour": 8,
+    "fact_text": "On 17 January 1903, the lush rainforest of El Yunque in Puerto Rico became part of the U.S. National Forest System as the Luquillo Forest Reserve. It is the only tropical rainforest in that system, where clouds snag on mountaintops and endemic tree frogs sing at volumes that can drown out human conversation.",
+    "fact_year": 1903,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/El_Yunque_National_Forest",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A near-catastrophic nuclear accident born from complex systems and human error pairs with an episode about learning from mistakes and transforming failure into insight."
+    "match_reason": "A tropical rainforest preserved in perpetually warm, humid air echoes the sun-drenched, endless-summer mood and organic jazz flow of the episode."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On 17 January 1903, the lush rainforest of El Yunque in Puerto Rico became part of the U.S. National Forest System as the Luquillo Forest Reserve. It is the only tropical rainforest in that system, where clouds snag on mountaintops and endemic tree frogs sing at volumes that can drown out human conversation.",
-      "fact_year": 1903,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/El_Yunque_National_Forest",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A tropical rainforest preserved in perpetually warm, humid air echoes the sun-drenched, endless-summer mood and organic jazz flow of the episode."
-    },
     {
       "hour": 9,
       "fact_text": "In 1781, at the Battle of Cowpens in South Carolina, General Daniel Morgan pulled off a rare double envelopment against British forces, luring them forward with a staged retreat. The victory was so tactically elegant that it’s still taught in military academies as a masterclass in using terrain, timing, and psychology instead of sheer numbers.",
@@ -645,9 +619,34 @@
         ]
       },
       "match_reason": "A near-catastrophic nuclear accident born from complex systems and human error pairs with an episode about learning from mistakes and transforming failure into insight."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On 17 January 1903, the lush rainforest of El Yunque in Puerto Rico became part of the U.S. National Forest System as the Luquillo Forest Reserve. It is the only tropical rainforest in that system, where clouds snag on mountaintops and endemic tree frogs sing at volumes that can drown out human conversation.",
+      "fact_year": 1903,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/El_Yunque_National_Forest",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A tropical rainforest preserved in perpetually warm, humid air echoes the sun-drenched, endless-summer mood and organic jazz flow of the episode."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T07:00:01.631316+00:00"
+  "updated_at": "2026-01-17T08:00:01.844179+00:00"
 }
