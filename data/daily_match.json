@@ -1,61 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In the early hours of January 17, 1991, Operation Desert Storm began with waves of coalition aircraft striking targets across Iraq, and the stealthy F-117 Nighthawk flew its first major combat missions. The campaign unfolded as a high-tech, televised war, where radar-evading jets and live broadcasts turned battlefields into a global spectacle.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gulf_War",
+    "hour": 7,
+    "fact_text": "In 1966, a U.S. B-52 bomber and a KC-135 refueling aircraft collided in mid-air over Palomares, Spain, dropping three nuclear bombs on land and one into the Mediterranean Sea. Though no nuclear explosion occurred, the accident scattered plutonium and led to one of the most complex cleanup operations of the nuclear age.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1966_Palomares_accident",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The Gulf War’s airstrikes over Middle Eastern cities resonate with an episode that sonically wanders through medinas and Arabic melodies, reframing a theater of conflict as a layered soundscape."
+    "match_reason": "A nuclear mishap born from high-tech military systems pairs with an episode about our fraught relationship with technology, both warning how powerful tools can drift out of our control."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1966, a U.S. B-52 bomber and a KC-135 refueling aircraft collided in mid-air over Palomares, Spain, dropping three nuclear bombs on land and one into the Mediterranean Sea. Though no nuclear explosion occurred, the accident scattered plutonium and led to one of the most complex cleanup operations of the nuclear age.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1966_Palomares_accident",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A nuclear mishap born from high-tech military systems pairs with an episode about our fraught relationship with technology, both warning how powerful tools can drift out of our control."
-    },
     {
       "hour": 8,
       "fact_text": "On January 17, 1903, the lush rainforest now known as El Yunque National Forest in Puerto Rico was designated the Luquillo Forest Reserve, becoming part of the U.S. National Forest System. This small but biodiversity-rich tropical forest shelters rare tree frogs, orchids, and ancient trees wrapped perpetually in mist.",
@@ -639,9 +609,34 @@
         ]
       },
       "match_reason": "The Gulf War’s airstrikes over Middle Eastern cities resonate with an episode that sonically wanders through medinas and Arabic melodies, reframing a theater of conflict as a layered soundscape."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1966, a U.S. B-52 bomber and a KC-135 refueling aircraft collided in mid-air over Palomares, Spain, dropping three nuclear bombs on land and one into the Mediterranean Sea. Though no nuclear explosion occurred, the accident scattered plutonium and led to one of the most complex cleanup operations of the nuclear age.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1966_Palomares_accident",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A nuclear mishap born from high-tech military systems pairs with an episode about our fraught relationship with technology, both warning how powerful tools can drift out of our control."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T06:00:01.751282+00:00"
+  "updated_at": "2026-01-17T07:00:01.880257+00:00"
 }
