@@ -1,61 +1,30 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On 17 January 1991, as Desert Storm began, viewers worldwide watched live footage of green-tinted tracer fire over Baghdad—an eerie fusion of war and media. For many, it was the first time conflict looked like a video game, blurring the emotional distance between real destruction and glowing pixels.",
-    "fact_year": 1991,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk",
+    "hour": 23,
+    "fact_text": "On 17 January 2007, the Bulletin of the Atomic Scientists also noted that North Korea’s nuclear test the previous year had used a device so small it barely registered as a full success. Even imperfect, it signaled that one of the most isolated states on Earth had crossed the threshold into the nuclear age, altering strategic calculations far beyond its borders.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "Night-time images over the Middle East and a war mediated through screens connect with an evening journey from medina ambience to global dance, blending technology, distance, and faraway cities."
+    "match_reason": "A small yet world-shifting nuclear test mirrors how a regional music like Afrobeat can cross a threshold and change global culture, showing that seemingly peripheral movements can carry immense power."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On 17 January 2007, the Bulletin of the Atomic Scientists also noted that North Korea’s nuclear test the previous year had used a device so small it barely registered as a full success. Even imperfect, it signaled that one of the most isolated states on Earth had crossed the threshold into the nuclear age, altering strategic calculations far beyond its borders.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A small yet world-shifting nuclear test mirrors how a regional music like Afrobeat can cross a threshold and change global culture, showing that seemingly peripheral movements can carry immense power."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -649,9 +618,33 @@
         ]
       },
       "match_reason": "Night-time images over the Middle East and a war mediated through screens connect with an evening journey from medina ambience to global dance, blending technology, distance, and faraway cities."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On 17 January 2007, the Bulletin of the Atomic Scientists also noted that North Korea’s nuclear test the previous year had used a device so small it barely registered as a full success. Even imperfect, it signaled that one of the most isolated states on Earth had crossed the threshold into the nuclear age, altering strategic calculations far beyond its borders.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A small yet world-shifting nuclear test mirrors how a regional music like Afrobeat can cross a threshold and change global culture, showing that seemingly peripheral movements can carry immense power."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T22:00:02.021415+00:00"
+  "updated_at": "2026-01-17T23:00:01.889467+00:00"
 }
