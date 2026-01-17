@@ -1,54 +1,30 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 2002, Mount Nyiragongo in the Democratic Republic of the Congo erupted, sending rivers of unusually fast-moving lava through parts of Goma and displacing around 400,000 people. Its lava lake is one of the world’s most spectacular and dangerous, a glowing cauldron that has repeatedly reshaped the surrounding landscape and lives.",
-    "fact_year": 2002,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Nyiragongo",
+    "hour": 14,
+    "fact_text": "On January 17, 1893, a group of American and European businessmen led by Lorrin A. Thurston orchestrated the overthrow of the Hawaiian Kingdom, deposing Queen Liliʻuokalani. The coup, backed by U.S. Marines, marked the beginning of Hawaii’s transformation from an independent Polynesian monarchy into an American territory.",
+    "fact_year": 1893,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 35,
+      "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
+      "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Georges Moustaki - Le Métèque",
+        "Georges Brassens - Les Passants",
+        "Dalida - Bambino (Guaglione)",
+        "Biga*Ranx - My Face"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "French Chanson",
+        "Italian Pop",
+        "Reggae"
       ]
     },
-    "match_reason": "An African volcano pouring out molten rock pairs with an episode about Afrobeat’s volcanic cultural energy, both radiating heat, rhythm, and transformative power across the continent."
+    "match_reason": "A story of a kingdom overtaken by foreign interests is in tension with an episode about hybrid identities and belonging, using cross-cultural songs to reflect on who gets to call a place home."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On January 17, 1893, a group of American and European businessmen led by Lorrin A. Thurston orchestrated the overthrow of the Hawaiian Kingdom, deposing Queen Liliʻuokalani. The coup, backed by U.S. Marines, marked the beginning of Hawaii’s transformation from an independent Polynesian monarchy into an American territory.",
-      "fact_year": 1893,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom",
-      "episode": {
-        "id": 35,
-        "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
-        "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
-        "songs": [
-          "Georges Moustaki - Le Métèque",
-          "Georges Brassens - Les Passants",
-          "Dalida - Bambino (Guaglione)",
-          "Biga*Ranx - My Face"
-        ],
-        "music-genres": [
-          "French Chanson",
-          "Italian Pop",
-          "Reggae"
-        ]
-      },
-      "match_reason": "A story of a kingdom overtaken by foreign interests is in tension with an episode about hybrid identities and belonging, using cross-cultural songs to reflect on who gets to call a place home."
-    },
     {
       "hour": 15,
       "fact_text": "On January 17, 2016, President Barack Obama publicly announced the implementation of the Joint Comprehensive Plan of Action, the nuclear deal designed to limit Iran's nuclear program in exchange for sanctions relief. The agreement was a rare moment when physics, diplomacy, and global security converged into a single, fragile text.",
@@ -633,9 +609,33 @@
         ]
       },
       "match_reason": "An African volcano pouring out molten rock pairs with an episode about Afrobeat’s volcanic cultural energy, both radiating heat, rhythm, and transformative power across the continent."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On January 17, 1893, a group of American and European businessmen led by Lorrin A. Thurston orchestrated the overthrow of the Hawaiian Kingdom, deposing Queen Liliʻuokalani. The coup, backed by U.S. Marines, marked the beginning of Hawaii’s transformation from an independent Polynesian monarchy into an American territory.",
+      "fact_year": 1893,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom",
+      "episode": {
+        "id": 35,
+        "title": "Morning Drops #29 - Berber France Meets Arabic Italy",
+        "description": "Yasmin takes us back to her university years, where she met Abdel - an Algerian-French friend with a big heart and endless optimism. Their friendship grew around music, identity, and playful arguments about whether a song was originally Italian or French. Music that exists in both versions, alongside stories of finding a home, boxing training, and car rides filled with music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-berber-france-meets-arabic-italy",
+        "songs": [
+          "Georges Moustaki - Le Métèque",
+          "Georges Brassens - Les Passants",
+          "Dalida - Bambino (Guaglione)",
+          "Biga*Ranx - My Face"
+        ],
+        "music-genres": [
+          "French Chanson",
+          "Italian Pop",
+          "Reggae"
+        ]
+      },
+      "match_reason": "A story of a kingdom overtaken by foreign interests is in tension with an episode about hybrid identities and belonging, using cross-cultural songs to reflect on who gets to call a place home."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T13:00:01.751396+00:00"
+  "updated_at": "2026-01-17T14:00:01.554486+00:00"
 }
