@@ -1,55 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On 17 January 1903, the lush rainforest of El Yunque in Puerto Rico became part of the U.S. National Forest System as the Luquillo Forest Reserve. It is the only tropical rainforest in that system, where clouds snag on mountaintops and endemic tree frogs sing at volumes that can drown out human conversation.",
-    "fact_year": 1903,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/El_Yunque_National_Forest",
+    "hour": 9,
+    "fact_text": "In 1781, at the Battle of Cowpens in South Carolina, General Daniel Morgan pulled off a rare double envelopment against British forces, luring them forward with a staged retreat. The victory was so tactically elegant that it’s still taught in military academies as a masterclass in using terrain, timing, and psychology instead of sheer numbers.",
+    "fact_year": 1781,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cowpens",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A tropical rainforest preserved in perpetually warm, humid air echoes the sun-drenched, endless-summer mood and organic jazz flow of the episode."
+    "match_reason": "A bold tactical stand in a revolutionary war links with an episode about defiant, guitar-driven rebellion and the courage to fight differently."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1781, at the Battle of Cowpens in South Carolina, General Daniel Morgan pulled off a rare double envelopment against British forces, luring them forward with a staged retreat. The victory was so tactically elegant that it’s still taught in military academies as a masterclass in using terrain, timing, and psychology instead of sheer numbers.",
-      "fact_year": 1781,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cowpens",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A bold tactical stand in a revolutionary war links with an episode about defiant, guitar-driven rebellion and the courage to fight differently."
-    },
     {
       "hour": 10,
       "fact_text": "On 17 January 1524, Giovanni da Verrazzano set sail westward from Madeira, hoping to find a sea route to the Pacific and Asia. Instead, he became one of the first Europeans to carefully chart large stretches of the North American Atlantic coast, including the bay that would one day cradle New York City.",
@@ -644,9 +619,33 @@
         ]
       },
       "match_reason": "A tropical rainforest preserved in perpetually warm, humid air echoes the sun-drenched, endless-summer mood and organic jazz flow of the episode."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1781, at the Battle of Cowpens in South Carolina, General Daniel Morgan pulled off a rare double envelopment against British forces, luring them forward with a staged retreat. The victory was so tactically elegant that it’s still taught in military academies as a masterclass in using terrain, timing, and psychology instead of sheer numbers.",
+      "fact_year": 1781,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cowpens",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A bold tactical stand in a revolutionary war links with an episode about defiant, guitar-driven rebellion and the courage to fight differently."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T08:00:01.844179+00:00"
+  "updated_at": "2026-01-17T09:00:01.585560+00:00"
 }
