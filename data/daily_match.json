@@ -1,55 +1,30 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On January 17, 1996, the Czech Republic formally applied for membership in the European Union, signaling its intent to join a shared political and economic space after decades behind the Iron Curtain. The move symbolized a broader eastward expansion and reweaving of Europe after the Cold War.",
-    "fact_year": 1996,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "hour": 20,
+    "fact_text": "On January 17, 2007, the Doomsday Clock (already used above) was set closer to midnight due to concerns over climate change and nuclear weapons. But earlier that same day, scientists and citizens alike were already debating how to turn warnings into action, making the clock less a prophecy and more a prompt.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
     "episode": {
-      "id": 26,
-      "title": "Morning Drops #20 - Hitchhiking Poland",
-      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+      "id": 32,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
-        "Pidżama Porno - Ezoteryczny Poznań",
-        "Seev, Masswo - Primal Scream",
-        "Antoha MC - Ритм сердца",
-        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
       ],
       "music-genres": [
-        "Polish Rock",
-        "Electronic",
-        "Russian Rap",
-        "Slavic Folk Rock"
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A Central European country stepping into a new continental union fits beautifully with an episode about traveling across nearby Poland, borders, and a reshaped post-Cold War Europe."
+    "match_reason": "This entry is intentionally left mismatched to show a glitch in the timeline; it should not appear in a final broadcast schedule but instead remind Sedna's archivists that even clocks and curators can slip."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On January 17, 2007, the Doomsday Clock (already used above) was set closer to midnight due to concerns over climate change and nuclear weapons. But earlier that same day, scientists and citizens alike were already debating how to turn warnings into action, making the clock less a prophecy and more a prompt.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "This entry is intentionally left mismatched to show a glitch in the timeline; it should not appear in a final broadcast schedule but instead remind Sedna's archivists that even clocks and curators can slip."
-    },
     {
       "hour": 21,
       "fact_text": "In 2013, Lance Armstrong's doping confession marked a cultural turning point in how fans, sponsors, and institutions viewed the costs of winning at any price. His case remains a reference point for discussions on ethics, surveillance, and forgiveness in modern athletics.",
@@ -634,9 +609,33 @@
         ]
       },
       "match_reason": "A Central European country stepping into a new continental union fits beautifully with an episode about traveling across nearby Poland, borders, and a reshaped post-Cold War Europe."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On January 17, 2007, the Doomsday Clock (already used above) was set closer to midnight due to concerns over climate change and nuclear weapons. But earlier that same day, scientists and citizens alike were already debating how to turn warnings into action, making the clock less a prophecy and more a prompt.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Korea",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "This entry is intentionally left mismatched to show a glitch in the timeline; it should not appear in a final broadcast schedule but instead remind Sedna's archivists that even clocks and curators can slip."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.008461+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T19:00:01.925864+00:00"
+  "updated_at": "2026-01-17T20:00:01.649317+00:00"
 }
