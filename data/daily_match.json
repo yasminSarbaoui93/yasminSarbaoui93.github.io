@@ -1,61 +1,36 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On 17 January 2013, Lance Armstrong’s confession also peeled back the curtain on how sports science had been used to game anti-doping tests—microdosing, blood transfusions, and laboratory timing. It turned training logs and hematocrit levels into evidence, reminding us how close scientific optimization can drift toward ethical gray zones.",
-    "fact_year": 2013,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lance_Armstrong",
+    "hour": 22,
+    "fact_text": "On 17 January 1991, as Desert Storm began, viewers worldwide watched live footage of green-tinted tracer fire over Baghdad—an eerie fusion of war and media. For many, it was the first time conflict looked like a video game, blurring the emotional distance between real destruction and glowing pixels.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "An athlete’s extreme, ethically fraught pursuit of performance aligns with an episode about intense training, discipline, and the line between pushing your body and going too far."
+    "match_reason": "Night-time images over the Middle East and a war mediated through screens connect with an evening journey from medina ambience to global dance, blending technology, distance, and faraway cities."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "On 17 January 1991, as Desert Storm began, viewers worldwide watched live footage of green-tinted tracer fire over Baghdad—an eerie fusion of war and media. For many, it was the first time conflict looked like a video game, blurring the emotional distance between real destruction and glowing pixels.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Night-time images over the Middle East and a war mediated through screens connect with an evening journey from medina ambience to global dance, blending technology, distance, and faraway cities."
-    },
     {
       "hour": 23,
       "fact_text": "On 17 January 2007, the Bulletin of the Atomic Scientists also noted that North Korea’s nuclear test the previous year had used a device so small it barely registered as a full success. Even imperfect, it signaled that one of the most isolated states on Earth had crossed the threshold into the nuclear age, altering strategic calculations far beyond its borders.",
@@ -644,9 +619,39 @@
         ]
       },
       "match_reason": "An athlete’s extreme, ethically fraught pursuit of performance aligns with an episode about intense training, discipline, and the line between pushing your body and going too far."
+    },
+    {
+      "hour": 22,
+      "fact_text": "On 17 January 1991, as Desert Storm began, viewers worldwide watched live footage of green-tinted tracer fire over Baghdad—an eerie fusion of war and media. For many, it was the first time conflict looked like a video game, blurring the emotional distance between real destruction and glowing pixels.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Night-time images over the Middle East and a war mediated through screens connect with an evening journey from medina ambience to global dance, blending technology, distance, and faraway cities."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T21:00:01.697413+00:00"
+  "updated_at": "2026-01-17T22:00:02.021415+00:00"
 }
