@@ -1,59 +1,34 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 17 January 1912, Captain Robert Falcon Scott finally reached the South Pole, only to discover Roald Amundsen’s Norwegian flag already there. The bitter twist is that Scott’s team hauled their supplies on foot while Amundsen used sled dogs, a planning difference that helped decide who claimed the first footprints at Earth’s southern end.",
-    "fact_year": 1912,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Terra_Nova_Expedition",
+    "hour": 1,
+    "fact_text": "In 1773, James Cook became the first known navigator to sail south of the Antarctic Circle, pushing into seas so foggy and iceberg-filled that his crew sometimes heard ice before they saw it. Though he never actually sighted the Antarctic continent, his logs proved there was a vast, cold ocean at the bottom of the world.",
+    "fact_year": 1773,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #36 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Polar exploration, ice, and isolation resonate with an episode about Arctic waters and encounters beyond the polar circle."
+    "match_reason": "A sea voyage into unknown waters pairs with an episode literally recorded on a sailing boat, centered on life at sea."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 1773, James Cook became the first known navigator to sail south of the Antarctic Circle, pushing into seas so foggy and iceberg-filled that his crew sometimes heard ice before they saw it. Though he never actually sighted the Antarctic continent, his logs proved there was a vast, cold ocean at the bottom of the world.",
-      "fact_year": 1773,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A sea voyage into unknown waters pairs with an episode literally recorded on a sailing boat, centered on life at sea."
-    },
     {
       "hour": 2,
       "fact_text": "On 17 January 1997, a Delta II rocket carrying the GPS IIR-1 satellite exploded just 13 seconds after launch at Cape Canaveral. The blast rained hundreds of tons of burning debris around the pad, yet remarkably no one on the ground was killed, and high-speed footage of the failure became a textbook case for launch safety engineers.",
@@ -644,9 +619,37 @@
         ]
       },
       "match_reason": "Polar exploration, ice, and isolation resonate with an episode about Arctic waters and encounters beyond the polar circle."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 1773, James Cook became the first known navigator to sail south of the Antarctic Circle, pushing into seas so foggy and iceberg-filled that his crew sometimes heard ice before they saw it. Though he never actually sighted the Antarctic continent, his logs proved there was a vast, cold ocean at the bottom of the world.",
+      "fact_year": 1773,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_voyage_of_James_Cook",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A sea voyage into unknown waters pairs with an episode literally recorded on a sailing boat, centered on life at sea."
     }
   ],
   "generated_at": "2026-01-17T00:00:00.007235+00:00",
   "date": "2026-01-17",
-  "updated_at": "2026-01-17T00:01:00.963544+00:00"
+  "updated_at": "2026-01-17T01:00:01.521932+00:00"
 }
