@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1586, the massive Tenshō earthquake struck Japan's island of Honshu with an estimated magnitude of 7.9, triggering a powerful tsunami. With around 8,000 lives lost, it reshaped coastlines and folk memory, becoming one of the early recorded reminders that the Earth’s crust is anything but still.",
-    "fact_year": 1586,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1586_Tensh%C5%8D_earthquake",
+    "hour": 1,
+    "fact_text": "On January 18, 1896, physicist H. L. Smith publicly demonstrated one of the earliest X‑ray machines, turning invisible rays into visible images. Spectators saw through flesh to bone for the first time, a moment when science made the human body partially transparent and medicine stepped into a new era.",
+    "fact_year": 1896,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A calm, reflective downtempo set provides a soothing counterpoint to the violence of earthquakes and waves, echoing the planet’s slow return to equilibrium after sudden upheaval."
+    "match_reason": "An episode themed around electricity and jolt-like guitar energy mirrors the shock and awe of early X‑ray demonstrations and the new electromagnetic frontier they opened."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 18, 1896, physicist H. L. Smith publicly demonstrated one of the earliest X‑ray machines, turning invisible rays into visible images. Spectators saw through flesh to bone for the first time, a moment when science made the human body partially transparent and medicine stepped into a new era.",
-      "fact_year": 1896,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "An episode themed around electricity and jolt-like guitar energy mirrors the shock and awe of early X‑ray demonstrations and the new electromagnetic frontier they opened."
-    },
     {
       "hour": 2,
       "fact_text": "In 1977, scientists at the U.S. Centers for Disease Control and Prevention finally pinned down the mysterious cause of Legionnaires’ disease: a previously unknown bacterium later named Legionella pneumophila. The breakthrough came after a baffling outbreak at an American Legion convention and marked a milestone in epidemiology and environmental health.",
@@ -659,9 +634,34 @@
         ]
       },
       "match_reason": "A calm, reflective downtempo set provides a soothing counterpoint to the violence of earthquakes and waves, echoing the planet’s slow return to equilibrium after sudden upheaval."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 18, 1896, physicist H. L. Smith publicly demonstrated one of the earliest X‑ray machines, turning invisible rays into visible images. Spectators saw through flesh to bone for the first time, a moment when science made the human body partially transparent and medicine stepped into a new era.",
+      "fact_year": 1896,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "An episode themed around electricity and jolt-like guitar energy mirrors the shock and awe of early X‑ray demonstrations and the new electromagnetic frontier they opened."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T00:00:45.596807+00:00"
+  "updated_at": "2026-01-18T01:00:01.896632+00:00"
 }
