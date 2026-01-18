@@ -1,59 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "On January 18, 1911, aviation pioneer Eugene B. Ely made history by landing his aircraft on a specially built deck aboard the USS Pennsylvania in San Francisco Bay—the first airplane landing on a ship. His daring experiment laid the groundwork for the future of aircraft carriers and naval aviation.",
-    "fact_year": 1911,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_Burton_Ely",
+    "hour": 18,
+    "fact_text": "In 1871, in the Hall of Mirrors at the Palace of Versailles, King Wilhelm I of Prussia was proclaimed German Emperor, formalizing the unification of Germany under Prussian leadership. The ceremony, set in a French palace during the Franco-Prussian War, was both political reality and deliberate theatrical symbolism.",
+    "fact_year": 1871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "An airplane kissing the surface of the sea on a ship’s deck fits with an episode about fluid motion and diving into new, watery frontiers."
+    "match_reason": "A defining moment in German history is paired with a Munich-flavored, theatrical 80s set—modern German cultural echo to imperial unification."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "In 1871, in the Hall of Mirrors at the Palace of Versailles, King Wilhelm I of Prussia was proclaimed German Emperor, formalizing the unification of Germany under Prussian leadership. The ceremony, set in a French palace during the Franco-Prussian War, was both political reality and deliberate theatrical symbolism.",
-      "fact_year": 1871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "A defining moment in German history is paired with a Munich-flavored, theatrical 80s set—modern German cultural echo to imperial unification."
-    },
     {
       "hour": 19,
       "fact_text": "On this day in 1670 (or 1671, by some accounts), the Welsh privateer Henry Morgan led a daring overland expedition and captured the rich Spanish city of Panama. Marching through jungle instead of sailing straight in, his attack became legendary in the history of piracy in the Americas.",
@@ -672,9 +644,34 @@
         ]
       },
       "match_reason": "An airplane kissing the surface of the sea on a ship’s deck fits with an episode about fluid motion and diving into new, watery frontiers."
+    },
+    {
+      "hour": 18,
+      "fact_text": "In 1871, in the Hall of Mirrors at the Palace of Versailles, King Wilhelm I of Prussia was proclaimed German Emperor, formalizing the unification of Germany under Prussian leadership. The ceremony, set in a French palace during the Franco-Prussian War, was both political reality and deliberate theatrical symbolism.",
+      "fact_year": 1871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "A defining moment in German history is paired with a Munich-flavored, theatrical 80s set—modern German cultural echo to imperial unification."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T17:00:01.668911+00:00"
+  "updated_at": "2026-01-18T18:00:02.057930+00:00"
 }
