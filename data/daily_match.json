@@ -1,57 +1,34 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On January 18, 1919, famed pianist and composer Ignacy Jan Paderewski became prime minister of newly independent Poland. He was that rare figure who could move audiences with both virtuosic piano recitals and passionate speeches about his country’s rebirth.",
-    "fact_year": 1919,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ignacy_Jan_Paderewski",
+    "hour": 17,
+    "fact_text": "In 1911, aviation pioneer Eugene B. Ely achieved the first successful airplane landing on a ship, touching down on a wooden platform built on the USS Pennsylvania in San Francisco Bay. His brief, risky stunt foreshadowed the birth of aircraft carriers and the idea of runways that float.",
+    "fact_year": 1911,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_Burton_Ely",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Paderewski’s blend of political leadership and musical mastery suits an episode honoring music as a ‘timeless legacy’ that can shape nations as well as hearts."
+    "match_reason": "A plane landing on a ship in the bay sits perfectly with a sea-voyage episode recorded on a boat, uniting sky and water in one floating runway of sound."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1911, aviation pioneer Eugene B. Ely achieved the first successful airplane landing on a ship, touching down on a wooden platform built on the USS Pennsylvania in San Francisco Bay. His brief, risky stunt foreshadowed the birth of aircraft carriers and the idea of runways that float.",
-      "fact_year": 1911,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_Burton_Ely",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A plane landing on a ship in the bay sits perfectly with a sea-voyage episode recorded on a boat, uniting sky and water in one floating runway of sound."
-    },
     {
       "hour": 18,
       "fact_text": "On this day in 1871, Wilhelm I was proclaimed German Emperor in the Hall of Mirrors at the Palace of Versailles, formalizing the unification of Germany inside a French royal palace. The moment fused architecture, symbolism, and politics, reflecting power through literal walls of mirrors.",
@@ -657,9 +634,37 @@
         ]
       },
       "match_reason": "Paderewski’s blend of political leadership and musical mastery suits an episode honoring music as a ‘timeless legacy’ that can shape nations as well as hearts."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1911, aviation pioneer Eugene B. Ely achieved the first successful airplane landing on a ship, touching down on a wooden platform built on the USS Pennsylvania in San Francisco Bay. His brief, risky stunt foreshadowed the birth of aircraft carriers and the idea of runways that float.",
+      "fact_year": 1911,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Eugene_Burton_Ely",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A plane landing on a ship in the bay sits perfectly with a sea-voyage episode recorded on a boat, uniting sky and water in one floating runway of sound."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T16:00:01.603254+00:00"
+  "updated_at": "2026-01-18T17:00:01.639498+00:00"
 }
