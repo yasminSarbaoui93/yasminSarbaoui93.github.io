@@ -1,47 +1,25 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1915, Japan presented China with the \"Twenty-One Demands\", an ultimatum that sought sweeping economic and political concessions. The demands alarmed other powers, inflamed Chinese nationalism, and foreshadowed the intense struggles for influence in East Asia during the 20th century.",
-    "fact_year": 1915,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Twenty-One_Demands",
+    "hour": 11,
+    "fact_text": "On this day in 1126, Emperor Huizong of Song abdicated the Chinese throne in favor of his son Qinzong, just as the dynasty faced looming invasion by the Jurchen-led Jin. The elegant artist-emperor’s departure from power marked the beginning of the end for the Northern Song capital at Kaifeng.",
+    "fact_year": 1126,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "song 1"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "genre 1"
       ]
     },
-    "match_reason": "An episode about resisting imposed boxes and reclaiming identity parallels China’s struggle against external demands and the rise of nationalist self-definition."
+    "match_reason": "Huizong was famed for refined art and poetry but presided over political collapse; a wabi-sabi meditation on beauty and imperfection reflects the bittersweet elegance of his abdication."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On this day in 1126, Emperor Huizong of Song abdicated the Chinese throne in favor of his son Qinzong, just as the dynasty faced looming invasion by the Jurchen-led Jin. The elegant artist-emperor’s departure from power marked the beginning of the end for the Northern Song capital at Kaifeng.",
-      "fact_year": 1126,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Huizong was famed for refined art and poetry but presided over political collapse; a wabi-sabi meditation on beauty and imperfection reflects the bittersweet elegance of his abdication."
-    },
     {
       "hour": 12,
       "fact_text": "In 2005, Airbus unveiled the A380 in Toulouse—the largest passenger airliner ever built, with a wingspan wider than a football field. Designed to move hundreds of humans quietly through the stratosphere, it became a flying symbol of global connectivity and the ambitions of modern aerospace engineering.",
@@ -656,9 +634,28 @@
         ]
       },
       "match_reason": "An episode about resisting imposed boxes and reclaiming identity parallels China’s struggle against external demands and the rise of nationalist self-definition."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On this day in 1126, Emperor Huizong of Song abdicated the Chinese throne in favor of his son Qinzong, just as the dynasty faced looming invasion by the Jurchen-led Jin. The elegant artist-emperor’s departure from power marked the beginning of the end for the Northern Song capital at Kaifeng.",
+      "fact_year": 1126,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Huizong was famed for refined art and poetry but presided over political collapse; a wabi-sabi meditation on beauty and imperfection reflects the bittersweet elegance of his abdication."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T10:00:01.807169+00:00"
+  "updated_at": "2026-01-18T11:00:02.146616+00:00"
 }
