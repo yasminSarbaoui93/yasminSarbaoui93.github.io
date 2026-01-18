@@ -1,61 +1,36 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1778, Captain James Cook became the first known European to reach the Hawaiian Islands, naming them the “Sandwich Islands” after a British earl. For Hawaiians, the encounter would eventually reshape their world; for Europe, it added a lush volcanic archipelago to the map of the Pacific.",
-    "fact_year": 1778,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hawaiian_Islands",
+    "hour": 4,
+    "fact_text": "In 2007, Cyclone Kyrill tore across Western Europe, bringing hurricane-force winds to at least 20 countries and causing at least 44 deaths. It became one of the continent’s most powerful and costly winter storms, revealing how even temperate regions can be lashed by almost tropical ferocity.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Kyrill",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "Oceanic exploration and island discovery pair with a water-themed, floating selection that invites listeners to metaphorically dive into new worlds."
+    "match_reason": "The storm’s sweeping path across many countries echoes this episode’s journeying flow across regions and genres, building from a calm beginning into powerful rhythmic gusts."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 2007, Cyclone Kyrill tore across Western Europe, bringing hurricane-force winds to at least 20 countries and causing at least 44 deaths. It became one of the continent’s most powerful and costly winter storms, revealing how even temperate regions can be lashed by almost tropical ferocity.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Kyrill",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The storm’s sweeping path across many countries echoes this episode’s journeying flow across regions and genres, building from a calm beginning into powerful rhythmic gusts."
-    },
     {
       "hour": 5,
       "fact_text": "On January 18, 1981, Phil Smith and Phil Mayfield leapt from a Houston skyscraper and completed a daredevil checklist: they became the first people to BASE jump from all four object categories—Building, Antenna, Span, and Earth. Their descent stitched together architecture, engineering, and raw cliffs into a single, gravity-defying sport.",
@@ -659,9 +634,39 @@
         ]
       },
       "match_reason": "Oceanic exploration and island discovery pair with a water-themed, floating selection that invites listeners to metaphorically dive into new worlds."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 2007, Cyclone Kyrill tore across Western Europe, bringing hurricane-force winds to at least 20 countries and causing at least 44 deaths. It became one of the continent’s most powerful and costly winter storms, revealing how even temperate regions can be lashed by almost tropical ferocity.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Kyrill",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The storm’s sweeping path across many countries echoes this episode’s journeying flow across regions and genres, building from a calm beginning into powerful rhythmic gusts."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T03:00:01.818698+00:00"
+  "updated_at": "2026-01-18T04:00:01.888864+00:00"
 }
