@@ -1,65 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On January 18, 1981, Phil Smith and Phil Mayfield leapt from a Houston skyscraper and completed a daredevil checklist: they became the first people to BASE jump from all four object categories—Building, Antenna, Span, and Earth. Their descent stitched together architecture, engineering, and raw cliffs into a single, gravity-defying sport.",
-    "fact_year": 1981,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BASE_jumping",
+    "hour": 6,
+    "fact_text": "In 1967, Albert DeSalvo, widely believed to be the \"Boston Strangler\", was convicted of multiple crimes and sentenced to life in prison, though he was never tried for the infamous serial murders themselves. His case lives in a murky space between confession, doubt, and forensic limitations before the DNA era.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 31,
+      "title": "Morning Drops #25 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "High-energy, forward-moving tracks suit the adrenaline and motion of hurling yourself off man‑made and natural heights in the name of adventure."
+    "match_reason": "Dark, cinematic trip-hop textures resonate with the unsettling, ambiguous atmosphere of a notorious crime story that still haunts urban folklore."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1967, Albert DeSalvo, widely believed to be the \"Boston Strangler\", was convicted of multiple crimes and sentenced to life in prison, though he was never tried for the infamous serial murders themselves. His case lives in a murky space between confession, doubt, and forensic limitations before the DNA era.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #25 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Dark, cinematic trip-hop textures resonate with the unsettling, ambiguous atmosphere of a notorious crime story that still haunts urban folklore."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1788, the first ships of Britain’s First Fleet reached Botany Bay, carrying 736 convicts to establish a penal colony in Australia. That grim sea voyage laid the foundations for modern Australia while profoundly disrupting the lives and lands of Aboriginal peoples who had been there for tens of thousands of years.",
@@ -668,9 +634,34 @@
         ]
       },
       "match_reason": "High-energy, forward-moving tracks suit the adrenaline and motion of hurling yourself off man‑made and natural heights in the name of adventure."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1967, Albert DeSalvo, widely believed to be the \"Boston Strangler\", was convicted of multiple crimes and sentenced to life in prison, though he was never tried for the infamous serial murders themselves. His case lives in a murky space between confession, doubt, and forensic limitations before the DNA era.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #25 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Dark, cinematic trip-hop textures resonate with the unsettling, ambiguous atmosphere of a notorious crime story that still haunts urban folklore."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T05:00:01.549585+00:00"
+  "updated_at": "2026-01-18T06:00:01.953649+00:00"
 }
