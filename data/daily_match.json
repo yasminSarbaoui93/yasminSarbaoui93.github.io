@@ -1,57 +1,32 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On January 18, 1896, physicist H. L. Smith publicly demonstrated one of the earliest X‑ray machines, turning invisible rays into visible images. Spectators saw through flesh to bone for the first time, a moment when science made the human body partially transparent and medicine stepped into a new era.",
-    "fact_year": 1896,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
+    "hour": 2,
+    "fact_text": "In 1977, scientists at the U.S. Centers for Disease Control and Prevention finally pinned down the mysterious cause of Legionnaires’ disease: a previously unknown bacterium later named Legionella pneumophila. The breakthrough came after a baffling outbreak at an American Legion convention and marked a milestone in epidemiology and environmental health.",
+    "fact_year": 1977,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Legionnaires%27_disease",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Alternative Rock",
+        "Experimental Electronic",
+        "Hip Hop",
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "An episode themed around electricity and jolt-like guitar energy mirrors the shock and awe of early X‑ray demonstrations and the new electromagnetic frontier they opened."
+    "match_reason": "A story about solving a scientific mystery fits an episode centered on learning, persistence, and the slow joy of finally understanding something difficult."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1977, scientists at the U.S. Centers for Disease Control and Prevention finally pinned down the mysterious cause of Legionnaires’ disease: a previously unknown bacterium later named Legionella pneumophila. The breakthrough came after a baffling outbreak at an American Legion convention and marked a milestone in epidemiology and environmental health.",
-      "fact_year": 1977,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Legionnaires%27_disease",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "A story about solving a scientific mystery fits an episode centered on learning, persistence, and the slow joy of finally understanding something difficult."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1778, Captain James Cook became the first known European to reach the Hawaiian Islands, naming them the “Sandwich Islands” after a British earl. For Hawaiians, the encounter would eventually reshape their world; for Europe, it added a lush volcanic archipelago to the map of the Pacific.",
@@ -659,9 +634,35 @@
         ]
       },
       "match_reason": "An episode themed around electricity and jolt-like guitar energy mirrors the shock and awe of early X‑ray demonstrations and the new electromagnetic frontier they opened."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1977, scientists at the U.S. Centers for Disease Control and Prevention finally pinned down the mysterious cause of Legionnaires’ disease: a previously unknown bacterium later named Legionella pneumophila. The breakthrough came after a baffling outbreak at an American Legion convention and marked a milestone in epidemiology and environmental health.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Legionnaires%27_disease",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "A story about solving a scientific mystery fits an episode centered on learning, persistence, and the slow joy of finally understanding something difficult."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T01:00:01.896632+00:00"
+  "updated_at": "2026-01-18T02:00:01.465811+00:00"
 }
