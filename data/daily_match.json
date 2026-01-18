@@ -1,64 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On January 18, 1981, Phil Smith and Phil Mayfield jumped from a Houston skyscraper, completing all four categories of BASE jumping: Building, Antenna, Span, and Earth. The feat turned a fringe practice into a fully defined extreme sport, codified by the very acronym B.A.S.E.",
-    "fact_year": 1981,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BASE_jumping",
+    "hour": 6,
+    "fact_text": "In 1967, Albert DeSalvo, the self-confessed “Boston Strangler,” was convicted of numerous crimes and sentenced to life in prison, though not directly for the famous murders. His case remains a haunting intersection of confession, doubt, and forensic science, with DNA evidence revisiting his alleged role decades later.",
+    "fact_year": 1967,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 31,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
         "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "High-energy, forward-motion music fits the adrenaline, movement, and fresh-start spirit of pioneering BASE jumps."
+    "match_reason": "Haunting, echoing dub offers a contemplative counterpoint to a dark true-crime story, giving mental space to reflect on justice and uncertainty."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1967, Albert DeSalvo, the self-confessed “Boston Strangler,” was convicted of numerous crimes and sentenced to life in prison, though not directly for the famous murders. His case remains a haunting intersection of confession, doubt, and forensic science, with DNA evidence revisiting his alleged role decades later.",
-      "fact_year": 1967,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "Haunting, echoing dub offers a contemplative counterpoint to a dark true-crime story, giving mental space to reflect on justice and uncertainty."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1788, the first elements of Britain’s First Fleet arrived at Botany Bay with 736 convicts, laying the foundations of a penal colony in Australia. The voyage rewrote countless lives, from transported prisoners to Indigenous communities whose lands were suddenly declared someone else’s empire.",
@@ -665,9 +631,33 @@
         ]
       },
       "match_reason": "High-energy, forward-motion music fits the adrenaline, movement, and fresh-start spirit of pioneering BASE jumps."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1967, Albert DeSalvo, the self-confessed “Boston Strangler,” was convicted of numerous crimes and sentenced to life in prison, though not directly for the famous murders. His case remains a haunting intersection of confession, doubt, and forensic science, with DNA evidence revisiting his alleged role decades later.",
+      "fact_year": 1967,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "Haunting, echoing dub offers a contemplative counterpoint to a dark true-crime story, giving mental space to reflect on justice and uncertainty."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T05:00:01.850004+00:00"
+  "updated_at": "2026-01-18T06:00:01.687707+00:00"
 }
