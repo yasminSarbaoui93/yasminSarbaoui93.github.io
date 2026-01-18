@@ -1,67 +1,32 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "The Hawaiian Islands discovered by Cook in 1778 are not just scenic—they sit over a volcanic hotspot that slowly builds islands as the Pacific Plate glides northwest. Each island is a different chapter of Earth’s geological timeline, with the youngest, volcanically active Hawaiʻi still writing new land into the ocean.",
-    "fact_year": 1778,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hawaii_(island)",
+    "hour": 21,
+    "fact_text": "The CDC that cracked Legionnaires’ disease in 1977 grew out of a small 1940s wartime unit known as the Malaria Control in War Areas program. What started as a campaign to protect soldiers from mosquitoes slowly evolved into one of the world’s leading public health agencies.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Alternative Rock",
+        "Experimental Electronic",
+        "Hip Hop",
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "A volcanically built island chain in the Pacific ties to an ocean-and-whale themed episode, uniting underwater worlds from Hawaii to Arctic Norway."
+    "match_reason": "The long institutional learning curve from wartime malaria control to modern public health mirrors the episode’s focus on evolving through persistent study."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The CDC that cracked Legionnaires’ disease in 1977 grew out of a small 1940s wartime unit known as the Malaria Control in War Areas program. What started as a campaign to protect soldiers from mosquitoes slowly evolved into one of the world’s leading public health agencies.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "The long institutional learning curve from wartime malaria control to modern public health mirrors the episode’s focus on evolving through persistent study."
-    },
     {
       "hour": 22,
       "fact_text": "Panama, captured by Henry Morgan in 1670/1671, later became the site of the Panama Canal—a 20th-century engineering feat that sliced through the continent. The canal dramatically shortened global sea routes, turning the narrow isthmus Morgan once crossed by land into one of the planet’s busiest maritime chokepoints.",
@@ -679,9 +644,35 @@
         ]
       },
       "match_reason": "A volcanically built island chain in the Pacific ties to an ocean-and-whale themed episode, uniting underwater worlds from Hawaii to Arctic Norway."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The CDC that cracked Legionnaires’ disease in 1977 grew out of a small 1940s wartime unit known as the Malaria Control in War Areas program. What started as a campaign to protect soldiers from mosquitoes slowly evolved into one of the world’s leading public health agencies.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "The long institutional learning curve from wartime malaria control to modern public health mirrors the episode’s focus on evolving through persistent study."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T20:00:01.731600+00:00"
+  "updated_at": "2026-01-18T21:00:02.048777+00:00"
 }
