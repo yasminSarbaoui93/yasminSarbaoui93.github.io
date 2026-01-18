@@ -1,57 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1969, United Airlines Flight 266 plunged into Santa Monica Bay shortly after takeoff from Los Angeles, killing all 38 people on board. The crash, caused by electrical system failures and instrument problems, prompted further scrutiny of cockpit redundancy and safety in the jet age.",
-    "fact_year": 1969,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Air_Lines_Flight_266",
+    "hour": 9,
+    "fact_text": "On January 18, 1941, British and Commonwealth forces launched a broad counter-offensive against Italian East Africa during World War II. The campaign unfolded across deserts and highlands, involving Ethiopian resistance and reshaping control of the Horn of Africa.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_II)",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Indie Pop",
-        "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "An introspective, cinematic set about vulnerability and recovery complements the somber lessons learned from an aviation disaster and the slow improvement of safety that followed."
+    "match_reason": "A historical African battleground is paired with an episode celebrating African musical resistance and freedom, placing military campaigns alongside cultural liberation."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On January 18, 1941, British and Commonwealth forces launched a broad counter-offensive against Italian East Africa during World War II. The campaign unfolded across deserts and highlands, involving Ethiopian resistance and reshaping control of the Horn of Africa.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_II)",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A historical African battleground is paired with an episode celebrating African musical resistance and freedom, placing military campaigns alongside cultural liberation."
-    },
     {
       "hour": 10,
       "fact_text": "In 1915, Japan presented China with the \"Twenty-One Demands\", an ultimatum that sought sweeping economic and political concessions. The demands alarmed other powers, inflamed Chinese nationalism, and foreshadowed the intense struggles for influence in East Asia during the 20th century.",
@@ -661,9 +634,33 @@
         ]
       },
       "match_reason": "An introspective, cinematic set about vulnerability and recovery complements the somber lessons learned from an aviation disaster and the slow improvement of safety that followed."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On January 18, 1941, British and Commonwealth forces launched a broad counter-offensive against Italian East Africa during World War II. The campaign unfolded across deserts and highlands, involving Ethiopian resistance and reshaping control of the Horn of Africa.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/East_African_campaign_(World_War_II)",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A historical African battleground is paired with an episode celebrating African musical resistance and freedom, placing military campaigns alongside cultural liberation."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T08:00:01.634981+00:00"
+  "updated_at": "2026-01-18T09:00:01.800237+00:00"
 }
