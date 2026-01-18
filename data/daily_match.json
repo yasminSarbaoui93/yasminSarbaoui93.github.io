@@ -1,56 +1,31 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 1990, Washington, D.C. mayor Marion Barry was arrested in an FBI sting operation for drug possession, a dramatic fall captured on hidden cameras. His later political comeback turned his story into a complicated parable of power, scandal, and forgiveness in American urban politics.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marion_Barry",
+    "hour": 15,
+    "fact_text": "Also in 1977, Džemal Bijedić, the prime minister of socialist Yugoslavia, died alongside his wife and others in a plane crash over Bosnia and Herzegovina. His sudden death cut short a key political career in a multiethnic federation that itself would fracture dramatically just years later.",
+    "fact_year": 1977,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/D%C5%BEemal_Bijedi%C4%87",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Psychedelic Rock",
+        "Polish Rock",
         "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "A sting built on surveillance and media spectacle pairs with an episode unpacking our uneasy relationship with technology, visibility, and the systems watching us."
+    "match_reason": "A story from the former Eastern Bloc and a leader lost in flight aligns with a Slavic-travel episode that moves across borders, histories, and changing European identities."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "Also in 1977, Džemal Bijedić, the prime minister of socialist Yugoslavia, died alongside his wife and others in a plane crash over Bosnia and Herzegovina. His sudden death cut short a key political career in a multiethnic federation that itself would fracture dramatically just years later.",
-      "fact_year": 1977,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/D%C5%BEemal_Bijedi%C4%87",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "A story from the former Eastern Bloc and a leader lost in flight aligns with a Slavic-travel episode that moves across borders, histories, and changing European identities."
-    },
     {
       "hour": 16,
       "fact_text": "On January 18, 1919, famed pianist and composer Ignacy Jan Paderewski became prime minister of newly independent Poland. He was that rare figure who could move audiences with both virtuosic piano recitals and passionate speeches about his country’s rebirth.",
@@ -659,9 +634,34 @@
         ]
       },
       "match_reason": "A sting built on surveillance and media spectacle pairs with an episode unpacking our uneasy relationship with technology, visibility, and the systems watching us."
+    },
+    {
+      "hour": 15,
+      "fact_text": "Also in 1977, Džemal Bijedić, the prime minister of socialist Yugoslavia, died alongside his wife and others in a plane crash over Bosnia and Herzegovina. His sudden death cut short a key political career in a multiethnic federation that itself would fracture dramatically just years later.",
+      "fact_year": 1977,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/D%C5%BEemal_Bijedi%C4%87",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "A story from the former Eastern Bloc and a leader lost in flight aligns with a Slavic-travel episode that moves across borders, histories, and changing European identities."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T14:00:01.776254+00:00"
+  "updated_at": "2026-01-18T15:00:01.621924+00:00"
 }
