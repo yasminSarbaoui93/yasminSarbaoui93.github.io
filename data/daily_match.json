@@ -1,55 +1,30 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In 1967, Albert DeSalvo, widely believed to be the \"Boston Strangler\", was convicted of multiple crimes and sentenced to life in prison, though he was never tried for the infamous serial murders themselves. His case lives in a murky space between confession, doubt, and forensic limitations before the DNA era.",
-    "fact_year": 1967,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Strangler",
+    "hour": 7,
+    "fact_text": "On this day in 1788, the first ships of Britain’s First Fleet reached Botany Bay, carrying 736 convicts to establish a penal colony in Australia. That grim sea voyage laid the foundations for modern Australia while profoundly disrupting the lives and lands of Aboriginal peoples who had been there for tens of thousands of years.",
+    "fact_year": 1788,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Fleet",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #25 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "Dark, cinematic trip-hop textures resonate with the unsettling, ambiguous atmosphere of a notorious crime story that still haunts urban folklore."
+    "match_reason": "Dub and roots reggae, often steeped in themes of exile, displacement, and ‘Babylon’, offer a poignant sonic lens on forced transport, colonization, and survival at the edges of empire."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On this day in 1788, the first ships of Britain’s First Fleet reached Botany Bay, carrying 736 convicts to establish a penal colony in Australia. That grim sea voyage laid the foundations for modern Australia while profoundly disrupting the lives and lands of Aboriginal peoples who had been there for tens of thousands of years.",
-      "fact_year": 1788,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Fleet",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "Dub and roots reggae, often steeped in themes of exile, displacement, and ‘Babylon’, offer a poignant sonic lens on forced transport, colonization, and survival at the edges of empire."
-    },
     {
       "hour": 8,
       "fact_text": "In 1969, United Airlines Flight 266 plunged into Santa Monica Bay shortly after takeoff from Los Angeles, killing all 38 people on board. The crash, caused by electrical system failures and instrument problems, prompted further scrutiny of cockpit redundancy and safety in the jet age.",
@@ -659,9 +634,33 @@
         ]
       },
       "match_reason": "Dark, cinematic trip-hop textures resonate with the unsettling, ambiguous atmosphere of a notorious crime story that still haunts urban folklore."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On this day in 1788, the first ships of Britain’s First Fleet reached Botany Bay, carrying 736 convicts to establish a penal colony in Australia. That grim sea voyage laid the foundations for modern Australia while profoundly disrupting the lives and lands of Aboriginal peoples who had been there for tens of thousands of years.",
+      "fact_year": 1788,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Fleet",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "Dub and roots reggae, often steeped in themes of exile, displacement, and ‘Babylon’, offer a poignant sonic lens on forced transport, colonization, and survival at the edges of empire."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T06:00:01.953649+00:00"
+  "updated_at": "2026-01-18T07:00:01.796911+00:00"
 }
