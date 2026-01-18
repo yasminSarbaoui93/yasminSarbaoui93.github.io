@@ -1,65 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 2005, Airbus unveiled the A380 in Toulouse, France—the world’s largest commercial airliner, capable of carrying more than 800 passengers in an all-economy configuration. The double-deck giant became both an engineering marvel and a symbol of how global air travel was stretching the limits of scale.",
-    "fact_year": 2005,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Airbus_A380",
+    "hour": 13,
+    "fact_text": "On January 18, 2003, intense bushfires near Canberra, Australia, killed four people and destroyed more than 500 homes as flames entered the suburbs. The event reshaped Australia’s conversations about climate extremes, urban planning, and living at the edge of flammable landscapes.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Canberra_bushfires",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
         "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
         "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "An aircraft built for long-haul journeys pairs with a sonically global ‘destination’ episode that feels like boarding a flight through sound."
+    "match_reason": "A story of fire, heat, and physical endurance in Australia connects with an episode grounded in sweat, training, and elemental environments in Thailand."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On January 18, 2003, intense bushfires near Canberra, Australia, killed four people and destroyed more than 500 homes as flames entered the suburbs. The event reshaped Australia’s conversations about climate extremes, urban planning, and living at the edge of flammable landscapes.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Canberra_bushfires",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A story of fire, heat, and physical endurance in Australia connects with an episode grounded in sweat, training, and elemental environments in Thailand."
-    },
     {
       "hour": 14,
       "fact_text": "In 1990, Washington, D.C. mayor Marion Barry was arrested in an FBI sting operation and later convicted of drug charges after being secretly filmed smoking crack cocaine. The scandal became a powerful symbol of both political downfall and the complicated relationship between law enforcement, race, and power in U.S. cities.",
@@ -665,9 +631,34 @@
         ]
       },
       "match_reason": "An aircraft built for long-haul journeys pairs with a sonically global ‘destination’ episode that feels like boarding a flight through sound."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On January 18, 2003, intense bushfires near Canberra, Australia, killed four people and destroyed more than 500 homes as flames entered the suburbs. The event reshaped Australia’s conversations about climate extremes, urban planning, and living at the edge of flammable landscapes.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Canberra_bushfires",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A story of fire, heat, and physical endurance in Australia connects with an episode grounded in sweat, training, and elemental environments in Thailand."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T12:00:01.723133+00:00"
+  "updated_at": "2026-01-18T13:00:01.825232+00:00"
 }
