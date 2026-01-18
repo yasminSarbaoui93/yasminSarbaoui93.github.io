@@ -1,56 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1586, the massive Tenshō earthquake struck Honshu, Japan, with an estimated magnitude of 7.9, triggering a tsunami and killing around 8,000 people. Long before modern seismology, Japanese records meticulously described the shaking and sea retreat, giving today’s scientists rare insight into historic megathrust quakes.",
-    "fact_year": 1586,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1586_Tensh%C5%8D_earthquake",
+    "hour": 1,
+    "fact_text": "On January 18, 1896, H. L. Smith publicly demonstrated one of the earliest X-ray machines, just weeks after Röntgen’s discovery became known. Spectators could suddenly see bones and hidden objects without a single incision, a moment that felt like science turning human bodies temporarily transparent.",
+    "fact_year": 1896,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A calm, reflective downtempo set to counterbalance the violence of earthquakes and tsunamis, echoing the planet’s slow, tectonic rhythms."
+    "match_reason": "An episode themed around electricity and shock pairs perfectly with the eerie, electrifying reveal of the first X-ray machine."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On January 18, 1896, H. L. Smith publicly demonstrated one of the earliest X-ray machines, just weeks after Röntgen’s discovery became known. Spectators could suddenly see bones and hidden objects without a single incision, a moment that felt like science turning human bodies temporarily transparent.",
-      "fact_year": 1896,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "An episode themed around electricity and shock pairs perfectly with the eerie, electrifying reveal of the first X-ray machine."
-    },
     {
       "hour": 2,
       "fact_text": "In 1977, scientists at the CDC finally identified a previously unknown bacterium, Legionella pneumophila, as the cause of the mysterious Legionnaires’ disease outbreak. The discovery turned a baffling hotel epidemic into a textbook case of detective work in microbiology and environmental health.",
@@ -656,9 +631,34 @@
         ]
       },
       "match_reason": "A calm, reflective downtempo set to counterbalance the violence of earthquakes and tsunamis, echoing the planet’s slow, tectonic rhythms."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On January 18, 1896, H. L. Smith publicly demonstrated one of the earliest X-ray machines, just weeks after Röntgen’s discovery became known. Spectators could suddenly see bones and hidden objects without a single incision, a moment that felt like science turning human bodies temporarily transparent.",
+      "fact_year": 1896,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/X-ray_machine",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "An episode themed around electricity and shock pairs perfectly with the eerie, electrifying reveal of the first X-ray machine."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T00:00:49.499396+00:00"
+  "updated_at": "2026-01-18T01:00:01.863192+00:00"
 }
