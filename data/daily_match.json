@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On January 18, 2003, intense bushfires roared into Canberra, Australia’s capital, killing four people and destroying more than 500 homes. In just a few hours, suburban streets turned into glowing firebreaks, highlighting how quickly climate, wind, and landscape can combine into an urban inferno.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2003_Canberra_bushfires",
+    "hour": 14,
+    "fact_text": "In 1990, Washington, D.C. mayor Marion Barry was arrested in an FBI sting operation for drug possession, a dramatic fall captured on hidden cameras. His later political comeback turned his story into a complicated parable of power, scandal, and forgiveness in American urban politics.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marion_Barry",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "An episode rooted in heat, physical intensity, and training discipline provides a human-scale mirror to the raw, fiery power of bushfires and the resilience needed in their aftermath."
+    "match_reason": "A sting built on surveillance and media spectacle pairs with an episode unpacking our uneasy relationship with technology, visibility, and the systems watching us."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 1990, Washington, D.C. mayor Marion Barry was arrested in an FBI sting operation for drug possession, a dramatic fall captured on hidden cameras. His later political comeback turned his story into a complicated parable of power, scandal, and forgiveness in American urban politics.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marion_Barry",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A sting built on surveillance and media spectacle pairs with an episode unpacking our uneasy relationship with technology, visibility, and the systems watching us."
-    },
     {
       "hour": 15,
       "fact_text": "Also in 1977, Džemal Bijedić, the prime minister of socialist Yugoslavia, died alongside his wife and others in a plane crash over Bosnia and Herzegovina. His sudden death cut short a key political career in a multiethnic federation that itself would fracture dramatically just years later.",
@@ -659,9 +634,34 @@
         ]
       },
       "match_reason": "An episode rooted in heat, physical intensity, and training discipline provides a human-scale mirror to the raw, fiery power of bushfires and the resilience needed in their aftermath."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 1990, Washington, D.C. mayor Marion Barry was arrested in an FBI sting operation for drug possession, a dramatic fall captured on hidden cameras. His later political comeback turned his story into a complicated parable of power, scandal, and forgiveness in American urban politics.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Marion_Barry",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A sting built on surveillance and media spectacle pairs with an episode unpacking our uneasy relationship with technology, visibility, and the systems watching us."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.011622+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T13:00:01.629575+00:00"
+  "updated_at": "2026-01-18T14:00:01.776254+00:00"
 }
