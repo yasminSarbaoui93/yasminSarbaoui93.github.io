@@ -1,59 +1,34 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "In 1871, in the Hall of Mirrors at the Palace of Versailles, King Wilhelm I of Prussia was proclaimed German Emperor, formalizing the unification of Germany under Prussian leadership. The ceremony, set in a French palace during the Franco-Prussian War, was both political reality and deliberate theatrical symbolism.",
-    "fact_year": 1871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire",
+    "hour": 19,
+    "fact_text": "On this day in 1670 (or 1671, by some accounts), the Welsh privateer Henry Morgan led a daring overland expedition and captured the rich Spanish city of Panama. Marching through jungle instead of sailing straight in, his attack became legendary in the history of piracy in the Americas.",
+    "fact_year": 1670,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_Panama_expedition",
     "episode": {
-      "id": 18,
-      "title": "Morning Drops #12 - 80's Club",
-      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Donna Summer - I Feel Love",
-        "Depeche Mode - Just Can't Get Enough",
-        "Ken Laszlo - Hey Hey Guy",
-        "Mylène Farmer - Sans Contrefaçon"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Disco",
-        "Synthpop",
-        "Italo Disco",
-        "French Pop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A defining moment in German history is paired with a Munich-flavored, theatrical 80s set—modern German cultural echo to imperial unification."
+    "match_reason": "A notorious pirate expedition across sea and jungle links nicely to a sailing-themed episode about life on the water and shared voyages."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On this day in 1670 (or 1671, by some accounts), the Welsh privateer Henry Morgan led a daring overland expedition and captured the rich Spanish city of Panama. Marching through jungle instead of sailing straight in, his attack became legendary in the history of piracy in the Americas.",
-      "fact_year": 1670,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_Panama_expedition",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A notorious pirate expedition across sea and jungle links nicely to a sailing-themed episode about life on the water and shared voyages."
-    },
     {
       "hour": 20,
       "fact_text": "The Hawaiian Islands discovered by Cook in 1778 are not just scenic—they sit over a volcanic hotspot that slowly builds islands as the Pacific Plate glides northwest. Each island is a different chapter of Earth’s geological timeline, with the youngest, volcanically active Hawaiʻi still writing new land into the ocean.",
@@ -669,9 +644,37 @@
         ]
       },
       "match_reason": "A defining moment in German history is paired with a Munich-flavored, theatrical 80s set—modern German cultural echo to imperial unification."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On this day in 1670 (or 1671, by some accounts), the Welsh privateer Henry Morgan led a daring overland expedition and captured the rich Spanish city of Panama. Marching through jungle instead of sailing straight in, his attack became legendary in the history of piracy in the Americas.",
+      "fact_year": 1670,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_Panama_expedition",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A notorious pirate expedition across sea and jungle links nicely to a sailing-themed episode about life on the water and shared voyages."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T18:00:01.518261+00:00"
+  "updated_at": "2026-01-18T19:00:01.620469+00:00"
 }
