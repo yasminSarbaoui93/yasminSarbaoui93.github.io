@@ -1,69 +1,41 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On this day in 1670 (or 1671, by some accounts), the Welsh privateer Henry Morgan led a daring overland expedition and captured the rich Spanish city of Panama. Marching through jungle instead of sailing straight in, his attack became legendary in the history of piracy in the Americas.",
-    "fact_year": 1670,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_Panama_expedition",
+    "hour": 20,
+    "fact_text": "The Hawaiian Islands discovered by Cook in 1778 are not just scenic—they sit over a volcanic hotspot that slowly builds islands as the Pacific Plate glides northwest. Each island is a different chapter of Earth’s geological timeline, with the youngest, volcanically active Hawaiʻi still writing new land into the ocean.",
+    "fact_year": 1778,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hawaii_(island)",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "A notorious pirate expedition across sea and jungle links nicely to a sailing-themed episode about life on the water and shared voyages."
+    "match_reason": "A volcanically built island chain in the Pacific ties to an ocean-and-whale themed episode, uniting underwater worlds from Hawaii to Arctic Norway."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "The Hawaiian Islands discovered by Cook in 1778 are not just scenic—they sit over a volcanic hotspot that slowly builds islands as the Pacific Plate glides northwest. Each island is a different chapter of Earth’s geological timeline, with the youngest, volcanically active Hawaiʻi still writing new land into the ocean.",
-      "fact_year": 1778,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hawaii_(island)",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "A volcanically built island chain in the Pacific ties to an ocean-and-whale themed episode, uniting underwater worlds from Hawaii to Arctic Norway."
-    },
     {
       "hour": 21,
       "fact_text": "The CDC that cracked Legionnaires’ disease in 1977 grew out of a small 1940s wartime unit known as the Malaria Control in War Areas program. What started as a campaign to protect soldiers from mosquitoes slowly evolved into one of the world’s leading public health agencies.",
@@ -672,9 +644,44 @@
         ]
       },
       "match_reason": "A notorious pirate expedition across sea and jungle links nicely to a sailing-themed episode about life on the water and shared voyages."
+    },
+    {
+      "hour": 20,
+      "fact_text": "The Hawaiian Islands discovered by Cook in 1778 are not just scenic—they sit over a volcanic hotspot that slowly builds islands as the Pacific Plate glides northwest. Each island is a different chapter of Earth’s geological timeline, with the youngest, volcanically active Hawaiʻi still writing new land into the ocean.",
+      "fact_year": 1778,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hawaii_(island)",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "A volcanically built island chain in the Pacific ties to an ocean-and-whale themed episode, uniting underwater worlds from Hawaii to Arctic Norway."
     }
   ],
   "generated_at": "2026-01-18T00:00:00.007687+00:00",
   "date": "2026-01-18",
-  "updated_at": "2026-01-18T19:00:01.691043+00:00"
+  "updated_at": "2026-01-18T20:00:01.731600+00:00"
 }
