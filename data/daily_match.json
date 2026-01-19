@@ -1,50 +1,25 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "On this day in World War II, 1941, the British destroyer HMS Greyhound and other escorts of convoy AS‑12 sank the Italian submarine Neghelli near the Greek island of Falkonera. The engagement highlighted the deadly cat‑and‑mouse struggle beneath the waves in the Mediterranean.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Italian_submarine_Neghelli",
+    "hour": 20,
+    "fact_text": "On January 19, 2024, Japan’s lunar lander SLIM attempted an ultra‑precise touchdown that, despite power issues after landing, still demonstrated formidable navigation and hazard‑avoidance capabilities. Its accuracy—aiming within a tiny patch of lunar terrain—pushes forward the idea of \"pinpoint\" landings for future missions.",
+    "fact_year": 2024,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Smart_Lander_for_Investigating_Moon",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "song 1"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "genre 1"
       ]
     },
-    "match_reason": "A wartime drama in the underwater world pairs with an episode built on the metaphor of diving and immersion beneath the surface."
+    "match_reason": "A technically brilliant moon landing that ended with power problems mirrors the wabi‑sabi idea of beauty in ambitious attempts that don’t go perfectly."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "On January 19, 2024, Japan’s lunar lander SLIM attempted an ultra‑precise touchdown that, despite power issues after landing, still demonstrated formidable navigation and hazard‑avoidance capabilities. Its accuracy—aiming within a tiny patch of lunar terrain—pushes forward the idea of \"pinpoint\" landings for future missions.",
-      "fact_year": 2024,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Smart_Lander_for_Investigating_Moon",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "A technically brilliant moon landing that ended with power problems mirrors the wabi‑sabi idea of beauty in ambitious attempts that don’t go perfectly."
-    },
     {
       "hour": 21,
       "fact_text": "On January 19, 1915, Georges Claude’s neon patent didn’t just create glowing signs; it also opened a new relationship between cities and night, turning darkness into a canvas for art and advertising. Neon’s soft hum and color became part of the modern urban soundscape and skyline.",
@@ -653,9 +628,28 @@
         ]
       },
       "match_reason": "A wartime drama in the underwater world pairs with an episode built on the metaphor of diving and immersion beneath the surface."
+    },
+    {
+      "hour": 20,
+      "fact_text": "On January 19, 2024, Japan’s lunar lander SLIM attempted an ultra‑precise touchdown that, despite power issues after landing, still demonstrated formidable navigation and hazard‑avoidance capabilities. Its accuracy—aiming within a tiny patch of lunar terrain—pushes forward the idea of \"pinpoint\" landings for future missions.",
+      "fact_year": 2024,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Smart_Lander_for_Investigating_Moon",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "A technically brilliant moon landing that ended with power problems mirrors the wabi‑sabi idea of beauty in ambitious attempts that don’t go perfectly."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T19:00:01.825551+00:00"
+  "updated_at": "2026-01-19T20:00:01.878990+00:00"
 }
