@@ -1,53 +1,31 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On this day in 1861, Georgia seceded from the United States, joining several Southern states in breaking away and setting the stage for the American Civil War. The decision reflected deep tensions over slavery, states' rights, and the future shape of the young republic.",
-    "fact_year": 1861,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_Civil_War",
+    "hour": 8,
+    "fact_text": "On January 19, 1993, both the Czech Republic and Slovakia were admitted to the United Nations, just weeks after peacefully dissolving Czechoslovakia. Their “Velvet Divorce” became a rare example of a state splitting into two nations without war.",
+    "fact_year": 1993,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 17,
+      "title": "Morning Drops #11 - Mediterranean Boat",
+      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "Arleta - Bar To Navagio",
+        "Baba Zula - Tavla",
+        "Mylène Farmer - Désenchantée",
+        "Fabrizio De André - Crêuza de mä"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Greek Folk",
+        "Turkish Psychedelic",
+        "French Pop",
+        "Italian Singer-Songwriter"
       ]
     },
-    "match_reason": "The secession crisis and its legacy of race and identity echo in a conscious‑rap episode focused on challenging labels and oppressive narratives."
+    "match_reason": "New countries joining a global community fits with an episode that sails between cultures and borders, celebrating coexistence of different homelands."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On January 19, 1993, both the Czech Republic and Slovakia were admitted to the United Nations, just weeks after peacefully dissolving Czechoslovakia. Their “Velvet Divorce” became a rare example of a state splitting into two nations without war.",
-      "fact_year": 1993,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
-      "episode": {
-        "id": 17,
-        "title": "Morning Drops #11 - Mediterranean Boat",
-        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
-        "songs": [
-          "Arleta - Bar To Navagio",
-          "Baba Zula - Tavla",
-          "Mylène Farmer - Désenchantée",
-          "Fabrizio De André - Crêuza de mä"
-        ],
-        "music-genres": [
-          "Greek Folk",
-          "Turkish Psychedelic",
-          "French Pop",
-          "Italian Singer-Songwriter"
-        ]
-      },
-      "match_reason": "New countries joining a global community fits with an episode that sails between cultures and borders, celebrating coexistence of different homelands."
-    },
     {
       "hour": 9,
       "fact_text": "In 1788, the second group of ships of the First Fleet arrived at Botany Bay, carrying convicts, marines, and supplies to establish a British penal colony in Australia. The fleet’s arrival marked the beginning of large‑scale European settlement and a profound, often devastating, transformation for Indigenous Australians.",
@@ -650,9 +628,34 @@
         ]
       },
       "match_reason": "The secession crisis and its legacy of race and identity echo in a conscious‑rap episode focused on challenging labels and oppressive narratives."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On January 19, 1993, both the Czech Republic and Slovakia were admitted to the United Nations, just weeks after peacefully dissolving Czechoslovakia. Their “Velvet Divorce” became a rare example of a state splitting into two nations without war.",
+      "fact_year": 1993,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
+      "episode": {
+        "id": 17,
+        "title": "Morning Drops #11 - Mediterranean Boat",
+        "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+        "songs": [
+          "Arleta - Bar To Navagio",
+          "Baba Zula - Tavla",
+          "Mylène Farmer - Désenchantée",
+          "Fabrizio De André - Crêuza de mä"
+        ],
+        "music-genres": [
+          "Greek Folk",
+          "Turkish Psychedelic",
+          "French Pop",
+          "Italian Singer-Songwriter"
+        ]
+      },
+      "match_reason": "New countries joining a global community fits with an episode that sails between cultures and borders, celebrating coexistence of different homelands."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T07:00:01.677753+00:00"
+  "updated_at": "2026-01-19T08:00:01.823896+00:00"
 }
