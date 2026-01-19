@@ -1,64 +1,39 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On January 19, 1915, French engineer Georges Claude patented the neon discharge tube for advertising, turning electrified gas into glowing signage. Neon lights quickly transformed city nights into luminous galleries of color and typography.",
+    "hour": 15,
+    "fact_text": "Also in 1915, German zeppelins carried out the first major aerial bombardment of civilian targets in Britain, striking Great Yarmouth and King’s Lynn. The raid killed at least 20 people and signaled a new, unsettling era where war could arrive silently from the sky.",
     "fact_year": 1915,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Claude",
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_bombing_of_Britain,_1914%E2%80%931918",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The birth of neon lighting pairs with an episode about electrifying sounds, both celebrating the aesthetic thrill of harnessed electricity."
+    "match_reason": "The historic shock of aerial 'bombs' over cities is reframed through Sedna’s inaugural “November Bomb,” detonating with culture instead of explosives."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "Also in 1915, German zeppelins carried out the first major aerial bombardment of civilian targets in Britain, striking Great Yarmouth and King’s Lynn. The raid killed at least 20 people and signaled a new, unsettling era where war could arrive silently from the sky.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_bombing_of_Britain,_1914%E2%80%931918",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The historic shock of aerial 'bombs' over cities is reframed through Sedna’s inaugural “November Bomb,” detonating with culture instead of explosives."
-    },
     {
       "hour": 16,
       "fact_text": "On January 19, 1883, the first electric lighting system using overhead wires, developed by Thomas Edison, began service in Roselle, New Jersey. The small town became a testbed for a future where streets and homes could glow at the flick of a switch.",
@@ -653,9 +628,42 @@
         ]
       },
       "match_reason": "The birth of neon lighting pairs with an episode about electrifying sounds, both celebrating the aesthetic thrill of harnessed electricity."
+    },
+    {
+      "hour": 15,
+      "fact_text": "Also in 1915, German zeppelins carried out the first major aerial bombardment of civilian targets in Britain, striking Great Yarmouth and King’s Lynn. The raid killed at least 20 people and signaled a new, unsettling era where war could arrive silently from the sky.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/German_bombing_of_Britain,_1914%E2%80%931918",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The historic shock of aerial 'bombs' over cities is reframed through Sedna’s inaugural “November Bomb,” detonating with culture instead of explosives."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T14:00:01.913453+00:00"
+  "updated_at": "2026-01-19T15:00:01.813516+00:00"
 }
