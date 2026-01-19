@@ -1,56 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1817, General José de San Martín led an army of about 5,400 soldiers across the Andes from Argentina, in one of history's most daring mountain crossings. This audacious maneuver paved the way for the liberation of Chile and later Peru from Spanish rule.",
-    "fact_year": 1817,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Crossing_of_the_Andes",
+    "hour": 4,
+    "fact_text": "On January 19, 1999, British Aerospace agreed to acquire the defence arm of the General Electric Company, creating BAE Systems later that year. The merger forged one of the world's largest defence, security, and aerospace companies, reshaping the European arms industry.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BAE_Systems",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "A perilous military crossing of the Andes resonates with an episode built around mountain landscapes and the stories they inspire."
+    "match_reason": "A story of heavy industry and high‑tech defense fits the metallic, industrial undertones and urban grit of the \"Steel City\" episode."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On January 19, 1999, British Aerospace agreed to acquire the defence arm of the General Electric Company, creating BAE Systems later that year. The merger forged one of the world's largest defence, security, and aerospace companies, reshaping the European arms industry.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BAE_Systems",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "A story of heavy industry and high‑tech defense fits the metallic, industrial undertones and urban grit of the \"Steel City\" episode."
-    },
     {
       "hour": 5,
       "fact_text": "In 1937, aviator and tycoon Howard Hughes set a transcontinental speed record by flying from Los Angeles to New York in just 7 hours, 28 minutes, and 25 seconds. His custom Lockheed aircraft turned the vast U.S. sky into a personal raceway, shrinking the continent for the jet age to come.",
@@ -653,9 +628,34 @@
         ]
       },
       "match_reason": "A perilous military crossing of the Andes resonates with an episode built around mountain landscapes and the stories they inspire."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On January 19, 1999, British Aerospace agreed to acquire the defence arm of the General Electric Company, creating BAE Systems later that year. The merger forged one of the world's largest defence, security, and aerospace companies, reshaping the European arms industry.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BAE_Systems",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "A story of heavy industry and high‑tech defense fits the metallic, industrial undertones and urban grit of the \"Steel City\" episode."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T03:00:01.720585+00:00"
+  "updated_at": "2026-01-19T04:00:02.121531+00:00"
 }
