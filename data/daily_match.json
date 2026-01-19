@@ -1,59 +1,34 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On January 19, 1993, both the Czech Republic and Slovakia were admitted to the United Nations, just weeks after peacefully dissolving Czechoslovakia. Their “Velvet Divorce” became a rare example of a state splitting into two nations without war.",
-    "fact_year": 1993,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "hour": 9,
+    "fact_text": "In 1788, the second group of ships of the First Fleet arrived at Botany Bay, carrying convicts, marines, and supplies to establish a British penal colony in Australia. The fleet’s arrival marked the beginning of large‑scale European settlement and a profound, often devastating, transformation for Indigenous Australians.",
+    "fact_year": 1788,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Fleet",
     "episode": {
-      "id": 17,
-      "title": "Morning Drops #11 - Mediterranean Boat",
-      "description": "Gaia invites you to embark on a musical voyage across the Mediterranean. Exploring music from different countries shared by people who call them home. A warm, sun-soaked journey through coastal sounds.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-mediterranean-boat",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Arleta - Bar To Navagio",
-        "Baba Zula - Tavla",
-        "Mylène Farmer - Désenchantée",
-        "Fabrizio De André - Crêuza de mä"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Greek Folk",
-        "Turkish Psychedelic",
-        "French Pop",
-        "Italian Singer-Songwriter"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "New countries joining a global community fits with an episode that sails between cultures and borders, celebrating coexistence of different homelands."
+    "match_reason": "A historic voyage by sea connects with a modern story told from a sailboat deck; both mix ocean crossings with the complicated idea of 'new shores.'"
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1788, the second group of ships of the First Fleet arrived at Botany Bay, carrying convicts, marines, and supplies to establish a British penal colony in Australia. The fleet’s arrival marked the beginning of large‑scale European settlement and a profound, often devastating, transformation for Indigenous Australians.",
-      "fact_year": 1788,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Fleet",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A historic voyage by sea connects with a modern story told from a sailboat deck; both mix ocean crossings with the complicated idea of 'new shores.'"
-    },
     {
       "hour": 10,
       "fact_text": "On January 19, 1871, during the Franco‑Prussian War, Prussian forces won the Battle of St. Quentin while the besieged city of Paris struggled to break free at Buzenval. These defeats helped seal France’s loss and laid foundations for German unification.",
@@ -653,9 +628,37 @@
         ]
       },
       "match_reason": "New countries joining a global community fits with an episode that sails between cultures and borders, celebrating coexistence of different homelands."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1788, the second group of ships of the First Fleet arrived at Botany Bay, carrying convicts, marines, and supplies to establish a British penal colony in Australia. The fleet’s arrival marked the beginning of large‑scale European settlement and a profound, often devastating, transformation for Indigenous Australians.",
+      "fact_year": 1788,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_Fleet",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A historic voyage by sea connects with a modern story told from a sailboat deck; both mix ocean crossings with the complicated idea of 'new shores.'"
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T08:00:01.823896+00:00"
+  "updated_at": "2026-01-19T09:00:01.874250+00:00"
 }
