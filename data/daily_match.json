@@ -1,64 +1,30 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1937, aviator and tycoon Howard Hughes set a transcontinental speed record by flying from Los Angeles to New York in just 7 hours, 28 minutes, and 25 seconds. His custom Lockheed aircraft turned the vast U.S. sky into a personal raceway, shrinking the continent for the jet age to come.",
-    "fact_year": 1937,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Howard_Hughes",
+    "hour": 6,
+    "fact_text": "On January 19, 1996, the North Cape oil spill began when the tugboat Scandia caught fire and ran aground off Rhode Island, causing its barge to spill thousands of barrels of home heating oil. The slick contaminated fisheries and beaches, prompting large‑scale clean‑up and fresh scrutiny of coastal pollution.",
+    "fact_year": 1996,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Cape_oil_spill",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 29,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
         "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "A record‑breaking coast‑to‑coast flight mirrors the fast, kinetic, travel‑ready energy of \"On The Go - Zero Zero.\""
+    "match_reason": "An environmental disaster at sea contrasts with a coastal, nature‑soaked dub morning; reggae’s long history of environmental and social awareness provides a contemplative counterpoint."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On January 19, 1996, the North Cape oil spill began when the tugboat Scandia caught fire and ran aground off Rhode Island, causing its barge to spill thousands of barrels of home heating oil. The slick contaminated fisheries and beaches, prompting large‑scale clean‑up and fresh scrutiny of coastal pollution.",
-      "fact_year": 1996,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Cape_oil_spill",
-      "episode": {
-        "id": 29,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "An environmental disaster at sea contrasts with a coastal, nature‑soaked dub morning; reggae’s long history of environmental and social awareness provides a contemplative counterpoint."
-    },
     {
       "hour": 7,
       "fact_text": "On this day in 1861, Georgia seceded from the United States, joining several Southern states in breaking away and setting the stage for the American Civil War. The decision reflected deep tensions over slavery, states' rights, and the future shape of the young republic.",
@@ -662,9 +628,33 @@
         ]
       },
       "match_reason": "A record‑breaking coast‑to‑coast flight mirrors the fast, kinetic, travel‑ready energy of \"On The Go - Zero Zero.\""
+    },
+    {
+      "hour": 6,
+      "fact_text": "On January 19, 1996, the North Cape oil spill began when the tugboat Scandia caught fire and ran aground off Rhode Island, causing its barge to spill thousands of barrels of home heating oil. The slick contaminated fisheries and beaches, prompting large‑scale clean‑up and fresh scrutiny of coastal pollution.",
+      "fact_year": 1996,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/North_Cape_oil_spill",
+      "episode": {
+        "id": 29,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "An environmental disaster at sea contrasts with a coastal, nature‑soaked dub morning; reggae’s long history of environmental and social awareness provides a contemplative counterpoint."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T05:00:01.693045+00:00"
+  "updated_at": "2026-01-19T06:00:01.870924+00:00"
 }
