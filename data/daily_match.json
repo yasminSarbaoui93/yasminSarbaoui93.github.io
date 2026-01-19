@@ -1,65 +1,40 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On January 19, 1999, British Aerospace agreed to acquire the defence arm of the General Electric Company, creating BAE Systems later that year. The merger forged one of the world's largest defence, security, and aerospace companies, reshaping the European arms industry.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/BAE_Systems",
+    "hour": 5,
+    "fact_text": "In 1937, aviator and tycoon Howard Hughes set a transcontinental speed record by flying from Los Angeles to New York in just 7 hours, 28 minutes, and 25 seconds. His custom Lockheed aircraft turned the vast U.S. sky into a personal raceway, shrinking the continent for the jet age to come.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Howard_Hughes",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "A story of heavy industry and high‑tech defense fits the metallic, industrial undertones and urban grit of the \"Steel City\" episode."
+    "match_reason": "A record‑breaking coast‑to‑coast flight mirrors the fast, kinetic, travel‑ready energy of \"On The Go - Zero Zero.\""
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1937, aviator and tycoon Howard Hughes set a transcontinental speed record by flying from Los Angeles to New York in just 7 hours, 28 minutes, and 25 seconds. His custom Lockheed aircraft turned the vast U.S. sky into a personal raceway, shrinking the continent for the jet age to come.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Howard_Hughes",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A record‑breaking coast‑to‑coast flight mirrors the fast, kinetic, travel‑ready energy of \"On The Go - Zero Zero.\""
-    },
     {
       "hour": 6,
       "fact_text": "On January 19, 1996, the North Cape oil spill began when the tugboat Scandia caught fire and ran aground off Rhode Island, causing its barge to spill thousands of barrels of home heating oil. The slick contaminated fisheries and beaches, prompting large‑scale clean‑up and fresh scrutiny of coastal pollution.",
@@ -653,9 +628,43 @@
         ]
       },
       "match_reason": "A story of heavy industry and high‑tech defense fits the metallic, industrial undertones and urban grit of the \"Steel City\" episode."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1937, aviator and tycoon Howard Hughes set a transcontinental speed record by flying from Los Angeles to New York in just 7 hours, 28 minutes, and 25 seconds. His custom Lockheed aircraft turned the vast U.S. sky into a personal raceway, shrinking the continent for the jet age to come.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Howard_Hughes",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A record‑breaking coast‑to‑coast flight mirrors the fast, kinetic, travel‑ready energy of \"On The Go - Zero Zero.\""
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T04:00:02.121531+00:00"
+  "updated_at": "2026-01-19T05:00:01.693045+00:00"
 }
