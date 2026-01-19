@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On January 19, 1871, during the Franco‑Prussian War, Prussian forces won the Battle of St. Quentin while the besieged city of Paris struggled to break free at Buzenval. These defeats helped seal France’s loss and laid foundations for German unification.",
-    "fact_year": 1871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Franco-Prussian_War",
+    "hour": 11,
+    "fact_text": "In 1853, Giuseppe Verdi’s opera Il trovatore premiered in Rome, introducing audiences to a dark, melodramatic tale filled with mistaken identities, revenge, and one of opera’s most famous choruses, the \"Anvil Chorus.\" Despite a complicated plot, its fiery music made it an instant success across Europe.",
+    "fact_year": 1853,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Il_trovatore",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A grim chapter of war and siege is paired with an episode about endurance through dark weather, offering a hopeful emotional counter‑narrative."
+    "match_reason": "A passionate 19th‑century Italian opera fits naturally with an episode exploring another highly dramatic, vocal, and theatrical art form: flamenco."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1853, Giuseppe Verdi’s opera Il trovatore premiered in Rome, introducing audiences to a dark, melodramatic tale filled with mistaken identities, revenge, and one of opera’s most famous choruses, the \"Anvil Chorus.\" Despite a complicated plot, its fiery music made it an instant success across Europe.",
-      "fact_year": 1853,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Il_trovatore",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A passionate 19th‑century Italian opera fits naturally with an episode exploring another highly dramatic, vocal, and theatrical art form: flamenco."
-    },
     {
       "hour": 12,
       "fact_text": "On January 19, 1977, U.S. President Gerald Ford pardoned Iva Toguri D'Aquino, long accused of being \"Tokyo Rose,\" a notorious World War II propagandist. Decades after her conviction, doubts about the fairness of her trial and the reliability of key witnesses led to this formal act of forgiveness.",
@@ -653,9 +628,34 @@
         ]
       },
       "match_reason": "A grim chapter of war and siege is paired with an episode about endurance through dark weather, offering a hopeful emotional counter‑narrative."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1853, Giuseppe Verdi’s opera Il trovatore premiered in Rome, introducing audiences to a dark, melodramatic tale filled with mistaken identities, revenge, and one of opera’s most famous choruses, the \"Anvil Chorus.\" Despite a complicated plot, its fiery music made it an instant success across Europe.",
+      "fact_year": 1853,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Il_trovatore",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A passionate 19th‑century Italian opera fits naturally with an episode exploring another highly dramatic, vocal, and theatrical art form: flamenco."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T10:00:01.832798+00:00"
+  "updated_at": "2026-01-19T11:00:01.976181+00:00"
 }
