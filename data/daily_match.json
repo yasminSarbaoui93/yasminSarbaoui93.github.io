@@ -1,54 +1,29 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "In 2007, the four-man Team N2i reached Antarctica's pole of inaccessibility using only skis and kites, completing a 1,759 km journey without mechanical assistance. It was the first visit since 1965 and a rare example of using wind power to cross some of the coldest, most remote terrain on Earth.",
-    "fact_year": 2007,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pole_of_Inaccessibility_research_station",
+    "hour": 2,
+    "fact_text": "On January 19, 1953, the \"Lucy Goes to the Hospital\" episode of I Love Lucy aired, showing Lucy giving birth on screen while Lucille Ball was pregnant in real life. Around 72% of all U.S. TV sets tuned in, making it one of the earliest mass shared television moments.",
+    "fact_year": 1953,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lucy_Goes_to_the_Hospital",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 15,
+      "title": "Morning Drops #09 - Birthday Cake",
+      "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Artist Name - Song Title",
+        "Artist Name - Song Title",
+        "Artist Name - Song Title",
+        "Artist Name - Song Title"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Eclectic",
+        "Celebratory"
       ]
     },
-    "match_reason": "Both stories unfold beyond the polar circle, blending human endurance with icy wilderness and a reflective, cinematic mood."
+    "match_reason": "A record‑breaking TV birth aligns with an episode themed around celebration, milestones, and collective joy."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "On January 19, 1953, the \"Lucy Goes to the Hospital\" episode of I Love Lucy aired, showing Lucy giving birth on screen while Lucille Ball was pregnant in real life. Around 72% of all U.S. TV sets tuned in, making it one of the earliest mass shared television moments.",
-      "fact_year": 1953,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lucy_Goes_to_the_Hospital",
-      "episode": {
-        "id": 15,
-        "title": "Morning Drops #09 - Birthday Cake",
-        "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
-        "songs": [
-          "Artist Name - Song Title",
-          "Artist Name - Song Title",
-          "Artist Name - Song Title",
-          "Artist Name - Song Title"
-        ],
-        "music-genres": [
-          "Eclectic",
-          "Celebratory"
-        ]
-      },
-      "match_reason": "A record‑breaking TV birth aligns with an episode themed around celebration, milestones, and collective joy."
-    },
     {
       "hour": 3,
       "fact_text": "In 1817, General José de San Martín led an army of about 5,400 soldiers across the Andes from Argentina, in one of history's most daring mountain crossings. This audacious maneuver paved the way for the liberation of Chile and later Peru from Spanish rule.",
@@ -653,9 +628,32 @@
         ]
       },
       "match_reason": "Both stories unfold beyond the polar circle, blending human endurance with icy wilderness and a reflective, cinematic mood."
+    },
+    {
+      "hour": 2,
+      "fact_text": "On January 19, 1953, the \"Lucy Goes to the Hospital\" episode of I Love Lucy aired, showing Lucy giving birth on screen while Lucille Ball was pregnant in real life. Around 72% of all U.S. TV sets tuned in, making it one of the earliest mass shared television moments.",
+      "fact_year": 1953,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Lucy_Goes_to_the_Hospital",
+      "episode": {
+        "id": 15,
+        "title": "Morning Drops #09 - Birthday Cake",
+        "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
+        "songs": [
+          "Artist Name - Song Title",
+          "Artist Name - Song Title",
+          "Artist Name - Song Title",
+          "Artist Name - Song Title"
+        ],
+        "music-genres": [
+          "Eclectic",
+          "Celebratory"
+        ]
+      },
+      "match_reason": "A record‑breaking TV birth aligns with an episode themed around celebration, milestones, and collective joy."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T01:00:01.678822+00:00"
+  "updated_at": "2026-01-19T02:00:01.759509+00:00"
 }
