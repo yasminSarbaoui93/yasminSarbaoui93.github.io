@@ -1,63 +1,38 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "On January 19, 1883, the first electric lighting system using overhead wires, developed by Thomas Edison, began service in Roselle, New Jersey. The small town became a testbed for a future where streets and homes could glow at the flick of a switch.",
-    "fact_year": 1883,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "hour": 17,
+    "fact_text": "In 1829, Goethe’s Faust: The First Part of the Tragedy received its premiere performance, bringing to the stage his philosophical tale of a man who bargains with the devil for knowledge and experience. The story has since haunted literature, music, and film as a symbol of ambition and moral compromise.",
+    "fact_year": 1829,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faust,_Part_One",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The quiet magic of the first electrically lit streets fits with a soft, glowing downtempo episode that feels like evening lights coming on."
+    "match_reason": "Faust’s dangerous pursuit of external fulfillment contrasts with an episode dedicated to inner beauty and self‑acceptance, offering a gentle antidote to his bargain."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1829, Goethe’s Faust: The First Part of the Tragedy received its premiere performance, bringing to the stage his philosophical tale of a man who bargains with the devil for knowledge and experience. The story has since haunted literature, music, and film as a symbol of ambition and moral compromise.",
-      "fact_year": 1829,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faust,_Part_One",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Faust’s dangerous pursuit of external fulfillment contrasts with an episode dedicated to inner beauty and self‑acceptance, offering a gentle antidote to his bargain."
-    },
     {
       "hour": 18,
       "fact_text": "On January 19, 1764, Danish official Bolle Willum Luxdorph noted in his diary that Colonel Poulsen at Børglum Abbey had been severely injured by a mail bomb. This incident is considered one of the earliest recorded uses of a letter bomb—a deadly weapon disguised as ordinary correspondence.",
@@ -653,9 +628,41 @@
         ]
       },
       "match_reason": "The quiet magic of the first electrically lit streets fits with a soft, glowing downtempo episode that feels like evening lights coming on."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1829, Goethe’s Faust: The First Part of the Tragedy received its premiere performance, bringing to the stage his philosophical tale of a man who bargains with the devil for knowledge and experience. The story has since haunted literature, music, and film as a symbol of ambition and moral compromise.",
+      "fact_year": 1829,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faust,_Part_One",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Faust’s dangerous pursuit of external fulfillment contrasts with an episode dedicated to inner beauty and self‑acceptance, offering a gentle antidote to his bargain."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T16:00:01.753294+00:00"
+  "updated_at": "2026-01-19T17:00:01.874001+00:00"
 }
