@@ -1,60 +1,36 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "On this day, 1853, when Il trovatore premiered, Verdi was already reimagining what opera could be—pushing drama and emotional intensity toward almost cinematic extremes. Its success helped cement opera as a mass entertainment that could travel far beyond elite salons.",
-    "fact_year": 1853,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+    "hour": 23,
+    "fact_text": "On January 19, 2007, Team N2i’s kite‑powered journey to the Antarctic pole of inaccessibility showed how simple tools—wind, skis, and stubbornness—can open some of Earth’s most remote places. Their approach highlighted a lower‑impact, almost playful way to explore extreme environments.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snowkiting",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A classic opera that has endured for generations pairs with an episode devoted to music with a \"timeless legacy.\""
+    "match_reason": "A journey driven by wind power and gradual buildup of effort fits with an evening mix that starts slow and crescendos into liberated movement across vast landscapes."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On January 19, 2007, Team N2i’s kite‑powered journey to the Antarctic pole of inaccessibility showed how simple tools—wind, skis, and stubbornness—can open some of Earth’s most remote places. Their approach highlighted a lower‑impact, almost playful way to explore extreme environments.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snowkiting",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A journey driven by wind power and gradual buildup of effort fits with an evening mix that starts slow and crescendos into liberated movement across vast landscapes."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -651,9 +627,39 @@
         ]
       },
       "match_reason": "A classic opera that has endured for generations pairs with an episode devoted to music with a \"timeless legacy.\""
+    },
+    {
+      "hour": 23,
+      "fact_text": "On January 19, 2007, Team N2i’s kite‑powered journey to the Antarctic pole of inaccessibility showed how simple tools—wind, skis, and stubbornness—can open some of Earth’s most remote places. Their approach highlighted a lower‑impact, almost playful way to explore extreme environments.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Snowkiting",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A journey driven by wind power and gradual buildup of effort fits with an evening mix that starts slow and crescendos into liberated movement across vast landscapes."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T22:00:01.568976+00:00"
+  "updated_at": "2026-01-19T23:00:01.869415+00:00"
 }
