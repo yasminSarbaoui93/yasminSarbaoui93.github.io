@@ -1,50 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On January 19, 2024, Japan’s lunar lander SLIM attempted an ultra‑precise touchdown that, despite power issues after landing, still demonstrated formidable navigation and hazard‑avoidance capabilities. Its accuracy—aiming within a tiny patch of lunar terrain—pushes forward the idea of \"pinpoint\" landings for future missions.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Smart_Lander_for_Investigating_Moon",
+    "hour": 21,
+    "fact_text": "On January 19, 1915, Georges Claude’s neon patent didn’t just create glowing signs; it also opened a new relationship between cities and night, turning darkness into a canvas for art and advertising. Neon’s soft hum and color became part of the modern urban soundscape and skyline.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gas-filled_tube",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 18,
+      "title": "Morning Drops #12 - 80's Club",
+      "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
       "songs": [
-        "song 1"
+        "Donna Summer - I Feel Love",
+        "Depeche Mode - Just Can't Get Enough",
+        "Ken Laszlo - Hey Hey Guy",
+        "Mylène Farmer - Sans Contrefaçon"
       ],
       "music-genres": [
-        "genre 1"
+        "Disco",
+        "Synthpop",
+        "Italo Disco",
+        "French Pop"
       ]
     },
-    "match_reason": "A technically brilliant moon landing that ended with power problems mirrors the wabi‑sabi idea of beauty in ambitious attempts that don’t go perfectly."
+    "match_reason": "Neon nightlife and 80s club culture are inseparable; glowing signs and synthpop machines together define the electronic night city."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On January 19, 1915, Georges Claude’s neon patent didn’t just create glowing signs; it also opened a new relationship between cities and night, turning darkness into a canvas for art and advertising. Neon’s soft hum and color became part of the modern urban soundscape and skyline.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gas-filled_tube",
-      "episode": {
-        "id": 18,
-        "title": "Morning Drops #12 - 80's Club",
-        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
-        "songs": [
-          "Donna Summer - I Feel Love",
-          "Depeche Mode - Just Can't Get Enough",
-          "Ken Laszlo - Hey Hey Guy",
-          "Mylène Farmer - Sans Contrefaçon"
-        ],
-        "music-genres": [
-          "Disco",
-          "Synthpop",
-          "Italo Disco",
-          "French Pop"
-        ]
-      },
-      "match_reason": "Neon nightlife and 80s club culture are inseparable; glowing signs and synthpop machines together define the electronic night city."
-    },
     {
       "hour": 22,
       "fact_text": "On this day, 1853, when Il trovatore premiered, Verdi was already reimagining what opera could be—pushing drama and emotional intensity toward almost cinematic extremes. Its success helped cement opera as a mass entertainment that could travel far beyond elite salons.",
@@ -647,9 +628,34 @@
         ]
       },
       "match_reason": "A technically brilliant moon landing that ended with power problems mirrors the wabi‑sabi idea of beauty in ambitious attempts that don’t go perfectly."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On January 19, 1915, Georges Claude’s neon patent didn’t just create glowing signs; it also opened a new relationship between cities and night, turning darkness into a canvas for art and advertising. Neon’s soft hum and color became part of the modern urban soundscape and skyline.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gas-filled_tube",
+      "episode": {
+        "id": 18,
+        "title": "Morning Drops #12 - 80's Club",
+        "description": "Starting with a Monday evening in Munich — a few drinks, friends, and landing in an 80s dance party. From Donna Summer's hypnotic pulse, to Depeche Mode's bright synthpop, Ken Laszlo's Italo Disco romance, and Mylène Farmer's darker theatrical world. Four songs, four corners of the 80s — connected by the machines that changed how we dance.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-80s-club",
+        "songs": [
+          "Donna Summer - I Feel Love",
+          "Depeche Mode - Just Can't Get Enough",
+          "Ken Laszlo - Hey Hey Guy",
+          "Mylène Farmer - Sans Contrefaçon"
+        ],
+        "music-genres": [
+          "Disco",
+          "Synthpop",
+          "Italo Disco",
+          "French Pop"
+        ]
+      },
+      "match_reason": "Neon nightlife and 80s club culture are inseparable; glowing signs and synthpop machines together define the electronic night city."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T20:00:01.878990+00:00"
+  "updated_at": "2026-01-19T21:00:01.696721+00:00"
 }
