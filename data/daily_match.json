@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On January 19, 2024, Japan's Smart Lander for Investigating Moon (SLIM) touched down on the lunar surface, making Japan the fifth nation to achieve a soft landing on the Moon. The mission aimed to demonstrate pinpoint landing technology—targeting an area just 100 meters across instead of the usual kilometers-wide ellipse.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Smart_Lander_for_Investigating_Moon",
+    "hour": 1,
+    "fact_text": "In 2007, the four-man Team N2i reached Antarctica's pole of inaccessibility using only skis and kites, completing a 1,759 km journey without mechanical assistance. It was the first visit since 1965 and a rare example of using wind power to cross some of the coldest, most remote terrain on Earth.",
+    "fact_year": 2007,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pole_of_Inaccessibility_research_station",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
+        "Neo-Classical",
         "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A literal shift into space pairs with an episode built around reimagining emptiness as creative space and forward momentum."
+    "match_reason": "Both stories unfold beyond the polar circle, blending human endurance with icy wilderness and a reflective, cinematic mood."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "In 2007, the four-man Team N2i reached Antarctica's pole of inaccessibility using only skis and kites, completing a 1,759 km journey without mechanical assistance. It was the first visit since 1965 and a rare example of using wind power to cross some of the coldest, most remote terrain on Earth.",
-      "fact_year": 2007,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pole_of_Inaccessibility_research_station",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both stories unfold beyond the polar circle, blending human endurance with icy wilderness and a reflective, cinematic mood."
-    },
     {
       "hour": 2,
       "fact_text": "On January 19, 1953, the \"Lucy Goes to the Hospital\" episode of I Love Lucy aired, showing Lucy giving birth on screen while Lucille Ball was pregnant in real life. Around 72% of all U.S. TV sets tuned in, making it one of the earliest mass shared television moments.",
@@ -651,9 +628,34 @@
         ]
       },
       "match_reason": "A literal shift into space pairs with an episode built around reimagining emptiness as creative space and forward momentum."
+    },
+    {
+      "hour": 1,
+      "fact_text": "In 2007, the four-man Team N2i reached Antarctica's pole of inaccessibility using only skis and kites, completing a 1,759 km journey without mechanical assistance. It was the first visit since 1965 and a rare example of using wind power to cross some of the coldest, most remote terrain on Earth.",
+      "fact_year": 2007,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pole_of_Inaccessibility_research_station",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both stories unfold beyond the polar circle, blending human endurance with icy wilderness and a reflective, cinematic mood."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T00:00:52.194332+00:00"
+  "updated_at": "2026-01-19T01:00:01.678822+00:00"
 }
