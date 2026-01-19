@@ -1,63 +1,31 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In 1829, Goethe’s Faust: The First Part of the Tragedy received its premiere performance, bringing to the stage his philosophical tale of a man who bargains with the devil for knowledge and experience. The story has since haunted literature, music, and film as a symbol of ambition and moral compromise.",
-    "fact_year": 1829,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Faust,_Part_One",
+    "hour": 18,
+    "fact_text": "On January 19, 1764, Danish official Bolle Willum Luxdorph noted in his diary that Colonel Poulsen at Børglum Abbey had been severely injured by a mail bomb. This incident is considered one of the earliest recorded uses of a letter bomb—a deadly weapon disguised as ordinary correspondence.",
+    "fact_year": 1764,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Letter_bomb",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Faust’s dangerous pursuit of external fulfillment contrasts with an episode dedicated to inner beauty and self‑acceptance, offering a gentle antidote to his bargain."
+    "match_reason": "An early weaponized communication device is paired with an episode about modern communication overload—two eras wrestling with the power and danger of messages."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On January 19, 1764, Danish official Bolle Willum Luxdorph noted in his diary that Colonel Poulsen at Børglum Abbey had been severely injured by a mail bomb. This incident is considered one of the earliest recorded uses of a letter bomb—a deadly weapon disguised as ordinary correspondence.",
-      "fact_year": 1764,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Letter_bomb",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "An early weaponized communication device is paired with an episode about modern communication overload—two eras wrestling with the power and danger of messages."
-    },
     {
       "hour": 19,
       "fact_text": "On this day in World War II, 1941, the British destroyer HMS Greyhound and other escorts of convoy AS‑12 sank the Italian submarine Neghelli near the Greek island of Falkonera. The engagement highlighted the deadly cat‑and‑mouse struggle beneath the waves in the Mediterranean.",
@@ -660,9 +628,34 @@
         ]
       },
       "match_reason": "Faust’s dangerous pursuit of external fulfillment contrasts with an episode dedicated to inner beauty and self‑acceptance, offering a gentle antidote to his bargain."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On January 19, 1764, Danish official Bolle Willum Luxdorph noted in his diary that Colonel Poulsen at Børglum Abbey had been severely injured by a mail bomb. This incident is considered one of the earliest recorded uses of a letter bomb—a deadly weapon disguised as ordinary correspondence.",
+      "fact_year": 1764,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Letter_bomb",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "An early weaponized communication device is paired with an episode about modern communication overload—two eras wrestling with the power and danger of messages."
     }
   ],
   "generated_at": "2026-01-19T00:00:00.011895+00:00",
   "date": "2026-01-19",
-  "updated_at": "2026-01-19T17:00:01.874001+00:00"
+  "updated_at": "2026-01-19T18:00:01.634752+00:00"
 }
