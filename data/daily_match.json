@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On January 20, 1954, the National Negro Network launched in the United States, linking 40 radio stations into one of the first major broadcast platforms dedicated to Black audiences. It carried dramas, variety shows, and commentary that challenged a segregated media landscape.",
-    "fact_year": 1954,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/National_Negro_Network",
+    "hour": 7,
+    "fact_text": "On January 20, 1921, the British K-class submarine HMS K5 sank mysteriously during a training exercise in the English Channel, killing all 56 crew. Designed for unusual high speeds with steam turbines, the K‑class earned a grim reputation and the nickname \"Kalamity\" class.",
+    "fact_year": 1921,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_K5",
     "episode": {
-      "id": 40,
-      "title": "Morning Drops #34 - Soul Sisters",
-      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+      "id": 39,
+      "title": "Morning Drops #33 - Immerse",
+      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
       "songs": [
-        "Grace Jones - Walking in the Rain",
-        "Lauryn Hill - Lost Ones",
-        "Aretha Franklin - A Rose Is Still a Rose",
-        "Loredana Bertè - In Alto Mare"
+        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+        "Midlife - The Magnificent Moon",
+        "Tornado Wallace - Today",
+        "Nu Genea - Marechià (feat. Celia Kameni)"
       ],
       "music-genres": [
-        "New Wave",
-        "Neo-Soul",
-        "R&B",
-        "Italian Pop"
+        "Italo Disco",
+        "Indie",
+        "Balearic",
+        "Nu Disco"
       ]
     },
-    "match_reason": "A pioneering Black radio network aligns with an episode celebrating powerful female voices and representation in music—both expand who gets heard on the airwaves."
+    "match_reason": "A tragic submarine loss in deep water parallels an episode built around diving and immersion; the playlist offers a gentler, healing dive where the sea becomes reflection rather than disaster."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On January 20, 1921, the British K-class submarine HMS K5 sank mysteriously during a training exercise in the English Channel, killing all 56 crew. Designed for unusual high speeds with steam turbines, the K‑class earned a grim reputation and the nickname \"Kalamity\" class.",
-      "fact_year": 1921,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_K5",
-      "episode": {
-        "id": 39,
-        "title": "Morning Drops #33 - Immerse",
-        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
-        "songs": [
-          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-          "Midlife - The Magnificent Moon",
-          "Tornado Wallace - Today",
-          "Nu Genea - Marechià (feat. Celia Kameni)"
-        ],
-        "music-genres": [
-          "Italo Disco",
-          "Indie",
-          "Balearic",
-          "Nu Disco"
-        ]
-      },
-      "match_reason": "A tragic submarine loss in deep water parallels an episode built around diving and immersion; the playlist offers a gentler, healing dive where the sea becomes reflection rather than disaster."
-    },
     {
       "hour": 8,
       "fact_text": "On January 20, 1942, senior Nazi officials met at the Wannsee Conference in a Berlin suburb to coordinate the \"Final Solution\"—the systematic murder of Europe’s Jews. The meeting turned genocidal ideology into chilling bureaucratic planning.",
@@ -631,9 +606,34 @@
         ]
       },
       "match_reason": "A pioneering Black radio network aligns with an episode celebrating powerful female voices and representation in music—both expand who gets heard on the airwaves."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On January 20, 1921, the British K-class submarine HMS K5 sank mysteriously during a training exercise in the English Channel, killing all 56 crew. Designed for unusual high speeds with steam turbines, the K‑class earned a grim reputation and the nickname \"Kalamity\" class.",
+      "fact_year": 1921,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_K5",
+      "episode": {
+        "id": 39,
+        "title": "Morning Drops #33 - Immerse",
+        "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+        "songs": [
+          "Pino D'Angiò - Un Po' d'Uva e un Liquore",
+          "Midlife - The Magnificent Moon",
+          "Tornado Wallace - Today",
+          "Nu Genea - Marechià (feat. Celia Kameni)"
+        ],
+        "music-genres": [
+          "Italo Disco",
+          "Indie",
+          "Balearic",
+          "Nu Disco"
+        ]
+      },
+      "match_reason": "A tragic submarine loss in deep water parallels an episode built around diving and immersion; the playlist offers a gentler, healing dive where the sea becomes reflection rather than disaster."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T06:00:02.090945+00:00"
+  "updated_at": "2026-01-20T07:00:01.851463+00:00"
 }
