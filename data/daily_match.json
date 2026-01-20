@@ -1,54 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "On January 20, 1953, Dwight D. Eisenhower took office as the 34th U.S. president, the first to be inaugurated on January 20 under the newly effective Twentieth Amendment. The constitutional shift shortened the traditional post-election \"lame duck\" period, bringing leadership changes closer to the vote.",
-    "fact_year": 1953,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution",
+    "hour": 16,
+    "fact_text": "On January 20, 2017, Donald Trump was sworn in as the 45th president of the United States, bringing a media-saturated, reality‑TV persona into the country’s highest office. His inauguration marked a sharp rhetorical and stylistic break from his predecessors.",
+    "fact_year": 2017,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A constitutional change that reshaped political timing feels like a structural 'classic'; this first Morning Drops, filled with timeless tracks, mirrors the sense of a new but lasting tradition beginning."
+    "match_reason": "A presidency deeply entangled with spectacle, social media, and constant connectivity pairs with an episode questioning our digital addictions and how screens shape politics and perception."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On January 20, 2017, Donald Trump was sworn in as the 45th president of the United States, bringing a media-saturated, reality‑TV persona into the country’s highest office. His inauguration marked a sharp rhetorical and stylistic break from his predecessors.",
-      "fact_year": 2017,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A presidency deeply entangled with spectacle, social media, and constant connectivity pairs with an episode questioning our digital addictions and how screens shape politics and perception."
-    },
     {
       "hour": 17,
       "fact_text": "On January 20, 2025, Donald Trump was inaugurated again as the 47th U.S. president, becoming—at that moment—the oldest person ever to take the oath of office. The non-consecutive return echoed earlier eras yet unfolded in an age of instant global commentary.",
@@ -629,9 +606,34 @@
         ]
       },
       "match_reason": "A constitutional change that reshaped political timing feels like a structural 'classic'; this first Morning Drops, filled with timeless tracks, mirrors the sense of a new but lasting tradition beginning."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On January 20, 2017, Donald Trump was sworn in as the 45th president of the United States, bringing a media-saturated, reality‑TV persona into the country’s highest office. His inauguration marked a sharp rhetorical and stylistic break from his predecessors.",
+      "fact_year": 2017,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/First_inauguration_of_Donald_Trump",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A presidency deeply entangled with spectacle, social media, and constant connectivity pairs with an episode questioning our digital addictions and how screens shape politics and perception."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T15:00:02.223131+00:00"
+  "updated_at": "2026-01-20T16:00:01.804079+00:00"
 }
