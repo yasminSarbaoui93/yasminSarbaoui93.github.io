@@ -1,53 +1,28 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "On January 20, 1921, the British K-class submarine HMS K5 sank mysteriously during a training exercise in the English Channel, killing all 56 crew. Designed for unusual high speeds with steam turbines, the K‑class earned a grim reputation and the nickname \"Kalamity\" class.",
-    "fact_year": 1921,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/HMS_K5",
+    "hour": 8,
+    "fact_text": "On January 20, 1942, senior Nazi officials met at the Wannsee Conference in a Berlin suburb to coordinate the \"Final Solution\"—the systematic murder of Europe’s Jews. The meeting turned genocidal ideology into chilling bureaucratic planning.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wannsee_Conference",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A tragic submarine loss in deep water parallels an episode built around diving and immersion; the playlist offers a gentler, healing dive where the sea becomes reflection rather than disaster."
+    "match_reason": "This dark moment of dehumanizing categorization is countered by an episode about resisting labels and asserting humanity—Kendrick Lamar’s conscious rap becomes a modern answer to bureaucratic hatred."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "On January 20, 1942, senior Nazi officials met at the Wannsee Conference in a Berlin suburb to coordinate the \"Final Solution\"—the systematic murder of Europe’s Jews. The meeting turned genocidal ideology into chilling bureaucratic planning.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wannsee_Conference",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "This dark moment of dehumanizing categorization is countered by an episode about resisting labels and asserting humanity—Kendrick Lamar’s conscious rap becomes a modern answer to bureaucratic hatred."
-    },
     {
       "hour": 9,
       "fact_text": "On January 20, 1990, Soviet troops cracked down on pro-independence demonstrations in Baku, Azerbaijan—a night remembered as Black January. The brutal assault, which killed scores of civilians, also galvanized the Azerbaijani independence movement.",
@@ -631,9 +606,31 @@
         ]
       },
       "match_reason": "A tragic submarine loss in deep water parallels an episode built around diving and immersion; the playlist offers a gentler, healing dive where the sea becomes reflection rather than disaster."
+    },
+    {
+      "hour": 8,
+      "fact_text": "On January 20, 1942, senior Nazi officials met at the Wannsee Conference in a Berlin suburb to coordinate the \"Final Solution\"—the systematic murder of Europe’s Jews. The meeting turned genocidal ideology into chilling bureaucratic planning.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wannsee_Conference",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "This dark moment of dehumanizing categorization is countered by an episode about resisting labels and asserting humanity—Kendrick Lamar’s conscious rap becomes a modern answer to bureaucratic hatred."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T07:00:01.851463+00:00"
+  "updated_at": "2026-01-20T08:00:02.106483+00:00"
 }
