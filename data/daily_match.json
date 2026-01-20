@@ -1,52 +1,30 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "On January 20, 1942, senior Nazi officials met at the Wannsee Conference in a Berlin suburb to coordinate the \"Final Solution\"—the systematic murder of Europe’s Jews. The meeting turned genocidal ideology into chilling bureaucratic planning.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wannsee_Conference",
+    "hour": 9,
+    "fact_text": "On January 20, 1990, Soviet troops cracked down on pro-independence demonstrations in Baku, Azerbaijan—a night remembered as Black January. The brutal assault, which killed scores of civilians, also galvanized the Azerbaijani independence movement.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Black_January",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 31,
+      "title": "Morning Drops #23 - Morning Dubs",
+      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "The Gaylads - Joy in the Morning",
+        "The Officials - Babylonian",
+        "King Tubby - King Tubby Meets the Rockers Uptown",
+        "Aisha Morrison - Ethiopia"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Reggae",
+        "Dub",
+        "Roots Reggae"
       ]
     },
-    "match_reason": "This dark moment of dehumanizing categorization is countered by an episode about resisting labels and asserting humanity—Kendrick Lamar’s conscious rap becomes a modern answer to bureaucratic hatred."
+    "match_reason": "Reggae and dub have long critiqued ‘Babylon’—systems of oppression; this episode’s rootsy resistance vibes echo the struggle against Soviet violence remembered in Black January."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On January 20, 1990, Soviet troops cracked down on pro-independence demonstrations in Baku, Azerbaijan—a night remembered as Black January. The brutal assault, which killed scores of civilians, also galvanized the Azerbaijani independence movement.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Black_January",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #23 - Morning Dubs",
-        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
-        "songs": [
-          "The Gaylads - Joy in the Morning",
-          "The Officials - Babylonian",
-          "King Tubby - King Tubby Meets the Rockers Uptown",
-          "Aisha Morrison - Ethiopia"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Dub",
-          "Roots Reggae"
-        ]
-      },
-      "match_reason": "Reggae and dub have long critiqued ‘Babylon’—systems of oppression; this episode’s rootsy resistance vibes echo the struggle against Soviet violence remembered in Black January."
-    },
     {
       "hour": 10,
       "fact_text": "On January 20, 1991, Sudan’s government imposed Islamic law (sharia) across the entire country, deepening divisions between the largely Muslim north and the predominantly Christian and animist south. The move intensified the already-raging civil war that would eventually lead to South Sudan’s independence.",
@@ -628,9 +606,33 @@
         ]
       },
       "match_reason": "This dark moment of dehumanizing categorization is countered by an episode about resisting labels and asserting humanity—Kendrick Lamar’s conscious rap becomes a modern answer to bureaucratic hatred."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On January 20, 1990, Soviet troops cracked down on pro-independence demonstrations in Baku, Azerbaijan—a night remembered as Black January. The brutal assault, which killed scores of civilians, also galvanized the Azerbaijani independence movement.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Black_January",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #23 - Morning Dubs",
+        "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+        "songs": [
+          "The Gaylads - Joy in the Morning",
+          "The Officials - Babylonian",
+          "King Tubby - King Tubby Meets the Rockers Uptown",
+          "Aisha Morrison - Ethiopia"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Dub",
+          "Roots Reggae"
+        ]
+      },
+      "match_reason": "Reggae and dub have long critiqued ‘Babylon’—systems of oppression; this episode’s rootsy resistance vibes echo the struggle against Soviet violence remembered in Black January."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T08:00:02.106483+00:00"
+  "updated_at": "2026-01-20T09:00:01.909765+00:00"
 }
