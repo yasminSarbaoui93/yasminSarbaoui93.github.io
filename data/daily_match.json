@@ -1,54 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On January 20, 1990, Soviet troops cracked down on pro-independence demonstrations in Baku, Azerbaijan—a night remembered as Black January. The brutal assault, which killed scores of civilians, also galvanized the Azerbaijani independence movement.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Black_January",
+    "hour": 10,
+    "fact_text": "On January 20, 1991, Sudan’s government imposed Islamic law (sharia) across the entire country, deepening divisions between the largely Muslim north and the predominantly Christian and animist south. The move intensified the already-raging civil war that would eventually lead to South Sudan’s independence.",
+    "fact_year": 1991,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_Sudanese_Civil_War",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #23 - Morning Dubs",
-      "description": "Recorded while still processing Houghton Festival. One of the mornings there, waking up in the woods to a reggae DJ set — no phone signal, just trees, music, and loved ones. A slow selection of reggae, dub, and morning rhythms. Dubs instead of drops. Start your day slow — with space to breathe.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-morning-dubs",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "The Gaylads - Joy in the Morning",
-        "The Officials - Babylonian",
-        "King Tubby - King Tubby Meets the Rockers Uptown",
-        "Aisha Morrison - Ethiopia"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Reggae",
-        "Dub",
-        "Roots Reggae"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "Reggae and dub have long critiqued ‘Babylon’—systems of oppression; this episode’s rootsy resistance vibes echo the struggle against Soviet violence remembered in Black January."
+    "match_reason": "Both the Sudanese conflict and Tuareg music emerge from Saharan and Sahelian struggles over land, identity, and faith; desert blues of exile and resistance mirrors the human cost of imposed law and civil war."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On January 20, 1991, Sudan’s government imposed Islamic law (sharia) across the entire country, deepening divisions between the largely Muslim north and the predominantly Christian and animist south. The move intensified the already-raging civil war that would eventually lead to South Sudan’s independence.",
-      "fact_year": 1991,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_Sudanese_Civil_War",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Both the Sudanese conflict and Tuareg music emerge from Saharan and Sahelian struggles over land, identity, and faith; desert blues of exile and resistance mirrors the human cost of imposed law and civil war."
-    },
     {
       "hour": 11,
       "fact_text": "On January 20, 1972, Pakistan formally launched its nuclear weapons program, just weeks after losing East Pakistan (now Bangladesh) in the 1971 war. In a meeting famously framed as a choice between \"eating grass\" or achieving a bomb, the country committed to a clandestine nuclear path.",
@@ -630,9 +606,33 @@
         ]
       },
       "match_reason": "Reggae and dub have long critiqued ‘Babylon’—systems of oppression; this episode’s rootsy resistance vibes echo the struggle against Soviet violence remembered in Black January."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On January 20, 1991, Sudan’s government imposed Islamic law (sharia) across the entire country, deepening divisions between the largely Muslim north and the predominantly Christian and animist south. The move intensified the already-raging civil war that would eventually lead to South Sudan’s independence.",
+      "fact_year": 1991,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_Sudanese_Civil_War",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Both the Sudanese conflict and Tuareg music emerge from Saharan and Sahelian struggles over land, identity, and faith; desert blues of exile and resistance mirrors the human cost of imposed law and civil war."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T09:00:01.909765+00:00"
+  "updated_at": "2026-01-20T10:00:01.810920+00:00"
 }
