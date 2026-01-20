@@ -1,59 +1,31 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On January 20, 1567, at the Battle of Rio de Janeiro, Portuguese forces under Estácio de Sá drove the French out of Guanabara Bay. The clash decided which European power would control the spectacular natural harbour that later cradled the city of Rio de Janeiro.",
-    "fact_year": 1567,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rio_de_Janeiro_(1567)",
+    "hour": 4,
+    "fact_text": "On January 20, 1841, Britain occupied Hong Kong Island during the First Opium War, transforming a sparsely populated island of fishing villages into a strategic colonial port. Over time, it grew into one of the world’s densest urban skylines—a crossroads of commerce, culture, and contested sovereignty.",
+    "fact_year": 1841,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "A naval battle over one of Earth’s great bays connects naturally to an episode recorded at sea, with songs about waves, sun, and the stories carried on the water."
+    "match_reason": "Hong Kong’s evolution into a dense, industrial-tinged metropolis resonates with an episode about Sheffield’s urban sound—both cities telling their stories through concrete, steel, and music."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On January 20, 1841, Britain occupied Hong Kong Island during the First Opium War, transforming a sparsely populated island of fishing villages into a strategic colonial port. Over time, it grew into one of the world’s densest urban skylines—a crossroads of commerce, culture, and contested sovereignty.",
-      "fact_year": 1841,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "Hong Kong’s evolution into a dense, industrial-tinged metropolis resonates with an episode about Sheffield’s urban sound—both cities telling their stories through concrete, steel, and music."
-    },
     {
       "hour": 5,
       "fact_text": "On January 20, 1839, Chilean forces won the Battle of Yungay in the Peruvian Andes, toppling the Peru–Bolivian Confederation. The victory reshaped the political map of western South America and is still commemorated in Chile as a symbol of national resilience.",
@@ -634,9 +606,34 @@
         ]
       },
       "match_reason": "A naval battle over one of Earth’s great bays connects naturally to an episode recorded at sea, with songs about waves, sun, and the stories carried on the water."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On January 20, 1841, Britain occupied Hong Kong Island during the First Opium War, transforming a sparsely populated island of fishing villages into a strategic colonial port. Over time, it grew into one of the world’s densest urban skylines—a crossroads of commerce, culture, and contested sovereignty.",
+      "fact_year": 1841,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "Hong Kong’s evolution into a dense, industrial-tinged metropolis resonates with an episode about Sheffield’s urban sound—both cities telling their stories through concrete, steel, and music."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T03:00:01.547290+00:00"
+  "updated_at": "2026-01-20T04:00:01.661900+00:00"
 }
