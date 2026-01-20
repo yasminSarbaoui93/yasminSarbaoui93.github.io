@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On January 20, 1972, Pakistan formally launched its nuclear weapons program, just weeks after losing East Pakistan (now Bangladesh) in the 1971 war. In a meeting famously framed as a choice between \"eating grass\" or achieving a bomb, the country committed to a clandestine nuclear path.",
-    "fact_year": 1972,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pakistan_and_weapons_of_mass_destruction",
+    "hour": 12,
+    "fact_text": "On January 20, 2018, Turkey began Operation Olive Branch, shelling and later invading the Afrin region of Syria to push back Kurdish-led Syrian Democratic Forces. The offensive added yet another layer to the already complex Syrian civil war, displacing tens of thousands of civilians.",
+    "fact_year": 2018,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Olive_Branch",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "The turn toward nuclear weapons after a national trauma is a stormy chapter; this reflective, hopeful episode—with its rain motifs and encouragement not to stop—offers a contemplative counterpoint about moving through dark transitions."
+    "match_reason": "A modern, messy conflict invites contemporary, politically-aware urban sounds; this episode dissects a globalized genre born from marginalized voices, echoing how culture and power collide far beyond the battlefield."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On January 20, 2018, Turkey began Operation Olive Branch, shelling and later invading the Afrin region of Syria to push back Kurdish-led Syrian Democratic Forces. The offensive added yet another layer to the already complex Syrian civil war, displacing tens of thousands of civilians.",
-      "fact_year": 2018,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Olive_Branch",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A modern, messy conflict invites contemporary, politically-aware urban sounds; this episode dissects a globalized genre born from marginalized voices, echoing how culture and power collide far beyond the battlefield."
-    },
     {
       "hour": 13,
       "fact_text": "On January 20, 2018, gunmen stormed Kabul’s Inter-Continental Hotel, sparking a 12‑hour siege that left around 40 people dead. The attack turned a symbol of international connection and hospitality into a deadly battleground.",
@@ -631,9 +606,33 @@
         ]
       },
       "match_reason": "The turn toward nuclear weapons after a national trauma is a stormy chapter; this reflective, hopeful episode—with its rain motifs and encouragement not to stop—offers a contemplative counterpoint about moving through dark transitions."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On January 20, 2018, Turkey began Operation Olive Branch, shelling and later invading the Afrin region of Syria to push back Kurdish-led Syrian Democratic Forces. The offensive added yet another layer to the already complex Syrian civil war, displacing tens of thousands of civilians.",
+      "fact_year": 2018,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Olive_Branch",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A modern, messy conflict invites contemporary, politically-aware urban sounds; this episode dissects a globalized genre born from marginalized voices, echoing how culture and power collide far beyond the battlefield."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T11:00:01.910198+00:00"
+  "updated_at": "2026-01-20T12:00:01.859107+00:00"
 }
