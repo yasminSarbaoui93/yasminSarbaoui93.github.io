@@ -1,55 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "On January 20, 1973, Amílcar Cabral—an agronomist turned revolutionary who led the independence movements of Guinea-Bissau and Cape Verde—was assassinated in Conakry, Guinea. His blend of poetry, political theory, and guerrilla struggle made him one of Africa’s most influential anti-colonial thinkers.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral",
+    "hour": 19,
+    "fact_text": "On January 20, 1990, massive protests swept Azerbaijan as part of the Soviet Union’s dissolution, with demonstrators demanding independence and protesting ethnic violence. The unrest and subsequent crackdown became a key chapter in the unraveling of Soviet authority in the Caucasus.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 26,
+      "title": "Morning Drops #20 - Hitchhiking Poland",
+      "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Pidżama Porno - Ezoteryczny Poznań",
+        "Seev, Masswo - Primal Scream",
+        "Antoha MC - Ритм сердца",
+        "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Polish Rock",
+        "Electronic",
+        "Russian Rap",
+        "Slavic Folk Rock"
       ]
     },
-    "match_reason": "Cabral’s anti-colonial struggle and political thought resonate with Afrobeat’s fiercely political roots; the episode’s focus on African musical resistance makes it a natural echo of his legacy."
+    "match_reason": "Protests during the Soviet collapse in the Caucasus resonate with an episode roaming a post‑Soviet landscape via Polish and Russian sounds, both tracing how borders and identities shift across Eastern Europe."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On January 20, 1990, massive protests swept Azerbaijan as part of the Soviet Union’s dissolution, with demonstrators demanding independence and protesting ethnic violence. The unrest and subsequent crackdown became a key chapter in the unraveling of Soviet authority in the Caucasus.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
-      "episode": {
-        "id": 26,
-        "title": "Morning Drops #20 - Hitchhiking Poland",
-        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
-        "songs": [
-          "Pidżama Porno - Ezoteryczny Poznań",
-          "Seev, Masswo - Primal Scream",
-          "Antoha MC - Ритм сердца",
-          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
-        ],
-        "music-genres": [
-          "Polish Rock",
-          "Electronic",
-          "Russian Rap",
-          "Slavic Folk Rock"
-        ]
-      },
-      "match_reason": "Protests during the Soviet collapse in the Caucasus resonate with an episode roaming a post‑Soviet landscape via Polish and Russian sounds, both tracing how borders and identities shift across Eastern Europe."
-    },
     {
       "hour": 20,
       "fact_text": "On January 20, 2009, while Barack Obama took the oath in Washington, a very different crowd was gathering in Reykjavík: Icelanders protesting outside parliament as anger over the 2008 financial collapse boiled into the so‑called Pots and Pans Revolution. Their banging cookware became a soundtrack for demanding accountability from bankers and politicians.",
@@ -630,9 +606,34 @@
         ]
       },
       "match_reason": "Cabral’s anti-colonial struggle and political thought resonate with Afrobeat’s fiercely political roots; the episode’s focus on African musical resistance makes it a natural echo of his legacy."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On January 20, 1990, massive protests swept Azerbaijan as part of the Soviet Union’s dissolution, with demonstrators demanding independence and protesting ethnic violence. The unrest and subsequent crackdown became a key chapter in the unraveling of Soviet authority in the Caucasus.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "episode": {
+        "id": 26,
+        "title": "Morning Drops #20 - Hitchhiking Poland",
+        "description": "Yasmin takes you back to the summer of 2020, when borders were still uncertain and a long-held wish to visit Poland finally came true. Through four tracks, tracing her journey from a stranger's couch in Poznań to the peaks of Zakopane.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-hitchhiking-poland",
+        "songs": [
+          "Pidżama Porno - Ezoteryczny Poznań",
+          "Seev, Masswo - Primal Scream",
+          "Antoha MC - Ритм сердца",
+          "Yugopolis & Maciej Maleńczuk - Ostatnia Nocka"
+        ],
+        "music-genres": [
+          "Polish Rock",
+          "Electronic",
+          "Russian Rap",
+          "Slavic Folk Rock"
+        ]
+      },
+      "match_reason": "Protests during the Soviet collapse in the Caucasus resonate with an episode roaming a post‑Soviet landscape via Polish and Russian sounds, both tracing how borders and identities shift across Eastern Europe."
     }
   ],
   "generated_at": "2026-01-20T00:00:00.008284+00:00",
   "date": "2026-01-20",
-  "updated_at": "2026-01-20T18:00:01.666446+00:00"
+  "updated_at": "2026-01-20T19:00:01.945532+00:00"
 }
