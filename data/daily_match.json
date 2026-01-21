@@ -1,65 +1,40 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "As part of Operation Animals in 1943, British saboteurs and Greek resistance fighters blew up a key railway bridge over the Asopos River and ambushed a German convoy at Sarantaporos. These coordinated strikes were designed to mislead the Axis about Allied plans in the Mediterranean, turning sabotage into a kind of deadly misdirection.",
-    "fact_year": 1943,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Animals",
+    "hour": 4,
+    "fact_text": "In 1971, the Emley Moor transmitting station began beaming out UHF broadcasts from what is still the tallest free-standing structure in the United Kingdom. Rising 330 meters above the Yorkshire hills, this concrete giant quietly became a kind of modern cathedral of television and radio waves.",
+    "fact_year": 1971,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
         "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Trip-Hop"
       ]
     },
-    "match_reason": "Industrial sabotage and wartime railways fit well with the episode’s steel, machinery, and gritty-urban-industrial soundscape."
+    "match_reason": "A monumental broadcast tower that connects people through invisible waves resonates with an episode about a shared sonic journey and the magic of transmission."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1971, the Emley Moor transmitting station began beaming out UHF broadcasts from what is still the tallest free-standing structure in the United Kingdom. Rising 330 meters above the Yorkshire hills, this concrete giant quietly became a kind of modern cathedral of television and radio waves.",
-      "fact_year": 1971,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A monumental broadcast tower that connects people through invisible waves resonates with an episode about a shared sonic journey and the magic of transmission."
-    },
     {
       "hour": 5,
       "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering parts of its nuclear weapons and radioactive debris across the Arctic ice. Despite an enormous cleanup, one of the four hydrogen bombs’ cores was never definitively recovered, leaving a literal Cold War mystery buried under snow and sea.",
@@ -650,9 +625,43 @@
         ]
       },
       "match_reason": "Industrial sabotage and wartime railways fit well with the episode’s steel, machinery, and gritty-urban-industrial soundscape."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1971, the Emley Moor transmitting station began beaming out UHF broadcasts from what is still the tallest free-standing structure in the United Kingdom. Rising 330 meters above the Yorkshire hills, this concrete giant quietly became a kind of modern cathedral of television and radio waves.",
+      "fact_year": 1971,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A monumental broadcast tower that connects people through invisible waves resonates with an episode about a shared sonic journey and the magic of transmission."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T03:00:01.657483+00:00"
+  "updated_at": "2026-01-21T04:00:01.454067+00:00"
 }
