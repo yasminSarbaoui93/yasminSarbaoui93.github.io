@@ -1,65 +1,40 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "In 2004, NASA’s rover Spirit wasn’t the only machine dealing with memory—its problem centered on flash memory, a kind of solid-state storage that quietly transformed everything from cameras to spacecraft. Flash’s ability to store data without power made it perfect for the cold, distant, and occasionally glitchy surface of Mars.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_memory",
+    "hour": 21,
+    "fact_text": "On this day in 1960, Miss Sam’s suborbital hop was part of Project Mercury, the United States’ first crewed spaceflight program. Before any American astronaut rode a rocket, the program launched animals and uncrewed capsules to test everything from escape systems to how a tiny capsule behaved at the edge of space.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A technology story about flash memory powering our devices (and Mars rovers) fits an episode dissecting our dependence on the very gadgets that carry that memory."
+    "match_reason": "A program literally called \"Mercury\" that opened the era of human space travel matches an episode framed as a voyage to Sedna, charting new territories through sound."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On this day in 1960, Miss Sam’s suborbital hop was part of Project Mercury, the United States’ first crewed spaceflight program. Before any American astronaut rode a rocket, the program launched animals and uncrewed capsules to test everything from escape systems to how a tiny capsule behaved at the edge of space.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A program literally called \"Mercury\" that opened the era of human space travel matches an episode framed as a voyage to Sedna, charting new territories through sound."
-    },
     {
       "hour": 22,
       "fact_text": "The 1968 Thule incident unfolded near what is now Pituffik Space Base in Greenland, a Cold War outpost that has since evolved into a hub for space surveillance. That arc—from nuclear-armed bombers circling the Arctic to orbital tracking radars scanning the sky—shows how the same icy ground can host very different visions of security.",
@@ -652,9 +627,43 @@
         ]
       },
       "match_reason": "A technology story about flash memory powering our devices (and Mars rovers) fits an episode dissecting our dependence on the very gadgets that carry that memory."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On this day in 1960, Miss Sam’s suborbital hop was part of Project Mercury, the United States’ first crewed spaceflight program. Before any American astronaut rode a rocket, the program launched animals and uncrewed capsules to test everything from escape systems to how a tiny capsule behaved at the edge of space.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A program literally called \"Mercury\" that opened the era of human space travel matches an episode framed as a voyage to Sedna, charting new territories through sound."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T20:00:01.588072+00:00"
+  "updated_at": "2026-01-21T21:00:02.105059+00:00"
 }
