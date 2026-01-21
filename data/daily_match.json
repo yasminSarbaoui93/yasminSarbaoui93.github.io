@@ -1,59 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1854, the iron-hulled clipper RMS Tayleur sank off Lambay Island on her maiden voyage from Liverpool to Australia, partly because her crew couldn’t understand each other’s languages and some compasses were misaligned by the new metal hull. The disaster showed how cutting-edge technology, rushed timelines, and poor planning can combine into tragedy at sea.",
-    "fact_year": 1854,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Tayleur",
+    "hour": 9,
+    "fact_text": "In 2023, a 72-year-old gunman opened fire at a dance studio in Monterey Park, California, killing eleven people during Lunar New Year celebrations. The attack shattered what should have been a night of music, movement, and community for a largely Asian American neighborhood.",
+    "fact_year": 2023,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2023_Monterey_Park_shooting",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A historic maritime tragedy linked to navigation and multinational crew contrasts poignantly with a modern, joyful sailing journey built on communication and shared songs."
+    "match_reason": "A violent rupture of a communal celebration is answered with an episode that offers space, slowness, and gentle sound as a counterweight to shock and grief."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 2023, a 72-year-old gunman opened fire at a dance studio in Monterey Park, California, killing eleven people during Lunar New Year celebrations. The attack shattered what should have been a night of music, movement, and community for a largely Asian American neighborhood.",
-      "fact_year": 2023,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2023_Monterey_Park_shooting",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A violent rupture of a communal celebration is answered with an episode that offers space, slowness, and gentle sound as a counterweight to shock and grief."
-    },
     {
       "hour": 10,
       "fact_text": "In 1985, Galaxy Airlines Flight 203 crashed shortly after takeoff from Reno–Tahoe International Airport when a loose air plug and poor crew coordination led to loss of control. The accident became a stark case study in how tiny mechanical oversights and human factors can cascade into large-scale aviation disasters.",
@@ -655,9 +627,34 @@
         ]
       },
       "match_reason": "A historic maritime tragedy linked to navigation and multinational crew contrasts poignantly with a modern, joyful sailing journey built on communication and shared songs."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 2023, a 72-year-old gunman opened fire at a dance studio in Monterey Park, California, killing eleven people during Lunar New Year celebrations. The attack shattered what should have been a night of music, movement, and community for a largely Asian American neighborhood.",
+      "fact_year": 2023,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2023_Monterey_Park_shooting",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A violent rupture of a communal celebration is answered with an episode that offers space, slowness, and gentle sound as a counterweight to shock and grief."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T08:00:02.366511+00:00"
+  "updated_at": "2026-01-21T09:00:01.980104+00:00"
 }
