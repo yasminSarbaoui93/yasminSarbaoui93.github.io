@@ -1,49 +1,30 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "In 2025, a fire swept through the Grand Kartal Hotel in the Kartalkaya ski resort in Turkey, killing 78 people and injuring 51. The blaze raced through the winter getaway, turning a place of snow and leisure into one of the country’s deadliest hotel fires.",
-    "fact_year": 2025,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2025_Kartalkaya_hotel_fire",
+    "hour": 15,
+    "fact_text": "In 1999, the U.S. Coast Guard intercepted a ship carrying more than 4,300 kilograms of cocaine, one of the largest maritime drug seizures in American history. The bust highlighted how the \"war on drugs\" often plays out far from shore, in cat-and-mouse chases across open water.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/War_on_drugs",
     "episode": {
-      "id": 25,
-      "title": "Morning Drops #19 - Wabi Sabi",
-      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+      "id": 19,
+      "title": "Morning Drops #13 - Demystifying Reggaeton",
+      "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
       "songs": [
-        "song 1"
+        "Renato - Chica de los Ojos Café",
+        "B. F. Yaviah - Si Tu Quieres Fumar",
+        "Calle 13 - Atrévete",
+        "Bad Bunny - DtMF"
       ],
       "music-genres": [
-        "genre 1"
+        "Reggaeton",
+        "Latin Urban",
+        "Hip-Hop"
       ]
     },
-    "match_reason": "A tragic hotel fire in a holiday setting invites reflection on fragility and things going terribly wrong, resonating with an episode about imperfection, acceptance, and finding meaning after mistakes."
+    "match_reason": "A massive cocaine seizure on the high seas connects directly to an episode unpacking reggaeton’s roots, where drug economies, Caribbean routes, and urban culture interweave."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1999, the U.S. Coast Guard intercepted a ship carrying more than 4,300 kilograms of cocaine, one of the largest maritime drug seizures in American history. The bust highlighted how the \"war on drugs\" often plays out far from shore, in cat-and-mouse chases across open water.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/War_on_drugs",
-      "episode": {
-        "id": 19,
-        "title": "Morning Drops #13 - Demystifying Reggaeton",
-        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
-        "songs": [
-          "Renato - Chica de los Ojos Café",
-          "B. F. Yaviah - Si Tu Quieres Fumar",
-          "Calle 13 - Atrévete",
-          "Bad Bunny - DtMF"
-        ],
-        "music-genres": [
-          "Reggaeton",
-          "Latin Urban",
-          "Hip-Hop"
-        ]
-      },
-      "match_reason": "A massive cocaine seizure on the high seas connects directly to an episode unpacking reggaeton’s roots, where drug economies, Caribbean routes, and urban culture interweave."
-    },
     {
       "hour": 16,
       "fact_text": "In 1980, Iran Air Flight 291 crashed into the Alborz Mountains while approaching Tehran in poor weather, killing all 128 people on board. Investigations pointed to navigation errors and deactivated equipment, a fatal combination in the rugged terrain north of the city.",
@@ -644,9 +625,33 @@
         ]
       },
       "match_reason": "A tragic hotel fire in a holiday setting invites reflection on fragility and things going terribly wrong, resonating with an episode about imperfection, acceptance, and finding meaning after mistakes."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1999, the U.S. Coast Guard intercepted a ship carrying more than 4,300 kilograms of cocaine, one of the largest maritime drug seizures in American history. The bust highlighted how the \"war on drugs\" often plays out far from shore, in cat-and-mouse chases across open water.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/War_on_drugs",
+      "episode": {
+        "id": 19,
+        "title": "Morning Drops #13 - Demystifying Reggaeton",
+        "description": "Yasmin takes us on a journey through the real story of reggaeton — from its roots in Panama and Puerto Rico to its global evolution. Exploring the genre's history, influences, and cultural impact.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-demystifying-reggaeton",
+        "songs": [
+          "Renato - Chica de los Ojos Café",
+          "B. F. Yaviah - Si Tu Quieres Fumar",
+          "Calle 13 - Atrévete",
+          "Bad Bunny - DtMF"
+        ],
+        "music-genres": [
+          "Reggaeton",
+          "Latin Urban",
+          "Hip-Hop"
+        ]
+      },
+      "match_reason": "A massive cocaine seizure on the high seas connects directly to an episode unpacking reggaeton’s roots, where drug economies, Caribbean routes, and urban culture interweave."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T14:00:01.841166+00:00"
+  "updated_at": "2026-01-21T15:00:02.266172+00:00"
 }
