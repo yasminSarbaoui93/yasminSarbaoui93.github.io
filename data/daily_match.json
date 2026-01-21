@@ -1,59 +1,34 @@
 {
-  "current_hour": 7,
+  "current_hour": 8,
   "current_fact": {
-    "hour": 7,
-    "fact_text": "In 1932, Finland and the Soviet Union signed a non-aggression pact, an apparently calming document between neighbors who would nevertheless fall into bloody conflict just seven years later in the Winter War. The treaty now reads like a fragile promise written against the grain of history.",
-    "fact_year": 1932,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Finnish_Non-Aggression_Pact",
+    "hour": 8,
+    "fact_text": "In 1854, the iron-hulled clipper RMS Tayleur sank off Lambay Island on her maiden voyage from Liverpool to Australia, partly because her crew couldn’t understand each other’s languages and some compasses were misaligned by the new metal hull. The disaster showed how cutting-edge technology, rushed timelines, and poor planning can combine into tragedy at sea.",
+    "fact_year": 1854,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Tayleur",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A seemingly stabilizing treaty before looming conflict resonates with an episode about transitions and what grounds us when political and seasonal weather inevitably changes."
+    "match_reason": "A historic maritime tragedy linked to navigation and multinational crew contrasts poignantly with a modern, joyful sailing journey built on communication and shared songs."
   },
   "queue": [
-    {
-      "hour": 8,
-      "fact_text": "In 1854, the iron-hulled clipper RMS Tayleur sank off Lambay Island on her maiden voyage from Liverpool to Australia, partly because her crew couldn’t understand each other’s languages and some compasses were misaligned by the new metal hull. The disaster showed how cutting-edge technology, rushed timelines, and poor planning can combine into tragedy at sea.",
-      "fact_year": 1854,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Tayleur",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A historic maritime tragedy linked to navigation and multinational crew contrasts poignantly with a modern, joyful sailing journey built on communication and shared songs."
-    },
     {
       "hour": 9,
       "fact_text": "In 2023, a 72-year-old gunman opened fire at a dance studio in Monterey Park, California, killing eleven people during Lunar New Year celebrations. The attack shattered what should have been a night of music, movement, and community for a largely Asian American neighborhood.",
@@ -652,9 +627,37 @@
         ]
       },
       "match_reason": "A seemingly stabilizing treaty before looming conflict resonates with an episode about transitions and what grounds us when political and seasonal weather inevitably changes."
+    },
+    {
+      "hour": 8,
+      "fact_text": "In 1854, the iron-hulled clipper RMS Tayleur sank off Lambay Island on her maiden voyage from Liverpool to Australia, partly because her crew couldn’t understand each other’s languages and some compasses were misaligned by the new metal hull. The disaster showed how cutting-edge technology, rushed timelines, and poor planning can combine into tragedy at sea.",
+      "fact_year": 1854,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/RMS_Tayleur",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A historic maritime tragedy linked to navigation and multinational crew contrasts poignantly with a modern, joyful sailing journey built on communication and shared songs."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T07:00:01.636320+00:00"
+  "updated_at": "2026-01-21T08:00:02.366511+00:00"
 }
