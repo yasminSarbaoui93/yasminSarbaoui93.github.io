@@ -1,65 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "In 1971, the Emley Moor transmitting station began beaming out UHF broadcasts from what is still the tallest free-standing structure in the United Kingdom. Rising 330 meters above the Yorkshire hills, this concrete giant quietly became a kind of modern cathedral of television and radio waves.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+    "hour": 5,
+    "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering parts of its nuclear weapons and radioactive debris across the Arctic ice. Despite an enormous cleanup, one of the four hydrogen bombs’ cores was never definitively recovered, leaving a literal Cold War mystery buried under snow and sea.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A monumental broadcast tower that connects people through invisible waves resonates with an episode about a shared sonic journey and the magic of transmission."
+    "match_reason": "A chilling nuclear mishap in the Arctic contrasts with the episode’s gentle, slowed-down mood, inviting reflection on how fragile our 'slow planet' really is."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering parts of its nuclear weapons and radioactive debris across the Arctic ice. Despite an enormous cleanup, one of the four hydrogen bombs’ cores was never definitively recovered, leaving a literal Cold War mystery buried under snow and sea.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "A chilling nuclear mishap in the Arctic contrasts with the episode’s gentle, slowed-down mood, inviting reflection on how fragile our 'slow planet' really is."
-    },
     {
       "hour": 6,
       "fact_text": "On this day in 2003, a magnitude 7.6 earthquake struck Mexico’s state of Colima, shaking buildings across western Mexico, killing 29 people, and leaving around 10,000 homeless. The quake ruptured along the boundary of the Cocos and North American plates, a reminder that Mexico’s Pacific coast rides a restless geological seam.",
@@ -659,9 +625,34 @@
         ]
       },
       "match_reason": "A monumental broadcast tower that connects people through invisible waves resonates with an episode about a shared sonic journey and the magic of transmission."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering parts of its nuclear weapons and radioactive debris across the Arctic ice. Despite an enormous cleanup, one of the four hydrogen bombs’ cores was never definitively recovered, leaving a literal Cold War mystery buried under snow and sea.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "A chilling nuclear mishap in the Arctic contrasts with the episode’s gentle, slowed-down mood, inviting reflection on how fragile our 'slow planet' really is."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T04:00:01.454067+00:00"
+  "updated_at": "2026-01-21T05:00:01.626245+00:00"
 }
