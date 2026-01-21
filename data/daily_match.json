@@ -1,66 +1,32 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On this day in 1960, Miss Sam’s suborbital hop was part of Project Mercury, the United States’ first crewed spaceflight program. Before any American astronaut rode a rocket, the program launched animals and uncrewed capsules to test everything from escape systems to how a tiny capsule behaved at the edge of space.",
-    "fact_year": 1960,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
+    "hour": 22,
+    "fact_text": "The 1968 Thule incident unfolded near what is now Pituffik Space Base in Greenland, a Cold War outpost that has since evolved into a hub for space surveillance. That arc—from nuclear-armed bombers circling the Arctic to orbital tracking radars scanning the sky—shows how the same icy ground can host very different visions of security.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Alternative Rock",
+        "Experimental Electronic",
+        "Hip Hop",
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "A program literally called \"Mercury\" that opened the era of human space travel matches an episode framed as a voyage to Sedna, charting new territories through sound."
+    "match_reason": "A base transformed from nuclear bomber support to space-tracking reflects long-term iterative learning and technological evolution, fitting an episode on gradual progress and rethinking old paradigms."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The 1968 Thule incident unfolded near what is now Pituffik Space Base in Greenland, a Cold War outpost that has since evolved into a hub for space surveillance. That arc—from nuclear-armed bombers circling the Arctic to orbital tracking radars scanning the sky—shows how the same icy ground can host very different visions of security.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "A base transformed from nuclear bomber support to space-tracking reflects long-term iterative learning and technological evolution, fitting an episode on gradual progress and rethinking old paradigms."
-    },
     {
       "hour": 23,
       "fact_text": "NASA itself, founded in 1958, grew out of the Space Race but quickly became a sprawling ecosystem of scientists, engineers, artists, and archivists telling humanity’s story beyond Earth. From planetary probes to climate satellites, it turned the sky from a distant ceiling into a place we routinely measure, map, and visit by proxy.",
@@ -661,9 +627,35 @@
         ]
       },
       "match_reason": "A program literally called \"Mercury\" that opened the era of human space travel matches an episode framed as a voyage to Sedna, charting new territories through sound."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The 1968 Thule incident unfolded near what is now Pituffik Space Base in Greenland, a Cold War outpost that has since evolved into a hub for space surveillance. That arc—from nuclear-armed bombers circling the Arctic to orbital tracking radars scanning the sky—shows how the same icy ground can host very different visions of security.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "A base transformed from nuclear bomber support to space-tracking reflects long-term iterative learning and technological evolution, fitting an episode on gradual progress and rethinking old paradigms."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T21:00:02.105059+00:00"
+  "updated_at": "2026-01-21T22:00:01.752401+00:00"
 }
