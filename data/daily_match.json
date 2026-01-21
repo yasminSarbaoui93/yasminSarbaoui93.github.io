@@ -1,66 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The 1968 Thule incident unfolded near what is now Pituffik Space Base in Greenland, a Cold War outpost that has since evolved into a hub for space surveillance. That arc—from nuclear-armed bombers circling the Arctic to orbital tracking radars scanning the sky—shows how the same icy ground can host very different visions of security.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
+    "hour": 23,
+    "fact_text": "NASA itself, founded in 1958, grew out of the Space Race but quickly became a sprawling ecosystem of scientists, engineers, artists, and archivists telling humanity’s story beyond Earth. From planetary probes to climate satellites, it turned the sky from a distant ceiling into a place we routinely measure, map, and visit by proxy.",
+    "fact_year": 1958,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
     "episode": {
-      "id": 49,
-      "title": "Morning Drops #42 - The Joy Of Learning",
-      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Radiohead - Separator",
-        "Mac Miller - What's the Use?",
-        "Morad & Beny Jr - Sigue",
-        "Post Malone - White Iverson"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Experimental Electronic",
-        "Hip Hop",
-        "Neo-Soul",
-        "Drill / Trap"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A base transformed from nuclear bomber support to space-tracking reflects long-term iterative learning and technological evolution, fitting an episode on gradual progress and rethinking old paradigms."
+    "match_reason": "NASA’s origin story as the launchpad for humanity’s space era mirrors Sedna FM’s first episode launching its own universe of sound and community."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "NASA itself, founded in 1958, grew out of the Space Race but quickly became a sprawling ecosystem of scientists, engineers, artists, and archivists telling humanity’s story beyond Earth. From planetary probes to climate satellites, it turned the sky from a distant ceiling into a place we routinely measure, map, and visit by proxy.",
-      "fact_year": 1958,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "NASA’s origin story as the launchpad for humanity’s space era mirrors Sedna FM’s first episode launching its own universe of sound and community."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -653,9 +626,42 @@
         ]
       },
       "match_reason": "A base transformed from nuclear bomber support to space-tracking reflects long-term iterative learning and technological evolution, fitting an episode on gradual progress and rethinking old paradigms."
+    },
+    {
+      "hour": 23,
+      "fact_text": "NASA itself, founded in 1958, grew out of the Space Race but quickly became a sprawling ecosystem of scientists, engineers, artists, and archivists telling humanity’s story beyond Earth. From planetary probes to climate satellites, it turned the sky from a distant ceiling into a place we routinely measure, map, and visit by proxy.",
+      "fact_year": 1958,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/NASA",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "NASA’s origin story as the launchpad for humanity’s space era mirrors Sedna FM’s first episode launching its own universe of sound and community."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T22:00:01.752401+00:00"
+  "updated_at": "2026-01-21T23:00:01.502117+00:00"
 }
