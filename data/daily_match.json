@@ -1,70 +1,39 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "During the 1968 Thule Air Base crash cleanup, Danish workers used steam hoses to melt contaminated ice and snow, then pumped the slush into tanks for shipment away—a surreal operation that turned the frozen sea into a temporary radioactive soup. The strange method illustrated how improvised and experimental Cold War environmental responses could be.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
+    "hour": 23,
+    "fact_text": "Project Mercury’s Little Joe 1B flight in 1960 didn’t just test a rocket—it tested the very system designed to yank future astronauts to safety if their booster exploded. Miss Sam’s brief, successful ride and recovery showed that an escape tower could pull a capsule away fast enough, a life-or-death choreography measured in fractions of a second.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
+        "Hip-Hop",
         "Afrobeat",
-        "Funk",
-        "Electronic"
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A surreal Arctic decontamination under a space-base sky connects with this episode’s sense of drifting through strange atmospheres, from 'solar winds' to textured, worldly soundscapes."
+    "match_reason": "A foundational, explosive test that made human spaceflight safer pairs with Sedna’s own first, high-energy 'launch' episode—the moment a project leaves the pad and becomes real."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "Project Mercury’s Little Joe 1B flight in 1960 didn’t just test a rocket—it tested the very system designed to yank future astronauts to safety if their booster exploded. Miss Sam’s brief, successful ride and recovery showed that an escape tower could pull a capsule away fast enough, a life-or-death choreography measured in fractions of a second.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A foundational, explosive test that made human spaceflight safer pairs with Sedna’s own first, high-energy 'launch' episode—the moment a project leaves the pad and becomes real."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -655,9 +624,42 @@
         ]
       },
       "match_reason": "A surreal Arctic decontamination under a space-base sky connects with this episode’s sense of drifting through strange atmospheres, from 'solar winds' to textured, worldly soundscapes."
+    },
+    {
+      "hour": 23,
+      "fact_text": "Project Mercury’s Little Joe 1B flight in 1960 didn’t just test a rocket—it tested the very system designed to yank future astronauts to safety if their booster exploded. Miss Sam’s brief, successful ride and recovery showed that an escape tower could pull a capsule away fast enough, a life-or-death choreography measured in fractions of a second.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Project_Mercury",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A foundational, explosive test that made human spaceflight safer pairs with Sedna’s own first, high-energy 'launch' episode—the moment a project leaves the pad and becomes real."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T22:00:01.748938+00:00"
+  "updated_at": "2026-01-21T23:00:02.012805+00:00"
 }
