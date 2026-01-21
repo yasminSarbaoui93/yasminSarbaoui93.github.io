@@ -1,61 +1,36 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "The 2003 Colima earthquake didn’t just shake the ground—it also triggered small landslides and changes in local springs, showing how a single tectonic jolt can subtly re-plumb a region’s water and soil. Even after the aftershocks fade, earthquakes keep reshaping the landscape in ways that are easy to miss.",
-    "fact_year": 2003,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Colima",
+    "hour": 22,
+    "fact_text": "During the 1968 Thule Air Base crash cleanup, Danish workers used steam hoses to melt contaminated ice and snow, then pumped the slush into tanks for shipment away—a surreal operation that turned the frozen sea into a temporary radioactive soup. The strange method illustrated how improvised and experimental Cold War environmental responses could be.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Minimal Jazz",
+        "Ambient",
+        "Deep House",
+        "World Music",
         "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "The contrast between sudden seismic disruption and the languid, coastal calm of an 'endless summer' underscores how quietly landscapes—and lives—can shift beneath seemingly tranquil surfaces."
+    "match_reason": "A surreal Arctic decontamination under a space-base sky connects with this episode’s sense of drifting through strange atmospheres, from 'solar winds' to textured, worldly soundscapes."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "During the 1968 Thule Air Base crash cleanup, Danish workers used steam hoses to melt contaminated ice and snow, then pumped the slush into tanks for shipment away—a surreal operation that turned the frozen sea into a temporary radioactive soup. The strange method illustrated how improvised and experimental Cold War environmental responses could be.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A surreal Arctic decontamination under a space-base sky connects with this episode’s sense of drifting through strange atmospheres, from 'solar winds' to textured, worldly soundscapes."
-    },
     {
       "hour": 23,
       "fact_text": "Project Mercury’s Little Joe 1B flight in 1960 didn’t just test a rocket—it tested the very system designed to yank future astronauts to safety if their booster exploded. Miss Sam’s brief, successful ride and recovery showed that an escape tower could pull a capsule away fast enough, a life-or-death choreography measured in fractions of a second.",
@@ -650,9 +625,39 @@
         ]
       },
       "match_reason": "The contrast between sudden seismic disruption and the languid, coastal calm of an 'endless summer' underscores how quietly landscapes—and lives—can shift beneath seemingly tranquil surfaces."
+    },
+    {
+      "hour": 22,
+      "fact_text": "During the 1968 Thule Air Base crash cleanup, Danish workers used steam hoses to melt contaminated ice and snow, then pumped the slush into tanks for shipment away—a surreal operation that turned the frozen sea into a temporary radioactive soup. The strange method illustrated how improvised and experimental Cold War environmental responses could be.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pituffik_Space_Base",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A surreal Arctic decontamination under a space-base sky connects with this episode’s sense of drifting through strange atmospheres, from 'solar winds' to textured, worldly soundscapes."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T21:00:01.646505+00:00"
+  "updated_at": "2026-01-21T22:00:01.748938+00:00"
 }
