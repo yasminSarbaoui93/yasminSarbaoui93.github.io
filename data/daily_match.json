@@ -1,56 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "In 2004, when NASA’s Spirit rover stalled out on Mars, the culprit turned out to be an overloaded flash memory system—basically, the robot’s \"hard drive\" was too full. Engineers had to wipe parts of its memory and carefully change how it stored data, turning a consumer-like technology into a critical survival system on another world.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_memory",
+    "hour": 21,
+    "fact_text": "The 2003 Colima earthquake didn’t just shake the ground—it also triggered small landslides and changes in local springs, showing how a single tectonic jolt can subtly re-plumb a region’s water and soil. Even after the aftershocks fade, earthquakes keep reshaping the landscape in ways that are easy to miss.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Colima",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A Martian rover crashing from memory overload pairs neatly with an episode dissecting our own digital overload and dependence on devices and storage."
+    "match_reason": "The contrast between sudden seismic disruption and the languid, coastal calm of an 'endless summer' underscores how quietly landscapes—and lives—can shift beneath seemingly tranquil surfaces."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "The 2003 Colima earthquake didn’t just shake the ground—it also triggered small landslides and changes in local springs, showing how a single tectonic jolt can subtly re-plumb a region’s water and soil. Even after the aftershocks fade, earthquakes keep reshaping the landscape in ways that are easy to miss.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Colima",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "The contrast between sudden seismic disruption and the languid, coastal calm of an 'endless summer' underscores how quietly landscapes—and lives—can shift beneath seemingly tranquil surfaces."
-    },
     {
       "hour": 22,
       "fact_text": "During the 1968 Thule Air Base crash cleanup, Danish workers used steam hoses to melt contaminated ice and snow, then pumped the slush into tanks for shipment away—a surreal operation that turned the frozen sea into a temporary radioactive soup. The strange method illustrated how improvised and experimental Cold War environmental responses could be.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "A Martian rover crashing from memory overload pairs neatly with an episode dissecting our own digital overload and dependence on devices and storage."
+    },
+    {
+      "hour": 21,
+      "fact_text": "The 2003 Colima earthquake didn’t just shake the ground—it also triggered small landslides and changes in local springs, showing how a single tectonic jolt can subtly re-plumb a region’s water and soil. Even after the aftershocks fade, earthquakes keep reshaping the landscape in ways that are easy to miss.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Colima",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "The contrast between sudden seismic disruption and the languid, coastal calm of an 'endless summer' underscores how quietly landscapes—and lives—can shift beneath seemingly tranquil surfaces."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T20:00:02.001310+00:00"
+  "updated_at": "2026-01-21T21:00:01.646505+00:00"
 }
