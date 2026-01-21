@@ -1,62 +1,38 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "Also in 1968, the Battle of Khe Sanh began in Vietnam, one of the war’s most publicized and controversial sieges. For 77 days, U.S. Marines and South Vietnamese forces held a remote hilltop base under relentless bombardment, while strategists argued whether it was a trap, a distraction, or a potential second Dien Bien Phu.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Khe_Sanh",
+    "hour": 13,
+    "fact_text": "On this day in 1789, William Hill Brown’s \"The Power of Sympathy\" was printed in Boston, widely regarded as the first American novel. Framed as a tale of seduction and moral lesson, it also captured a young nation experimenting with its own literary voice.",
+    "fact_year": 1789,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Power_of_Sympathy",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A long, contested battle in a remote terrain resonates with Tuareg desert blues, where guitars carry stories of siege, resistance, and survival in harsh landscapes."
+    "match_reason": "A pioneering novel about sympathy, morality, and inner life mirrors an episode centered on inner beauty and how stories—literary or musical—shape the self."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On this day in 1789, William Hill Brown’s \"The Power of Sympathy\" was printed in Boston, widely regarded as the first American novel. Framed as a tale of seduction and moral lesson, it also captured a young nation experimenting with its own literary voice.",
-      "fact_year": 1789,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Power_of_Sympathy",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A pioneering novel about sympathy, morality, and inner life mirrors an episode centered on inner beauty and how stories—literary or musical—shape the self."
-    },
     {
       "hour": 14,
       "fact_text": "In 2025, a fire swept through the Grand Kartal Hotel in the Kartalkaya ski resort in Turkey, killing 78 people and injuring 51. The blaze raced through the winter getaway, turning a place of snow and leisure into one of the country’s deadliest hotel fires.",
@@ -649,9 +625,41 @@
         ]
       },
       "match_reason": "A long, contested battle in a remote terrain resonates with Tuareg desert blues, where guitars carry stories of siege, resistance, and survival in harsh landscapes."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On this day in 1789, William Hill Brown’s \"The Power of Sympathy\" was printed in Boston, widely regarded as the first American novel. Framed as a tale of seduction and moral lesson, it also captured a young nation experimenting with its own literary voice.",
+      "fact_year": 1789,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/The_Power_of_Sympathy",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A pioneering novel about sympathy, morality, and inner life mirrors an episode centered on inner beauty and how stories—literary or musical—shape the self."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T12:00:01.765236+00:00"
+  "updated_at": "2026-01-21T13:00:01.666831+00:00"
 }
