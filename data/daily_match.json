@@ -1,57 +1,31 @@
 {
-  "current_hour": 19,
+  "current_hour": 20,
   "current_fact": {
-    "hour": 19,
-    "fact_text": "In 2000, amid economic turmoil and indigenous-led protests, Ecuador’s Congress was seized and President Jamil Mahuad was deposed in a dizzying chain of events. Power passed through a short-lived junta to Vice-President Gustavo Noboa, illustrating how quickly political structures can fracture and re-form.",
-    "fact_year": 2000,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Jamil_Mahuad",
+    "hour": 20,
+    "fact_text": "In 2004, when NASA’s Spirit rover stalled out on Mars, the culprit turned out to be an overloaded flash memory system—basically, the robot’s \"hard drive\" was too full. Engineers had to wipe parts of its memory and carefully change how it stored data, turning a consumer-like technology into a critical survival system on another world.",
+    "fact_year": 2004,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_memory",
     "episode": {
-      "id": 51,
-      "title": "Morning Drops #44 - Residente",
-      "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Calle 13 - La Jirafa",
-        "Calle 13 - Adentro",
-        "Residente - René",
-        "Calle 13 - La Vuelta al Mundo"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Latin Alternative",
-        "Hip Hop",
-        "Urban",
-        "Rap",
-        "World"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "An indigenous-backed uprising and a toppled president align with Residente’s politically charged narratives about Latin American unrest, power, and identity."
+    "match_reason": "A Martian rover crashing from memory overload pairs neatly with an episode dissecting our own digital overload and dependence on devices and storage."
   },
   "queue": [
-    {
-      "hour": 20,
-      "fact_text": "In 2004, when NASA’s Spirit rover stalled out on Mars, the culprit turned out to be an overloaded flash memory system—basically, the robot’s \"hard drive\" was too full. Engineers had to wipe parts of its memory and carefully change how it stored data, turning a consumer-like technology into a critical survival system on another world.",
-      "fact_year": 2004,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_memory",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A Martian rover crashing from memory overload pairs neatly with an episode dissecting our own digital overload and dependence on devices and storage."
-    },
     {
       "hour": 21,
       "fact_text": "The 2003 Colima earthquake didn’t just shake the ground—it also triggered small landslides and changes in local springs, showing how a single tectonic jolt can subtly re-plumb a region’s water and soil. Even after the aftershocks fade, earthquakes keep reshaping the landscape in ways that are easy to miss.",
@@ -651,9 +625,34 @@
         ]
       },
       "match_reason": "An indigenous-backed uprising and a toppled president align with Residente’s politically charged narratives about Latin American unrest, power, and identity."
+    },
+    {
+      "hour": 20,
+      "fact_text": "In 2004, when NASA’s Spirit rover stalled out on Mars, the culprit turned out to be an overloaded flash memory system—basically, the robot’s \"hard drive\" was too full. Engineers had to wipe parts of its memory and carefully change how it stored data, turning a consumer-like technology into a critical survival system on another world.",
+      "fact_year": 2004,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Flash_memory",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A Martian rover crashing from memory overload pairs neatly with an episode dissecting our own digital overload and dependence on devices and storage."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T19:00:01.912505+00:00"
+  "updated_at": "2026-01-21T20:00:02.001310+00:00"
 }
