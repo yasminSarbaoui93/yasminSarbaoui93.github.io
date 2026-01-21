@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1985, Galaxy Airlines Flight 203 crashed shortly after takeoff from Reno–Tahoe International Airport, killing 70 of the 71 people on board. Investigators later found that a loose air-conditioning access door likely disturbed airflow and contributed to the crew’s loss of control in the dark Nevada night.",
-    "fact_year": 1985,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Galaxy_Airlines_Flight_203",
+    "hour": 11,
+    "fact_text": "In 1951, Mount Lamington in Papua New Guinea—previously thought to be dormant—erupted catastrophically, obliterating nearby villages and killing almost 3,000 people. The eruption carved a huge crater into the mountain and transformed the surrounding landscape in a matter of minutes.",
+    "fact_year": 1951,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1951_eruption_of_Mount_Lamington",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "An aircraft accident bound up with mechanical failures and sudden catastrophe echoes the high-voltage tension and 'shock' imagery of this rock-driven episode."
+    "match_reason": "A dramatic eruption reshaping a tropical landscape is paired with an episode rooted in Southeast Asian heat, physical intensity, and the raw power of nature and the body."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1951, Mount Lamington in Papua New Guinea—previously thought to be dormant—erupted catastrophically, obliterating nearby villages and killing almost 3,000 people. The eruption carved a huge crater into the mountain and transformed the surrounding landscape in a matter of minutes.",
-      "fact_year": 1951,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1951_eruption_of_Mount_Lamington",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A dramatic eruption reshaping a tropical landscape is paired with an episode rooted in Southeast Asian heat, physical intensity, and the raw power of nature and the body."
-    },
     {
       "hour": 12,
       "fact_text": "Also in 1968, the Battle of Khe Sanh began in Vietnam, one of the war’s most publicized and controversial sieges. For 77 days, U.S. Marines and South Vietnamese forces held a remote hilltop base under relentless bombardment, while strategists argued whether it was a trap, a distraction, or a potential second Dien Bien Phu.",
@@ -650,9 +625,34 @@
         ]
       },
       "match_reason": "An aircraft accident bound up with mechanical failures and sudden catastrophe echoes the high-voltage tension and 'shock' imagery of this rock-driven episode."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1951, Mount Lamington in Papua New Guinea—previously thought to be dormant—erupted catastrophically, obliterating nearby villages and killing almost 3,000 people. The eruption carved a huge crater into the mountain and transformed the surrounding landscape in a matter of minutes.",
+      "fact_year": 1951,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1951_eruption_of_Mount_Lamington",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A dramatic eruption reshaping a tropical landscape is paired with an episode rooted in Southeast Asian heat, physical intensity, and the raw power of nature and the body."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T10:00:01.824126+00:00"
+  "updated_at": "2026-01-21T11:00:01.681222+00:00"
 }
