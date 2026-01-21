@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2004, NASA's Mars rover Spirit suddenly went silent on the Red Planet—not because of a dramatic crash, but due to a software bug in how it managed its flash memory. Engineers on Earth essentially performed 'remote brain surgery' from millions of kilometers away, rewriting its file system behavior and bringing the rover back to life by early February.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+    "hour": 1,
+    "fact_text": "On this day in 1960, a tiny rhesus monkey named Miss Sam rode a Mercury test capsule called Little Joe 1B high into the sky from Wallops Island. Her 8-minute suborbital flight helped prove that NASA’s new launch escape system could safely save future human astronauts in case of a rocket failure.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Joe_1B",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 46,
+      "title": "Morning Drops #36 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
+        "Neo-Classical",
         "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A stranded Mars rover rescued by reprogramming is a literal 'space shift', echoing the episode’s theme of turning emptiness and technical glitches into new possibilities."
+    "match_reason": "Both Miss Sam’s flight and the orca dives are edge-of-environment experiments with animals at the frontier of human exploration, set against cinematic, sky-and-sea atmospheres."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1960, a tiny rhesus monkey named Miss Sam rode a Mercury test capsule called Little Joe 1B high into the sky from Wallops Island. Her 8-minute suborbital flight helped prove that NASA’s new launch escape system could safely save future human astronauts in case of a rocket failure.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Joe_1B",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #36 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both Miss Sam’s flight and the orca dives are edge-of-environment experiments with animals at the frontier of human exploration, set against cinematic, sky-and-sea atmospheres."
-    },
     {
       "hour": 2,
       "fact_text": "In 1954, the USS Nautilus became the world’s first nuclear-powered submarine, sliding into the water at Groton, Connecticut with the simple radio message: “Underway on nuclear power.” Its reactor let it stay submerged far longer than conventional subs, quietly rewriting what was possible beneath the oceans.",
@@ -648,9 +625,34 @@
         ]
       },
       "match_reason": "A stranded Mars rover rescued by reprogramming is a literal 'space shift', echoing the episode’s theme of turning emptiness and technical glitches into new possibilities."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1960, a tiny rhesus monkey named Miss Sam rode a Mercury test capsule called Little Joe 1B high into the sky from Wallops Island. Her 8-minute suborbital flight helped prove that NASA’s new launch escape system could safely save future human astronauts in case of a rocket failure.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Joe_1B",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #36 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both Miss Sam’s flight and the orca dives are edge-of-environment experiments with animals at the frontier of human exploration, set against cinematic, sky-and-sea atmospheres."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.019728+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T00:00:47.415375+00:00"
+  "updated_at": "2026-01-21T01:00:01.756371+00:00"
 }
