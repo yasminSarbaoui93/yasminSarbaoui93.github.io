@@ -1,52 +1,28 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In 1893, the Tati Concessions Land, once part of the Matabele kingdom, was annexed to the Bechuanaland Protectorate—territory that would later form part of Botswana. The deal grew from gold and mining rights, illustrating how colonial borders in southern Africa were redrawn around underground minerals as much as the people living above them.",
-    "fact_year": 1893,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tati_Concessions_Land",
+    "hour": 18,
+    "fact_text": "In 2005, protests against new taxes in Belize erupted into riots in the capital Belmopan, fueled by anger over economic pressure and public utility blackouts. The unrest briefly turned a usually quiet small capital into a stage where fiscal policy, public frustration, and street energy collided.",
+    "fact_year": 2005,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2005_Belize_unrest",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A story about African land carved up for resource exploitation connects with an episode that foregrounds African musical agency, cultural power, and post-colonial expression."
+    "match_reason": "Tax riots challenging imposed constraints resonate with an episode about resisting labels and structures, powered by politically charged, consciousness-raising rap."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "In 2005, protests against new taxes in Belize erupted into riots in the capital Belmopan, fueled by anger over economic pressure and public utility blackouts. The unrest briefly turned a usually quiet small capital into a stage where fiscal policy, public frustration, and street energy collided.",
-      "fact_year": 2005,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2005_Belize_unrest",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "Tax riots challenging imposed constraints resonate with an episode about resisting labels and structures, powered by politically charged, consciousness-raising rap."
-    },
     {
       "hour": 19,
       "fact_text": "In 2000, Ecuadorian indigenous organizations and sympathetic military officers briefly deposed President Jamil Mahuad after protesters seized Congress, before power shifted again to the vice president. The whirlwind day revealed how quickly alliances, popular anger, and military loyalties can reshape a country’s leadership.",
@@ -651,9 +627,31 @@
         ]
       },
       "match_reason": "A story about African land carved up for resource exploitation connects with an episode that foregrounds African musical agency, cultural power, and post-colonial expression."
+    },
+    {
+      "hour": 18,
+      "fact_text": "In 2005, protests against new taxes in Belize erupted into riots in the capital Belmopan, fueled by anger over economic pressure and public utility blackouts. The unrest briefly turned a usually quiet small capital into a stage where fiscal policy, public frustration, and street energy collided.",
+      "fact_year": 2005,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2005_Belize_unrest",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "Tax riots challenging imposed constraints resonate with an episode about resisting labels and structures, powered by politically charged, consciousness-raising rap."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T17:00:02.133808+00:00"
+  "updated_at": "2026-01-21T18:00:01.826368+00:00"
 }
