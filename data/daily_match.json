@@ -1,55 +1,30 @@
 {
-  "current_hour": 16,
+  "current_hour": 17,
   "current_fact": {
-    "hour": 16,
-    "fact_text": "In 1980, Iran Air Flight 291 crashed into the Alborz Mountains while approaching Tehran in bad weather, killing all 128 people on board. Investigators later pointed to faulty navigation aids and human error, underscoring how mountainous terrain and small technological gaps can be unforgiving.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Iran_Air_Flight_291",
+    "hour": 17,
+    "fact_text": "In 1893, the Tati Concessions Land, once part of the Matabele kingdom, was annexed to the Bechuanaland Protectorate—territory that would later form part of Botswana. The deal grew from gold and mining rights, illustrating how colonial borders in southern Africa were redrawn around underground minerals as much as the people living above them.",
+    "fact_year": 1893,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tati_Concessions_Land",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A fatal approach through mountains responds to an episode about disciplined physical training and embodied presence, hinting at how awareness and practice can be life-preserving."
+    "match_reason": "A story about African land carved up for resource exploitation connects with an episode that foregrounds African musical agency, cultural power, and post-colonial expression."
   },
   "queue": [
-    {
-      "hour": 17,
-      "fact_text": "In 1893, the Tati Concessions Land, once part of the Matabele kingdom, was annexed to the Bechuanaland Protectorate—territory that would later form part of Botswana. The deal grew from gold and mining rights, illustrating how colonial borders in southern Africa were redrawn around underground minerals as much as the people living above them.",
-      "fact_year": 1893,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tati_Concessions_Land",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A story about African land carved up for resource exploitation connects with an episode that foregrounds African musical agency, cultural power, and post-colonial expression."
-    },
     {
       "hour": 18,
       "fact_text": "In 2005, protests against new taxes in Belize erupted into riots in the capital Belmopan, fueled by anger over economic pressure and public utility blackouts. The unrest briefly turned a usually quiet small capital into a stage where fiscal policy, public frustration, and street energy collided.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "A fatal approach through mountains responds to an episode about disciplined physical training and embodied presence, hinting at how awareness and practice can be life-preserving."
+    },
+    {
+      "hour": 17,
+      "fact_text": "In 1893, the Tati Concessions Land, once part of the Matabele kingdom, was annexed to the Bechuanaland Protectorate—territory that would later form part of Botswana. The deal grew from gold and mining rights, illustrating how colonial borders in southern Africa were redrawn around underground minerals as much as the people living above them.",
+      "fact_year": 1893,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Tati_Concessions_Land",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A story about African land carved up for resource exploitation connects with an episode that foregrounds African musical agency, cultural power, and post-colonial expression."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T16:00:02.040854+00:00"
+  "updated_at": "2026-01-21T17:00:02.133808+00:00"
 }
