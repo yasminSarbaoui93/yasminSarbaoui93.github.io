@@ -1,55 +1,30 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1954, the USS Nautilus slid into the water as the world’s first nuclear-powered submarine, able to stay submerged far longer than any diesel vessel. This breakthrough quietly rewrote the rules of undersea travel and warfare, turning the ocean depths into a realm of near-invisible endurance missions.",
-    "fact_year": 1954,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/USS_Nautilus_(SSN-571)",
+    "hour": 3,
+    "fact_text": "In 1943, Operation Animals saw British saboteurs and Greek resistance fighters blow up the Asopos River railway bridge and ambush a German convoy at Sarantaporos. These covert actions turned rugged landscapes into tools of disruption, showing how local terrain and guerrilla ingenuity could derail a vast war machine.",
+    "fact_year": 1943,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Animals",
     "episode": {
-      "id": 39,
-      "title": "Morning Drops #33 - Immerse",
-      "description": "An analogy between diving, one of Gaia's great passions, and the act of immersing in life itself. A reflection on what happens when we go below the surface: when we let ourselves be fully present. From moments of calm suspension to warm, rhythmic flow, the selection moves like water — fluid, organic, and alive. An invitation to slow down, listen deeper, and float.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-immerse",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Pino D'Angiò - Un Po' d'Uva e un Liquore",
-        "Midlife - The Magnificent Moon",
-        "Tornado Wallace - Today",
-        "Nu Genea - Marechià (feat. Celia Kameni)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Italo Disco",
-        "Indie",
-        "Balearic",
-        "Nu Disco"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A revolutionary vessel designed to live underwater resonates with a water-themed episode about immersion, depth, and moving fluidly beneath the surface."
+    "match_reason": "A story of resistance fighters using harsh landscapes to their advantage matches an episode built around music of exile, resistance, and terrain-shaped survival."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "In 1943, Operation Animals saw British saboteurs and Greek resistance fighters blow up the Asopos River railway bridge and ambush a German convoy at Sarantaporos. These covert actions turned rugged landscapes into tools of disruption, showing how local terrain and guerrilla ingenuity could derail a vast war machine.",
-      "fact_year": 1943,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Animals",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A story of resistance fighters using harsh landscapes to their advantage matches an episode built around music of exile, resistance, and terrain-shaped survival."
-    },
     {
       "hour": 4,
       "fact_text": "On this day in 1971, the Emley Moor transmitting station began broadcasting UHF signals from what is still the tallest free-standing structure in the United Kingdom. This concrete giant quietly stitched together living rooms across northern England, turning invisible waves into shared culture and late-night television rituals.",
@@ -652,9 +627,33 @@
         ]
       },
       "match_reason": "A revolutionary vessel designed to live underwater resonates with a water-themed episode about immersion, depth, and moving fluidly beneath the surface."
+    },
+    {
+      "hour": 3,
+      "fact_text": "In 1943, Operation Animals saw British saboteurs and Greek resistance fighters blow up the Asopos River railway bridge and ambush a German convoy at Sarantaporos. These covert actions turned rugged landscapes into tools of disruption, showing how local terrain and guerrilla ingenuity could derail a vast war machine.",
+      "fact_year": 1943,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Animals",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A story of resistance fighters using harsh landscapes to their advantage matches an episode built around music of exile, resistance, and terrain-shaped survival."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T02:00:01.493288+00:00"
+  "updated_at": "2026-01-21T03:00:01.794723+00:00"
 }
