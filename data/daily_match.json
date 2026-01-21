@@ -1,56 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1985, Galaxy Airlines Flight 203 crashed shortly after takeoff from Reno–Tahoe International Airport when a loose air plug and poor crew coordination led to loss of control. The accident became a stark case study in how tiny mechanical oversights and human factors can cascade into large-scale aviation disasters.",
-    "fact_year": 1985,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Galaxy_Airlines_Flight_203",
+    "hour": 11,
+    "fact_text": "In 1951, Mount Lamington in Papua New Guinea erupted catastrophically after centuries of quiet, its dome collapsing into pyroclastic flows that killed nearly 3,000 people. The event transformed a seemingly ordinary forested mountain into a textbook example of how deceptive and deadly stratovolcanoes can be.",
+    "fact_year": 1951,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1951_eruption_of_Mount_Lamington",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A haunting aviation crash links with an atmospheric, cinematic episode whose trip-hop textures mirror the introspective investigation that follows such events."
+    "match_reason": "A sudden, explosive volcanic eruption parallels the jolt and raw energy of an \"Electric Shock\" set, both unleashing immense power in a short time."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1951, Mount Lamington in Papua New Guinea erupted catastrophically after centuries of quiet, its dome collapsing into pyroclastic flows that killed nearly 3,000 people. The event transformed a seemingly ordinary forested mountain into a textbook example of how deceptive and deadly stratovolcanoes can be.",
-      "fact_year": 1951,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1951_eruption_of_Mount_Lamington",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A sudden, explosive volcanic eruption parallels the jolt and raw energy of an \"Electric Shock\" set, both unleashing immense power in a short time."
-    },
     {
       "hour": 12,
       "fact_text": "On this day in 1968, the Battle of Khe Sanh began in Vietnam, with U.S. Marines besieged for months on a remote plateau near the Laotian border. The battle became one of the war’s most controversial, its military significance tangled in symbolism, media coverage, and the psychological weight of holding—or losing—a distant hill.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A haunting aviation crash links with an atmospheric, cinematic episode whose trip-hop textures mirror the introspective investigation that follows such events."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1951, Mount Lamington in Papua New Guinea erupted catastrophically after centuries of quiet, its dome collapsing into pyroclastic flows that killed nearly 3,000 people. The event transformed a seemingly ordinary forested mountain into a textbook example of how deceptive and deadly stratovolcanoes can be.",
+      "fact_year": 1951,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1951_eruption_of_Mount_Lamington",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A sudden, explosive volcanic eruption parallels the jolt and raw energy of an \"Electric Shock\" set, both unleashing immense power in a short time."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T10:00:01.920815+00:00"
+  "updated_at": "2026-01-21T11:00:01.842352+00:00"
 }
