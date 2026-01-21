@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2004, NASA's Mars rover Spirit suddenly went silent—not because of Martian dust or a crash, but due to a software glitch in how it managed its flash memory. Engineers on Earth essentially performed interplanetary tech support, remotely debugging and patching the rover so it could resume exploring Mars by early February.",
-    "fact_year": 2004,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+    "hour": 1,
+    "fact_text": "On this day in 1960, a rhesus monkey named Miss Sam rode a Mercury spacecraft called Little Joe 1B into the sky from Wallops Island, Virginia. Her suborbital flight was a crucial test of the escape system that would later protect human astronauts, making a small primate an unsung pioneer of space safety.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Joe_1B",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A rover frozen on Mars and then revived fits the theme of reinterpreting 'emptiness' as creative space and using a mindset shift to move forward."
+    "match_reason": "A cautious, experimental leap toward human spaceflight pairs with an episode that slowly crescendos from mystery to liberation, echoing trial, risk, and eventual release."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1960, a rhesus monkey named Miss Sam rode a Mercury spacecraft called Little Joe 1B into the sky from Wallops Island, Virginia. Her suborbital flight was a crucial test of the escape system that would later protect human astronauts, making a small primate an unsung pioneer of space safety.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Joe_1B",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "A cautious, experimental leap toward human spaceflight pairs with an episode that slowly crescendos from mystery to liberation, echoing trial, risk, and eventual release."
-    },
     {
       "hour": 2,
       "fact_text": "In 1954, the USS Nautilus slid into the water as the world’s first nuclear-powered submarine, able to stay submerged far longer than any diesel vessel. This breakthrough quietly rewrote the rules of undersea travel and warfare, turning the ocean depths into a realm of near-invisible endurance missions.",
@@ -650,9 +627,39 @@
         ]
       },
       "match_reason": "A rover frozen on Mars and then revived fits the theme of reinterpreting 'emptiness' as creative space and using a mindset shift to move forward."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1960, a rhesus monkey named Miss Sam rode a Mercury spacecraft called Little Joe 1B into the sky from Wallops Island, Virginia. Her suborbital flight was a crucial test of the escape system that would later protect human astronauts, making a small primate an unsung pioneer of space safety.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Little_Joe_1B",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "A cautious, experimental leap toward human spaceflight pairs with an episode that slowly crescendos from mystery to liberation, echoing trial, risk, and eventual release."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T00:00:51.089544+00:00"
+  "updated_at": "2026-01-21T01:00:01.847742+00:00"
 }
