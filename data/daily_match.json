@@ -1,56 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1971, the Emley Moor transmitting station began broadcasting UHF signals from what is still the tallest free-standing structure in the United Kingdom. This concrete giant quietly stitched together living rooms across northern England, turning invisible waves into shared culture and late-night television rituals.",
-    "fact_year": 1971,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+    "hour": 5,
+    "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering nuclear bomb debris across the Arctic ice—and leaving one weapon’s components never conclusively found. The incident turned a remote polar landscape into an uneasy reminder that the Cold War reached even the quietest corners of the planet.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 46,
+      "title": "Morning Drops #36 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A monumental Yorkshire broadcast tower that carried TV and music pairs naturally with an episode celebrating nearby Sheffield’s transmission of sound and stories."
+    "match_reason": "Both the Thule crash and the episode inhabit the Arctic, contrasting the region’s fragile beauty with the heavy human technologies that intrude there."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering nuclear bomb debris across the Arctic ice—and leaving one weapon’s components never conclusively found. The incident turned a remote polar landscape into an uneasy reminder that the Cold War reached even the quietest corners of the planet.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #36 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "Both the Thule crash and the episode inhabit the Arctic, contrasting the region’s fragile beauty with the heavy human technologies that intrude there."
-    },
     {
       "hour": 6,
       "fact_text": "In 2003, a magnitude 7.6 earthquake struck Mexico’s Colima region, shaking apart buildings, killing 29 people, and leaving around 10,000 homeless. The quake revealed how a few seconds of movement along Earth’s crust can redraw lives and landscapes, especially in coastal zones shadowed by nearby volcanoes.",
@@ -652,9 +627,34 @@
         ]
       },
       "match_reason": "A monumental Yorkshire broadcast tower that carried TV and music pairs naturally with an episode celebrating nearby Sheffield’s transmission of sound and stories."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1968, a U.S. B-52 bomber crashed near Thule Air Base in Greenland, scattering nuclear bomb debris across the Arctic ice—and leaving one weapon’s components never conclusively found. The incident turned a remote polar landscape into an uneasy reminder that the Cold War reached even the quietest corners of the planet.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #36 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "Both the Thule crash and the episode inhabit the Arctic, contrasting the region’s fragile beauty with the heavy human technologies that intrude there."
     }
   ],
   "generated_at": "2026-01-21T00:00:00.014288+00:00",
   "date": "2026-01-21",
-  "updated_at": "2026-01-21T04:00:01.919273+00:00"
+  "updated_at": "2026-01-21T05:00:01.875413+00:00"
 }
