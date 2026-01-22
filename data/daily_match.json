@@ -1,53 +1,30 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1947, KTLA became the first commercial television station west of the Mississippi River, broadcasting from Hollywood. Its early experimental programs helped define what local TV news and entertainment would look like for millions of viewers.",
-    "fact_year": 1947,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
+    "hour": 5,
+    "fact_text": "In 1941, during World War II, British and Commonwealth troops captured the Libyan port of Tobruk from Italian forces as part of Operation Compass. The dusty fortress city would later endure a legendary siege, becoming a symbol of stubborn resistance in the desert.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "The birth of a pioneering TV station parallels an episode celebrating media and music that become a 'timeless legacy'."
+    "match_reason": "A harsh North African desert battle is sonically mirrored by Tuareg desert blues steeped in landscapes of sand, conflict, and endurance."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1941, during World War II, British and Commonwealth troops captured the Libyan port of Tobruk from Italian forces as part of Operation Compass. The dusty fortress city would later endure a legendary siege, becoming a symbol of stubborn resistance in the desert.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A harsh North African desert battle is sonically mirrored by Tuareg desert blues steeped in landscapes of sand, conflict, and endurance."
-    },
     {
       "hour": 6,
       "fact_text": "On this day in 1927, Teddy Wakelam delivered the first live radio commentary of a football match, covering Arsenal vs. Sheffield United. Because listeners had no visuals, the BBC issued a printed grid of the pitch so fans at home could \"see\" the game through his voice.",
@@ -659,9 +636,33 @@
         ]
       },
       "match_reason": "The birth of a pioneering TV station parallels an episode celebrating media and music that become a 'timeless legacy'."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1941, during World War II, British and Commonwealth troops captured the Libyan port of Tobruk from Italian forces as part of Operation Compass. The dusty fortress city would later endure a legendary siege, becoming a symbol of stubborn resistance in the desert.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A harsh North African desert battle is sonically mirrored by Tuareg desert blues steeped in landscapes of sand, conflict, and endurance."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T04:00:01.499033+00:00"
+  "updated_at": "2026-01-22T05:00:01.679266+00:00"
 }
