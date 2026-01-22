@@ -1,57 +1,31 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "The arrival of the Portuguese court in Brazil in 1808 didn’t just change politics; it transformed the country’s cultural landscape. Libraries, universities, and new trade routes bloomed, and a former colony began to imagine itself as a future empire.",
-    "fact_year": 1808,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Braganza",
+    "hour": 23,
+    "fact_text": "The SS Valencia disaster off Vancouver Island in 1906 left ghost stories along the Canadian coast for decades. Locals reported phantom ships and strange lights, as if the memory of that stormy night refused to fade with the tide.",
+    "fact_year": 1906,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vancouver_Island",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "A royal court relocating to tropical shores and remaking a land resonates with an 'endless summer' atmosphere of new rhythms, warmth, and reinvention."
+    "match_reason": "A shipwreck off a wild northern coast pairs with an ocean-focused episode about cold waters, powerful seas, and the mysteries beneath the waves."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "The SS Valencia disaster off Vancouver Island in 1906 left ghost stories along the Canadian coast for decades. Locals reported phantom ships and strange lights, as if the memory of that stormy night refused to fade with the tide.",
-      "fact_year": 1906,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vancouver_Island",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A shipwreck off a wild northern coast pairs with an ocean-focused episode about cold waters, powerful seas, and the mysteries beneath the waves."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -661,9 +635,34 @@
         ]
       },
       "match_reason": "A royal court relocating to tropical shores and remaking a land resonates with an 'endless summer' atmosphere of new rhythms, warmth, and reinvention."
+    },
+    {
+      "hour": 23,
+      "fact_text": "The SS Valencia disaster off Vancouver Island in 1906 left ghost stories along the Canadian coast for decades. Locals reported phantom ships and strange lights, as if the memory of that stormy night refused to fade with the tide.",
+      "fact_year": 1906,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vancouver_Island",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A shipwreck off a wild northern coast pairs with an ocean-focused episode about cold waters, powerful seas, and the mysteries beneath the waves."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T22:00:01.544195+00:00"
+  "updated_at": "2026-01-22T23:00:01.908501+00:00"
 }
