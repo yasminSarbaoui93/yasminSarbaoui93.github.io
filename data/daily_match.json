@@ -1,59 +1,34 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1968, the United States began installing Operation Igloo White, an ambitious electronic surveillance network across parts of Southeast Asia. Miles of sensors, aircraft, and computers were woven into a high-tech web intended to \"hear\" enemy movements through the jungle.",
-    "fact_year": 1968,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
+    "hour": 11,
+    "fact_text": "On this day in 1906, the passenger ship SS Valencia ran aground on the rocky coast of Vancouver Island in heavy weather. Despite being within sight of shore, stormy seas and limited rescue technology doomed more than 130 people, and the disaster helped drive reforms in maritime safety.",
+    "fact_year": 1906,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Valencia",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A vast military surveillance system built from sensors and computers pairs with an episode questioning our entanglement with digital technology."
+    "match_reason": "A tragic story from the sea connects with a reflective sailing-themed episode, both centered on the power and unpredictability of the ocean."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On this day in 1906, the passenger ship SS Valencia ran aground on the rocky coast of Vancouver Island in heavy weather. Despite being within sight of shore, stormy seas and limited rescue technology doomed more than 130 people, and the disaster helped drive reforms in maritime safety.",
-      "fact_year": 1906,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Valencia",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A tragic story from the sea connects with a reflective sailing-themed episode, both centered on the power and unpredictability of the ocean."
-    },
     {
       "hour": 12,
       "fact_text": "In 1973, a chartered Boeing 707 crashed and burst into flames while landing at Kano Airport in Nigeria, killing 176 people. The accident, one of Africa’s deadliest air disasters, highlighted the challenges of rapidly expanding air travel infrastructures.",
@@ -661,9 +636,37 @@
         ]
       },
       "match_reason": "A vast military surveillance system built from sensors and computers pairs with an episode questioning our entanglement with digital technology."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On this day in 1906, the passenger ship SS Valencia ran aground on the rocky coast of Vancouver Island in heavy weather. Despite being within sight of shore, stormy seas and limited rescue technology doomed more than 130 people, and the disaster helped drive reforms in maritime safety.",
+      "fact_year": 1906,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/SS_Valencia",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A tragic story from the sea connects with a reflective sailing-themed episode, both centered on the power and unpredictability of the ocean."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T10:00:01.839136+00:00"
+  "updated_at": "2026-01-22T11:00:01.915904+00:00"
 }
