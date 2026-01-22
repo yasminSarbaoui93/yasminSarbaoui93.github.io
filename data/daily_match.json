@@ -1,65 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On this day in 1970, the Boeing 747—nicknamed the \"jumbo jet\"—entered commercial service with a Pan Am flight from New York to London. Its double-aisle design revolutionized air travel, making long-haul flights more affordable and shrinking the perceived size of the planet.",
-    "fact_year": 1970,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_747",
+    "hour": 10,
+    "fact_text": "In 1968, the United States began installing Operation Igloo White, an ambitious electronic surveillance network across parts of Southeast Asia. Miles of sensors, aircraft, and computers were woven into a high-tech web intended to \"hear\" enemy movements through the jungle.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "The first jumbo-jet voyage suits a kinetic, travel-ready mix built around movement, departure, and going places."
+    "match_reason": "A vast military surveillance system built from sensors and computers pairs with an episode questioning our entanglement with digital technology."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1968, the United States began installing Operation Igloo White, an ambitious electronic surveillance network across parts of Southeast Asia. Miles of sensors, aircraft, and computers were woven into a high-tech web intended to \"hear\" enemy movements through the jungle.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A vast military surveillance system built from sensors and computers pairs with an episode questioning our entanglement with digital technology."
-    },
     {
       "hour": 11,
       "fact_text": "On this day in 1906, the passenger ship SS Valencia ran aground on the rocky coast of Vancouver Island in heavy weather. Despite being within sight of shore, stormy seas and limited rescue technology doomed more than 130 people, and the disaster helped drive reforms in maritime safety.",
@@ -670,9 +636,34 @@
         ]
       },
       "match_reason": "The first jumbo-jet voyage suits a kinetic, travel-ready mix built around movement, departure, and going places."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1968, the United States began installing Operation Igloo White, an ambitious electronic surveillance network across parts of Southeast Asia. Miles of sensors, aircraft, and computers were woven into a high-tech web intended to \"hear\" enemy movements through the jungle.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A vast military surveillance system built from sensors and computers pairs with an episode questioning our entanglement with digital technology."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T09:00:01.880671+00:00"
+  "updated_at": "2026-01-22T10:00:01.839136+00:00"
 }
