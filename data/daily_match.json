@@ -1,55 +1,31 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "Back in 1941, the capture of Tobruk turned a fortified port into a crucial Allied stronghold that would be besieged for months. Its fall and recapture became central episodes in the North African campaign, fought across deserts where supply lines—and human endurance—were stretched to the limit.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Commonwealth_of_Nations",
+    "hour": 22,
+    "fact_text": "The arrival of the Portuguese court in Brazil in 1808 didn’t just change politics; it transformed the country’s cultural landscape. Libraries, universities, and new trade routes bloomed, and a former colony began to imagine itself as a future empire.",
+    "fact_year": 1808,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Braganza",
     "episode": {
-      "id": 30,
-      "title": "Morning Drops #24 - The Rise Of Afrobeat",
-      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "E.T. Mensah - Ghana Freedom",
-        "I.K. Dairo - Salome",
-        "Fela Kuti - Great Kids",
-        "Fela Kuti - Expensive Shit"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Highlife",
-        "Jùjú",
-        "Afrobeat"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "A campaign heavily involving Commonwealth and African theaters connects with a musical journey that highlights African agency, rhythm, and modern history."
+    "match_reason": "A royal court relocating to tropical shores and remaking a land resonates with an 'endless summer' atmosphere of new rhythms, warmth, and reinvention."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The arrival of the Portuguese court in Brazil in 1808 didn’t just change politics; it transformed the country’s cultural landscape. Libraries, universities, and new trade routes bloomed, and a former colony began to imagine itself as a future empire.",
-      "fact_year": 1808,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Braganza",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "A royal court relocating to tropical shores and remaking a land resonates with an 'endless summer' atmosphere of new rhythms, warmth, and reinvention."
-    },
     {
       "hour": 23,
       "fact_text": "The SS Valencia disaster off Vancouver Island in 1906 left ghost stories along the Canadian coast for decades. Locals reported phantom ships and strange lights, as if the memory of that stormy night refused to fade with the tide.",
@@ -660,9 +636,34 @@
         ]
       },
       "match_reason": "A campaign heavily involving Commonwealth and African theaters connects with a musical journey that highlights African agency, rhythm, and modern history."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The arrival of the Portuguese court in Brazil in 1808 didn’t just change politics; it transformed the country’s cultural landscape. Libraries, universities, and new trade routes bloomed, and a former colony began to imagine itself as a future empire.",
+      "fact_year": 1808,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Braganza",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "A royal court relocating to tropical shores and remaking a land resonates with an 'endless summer' atmosphere of new rhythms, warmth, and reinvention."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T21:00:01.773119+00:00"
+  "updated_at": "2026-01-22T22:00:01.544195+00:00"
 }
