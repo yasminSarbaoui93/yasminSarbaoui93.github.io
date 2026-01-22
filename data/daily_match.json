@@ -1,55 +1,30 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1917, before entering World War I, U.S. President Woodrow Wilson called for a 'peace without victory' in Europe—an outcome where no side would be humiliated. His idea was radical for its time, imagining a settlement that might avoid the resentments that later helped fuel World War II.",
-    "fact_year": 1917,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I",
+    "hour": 12,
+    "fact_text": "In 871, at the Battle of Basing, Viking forces of the Danelaw defeated the West Saxons under King Æthelred I. This loss was one of several that year, a grim prelude to the eventual rise of his younger brother Alfred the Great.",
+    "fact_year": 871,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Basing",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - A Trip-Hop Journey",
-      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Massive Attack - Unfinished Sympathy",
-        "Tricky - Hell Is Round the Corner",
-        "DJ Shadow - Midnight in a Perfect World",
-        "Thievery Corporation - Lebanese Blonde",
-        "Smoke City - Underwater Love"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Trip-Hop",
-        "Downtempo",
-        "Electronic"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "Wilson’s idealistic, boundary-blurring vision of peace aligns with trip-hop’s way of dissolving genre frontiers and stitching together disparate influences into a shared, cinematic mood."
+    "match_reason": "A brutal medieval clash of power and resistance pairs with the defiant distortion and battle-ready energy of women rewriting the rules of rock."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 871, at the Battle of Basing, Viking forces of the Danelaw defeated the West Saxons under King Æthelred I. This loss was one of several that year, a grim prelude to the eventual rise of his younger brother Alfred the Great.",
-      "fact_year": 871,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Basing",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A brutal medieval clash of power and resistance pairs with the defiant distortion and battle-ready energy of women rewriting the rules of rock."
-    },
     {
       "hour": 13,
       "fact_text": "In 1941, during World War II’s North African campaign, British and Commonwealth troops captured Tobruk from Italian forces as part of Operation Compass. The port became a symbol of stubborn resistance and logistics ingenuity in a war fought across harsh desert landscapes.",
@@ -646,9 +621,33 @@
         ]
       },
       "match_reason": "Wilson’s idealistic, boundary-blurring vision of peace aligns with trip-hop’s way of dissolving genre frontiers and stitching together disparate influences into a shared, cinematic mood."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 871, at the Battle of Basing, Viking forces of the Danelaw defeated the West Saxons under King Æthelred I. This loss was one of several that year, a grim prelude to the eventual rise of his younger brother Alfred the Great.",
+      "fact_year": 871,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Basing",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A brutal medieval clash of power and resistance pairs with the defiant distortion and battle-ready energy of women rewriting the rules of rock."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T11:00:01.829027+00:00"
+  "updated_at": "2026-01-22T12:00:02.342030+00:00"
 }
