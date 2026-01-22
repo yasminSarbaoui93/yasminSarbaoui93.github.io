@@ -1,63 +1,40 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1992, Space Shuttle Discovery launched mission STS-42, carrying Dr. Roberta Bondar, who became the first Canadian woman and the first neurologist in space. Her experiments focused on how microgravity affects the nervous system, turning the shuttle into a brief orbiting neuroscience lab.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-42",
+    "hour": 1,
+    "fact_text": "On this day in 1968, Apollo 5 launched the very first Lunar Module into space on an uncrewed test flight. This awkward-looking craft, built only to work in a vacuum with no need for aerodynamics, proved it could fire its engines multiple times—an essential rehearsal for future Moon landings.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_5",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 2,
+      "title": "Sedna FM #02 - Destination Sedna",
+      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Pink Floyd - Breathe",
+        "The fountain DC - Starburster",
+        "Laura Cahen - La Poussiere",
+        "Taxi Kebab - Lmchi w rjou3",
+        "Odion Iruoje - Identify With Your Roots",
+        "Depeche mode - world in my eyes (Oil Tank Mix)",
+        "Massive attack - Dissolved girl",
+        "Kokoroko - Three piece suite",
+        "Salin - Egungun",
+        "E.S.P. - It's You"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Progressive Rock",
+        "Post-Punk",
+        "French Pop",
+        "Maghreb",
+        "Afrobeat",
+        "Synthpop",
+        "Trip-Hop"
       ]
     },
-    "match_reason": "A space neuroscience mission pairs naturally with an episode themed around reimagining 'space' and shifting perspectives."
+    "match_reason": "A test flight toward future lunar destinations fits a sonically exploratory \"Destination\" journey across new territories."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1968, Apollo 5 launched the very first Lunar Module into space on an uncrewed test flight. This awkward-looking craft, built only to work in a vacuum with no need for aerodynamics, proved it could fire its engines multiple times—an essential rehearsal for future Moon landings.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_5",
-      "episode": {
-        "id": 2,
-        "title": "Sedna FM #02 - Destination Sedna",
-        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
-        "songs": [
-          "Pink Floyd - Breathe",
-          "The fountain DC - Starburster",
-          "Laura Cahen - La Poussiere",
-          "Taxi Kebab - Lmchi w rjou3",
-          "Odion Iruoje - Identify With Your Roots",
-          "Depeche mode - world in my eyes (Oil Tank Mix)",
-          "Massive attack - Dissolved girl",
-          "Kokoroko - Three piece suite",
-          "Salin - Egungun",
-          "E.S.P. - It's You"
-        ],
-        "music-genres": [
-          "Progressive Rock",
-          "Post-Punk",
-          "French Pop",
-          "Maghreb",
-          "Afrobeat",
-          "Synthpop",
-          "Trip-Hop"
-        ]
-      },
-      "match_reason": "A test flight toward future lunar destinations fits a sonically exploratory \"Destination\" journey across new territories."
-    },
     {
       "hour": 2,
       "fact_text": "In 1998, Space Shuttle Endeavour lifted off on STS-89 to dock with the Russian space station Mir, a symbol of post–Cold War cooperation in orbit. The mission ferried astronauts and supplies, turning an old rival’s outpost into a shared laboratory in the sky.",
@@ -659,9 +636,43 @@
         ]
       },
       "match_reason": "A space neuroscience mission pairs naturally with an episode themed around reimagining 'space' and shifting perspectives."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1968, Apollo 5 launched the very first Lunar Module into space on an uncrewed test flight. This awkward-looking craft, built only to work in a vacuum with no need for aerodynamics, proved it could fire its engines multiple times—an essential rehearsal for future Moon landings.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_5",
+      "episode": {
+        "id": 2,
+        "title": "Sedna FM #02 - Destination Sedna",
+        "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+        "songs": [
+          "Pink Floyd - Breathe",
+          "The fountain DC - Starburster",
+          "Laura Cahen - La Poussiere",
+          "Taxi Kebab - Lmchi w rjou3",
+          "Odion Iruoje - Identify With Your Roots",
+          "Depeche mode - world in my eyes (Oil Tank Mix)",
+          "Massive attack - Dissolved girl",
+          "Kokoroko - Three piece suite",
+          "Salin - Egungun",
+          "E.S.P. - It's You"
+        ],
+        "music-genres": [
+          "Progressive Rock",
+          "Post-Punk",
+          "French Pop",
+          "Maghreb",
+          "Afrobeat",
+          "Synthpop",
+          "Trip-Hop"
+        ]
+      },
+      "match_reason": "A test flight toward future lunar destinations fits a sonically exploratory \"Destination\" journey across new territories."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T00:00:49.997989+00:00"
+  "updated_at": "2026-01-22T01:00:01.958450+00:00"
 }
