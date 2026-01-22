@@ -1,55 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "In 871, at the Battle of Basing, the West Saxons under King Æthelred I were defeated by Viking forces in what is now England. The loss was one of several grim setbacks in a year of many battles, yet the kingdom of Wessex would eventually endure and become a core of later England.",
-    "fact_year": 871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Basing",
+    "hour": 19,
+    "fact_text": "On January 22, 2024, the Ram Mandir in Ayodhya was inaugurated by Indian Prime Minister Narendra Modi, marking the culmination of a dispute that had stretched over five centuries. The temple stands on a site sacred to many Hindus and deeply contested in India’s modern political and cultural history.",
+    "fact_year": 2024,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ram_Mandir",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A brutal shield-wall clash suits a hard-edged rock tribute—distorted guitars echoing the energy and grit of historic battles."
+    "match_reason": "A major religious and cultural landmark fits with an episode examining another deep-rooted, emotionally charged tradition shaped by history and identity."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "On January 22, 2024, the Ram Mandir in Ayodhya was inaugurated by Indian Prime Minister Narendra Modi, marking the culmination of a dispute that had stretched over five centuries. The temple stands on a site sacred to many Hindus and deeply contested in India’s modern political and cultural history.",
-      "fact_year": 2024,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ram_Mandir",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "A major religious and cultural landmark fits with an episode examining another deep-rooted, emotionally charged tradition shaped by history and identity."
-    },
     {
       "hour": 20,
       "fact_text": "In 1987, a different kind of crowd filled the streets of Manila seeking social justice, only to face gunfire near the presidential palace. The Mendiola massacre’s victims were mostly farmers demanding land reform, reminding the world that democracy on paper does not always reach the countryside.",
@@ -660,9 +636,34 @@
         ]
       },
       "match_reason": "A brutal shield-wall clash suits a hard-edged rock tribute—distorted guitars echoing the energy and grit of historic battles."
+    },
+    {
+      "hour": 19,
+      "fact_text": "On January 22, 2024, the Ram Mandir in Ayodhya was inaugurated by Indian Prime Minister Narendra Modi, marking the culmination of a dispute that had stretched over five centuries. The temple stands on a site sacred to many Hindus and deeply contested in India’s modern political and cultural history.",
+      "fact_year": 2024,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ram_Mandir",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "A major religious and cultural landmark fits with an episode examining another deep-rooted, emotionally charged tradition shaped by history and identity."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T18:00:01.887805+00:00"
+  "updated_at": "2026-01-22T19:00:02.212357+00:00"
 }
