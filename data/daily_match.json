@@ -1,55 +1,30 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "In 2024, after centuries of contestation and decades of legal and political struggle, the Ram Mandir temple in Ayodhya was inaugurated by India’s prime minister. For many Hindus it marked the fulfillment of a religious and cultural longing; for others it became a symbol of deepening divisions over history, memory, and belonging.",
-    "fact_year": 2024,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ram_Mandir",
+    "hour": 21,
+    "fact_text": "Across the 20th century, rivers like the Mississippi—referenced in today’s broadcast history—quietly served as liquid highways of culture, carrying blues, jazz, and stories from small river towns to big cities. A single river system helped shape the sound of modern music far beyond its muddy banks.",
+    "fact_year": 1900,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mississippi_River",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 30,
+      "title": "Morning Drops #24 - The Rise Of Afrobeat",
+      "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "E.T. Mensah - Ghana Freedom",
+        "I.K. Dairo - Salome",
+        "Fela Kuti - Great Kids",
+        "Fela Kuti - Expensive Shit"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Highlife",
+        "Jùjú",
+        "Afrobeat"
       ]
     },
-    "match_reason": "A temple at the heart of a long cultural and religious struggle parallels flamenco’s deep, contested history—both are about heritage, emotion, and how art and faith define identity across centuries."
+    "match_reason": "A great river shaping musical currents in America resonates with an episode about Afrobeat’s own river of rhythms—both flows show how geography channels sound into global culture."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "Across the 20th century, rivers like the Mississippi—referenced in today’s broadcast history—quietly served as liquid highways of culture, carrying blues, jazz, and stories from small river towns to big cities. A single river system helped shape the sound of modern music far beyond its muddy banks.",
-      "fact_year": 1900,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mississippi_River",
-      "episode": {
-        "id": 30,
-        "title": "Morning Drops #24 - The Rise Of Afrobeat",
-        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
-        "songs": [
-          "E.T. Mensah - Ghana Freedom",
-          "I.K. Dairo - Salome",
-          "Fela Kuti - Great Kids",
-          "Fela Kuti - Expensive Shit"
-        ],
-        "music-genres": [
-          "Highlife",
-          "Jùjú",
-          "Afrobeat"
-        ]
-      },
-      "match_reason": "A great river shaping musical currents in America resonates with an episode about Afrobeat’s own river of rhythms—both flows show how geography channels sound into global culture."
-    },
     {
       "hour": 22,
       "fact_text": "From Highbury’s first radio football commentary to Ayodhya’s globally televised ceremonies, January 22 quietly traces the story of how voices, images, and rituals travel—from stadiums and temples to living rooms and pocket screens—reshaping how humans share collective moments.",
@@ -646,9 +621,33 @@
         ]
       },
       "match_reason": "A temple at the heart of a long cultural and religious struggle parallels flamenco’s deep, contested history—both are about heritage, emotion, and how art and faith define identity across centuries."
+    },
+    {
+      "hour": 21,
+      "fact_text": "Across the 20th century, rivers like the Mississippi—referenced in today’s broadcast history—quietly served as liquid highways of culture, carrying blues, jazz, and stories from small river towns to big cities. A single river system helped shape the sound of modern music far beyond its muddy banks.",
+      "fact_year": 1900,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mississippi_River",
+      "episode": {
+        "id": 30,
+        "title": "Morning Drops #24 - The Rise Of Afrobeat",
+        "description": "An exploration of the rise of Afrobeat, tracing its roots and evolution as a genre that blends African rhythms with jazz, funk, and highlife. A celebration of the infectious energy and cultural significance of this influential musical movement.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-rise-of-afrobeat",
+        "songs": [
+          "E.T. Mensah - Ghana Freedom",
+          "I.K. Dairo - Salome",
+          "Fela Kuti - Great Kids",
+          "Fela Kuti - Expensive Shit"
+        ],
+        "music-genres": [
+          "Highlife",
+          "Jùjú",
+          "Afrobeat"
+        ]
+      },
+      "match_reason": "A great river shaping musical currents in America resonates with an episode about Afrobeat’s own river of rhythms—both flows show how geography channels sound into global culture."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T20:00:02.148494+00:00"
+  "updated_at": "2026-01-22T21:00:01.928521+00:00"
 }
