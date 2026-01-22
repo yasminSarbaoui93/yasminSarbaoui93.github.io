@@ -1,55 +1,31 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On this day in 613, the infant Heraclius Constantine was crowned co-emperor in Constantinople at just eight months old. His tiny coronation symbolized a dynasty’s bid for continuity in a turbulent empire besieged by wars and religious conflict.",
-    "fact_year": 613,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heraclius_Constantine",
+    "hour": 11,
+    "fact_text": "In 1917, before entering World War I, U.S. President Woodrow Wilson called for a 'peace without victory' in Europe—an outcome where no side would be humiliated. His idea was radical for its time, imagining a settlement that might avoid the resentments that later helped fuel World War II.",
+    "fact_year": 1917,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I",
     "episode": {
-      "id": 16,
-      "title": "Morning Drops #10 - The One With Many Names",
-      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "Ghost - Spirit",
-        "Ghost - Mary on a Cross",
-        "Ghost - Dance Macabre",
-        "Ghost - Umbra"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Hard Rock",
-        "Heavy Metal",
-        "Arena Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "An empire steeped in ritual crowning a baby as co-emperor matches an episode about theatrical ritual, masks, and shifting identities within a quasi-'imperial' rock church."
+    "match_reason": "Wilson’s idealistic, boundary-blurring vision of peace aligns with trip-hop’s way of dissolving genre frontiers and stitching together disparate influences into a shared, cinematic mood."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In 1917, before entering World War I, U.S. President Woodrow Wilson called for a 'peace without victory' in Europe—an outcome where no side would be humiliated. His idea was radical for its time, imagining a settlement that might avoid the resentments that later helped fuel World War II.",
-      "fact_year": 1917,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Wilson’s idealistic, boundary-blurring vision of peace aligns with trip-hop’s way of dissolving genre frontiers and stitching together disparate influences into a shared, cinematic mood."
-    },
     {
       "hour": 12,
       "fact_text": "In 871, at the Battle of Basing, Viking forces of the Danelaw defeated the West Saxons under King Æthelred I. This loss was one of several that year, a grim prelude to the eventual rise of his younger brother Alfred the Great.",
@@ -645,9 +621,34 @@
         ]
       },
       "match_reason": "An empire steeped in ritual crowning a baby as co-emperor matches an episode about theatrical ritual, masks, and shifting identities within a quasi-'imperial' rock church."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In 1917, before entering World War I, U.S. President Woodrow Wilson called for a 'peace without victory' in Europe—an outcome where no side would be humiliated. His idea was radical for its time, imagining a settlement that might avoid the resentments that later helped fuel World War II.",
+      "fact_year": 1917,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Wilson’s idealistic, boundary-blurring vision of peace aligns with trip-hop’s way of dissolving genre frontiers and stitching together disparate influences into a shared, cinematic mood."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T10:00:01.686243+00:00"
+  "updated_at": "2026-01-22T11:00:01.829027+00:00"
 }
