@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On this day in 1927, Teddy Wakelam delivered the first live radio commentary of a football match, covering Arsenal vs. Sheffield United. Because listeners had no visuals, the BBC issued a printed grid of the pitch so fans at home could \"see\" the game through his voice.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Wakelam",
+    "hour": 7,
+    "fact_text": "In 1999, Australian missionary Graham Staines and his two young sons were burned alive while sleeping in their vehicle in eastern India, in an attack by religious extremists. The brutality of the crime shocked India and led to widespread debate about religious tolerance and minority rights.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Staines",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 31,
+      "title": "Morning Drops #31 - A Trip-Hop Journey",
+      "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Massive Attack - Unfinished Sympathy",
+        "Tricky - Hell Is Round the Corner",
+        "DJ Shadow - Midnight in a Perfect World",
+        "Thievery Corporation - Lebanese Blonde",
+        "Smoke City - Underwater Love"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Trip-Hop",
+        "Downtempo",
+        "Electronic"
       ]
     },
-    "match_reason": "The match involved Sheffield United, making a Sheffield-focused musical trip a playful nod to the city’s role in radio sports history."
+    "match_reason": "The dark, contemplative textures of trip-hop suit a somber, troubling event that raises questions about violence, identity, and humanity."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "In 1999, Australian missionary Graham Staines and his two young sons were burned alive while sleeping in their vehicle in eastern India, in an attack by religious extremists. The brutality of the crime shocked India and led to widespread debate about religious tolerance and minority rights.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Staines",
-      "episode": {
-        "id": 31,
-        "title": "Morning Drops #31 - A Trip-Hop Journey",
-        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
-        "songs": [
-          "Massive Attack - Unfinished Sympathy",
-          "Tricky - Hell Is Round the Corner",
-          "DJ Shadow - Midnight in a Perfect World",
-          "Thievery Corporation - Lebanese Blonde",
-          "Smoke City - Underwater Love"
-        ],
-        "music-genres": [
-          "Trip-Hop",
-          "Downtempo",
-          "Electronic"
-        ]
-      },
-      "match_reason": "The dark, contemplative textures of trip-hop suit a somber, troubling event that raises questions about violence, identity, and humanity."
-    },
     {
       "hour": 8,
       "fact_text": "Also in 1992, rebel forces in Zaire briefly seized the national radio station in Kinshasa and used it to demand the government’s resignation. In a pre-social-media era, taking over the airwaves was one of the most dramatic ways to grab a nation's attention.",
@@ -661,9 +636,34 @@
         ]
       },
       "match_reason": "The match involved Sheffield United, making a Sheffield-focused musical trip a playful nod to the city’s role in radio sports history."
+    },
+    {
+      "hour": 7,
+      "fact_text": "In 1999, Australian missionary Graham Staines and his two young sons were burned alive while sleeping in their vehicle in eastern India, in an attack by religious extremists. The brutality of the crime shocked India and led to widespread debate about religious tolerance and minority rights.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Staines",
+      "episode": {
+        "id": 31,
+        "title": "Morning Drops #31 - A Trip-Hop Journey",
+        "description": "Hosted by friend Lorenzo, a journey through the roots and evolution of trip-hop. From Bristol's early experiments with Massive Attack and Tricky, to DJ Shadow's cinematic sampling in California, and Thievery Corporation's global downtempo grooves in Washington D.C. — exploring how this genre blurred boundaries and reshaped electronic music.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-a-trip-hop-journey",
+        "songs": [
+          "Massive Attack - Unfinished Sympathy",
+          "Tricky - Hell Is Round the Corner",
+          "DJ Shadow - Midnight in a Perfect World",
+          "Thievery Corporation - Lebanese Blonde",
+          "Smoke City - Underwater Love"
+        ],
+        "music-genres": [
+          "Trip-Hop",
+          "Downtempo",
+          "Electronic"
+        ]
+      },
+      "match_reason": "The dark, contemplative textures of trip-hop suit a somber, troubling event that raises questions about violence, identity, and humanity."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T06:00:02.480524+00:00"
+  "updated_at": "2026-01-22T07:00:01.767940+00:00"
 }
