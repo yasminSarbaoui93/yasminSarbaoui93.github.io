@@ -1,54 +1,30 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 871, at the Battle of Basing, Viking forces of the Danelaw defeated the West Saxons under King Æthelred I. This loss was one of several that year, a grim prelude to the eventual rise of his younger brother Alfred the Great.",
-    "fact_year": 871,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Basing",
+    "hour": 13,
+    "fact_text": "In 1941, during World War II’s North African campaign, British and Commonwealth troops captured Tobruk from Italian forces as part of Operation Compass. The port became a symbol of stubborn resistance and logistics ingenuity in a war fought across harsh desert landscapes.",
+    "fact_year": 1941,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
     "episode": {
-      "id": 42,
-      "title": "Morning Drops #36 - Women of Rock",
-      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Suzi Quatro - Can the Can",
-        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-        "Laura Cox - Hard Blues Shot",
-        "Jackie Venson - Always Free (Live)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Glam Rock",
-        "Hard Rock",
-        "Blues Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A brutal medieval clash of power and resistance pairs with the defiant distortion and battle-ready energy of women rewriting the rules of rock."
+    "match_reason": "A desert siege in North Africa connects with music born of the Sahara—songs of sand, endurance, and resistance that echo the same landscapes in a completely different way."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "In 1941, during World War II’s North African campaign, British and Commonwealth troops captured Tobruk from Italian forces as part of Operation Compass. The port became a symbol of stubborn resistance and logistics ingenuity in a war fought across harsh desert landscapes.",
-      "fact_year": 1941,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A desert siege in North Africa connects with music born of the Sahara—songs of sand, endurance, and resistance that echo the same landscapes in a completely different way."
-    },
     {
       "hour": 14,
       "fact_text": "On this day in 1968, the U.S. began installing Operation Igloo White, an electronic sensor network to track movement along the Ho Chi Minh trail. It scattered thousands of acoustic and seismic sensors through the jungle, an early, secretive experiment in turning war into a vast data stream.",
@@ -645,9 +621,33 @@
         ]
       },
       "match_reason": "A brutal medieval clash of power and resistance pairs with the defiant distortion and battle-ready energy of women rewriting the rules of rock."
+    },
+    {
+      "hour": 13,
+      "fact_text": "In 1941, during World War II’s North African campaign, British and Commonwealth troops captured Tobruk from Italian forces as part of Operation Compass. The port became a symbol of stubborn resistance and logistics ingenuity in a war fought across harsh desert landscapes.",
+      "fact_year": 1941,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A desert siege in North Africa connects with music born of the Sahara—songs of sand, endurance, and resistance that echo the same landscapes in a completely different way."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T12:00:02.342030+00:00"
+  "updated_at": "2026-01-22T13:00:02.006547+00:00"
 }
