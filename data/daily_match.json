@@ -1,58 +1,32 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1992, rebel forces in Zaire seized the national radio station in Kinshasa and used it to broadcast demands for the government’s resignation. For a brief moment, the state’s own loudspeaker turned into a megaphone for dissent.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Zaire",
+    "hour": 16,
+    "fact_text": "In 1999, Australian missionary Graham Staines and his two young sons were burned alive while sleeping in their car in eastern India, attacked by a mob of extremist Hindus. The brutal murder shocked India and the world, sparking debates about religious tolerance, justice, and forgiveness.",
+    "fact_year": 1999,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Staines",
     "episode": {
-      "id": 51,
-      "title": "Morning Drops #44 - Residente",
-      "description": "In this edition of Morning Drops, Yasmin navigates the complex geography of René Pérez Joglar, known to the world as Residente. His story is not just a musical evolution; it is a timeline marked by resistance, lyrical obsession, and a relentless search for identity.\n\nFrom the gated streets of Trujillo Alto to the global stage, we explore how a restless mind transformed into the voice of a generation. The selection moves through the textures of his life: hearing the raw energy of his early rebellion, the sharp precision of his political critique, and finally, the fragile silence of his most personal confessions.\n\nIt is a study in duality. We witness the rapper who dismantles giants and the son who misses his mother. It is a soundscape that proves that sometimes, the loudest revolution happens inside.\n\nMood: Raw, Revolutionary, Introspective, Honest\nMusic genre: Latin Alternative, Hip Hop, Urban, World",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-residente",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Calle 13 - La Jirafa",
-        "Calle 13 - Adentro",
-        "Residente - René",
-        "Calle 13 - La Vuelta al Mundo"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Latin Alternative",
+        "Alternative Rock",
+        "Experimental Electronic",
         "Hip Hop",
-        "Urban",
-        "Rap",
-        "World"
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "A radio station briefly turned into a revolutionary tool naturally links to an episode about a fiercely political artist who uses sound and words as instruments of resistance."
+    "match_reason": "An event that forces hard questions about hatred, belief, and forgiveness pairs with a reflective episode about learning over time—inviting listeners to process difficult history with patience and depth."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "In 1999, Australian missionary Graham Staines and his two young sons were burned alive while sleeping in their car in eastern India, attacked by a mob of extremist Hindus. The brutal murder shocked India and the world, sparking debates about religious tolerance, justice, and forgiveness.",
-      "fact_year": 1999,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Staines",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "An event that forces hard questions about hatred, belief, and forgiveness pairs with a reflective episode about learning over time—inviting listeners to process difficult history with patience and depth."
-    },
     {
       "hour": 17,
       "fact_text": "On this day in 1995, two Palestinian suicide bombers attacked a crowded military transit point near Beit Lid in central Israel, killing 19 Israeli soldiers. The attack, claimed by Islamic Jihad, intensified debates about peace talks, security, and the cost of the ongoing Israeli–Palestinian conflict.",
@@ -647,9 +621,35 @@
         ]
       },
       "match_reason": "A radio station briefly turned into a revolutionary tool naturally links to an episode about a fiercely political artist who uses sound and words as instruments of resistance."
+    },
+    {
+      "hour": 16,
+      "fact_text": "In 1999, Australian missionary Graham Staines and his two young sons were burned alive while sleeping in their car in eastern India, attacked by a mob of extremist Hindus. The brutal murder shocked India and the world, sparking debates about religious tolerance, justice, and forgiveness.",
+      "fact_year": 1999,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Graham_Staines",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "An event that forces hard questions about hatred, belief, and forgiveness pairs with a reflective episode about learning over time—inviting listeners to process difficult history with patience and depth."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T15:00:02.021066+00:00"
+  "updated_at": "2026-01-22T16:00:02.019653+00:00"
 }
