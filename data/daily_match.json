@@ -1,56 +1,31 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "Also in 1973, a chartered Boeing 707 burst into flames upon landing at Kano Airport in Nigeria, killing 176 people. The disaster highlighted how crowded runways, poor visibility, and high landing speeds could conspire to turn a routine arrival into catastrophe.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1973_Kano_Nigeria_Airways_Boeing_707_crash",
+    "hour": 9,
+    "fact_text": "In 1808, the Portuguese royal family fled Napoleon’s invasion and sailed across the Atlantic, transferring their entire court to Brazil. For a rare moment in history, a European empire ruled itself from a tropical colony, reshaping Brazil’s cities, trade, and eventual path to independence.",
+    "fact_year": 1808,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_court_to_Brazil",
     "episode": {
-      "id": 46,
-      "title": "Morning Drops #40 - Diving With Orcas",
-      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Ludovico Einaudi - Experience",
-        "The Temper Trap - Sweet Disposition",
-        "Alex Warren - Ordinary",
-        "Piero Umiliani - Il tuo volto"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Neo-Classical",
-        "Indie Rock",
-        "Pop",
-        "Italian Film Score"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A fiery aviation catastrophe stands in stark contrast to the quiet safety of whales below flight paths; the cinematic, reflective tone of 'Diving With Orcas' invites contemplation of risk, fragility, and the thin line between sky and sea."
+    "match_reason": "A royal court in exile crossing oceans to a new landscape echoes an episode about displacement, journeys, and how geography reshapes identity and stories."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "In 1808, the Portuguese royal family fled Napoleon’s invasion and sailed across the Atlantic, transferring their entire court to Brazil. For a rare moment in history, a European empire ruled itself from a tropical colony, reshaping Brazil’s cities, trade, and eventual path to independence.",
-      "fact_year": 1808,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_court_to_Brazil",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A royal court in exile crossing oceans to a new landscape echoes an episode about displacement, journeys, and how geography reshapes identity and stories."
-    },
     {
       "hour": 10,
       "fact_text": "On this day in 613, the infant Heraclius Constantine was crowned co-emperor in Constantinople at just eight months old. His tiny coronation symbolized a dynasty’s bid for continuity in a turbulent empire besieged by wars and religious conflict.",
@@ -646,9 +621,34 @@
         ]
       },
       "match_reason": "A fiery aviation catastrophe stands in stark contrast to the quiet safety of whales below flight paths; the cinematic, reflective tone of 'Diving With Orcas' invites contemplation of risk, fragility, and the thin line between sky and sea."
+    },
+    {
+      "hour": 9,
+      "fact_text": "In 1808, the Portuguese royal family fled Napoleon’s invasion and sailed across the Atlantic, transferring their entire court to Brazil. For a rare moment in history, a European empire ruled itself from a tropical colony, reshaping Brazil’s cities, trade, and eventual path to independence.",
+      "fact_year": 1808,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_court_to_Brazil",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A royal court in exile crossing oceans to a new landscape echoes an episode about displacement, journeys, and how geography reshapes identity and stories."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T08:00:01.717712+00:00"
+  "updated_at": "2026-01-22T09:00:02.618064+00:00"
 }
