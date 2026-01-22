@@ -1,65 +1,40 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "In 1927, Teddy Wakelam delivered the first live radio commentary of a football match, narrating Arsenal vs. Sheffield United from Highbury. With no standard vocabulary yet, he improvised vivid descriptions that taught listeners how to 'see' a match they could only hear.",
-    "fact_year": 1927,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Wakelam",
+    "hour": 6,
+    "fact_text": "On this day in 1970, the Boeing 747 entered commercial service with a Pan Am flight from New York to London, earning the nickname 'jumbo jet.' Its double-decked profile suddenly made intercontinental flight more accessible, subtly shrinking the planet for millions of travelers.",
+    "fact_year": 1970,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_747",
     "episode": {
-      "id": 23,
-      "title": "Morning Drops #17 - Steel City",
-      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "The Human League - The Sound Of The Crowd",
-        "Cabaret Voltaire - Deep Time",
-        "Pulp - Common People",
-        "Arctic Monkeys - A Certain Romance"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Synthpop",
-        "Industrial",
-        "Britpop",
-        "Indie Rock"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "The first radio football commentary featured Sheffield United, and 'Steel City' is an ode to Sheffield’s sound, tying the birthplace of radio football to its musical hometown."
+    "match_reason": "A revolutionary long-haul airliner that redefined travel connects smoothly to an episode built for motion, fresh starts, and being 'on the go.'"
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On this day in 1970, the Boeing 747 entered commercial service with a Pan Am flight from New York to London, earning the nickname 'jumbo jet.' Its double-decked profile suddenly made intercontinental flight more accessible, subtly shrinking the planet for millions of travelers.",
-      "fact_year": 1970,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_747",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "A revolutionary long-haul airliner that redefined travel connects smoothly to an episode built for motion, fresh starts, and being 'on the go.'"
-    },
     {
       "hour": 7,
       "fact_text": "In 1906, the passenger ship SS Valencia struck rocks off the coast of Vancouver Island in heavy fog and stormy seas. Despite being within sight of land, over 130 people died, and tales of lifeboats lost and bodies found in sea caves turned the wreck into a grim maritime legend.",
@@ -646,9 +621,43 @@
         ]
       },
       "match_reason": "The first radio football commentary featured Sheffield United, and 'Steel City' is an ode to Sheffield’s sound, tying the birthplace of radio football to its musical hometown."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On this day in 1970, the Boeing 747 entered commercial service with a Pan Am flight from New York to London, earning the nickname 'jumbo jet.' Its double-decked profile suddenly made intercontinental flight more accessible, subtly shrinking the planet for millions of travelers.",
+      "fact_year": 1970,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Boeing_747",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "A revolutionary long-haul airliner that redefined travel connects smoothly to an episode built for motion, fresh starts, and being 'on the go.'"
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T05:00:02.223422+00:00"
+  "updated_at": "2026-01-22T06:00:01.847643+00:00"
 }
