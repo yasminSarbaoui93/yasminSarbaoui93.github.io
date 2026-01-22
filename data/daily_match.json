@@ -1,56 +1,29 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1973, the crew of Apollo 17, the last humans to walk on the Moon, addressed a joint session of the U.S. Congress. They described standing on a grey, silent world and looking back at Earth as a fragile, colorful sphere—an image that helped seed the modern environmental consciousness.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_17",
+    "hour": 4,
+    "fact_text": "On this day in 1947, KTLA became the first commercial television station west of the Mississippi River, broadcasting from Hollywood. Its early experimental programs helped define what local TV news and entertainment would look like for millions of viewers.",
+    "fact_year": 1947,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 7,
+      "title": "Morning Drops #01 - Timeless Legacy",
+      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Roberta Flack - Killing me softly with his song",
+        "Stone, Angie & Raphael Saadiq - Brotha",
+        "Roy Ayers - Running Away (Extended)"
       ],
       "music-genres": [
-        "Indie Pop",
         "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "R&B",
+        "Jazz-Funk"
       ]
     },
-    "match_reason": "An astronaut crew reflecting on a completed lunar era fits an introspective episode about looking back on transformative journeys."
+    "match_reason": "The birth of a pioneering TV station parallels an episode celebrating media and music that become a 'timeless legacy'."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On this day in 1947, KTLA became the first commercial television station west of the Mississippi River, broadcasting from Hollywood. Its early experimental programs helped define what local TV news and entertainment would look like for millions of viewers.",
-      "fact_year": 1947,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
-      "episode": {
-        "id": 7,
-        "title": "Morning Drops #01 - Timeless Legacy",
-        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
-        "songs": [
-          "Roberta Flack - Killing me softly with his song",
-          "Stone, Angie & Raphael Saadiq - Brotha",
-          "Roy Ayers - Running Away (Extended)"
-        ],
-        "music-genres": [
-          "Soul",
-          "R&B",
-          "Jazz-Funk"
-        ]
-      },
-      "match_reason": "The birth of a pioneering TV station parallels an episode celebrating media and music that become a 'timeless legacy'."
-    },
     {
       "hour": 5,
       "fact_text": "In 1941, during World War II, British and Commonwealth troops captured the Libyan port of Tobruk from Italian forces as part of Operation Compass. The dusty fortress city would later endure a legendary siege, becoming a symbol of stubborn resistance in the desert.",
@@ -663,9 +636,32 @@
         ]
       },
       "match_reason": "An astronaut crew reflecting on a completed lunar era fits an introspective episode about looking back on transformative journeys."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On this day in 1947, KTLA became the first commercial television station west of the Mississippi River, broadcasting from Hollywood. Its early experimental programs helped define what local TV news and entertainment would look like for millions of viewers.",
+      "fact_year": 1947,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
+      "episode": {
+        "id": 7,
+        "title": "Morning Drops #01 - Timeless Legacy",
+        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+        "songs": [
+          "Roberta Flack - Killing me softly with his song",
+          "Stone, Angie & Raphael Saadiq - Brotha",
+          "Roy Ayers - Running Away (Extended)"
+        ],
+        "music-genres": [
+          "Soul",
+          "R&B",
+          "Jazz-Funk"
+        ]
+      },
+      "match_reason": "The birth of a pioneering TV station parallels an episode celebrating media and music that become a 'timeless legacy'."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.013761+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T03:00:02.084536+00:00"
+  "updated_at": "2026-01-22T04:00:01.499033+00:00"
 }
