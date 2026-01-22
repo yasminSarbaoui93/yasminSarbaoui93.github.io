@@ -1,55 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 1941, during World War II’s North African campaign, British and Commonwealth troops captured Tobruk from Italian forces as part of Operation Compass. The port became a symbol of stubborn resistance and logistics ingenuity in a war fought across harsh desert landscapes.",
-    "fact_year": 1941,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+    "hour": 14,
+    "fact_text": "On this day in 1968, the U.S. began installing Operation Igloo White, an electronic sensor network to track movement along the Ho Chi Minh trail. It scattered thousands of acoustic and seismic sensors through the jungle, an early, secretive experiment in turning war into a vast data stream.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A desert siege in North Africa connects with music born of the Sahara—songs of sand, endurance, and resistance that echo the same landscapes in a completely different way."
+    "match_reason": "A jungle wired with sensors and data foreshadows our own hyper-connected lives; an episode about our dependence on devices mirrors this early, militarized networked world."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On this day in 1968, the U.S. began installing Operation Igloo White, an electronic sensor network to track movement along the Ho Chi Minh trail. It scattered thousands of acoustic and seismic sensors through the jungle, an early, secretive experiment in turning war into a vast data stream.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A jungle wired with sensors and data foreshadows our own hyper-connected lives; an episode about our dependence on devices mirrors this early, militarized networked world."
-    },
     {
       "hour": 15,
       "fact_text": "In 1992, rebel forces in Zaire seized the national radio station in Kinshasa and used it to broadcast demands for the government’s resignation. For a brief moment, the state’s own loudspeaker turned into a megaphone for dissent.",
@@ -645,9 +621,34 @@
         ]
       },
       "match_reason": "A desert siege in North Africa connects with music born of the Sahara—songs of sand, endurance, and resistance that echo the same landscapes in a completely different way."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On this day in 1968, the U.S. began installing Operation Igloo White, an electronic sensor network to track movement along the Ho Chi Minh trail. It scattered thousands of acoustic and seismic sensors through the jungle, an early, secretive experiment in turning war into a vast data stream.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Operation_Igloo_White",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A jungle wired with sensors and data foreshadows our own hyper-connected lives; an episode about our dependence on devices mirrors this early, militarized networked world."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T13:00:02.006547+00:00"
+  "updated_at": "2026-01-22T14:00:04.037453+00:00"
 }
