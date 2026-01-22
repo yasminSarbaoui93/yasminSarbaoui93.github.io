@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1992, the Space Shuttle Discovery launched mission STS-42, carrying Dr. Roberta Bondar, the first Canadian woman and the first neurologist in space. Aboard, she studied how weightlessness affects the human nervous system, turning the shuttle into a flying neuroscience lab.",
-    "fact_year": 1992,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/STS-42",
+    "hour": 1,
+    "fact_text": "On this day in 1968, Apollo 5 launched as the first test flight of the Lunar Module, sending the spidery lander into space without a crew. Engineers deliberately pushed it to failure limits, proving it could brake, hover, and restart its engine before humans ever trusted it to descend to the Moon.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_5",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Indie Rock",
+        "Downtempo",
+        "Trip-Hop",
         "Electronic",
-        "Garage Rock"
+        "Chillout"
       ]
     },
-    "match_reason": "A literal space shuttle mission pairs with an episode themed around 'space' and shifting perspectives, mirroring how Bondar reframed our understanding of the brain in microgravity."
+    "match_reason": "The Lunar Module was designed for slow, delicate descents onto another world; the 'Slow Planet' episode mirrors that gentle, precise approach with calm, hovering soundscapes."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1968, Apollo 5 launched as the first test flight of the Lunar Module, sending the spidery lander into space without a crew. Engineers deliberately pushed it to failure limits, proving it could brake, hover, and restart its engine before humans ever trusted it to descend to the Moon.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_5",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "The Lunar Module was designed for slow, delicate descents onto another world; the 'Slow Planet' episode mirrors that gentle, precise approach with calm, hovering soundscapes."
-    },
     {
       "hour": 2,
       "fact_text": "In 1998, Space Shuttle Endeavour’s STS-89 mission ferried astronauts and supplies to the Russian space station Mir, docking in orbit like two cities meeting in the sky. It was part of a long-running partnership that turned former Cold War rivals into co-builders of a shared space future.",
@@ -644,9 +621,34 @@
         ]
       },
       "match_reason": "A literal space shuttle mission pairs with an episode themed around 'space' and shifting perspectives, mirroring how Bondar reframed our understanding of the brain in microgravity."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1968, Apollo 5 launched as the first test flight of the Lunar Module, sending the spidery lander into space without a crew. Engineers deliberately pushed it to failure limits, proving it could brake, hover, and restart its engine before humans ever trusted it to descend to the Moon.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_5",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "The Lunar Module was designed for slow, delicate descents onto another world; the 'Slow Planet' episode mirrors that gentle, precise approach with calm, hovering soundscapes."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T00:00:55.322337+00:00"
+  "updated_at": "2026-01-22T01:00:02.298424+00:00"
 }
