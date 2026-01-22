@@ -1,64 +1,39 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "In 1973, the crew of Apollo 17, the last humans to walk on the Moon, addressed a joint session of the U.S. Congress. They described not just rocks and experiments, but the fragile, glowing Earth they saw hanging in space—an image that quietly fueled the modern environmental movement.",
-    "fact_year": 1973,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_17",
+    "hour": 4,
+    "fact_text": "On this day in 1947, KTLA in Hollywood began broadcasting as the first commercial television station west of the Mississippi River. In an era when few homes even owned TV sets, it helped invent the idea of live, visual storytelling beamed straight into living rooms.",
+    "fact_year": 1947,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The reflective farewell of the last Moon crew and their hopeful message about Earth's future resonate with an episode about transitions, resilience, and looking ahead beyond the 'rain.'"
+    "match_reason": "The birth of a pioneering TV station mirrors Sedna FM’s own first broadcast—both 'episode ones' that lit the signal for everything that followed."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On this day in 1947, KTLA in Hollywood began broadcasting as the first commercial television station west of the Mississippi River. In an era when few homes even owned TV sets, it helped invent the idea of live, visual storytelling beamed straight into living rooms.",
-      "fact_year": 1947,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The birth of a pioneering TV station mirrors Sedna FM’s own first broadcast—both 'episode ones' that lit the signal for everything that followed."
-    },
     {
       "hour": 5,
       "fact_text": "In 1927, Teddy Wakelam delivered the first live radio commentary of a football match, narrating Arsenal vs. Sheffield United from Highbury. With no standard vocabulary yet, he improvised vivid descriptions that taught listeners how to 'see' a match they could only hear.",
@@ -646,9 +621,42 @@
         ]
       },
       "match_reason": "The reflective farewell of the last Moon crew and their hopeful message about Earth's future resonate with an episode about transitions, resilience, and looking ahead beyond the 'rain.'"
+    },
+    {
+      "hour": 4,
+      "fact_text": "On this day in 1947, KTLA in Hollywood began broadcasting as the first commercial television station west of the Mississippi River. In an era when few homes even owned TV sets, it helped invent the idea of live, visual storytelling beamed straight into living rooms.",
+      "fact_year": 1947,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The birth of a pioneering TV station mirrors Sedna FM’s own first broadcast—both 'episode ones' that lit the signal for everything that followed."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T03:00:01.805635+00:00"
+  "updated_at": "2026-01-22T04:00:01.940705+00:00"
 }
