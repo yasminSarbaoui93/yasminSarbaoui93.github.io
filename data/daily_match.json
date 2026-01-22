@@ -1,55 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 1808, the Portuguese royal family fled Napoleon’s invasion and sailed across the Atlantic, transferring their entire court to Brazil. For a rare moment in history, a European empire ruled itself from a tropical colony, reshaping Brazil’s cities, trade, and eventual path to independence.",
-    "fact_year": 1808,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_court_to_Brazil",
+    "hour": 10,
+    "fact_text": "On this day in 613, the infant Heraclius Constantine was crowned co-emperor in Constantinople at just eight months old. His tiny coronation symbolized a dynasty’s bid for continuity in a turbulent empire besieged by wars and religious conflict.",
+    "fact_year": 613,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heraclius_Constantine",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 16,
+      "title": "Morning Drops #10 - The One With Many Names",
+      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Ghost - Spirit",
+        "Ghost - Mary on a Cross",
+        "Ghost - Dance Macabre",
+        "Ghost - Umbra"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Hard Rock",
+        "Heavy Metal",
+        "Arena Rock"
       ]
     },
-    "match_reason": "A royal court in exile crossing oceans to a new landscape echoes an episode about displacement, journeys, and how geography reshapes identity and stories."
+    "match_reason": "An empire steeped in ritual crowning a baby as co-emperor matches an episode about theatrical ritual, masks, and shifting identities within a quasi-'imperial' rock church."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On this day in 613, the infant Heraclius Constantine was crowned co-emperor in Constantinople at just eight months old. His tiny coronation symbolized a dynasty’s bid for continuity in a turbulent empire besieged by wars and religious conflict.",
-      "fact_year": 613,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heraclius_Constantine",
-      "episode": {
-        "id": 16,
-        "title": "Morning Drops #10 - The One With Many Names",
-        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
-        "songs": [
-          "Ghost - Spirit",
-          "Ghost - Mary on a Cross",
-          "Ghost - Dance Macabre",
-          "Ghost - Umbra"
-        ],
-        "music-genres": [
-          "Hard Rock",
-          "Heavy Metal",
-          "Arena Rock"
-        ]
-      },
-      "match_reason": "An empire steeped in ritual crowning a baby as co-emperor matches an episode about theatrical ritual, masks, and shifting identities within a quasi-'imperial' rock church."
-    },
     {
       "hour": 11,
       "fact_text": "In 1917, before entering World War I, U.S. President Woodrow Wilson called for a 'peace without victory' in Europe—an outcome where no side would be humiliated. His idea was radical for its time, imagining a settlement that might avoid the resentments that later helped fuel World War II.",
@@ -646,9 +621,33 @@
         ]
       },
       "match_reason": "A royal court in exile crossing oceans to a new landscape echoes an episode about displacement, journeys, and how geography reshapes identity and stories."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On this day in 613, the infant Heraclius Constantine was crowned co-emperor in Constantinople at just eight months old. His tiny coronation symbolized a dynasty’s bid for continuity in a turbulent empire besieged by wars and religious conflict.",
+      "fact_year": 613,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Heraclius_Constantine",
+      "episode": {
+        "id": 16,
+        "title": "Morning Drops #10 - The One With Many Names",
+        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+        "songs": [
+          "Ghost - Spirit",
+          "Ghost - Mary on a Cross",
+          "Ghost - Dance Macabre",
+          "Ghost - Umbra"
+        ],
+        "music-genres": [
+          "Hard Rock",
+          "Heavy Metal",
+          "Arena Rock"
+        ]
+      },
+      "match_reason": "An empire steeped in ritual crowning a baby as co-emperor matches an episode about theatrical ritual, masks, and shifting identities within a quasi-'imperial' rock church."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T09:00:02.618064+00:00"
+  "updated_at": "2026-01-22T10:00:01.686243+00:00"
 }
