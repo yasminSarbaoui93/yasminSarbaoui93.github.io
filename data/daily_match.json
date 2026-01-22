@@ -1,64 +1,31 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On this day in 1947, KTLA in Hollywood began broadcasting as the first commercial television station west of the Mississippi River. In an era when few homes even owned TV sets, it helped invent the idea of live, visual storytelling beamed straight into living rooms.",
-    "fact_year": 1947,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/KTLA",
+    "hour": 5,
+    "fact_text": "In 1927, Teddy Wakelam delivered the first live radio commentary of a football match, narrating Arsenal vs. Sheffield United from Highbury. With no standard vocabulary yet, he improvised vivid descriptions that taught listeners how to 'see' a match they could only hear.",
+    "fact_year": 1927,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Wakelam",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 23,
+      "title": "Morning Drops #17 - Steel City",
+      "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "The Human League - The Sound Of The Crowd",
+        "Cabaret Voltaire - Deep Time",
+        "Pulp - Common People",
+        "Arctic Monkeys - A Certain Romance"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Synthpop",
+        "Industrial",
+        "Britpop",
+        "Indie Rock"
       ]
     },
-    "match_reason": "The birth of a pioneering TV station mirrors Sedna FM’s own first broadcast—both 'episode ones' that lit the signal for everything that followed."
+    "match_reason": "The first radio football commentary featured Sheffield United, and 'Steel City' is an ode to Sheffield’s sound, tying the birthplace of radio football to its musical hometown."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "In 1927, Teddy Wakelam delivered the first live radio commentary of a football match, narrating Arsenal vs. Sheffield United from Highbury. With no standard vocabulary yet, he improvised vivid descriptions that taught listeners how to 'see' a match they could only hear.",
-      "fact_year": 1927,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Wakelam",
-      "episode": {
-        "id": 23,
-        "title": "Morning Drops #17 - Steel City",
-        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
-        "songs": [
-          "The Human League - The Sound Of The Crowd",
-          "Cabaret Voltaire - Deep Time",
-          "Pulp - Common People",
-          "Arctic Monkeys - A Certain Romance"
-        ],
-        "music-genres": [
-          "Synthpop",
-          "Industrial",
-          "Britpop",
-          "Indie Rock"
-        ]
-      },
-      "match_reason": "The first radio football commentary featured Sheffield United, and 'Steel City' is an ode to Sheffield’s sound, tying the birthplace of radio football to its musical hometown."
-    },
     {
       "hour": 6,
       "fact_text": "On this day in 1970, the Boeing 747 entered commercial service with a Pan Am flight from New York to London, earning the nickname 'jumbo jet.' Its double-decked profile suddenly made intercontinental flight more accessible, subtly shrinking the planet for millions of travelers.",
@@ -654,9 +621,34 @@
         ]
       },
       "match_reason": "The birth of a pioneering TV station mirrors Sedna FM’s own first broadcast—both 'episode ones' that lit the signal for everything that followed."
+    },
+    {
+      "hour": 5,
+      "fact_text": "In 1927, Teddy Wakelam delivered the first live radio commentary of a football match, narrating Arsenal vs. Sheffield United from Highbury. With no standard vocabulary yet, he improvised vivid descriptions that taught listeners how to 'see' a match they could only hear.",
+      "fact_year": 1927,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Teddy_Wakelam",
+      "episode": {
+        "id": 23,
+        "title": "Morning Drops #17 - Steel City",
+        "description": "Gaia takes us on a short trip through Sheffield's sounds — from electronic textures to raw guitars and sharp storytelling. Four tracks, one city, different edges of the same story.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-steel-city",
+        "songs": [
+          "The Human League - The Sound Of The Crowd",
+          "Cabaret Voltaire - Deep Time",
+          "Pulp - Common People",
+          "Arctic Monkeys - A Certain Romance"
+        ],
+        "music-genres": [
+          "Synthpop",
+          "Industrial",
+          "Britpop",
+          "Indie Rock"
+        ]
+      },
+      "match_reason": "The first radio football commentary featured Sheffield United, and 'Steel City' is an ode to Sheffield’s sound, tying the birthplace of radio football to its musical hometown."
     }
   ],
   "generated_at": "2026-01-22T00:00:00.012106+00:00",
   "date": "2026-01-22",
-  "updated_at": "2026-01-22T04:00:01.940705+00:00"
+  "updated_at": "2026-01-22T05:00:02.223422+00:00"
 }
