@@ -1,54 +1,29 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "On this day in 2009, Cyclone Klaus toppled centuries-old pines in the Landes forest, a man-made woodland planted to tame the marshes of southwest France. The storm’s fierce gusts showed how even landscapes engineered for stability can be humbled in a single night.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bordeaux",
+    "hour": 22,
+    "fact_text": "In 1935, when canned beer appeared in American shops, many drinkers worried the metal would ruin the taste, so brewers added a printed 'Keglined' seal to reassure them. The success of those first cans paved the way for today’s craft breweries, which use cans not just for convenience but to protect delicate aromas from light.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beer_can",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #21 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 7,
+      "title": "Morning Drops #01 - Timeless Legacy",
+      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Roberta Flack - Killing me softly with his song",
+        "Stone, Angie & Raphael Saadiq - Brotha",
+        "Roy Ayers - Running Away (Extended)"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Soul",
+        "R&B",
+        "Jazz-Funk"
       ]
     },
-    "match_reason": "Bordeaux’s coastal region is shaped by both storms and long, languid summers; this seaside 'Endless Summer' episode provides the calm counterpoint to Klaus’s single, violent interruption of the coast’s rhythm."
+    "match_reason": "Canned beer turned a perishable, local drink into something more portable and 'timeless'; this episode’s focus on classic tracks that endure pairs well with the idea of preserving flavor—and feeling—across time."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "In 1935, when canned beer appeared in American shops, many drinkers worried the metal would ruin the taste, so brewers added a printed 'Keglined' seal to reassure them. The success of those first cans paved the way for today’s craft breweries, which use cans not just for convenience but to protect delicate aromas from light.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beer_can",
-      "episode": {
-        "id": 7,
-        "title": "Morning Drops #01 - Timeless Legacy",
-        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
-        "songs": [
-          "Roberta Flack - Killing me softly with his song",
-          "Stone, Angie & Raphael Saadiq - Brotha",
-          "Roy Ayers - Running Away (Extended)"
-        ],
-        "music-genres": [
-          "Soul",
-          "R&B",
-          "Jazz-Funk"
-        ]
-      },
-      "match_reason": "Canned beer turned a perishable, local drink into something more portable and 'timeless'; this episode’s focus on classic tracks that endure pairs well with the idea of preserving flavor—and feeling—across time."
-    },
     {
       "hour": 23,
       "fact_text": "On this day in 1968, as Operation Coburg unfolded in Vietnam, popular music back home was turning the war into soundtracks of protest and introspection. Songs carried the distant thud of artillery into living rooms, making faraway jungles feel uncomfortably close.",
@@ -659,9 +634,32 @@
         ]
       },
       "match_reason": "Bordeaux’s coastal region is shaped by both storms and long, languid summers; this seaside 'Endless Summer' episode provides the calm counterpoint to Klaus’s single, violent interruption of the coast’s rhythm."
+    },
+    {
+      "hour": 22,
+      "fact_text": "In 1935, when canned beer appeared in American shops, many drinkers worried the metal would ruin the taste, so brewers added a printed 'Keglined' seal to reassure them. The success of those first cans paved the way for today’s craft breweries, which use cans not just for convenience but to protect delicate aromas from light.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beer_can",
+      "episode": {
+        "id": 7,
+        "title": "Morning Drops #01 - Timeless Legacy",
+        "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+        "songs": [
+          "Roberta Flack - Killing me softly with his song",
+          "Stone, Angie & Raphael Saadiq - Brotha",
+          "Roy Ayers - Running Away (Extended)"
+        ],
+        "music-genres": [
+          "Soul",
+          "R&B",
+          "Jazz-Funk"
+        ]
+      },
+      "match_reason": "Canned beer turned a perishable, local drink into something more portable and 'timeless'; this episode’s focus on classic tracks that endure pairs well with the idea of preserving flavor—and feeling—across time."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T21:00:01.606357+00:00"
+  "updated_at": "2026-01-24T22:00:02.076208+00:00"
 }
