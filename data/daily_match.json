@@ -1,65 +1,40 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1978, the Soviet reconnaissance satellite Kosmos 954 re-entered Earth’s atmosphere over Canada’s Northwest Territories, scattering radioactive debris across a vast wilderness. An international cleanup effort, Operation Morning Light, searched the snow and tundra for tiny fragments of a lost nuclear reactor.",
-    "fact_year": 1978,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kosmos_954",
+    "hour": 3,
+    "fact_text": "On this day in 1848, a carpenter named James W. Marshall spotted flecks of gold in a millrace at Sutter’s Mill in California. His small discovery triggered one of the greatest human migrations in history, as hundreds of thousands rushed west chasing shimmering rivers and glittering dreams.",
+    "fact_year": 1848,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/California_gold_rush",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "A nuclear-powered satellite breaking up over Earth is a literal 'electric shock' from orbit, echoed by this episode’s high-voltage guitars and raw, crackling energy."
+    "match_reason": "The Gold Rush was a planet-scale road trip of fortune seekers 'on the go'; this episode’s travel-ready, forward-driving groove matches the restless migration toward new horizons."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On this day in 1848, a carpenter named James W. Marshall spotted flecks of gold in a millrace at Sutter’s Mill in California. His small discovery triggered one of the greatest human migrations in history, as hundreds of thousands rushed west chasing shimmering rivers and glittering dreams.",
-      "fact_year": 1848,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/California_gold_rush",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "The Gold Rush was a planet-scale road trip of fortune seekers 'on the go'; this episode’s travel-ready, forward-driving groove matches the restless migration toward new horizons."
-    },
     {
       "hour": 4,
       "fact_text": "In 1946, in the shadow of Hiroshima and Nagasaki, the United Nations General Assembly passed its first resolution: to create the United Nations Atomic Energy Commission. Its task was almost utopian—find a way to control the atom so it could power cities instead of destroy them.",
@@ -659,9 +634,43 @@
         ]
       },
       "match_reason": "A nuclear-powered satellite breaking up over Earth is a literal 'electric shock' from orbit, echoed by this episode’s high-voltage guitars and raw, crackling energy."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On this day in 1848, a carpenter named James W. Marshall spotted flecks of gold in a millrace at Sutter’s Mill in California. His small discovery triggered one of the greatest human migrations in history, as hundreds of thousands rushed west chasing shimmering rivers and glittering dreams.",
+      "fact_year": 1848,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/California_gold_rush",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "The Gold Rush was a planet-scale road trip of fortune seekers 'on the go'; this episode’s travel-ready, forward-driving groove matches the restless migration toward new horizons."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T02:00:01.998932+00:00"
+  "updated_at": "2026-01-24T03:00:01.630599+00:00"
 }
