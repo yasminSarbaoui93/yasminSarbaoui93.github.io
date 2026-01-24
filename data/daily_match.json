@@ -1,55 +1,30 @@
 {
-  "current_hour": 14,
+  "current_hour": 15,
   "current_fact": {
-    "hour": 14,
-    "fact_text": "On this day in 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early testers were so enthusiastic that by the end of the year, millions of cans—lighter, stackable, and slightly futuristic—were in drinkers’ hands.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
+    "hour": 15,
+    "fact_text": "In 1651, during the long Arauco War, Spanish colonial authorities and Mapuche leaders met at the Parliament of Boroa. Under makeshift canopies on Chilean soil, they negotiated a fragile peace that recognized Mapuche autonomy south of the Bío-Bío River—an unusually formal treaty with an Indigenous nation for its time.",
+    "fact_year": 1651,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Boroa",
     "episode": {
-      "id": 13,
-      "title": "Morning Drops #03 - secret_mp3_player_1",
-      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Sean Paul - Get Busy",
-        "Blink-182 - I Miss You",
-        "Black Eyed Peas - My Humps",
-        "Britney Spears - Toxic"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Dancehall",
-        "Pop Punk",
-        "Pop",
-        "Dance-Pop"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "Canned beer was a playful, mass-market innovation that changed how people consumed a familiar pleasure—just as MP3 players and downloads transformed casual music listening into something portable, instant, and a bit guilty."
+    "match_reason": "Both the Mapuche in Chile and the Tuareg in the Sahara embody Indigenous resistance and negotiated autonomy; this desert-blues episode resonates with the Parliament of Boroa’s story of survival, land, and dignity."
   },
   "queue": [
-    {
-      "hour": 15,
-      "fact_text": "In 1651, during the long Arauco War, Spanish colonial authorities and Mapuche leaders met at the Parliament of Boroa. Under makeshift canopies on Chilean soil, they negotiated a fragile peace that recognized Mapuche autonomy south of the Bío-Bío River—an unusually formal treaty with an Indigenous nation for its time.",
-      "fact_year": 1651,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Boroa",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "Both the Mapuche in Chile and the Tuareg in the Sahara embody Indigenous resistance and negotiated autonomy; this desert-blues episode resonates with the Parliament of Boroa’s story of survival, land, and dignity."
-    },
     {
       "hour": 16,
       "fact_text": "On this day in 2003, the United States Department of Homeland Security officially began operations, merging 22 agencies into a sprawling new bureaucracy. Born from the shock of the 9/11 attacks, it tried to weave airports, borders, cyberspace, and disaster response into a single nervous system of vigilance.",
@@ -659,9 +634,33 @@
         ]
       },
       "match_reason": "Canned beer was a playful, mass-market innovation that changed how people consumed a familiar pleasure—just as MP3 players and downloads transformed casual music listening into something portable, instant, and a bit guilty."
+    },
+    {
+      "hour": 15,
+      "fact_text": "In 1651, during the long Arauco War, Spanish colonial authorities and Mapuche leaders met at the Parliament of Boroa. Under makeshift canopies on Chilean soil, they negotiated a fragile peace that recognized Mapuche autonomy south of the Bío-Bío River—an unusually formal treaty with an Indigenous nation for its time.",
+      "fact_year": 1651,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Boroa",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "Both the Mapuche in Chile and the Tuareg in the Sahara embody Indigenous resistance and negotiated autonomy; this desert-blues episode resonates with the Parliament of Boroa’s story of survival, land, and dignity."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T14:00:01.555001+00:00"
+  "updated_at": "2026-01-24T15:00:01.642359+00:00"
 }
