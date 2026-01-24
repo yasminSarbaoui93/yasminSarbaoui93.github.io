@@ -1,59 +1,36 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 1990, Japan launched Hiten, its first lunar probe and the first robotic mission to the Moon by any country other than the United States or the Soviet Union. Hiten pioneered new orbital techniques, including aerobraking and a clever use of gravity assists, helping to usher in a new era of international lunar exploration.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hiten_(spacecraft)",
+    "hour": 1,
+    "fact_text": "On this day in 1986, Voyager 2 made its closest approach to Uranus, becoming the first—and so far only—spacecraft to visit the ice giant up close. The flyby revealed 11 new moons, strange dark rings, and an unexpectedly tilted magnetic field, transforming Uranus from a pale dot into a richly complex world.",
+    "fact_year": 1986,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voyager_2",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
+        "Afrobeat",
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A pioneering lunar mission fits the \"Space Shift\" theme of turning emptiness into creative space, and the upbeat electronic edge mirrors the bold step of entering a new era of moon exploration."
+    "match_reason": "Voyager 2’s passage through the outer solar system echoes the episode’s slow, mysterious build into expansive, liberating grooves—like drifting past a cold, distant world into a cosmic dance."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On this day in 1986, Voyager 2 made its closest approach to Uranus, becoming the first—and so far only—spacecraft to visit the ice giant up close. The flyby revealed 11 new moons, strange dark rings, and an unexpectedly tilted magnetic field, transforming Uranus from a pale dot into a richly complex world.",
-      "fact_year": 1986,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voyager_2",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Voyager 2’s passage through the outer solar system echoes the episode’s slow, mysterious build into expansive, liberating grooves—like drifting past a cold, distant world into a cosmic dance."
-    },
     {
       "hour": 2,
       "fact_text": "In 1978, the Soviet satellite Kosmos 954, powered by a nuclear reactor, broke apart in Earth's atmosphere and scattered radioactive debris across Canada's Northwest Territories. The resulting recovery effort, code-named Operation Morning Light, was one of the earliest large-scale attempts to track and clean up space nuclear contamination on the ground.",
@@ -646,9 +623,39 @@
         ]
       },
       "match_reason": "A pioneering lunar mission fits the \"Space Shift\" theme of turning emptiness into creative space, and the upbeat electronic edge mirrors the bold step of entering a new era of moon exploration."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On this day in 1986, Voyager 2 made its closest approach to Uranus, becoming the first—and so far only—spacecraft to visit the ice giant up close. The flyby revealed 11 new moons, strange dark rings, and an unexpectedly tilted magnetic field, transforming Uranus from a pale dot into a richly complex world.",
+      "fact_year": 1986,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voyager_2",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Voyager 2’s passage through the outer solar system echoes the episode’s slow, mysterious build into expansive, liberating grooves—like drifting past a cold, distant world into a cosmic dance."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T00:00:52.616805+00:00"
+  "updated_at": "2026-01-24T01:00:01.607224+00:00"
 }
