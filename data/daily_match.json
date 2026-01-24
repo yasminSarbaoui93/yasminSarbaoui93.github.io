@@ -1,66 +1,32 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On this day in 1848, a carpenter named James W. Marshall spotted flecks of gold in a millrace at Sutter’s Mill in California. His small discovery triggered one of the greatest human migrations in history, as hundreds of thousands rushed west chasing shimmering rivers and glittering dreams.",
-    "fact_year": 1848,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/California_gold_rush",
+    "hour": 4,
+    "fact_text": "In 1946, in the shadow of Hiroshima and Nagasaki, the United Nations General Assembly passed its first resolution: to create the United Nations Atomic Energy Commission. Its task was almost utopian—find a way to control the atom so it could power cities instead of destroy them.",
+    "fact_year": 1946,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_Atomic_Energy_Commission",
     "episode": {
-      "id": 5,
-      "title": "Sedna FM #05 - On The Go - Zero Zero",
-      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+      "id": 49,
+      "title": "Morning Drops #42 - The Joy Of Learning",
+      "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
       "songs": [
-        "Alborosie - Rock the dancehall",
-        "Grace Jones - Pull up to the bumper",
-        "Hollie cook - Happy hour",
-        "Easy star all star - Soul love",
-        "Jeremie Albino - Rolling down the 405",
-        "Cyril Neville - I found joy",
-        "Aretha Franklin - Rock steady",
-        "James Brown - Talking loud and saying nothing (remix)",
-        "Nubiyan Twist - So mi stay",
-        "Professor Wouassa - Fallou Fall",
-        "Jarabe de Palo - La Flaca"
+        "Radiohead - Separator",
+        "Mac Miller - What's the Use?",
+        "Morad & Beny Jr - Sigue",
+        "Post Malone - White Iverson"
       ],
       "music-genres": [
-        "Reggae",
-        "Funk",
-        "Soul",
-        "Afrobeat",
-        "Latin Rock",
-        "New Wave"
+        "Alternative Rock",
+        "Experimental Electronic",
+        "Hip Hop",
+        "Neo-Soul",
+        "Drill / Trap"
       ]
     },
-    "match_reason": "The Gold Rush was a planet-scale road trip of fortune seekers 'on the go'; this episode’s travel-ready, forward-driving groove matches the restless migration toward new horizons."
+    "match_reason": "The UN’s first atomic resolution was a global attempt to learn from catastrophe and redesign the future; this reflective episode about learning and long-term change matches that cautious, hopeful mindset."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "In 1946, in the shadow of Hiroshima and Nagasaki, the United Nations General Assembly passed its first resolution: to create the United Nations Atomic Energy Commission. Its task was almost utopian—find a way to control the atom so it could power cities instead of destroy them.",
-      "fact_year": 1946,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_Atomic_Energy_Commission",
-      "episode": {
-        "id": 49,
-        "title": "Morning Drops #42 - The Joy Of Learning",
-        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
-        "songs": [
-          "Radiohead - Separator",
-          "Mac Miller - What's the Use?",
-          "Morad & Beny Jr - Sigue",
-          "Post Malone - White Iverson"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Experimental Electronic",
-          "Hip Hop",
-          "Neo-Soul",
-          "Drill / Trap"
-        ]
-      },
-      "match_reason": "The UN’s first atomic resolution was a global attempt to learn from catastrophe and redesign the future; this reflective episode about learning and long-term change matches that cautious, hopeful mindset."
-    },
     {
       "hour": 5,
       "fact_text": "On this day in 1939, a powerful earthquake devastated the Chilean city of Chillán, killing around 28,000 people. The disaster reshaped Chile’s urban planning and building codes, turning a night of chaos into hard-earned lessons about how cities sit atop restless tectonic plates.",
@@ -668,9 +634,35 @@
         ]
       },
       "match_reason": "The Gold Rush was a planet-scale road trip of fortune seekers 'on the go'; this episode’s travel-ready, forward-driving groove matches the restless migration toward new horizons."
+    },
+    {
+      "hour": 4,
+      "fact_text": "In 1946, in the shadow of Hiroshima and Nagasaki, the United Nations General Assembly passed its first resolution: to create the United Nations Atomic Energy Commission. Its task was almost utopian—find a way to control the atom so it could power cities instead of destroy them.",
+      "fact_year": 1946,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_Nations_Atomic_Energy_Commission",
+      "episode": {
+        "id": 49,
+        "title": "Morning Drops #42 - The Joy Of Learning",
+        "description": "Hosted by Yasmin, this Morning Drop explores learning as a lifelong process, focusing on persistence, repetition, and the emotional landscape that comes with challenging oneself over time.\n\nThrough personal stories and scientific insights, the episode looks at how learning reshapes the brain, generates joy through effort, and why progress often arrives after confusion and frustration. It reflects on the so-called delayed pleasure effect, the role of dopamine in motivation, and how curiosity and learning support long-term wellbeing.\n\nThe episode also questions our cultural relationship with failure and invites a softer, more realistic approach to learning, one that accepts mistakes as part of growth and sees persistence as a quiet form of strength.\n\nMood: reflective, grounded, quietly hopeful\nMusic genre: alternative rock, hip hop, electronic, neo-soul, drill\n\nA space to listen slowly and stay with the process.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-joy-of-learning",
+        "songs": [
+          "Radiohead - Separator",
+          "Mac Miller - What's the Use?",
+          "Morad & Beny Jr - Sigue",
+          "Post Malone - White Iverson"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Experimental Electronic",
+          "Hip Hop",
+          "Neo-Soul",
+          "Drill / Trap"
+        ]
+      },
+      "match_reason": "The UN’s first atomic resolution was a global attempt to learn from catastrophe and redesign the future; this reflective episode about learning and long-term change matches that cautious, hopeful mindset."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T03:00:01.630599+00:00"
+  "updated_at": "2026-01-24T04:00:01.495160+00:00"
 }
