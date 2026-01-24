@@ -1,50 +1,25 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "In 1935, Krueger's canned beer roll-out included a simple taste test: 2,000 drinkers received free cans, and 91% gave them a thumbs-up. That small experiment in user feedback helped convince a whole industry to embrace metal packaging over glass.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
+    "hour": 22,
+    "fact_text": "When Hiten launched in 1990, one of its clever tricks was releasing a small daughter probe, Hagoromo, toward the Moon. Although Hagoromo’s transmitter failed, Hiten still used radio tracking to confirm it successfully entered lunar orbit—an example of salvaging science from unexpected failure.",
+    "fact_year": 1990,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exploration_of_the_Moon",
     "episode": {
-      "id": 47,
-      "title": "Morning Drops #41 - Sedna's friends: Marina",
-      "description": "Today's Morning Drops episode feels like an easy coffee with someone you instantly get along with. It also introduces Sedna's Friends, a new sub-format where friends are invited to drink coffee and share the music they love.\n\nGaia invites her friend Marina, artist and aspiring singer, to share music, small thoughts, and that comfortable kind of conversation between good friends. They met by chance at a party and connected right away through music, creativity, and a healthy dose of sarcasm.\n\nThis episode sounds exactly like that: relaxed, honest, and a bit spontaneous. Press play, get comfortable, and enjoy the listen.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sednas-friends-marina",
+      "id": 25,
+      "title": "Morning Drops #19 - Wabi Sabi",
+      "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
       "songs": [
-        "Florence + The Machine - Free",
-        "Jordan Rakei - Mind's Eye",
-        "Jill Scott - Golden",
-        "Pink Floyd - Fearless"
+        "song 1"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Neo-Soul",
-        "R&B",
-        "Progressive Rock"
+        "genre 1"
       ]
     },
-    "match_reason": "Sharing early canned beer with ordinary people to see what they think echoes the cozy, conversational feel of an episode built around friends sharing tastes, stories, and small experiments in what feels good."
+    "match_reason": "Hagoromo’s failed transmitter yet successful orbit is orbital wabi-sabi—a flawed mission that still produced beauty and data, aligning with an episode celebrating imperfect outcomes and quiet surprises."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "When Hiten launched in 1990, one of its clever tricks was releasing a small daughter probe, Hagoromo, toward the Moon. Although Hagoromo’s transmitter failed, Hiten still used radio tracking to confirm it successfully entered lunar orbit—an example of salvaging science from unexpected failure.",
-      "fact_year": 1990,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exploration_of_the_Moon",
-      "episode": {
-        "id": 25,
-        "title": "Morning Drops #19 - Wabi Sabi",
-        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
-        "songs": [
-          "song 1"
-        ],
-        "music-genres": [
-          "genre 1"
-        ]
-      },
-      "match_reason": "Hagoromo’s failed transmitter yet successful orbit is orbital wabi-sabi—a flawed mission that still produced beauty and data, aligning with an episode celebrating imperfect outcomes and quiet surprises."
-    },
     {
       "hour": 23,
       "fact_text": "Voyager 2’s 1986 flyby of Uranus revealed that the planet’s magnetic field is wildly tilted and offset from its center, unlike Earth’s relatively neat dipole. This lopsided magnetosphere may create bizarre, shifting auroras and seasons—magnetic weather on a planetary scale.",
@@ -648,9 +623,28 @@
         ]
       },
       "match_reason": "Sharing early canned beer with ordinary people to see what they think echoes the cozy, conversational feel of an episode built around friends sharing tastes, stories, and small experiments in what feels good."
+    },
+    {
+      "hour": 22,
+      "fact_text": "When Hiten launched in 1990, one of its clever tricks was releasing a small daughter probe, Hagoromo, toward the Moon. Although Hagoromo’s transmitter failed, Hiten still used radio tracking to confirm it successfully entered lunar orbit—an example of salvaging science from unexpected failure.",
+      "fact_year": 1990,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exploration_of_the_Moon",
+      "episode": {
+        "id": 25,
+        "title": "Morning Drops #19 - Wabi Sabi",
+        "description": "Wabi-sabi is a story about a handmade mug, a small mistake, and the idea that imperfection can be something to keep—not correct. In this Morning Drop, Gaia shares a moment that didn’t go to plan, and four tracks that echo the same spirit: rough takes, studio accidents, lo-fi textures, and quiet surprises. A soft, thoughtful selection moving between warm electronics, classic riffs, and raw edges.A reminder that not everything needs to be polished. Sometimes, it’s better that way.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-wabi-sabi",
+        "songs": [
+          "song 1"
+        ],
+        "music-genres": [
+          "genre 1"
+        ]
+      },
+      "match_reason": "Hagoromo’s failed transmitter yet successful orbit is orbital wabi-sabi—a flawed mission that still produced beauty and data, aligning with an episode celebrating imperfect outcomes and quiet surprises."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T21:00:01.800963+00:00"
+  "updated_at": "2026-01-24T22:00:01.654629+00:00"
 }
