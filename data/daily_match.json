@@ -1,73 +1,39 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "In the year 41, after Emperor Caligula was assassinated in a palace conspiracy, the Praetorian Guard reportedly found his uncle Claudius hiding behind a curtain. They lifted the limping, bookish aristocrat onto a shield and proclaimed him emperor—a ruler chosen not by the Senate, but by the empire’s own bodyguards.",
-    "fact_year": 41,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
+    "hour": 7,
+    "fact_text": "On this day in 1961, a B-52 bomber broke apart in the sky over Goldsboro, North Carolina, dropping two thermonuclear bombs. One weapon went through most of its arming steps and only a single low-voltage safety switch prevented a blast many times more powerful than Hiroshima.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash",
     "episode": {
-      "id": 6,
-      "title": "Sedna FM #06 - Alters of an Ego",
-      "description": "What if you could step outside yourself and become someone freer, bolder, or completely unexpected? Exploring the artistry of musicians who craft alter-egos and parallel realities to experiment with new dimensions of their identity. It's not about hiding who they are — it's about expanding who they can be.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/alters-of-an-ego",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "The Thin White Duke - Stay",
-        "Mac Miller - Dang (feat. Anderson .Paak)",
-        "Larry Lovestein - Love Affair",
-        "The Fireman - Strawberries Oceans Ships Forest",
-        "Paul McCartney - Oh! Darling",
-        "Prince - Kiss",
-        "Camille - Rebirth of the Flash",
-        "MF DOOM - Deep Fried Frenz",
-        "Gorillaz - Dirty Harry",
-        "Gorillaz - Andromeda"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Glam Rock",
         "Hip-Hop",
-        "Jazz",
-        "Ambient",
-        "Classic Rock",
-        "Funk",
-        "Electronic"
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "Claudius’ sudden transformation from overlooked relative to emperor feels like history’s most unlikely forced 'alter ego'; this episode’s focus on unexpected new selves fits his reluctant ascent to power."
+    "match_reason": "The near-detonation of a nuclear 'bomb' over Goldsboro ties darkly but directly to an episode literally named 'November Bomb', underscoring how a single event can change everything—or almost do so."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On this day in 1961, a B-52 bomber broke apart in the sky over Goldsboro, North Carolina, dropping two thermonuclear bombs. One weapon went through most of its arming steps and only a single low-voltage safety switch prevented a blast many times more powerful than Hiroshima.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The near-detonation of a nuclear 'bomb' over Goldsboro ties darkly but directly to an episode literally named 'November Bomb', underscoring how a single event can change everything—or almost do so."
-    },
     {
       "hour": 8,
       "fact_text": "In 1942, Allied bombers attacked Bangkok, then under Japanese control, pushing Thailand to declare war on the United States and the United Kingdom. The city’s temples, canals, and crowded streets suddenly found themselves on the front line of a global conflict.",
@@ -668,9 +634,42 @@
         ]
       },
       "match_reason": "Claudius’ sudden transformation from overlooked relative to emperor feels like history’s most unlikely forced 'alter ego'; this episode’s focus on unexpected new selves fits his reluctant ascent to power."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On this day in 1961, a B-52 bomber broke apart in the sky over Goldsboro, North Carolina, dropping two thermonuclear bombs. One weapon went through most of its arming steps and only a single low-voltage safety switch prevented a blast many times more powerful than Hiroshima.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The near-detonation of a nuclear 'bomb' over Goldsboro ties darkly but directly to an episode literally named 'November Bomb', underscoring how a single event can change everything—or almost do so."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T06:00:01.553226+00:00"
+  "updated_at": "2026-01-24T07:00:01.440494+00:00"
 }
