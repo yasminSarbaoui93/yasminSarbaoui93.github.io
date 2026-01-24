@@ -1,65 +1,40 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "On this day in 2009, Cyclone Klaus swept into southwestern Europe, battering France and Spain with hurricane-force winds. The storm uprooted forests, cut power to millions, and disrupted transport, reminding temperate Europe that the atmosphere can turn suddenly wild.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Klaus",
+    "hour": 14,
+    "fact_text": "In 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early customers were so enthusiastic about the lighter, unbreakable cans that rival breweries rushed to follow, reshaping not just beer culture but packaging, recycling, and how people drink on the go.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 5,
+      "title": "Sedna FM #05 - On The Go - Zero Zero",
+      "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Alborosie - Rock the dancehall",
+        "Grace Jones - Pull up to the bumper",
+        "Hollie cook - Happy hour",
+        "Easy star all star - Soul love",
+        "Jeremie Albino - Rolling down the 405",
+        "Cyril Neville - I found joy",
+        "Aretha Franklin - Rock steady",
+        "James Brown - Talking loud and saying nothing (remix)",
+        "Nubiyan Twist - So mi stay",
+        "Professor Wouassa - Fallou Fall",
+        "Jarabe de Palo - La Flaca"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Reggae",
+        "Funk",
+        "Soul",
+        "Afrobeat",
+        "Latin Rock",
+        "New Wave"
       ]
     },
-    "match_reason": "After a story of violent winds and disruption, a \"Slow Planet\" soundscape offers the opposite: calm atmospheric textures, as if the air has finally settled and the world can exhale again."
+    "match_reason": "Canned beer is literally designed for being \"on the go\", pairing neatly with a travel-ready, energetic mix that celebrates movement and fresh starts—like cracking open a cold one for the journey."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "In 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early customers were so enthusiastic about the lighter, unbreakable cans that rival breweries rushed to follow, reshaping not just beer culture but packaging, recycling, and how people drink on the go.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
-      "episode": {
-        "id": 5,
-        "title": "Sedna FM #05 - On The Go - Zero Zero",
-        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
-        "songs": [
-          "Alborosie - Rock the dancehall",
-          "Grace Jones - Pull up to the bumper",
-          "Hollie cook - Happy hour",
-          "Easy star all star - Soul love",
-          "Jeremie Albino - Rolling down the 405",
-          "Cyril Neville - I found joy",
-          "Aretha Franklin - Rock steady",
-          "James Brown - Talking loud and saying nothing (remix)",
-          "Nubiyan Twist - So mi stay",
-          "Professor Wouassa - Fallou Fall",
-          "Jarabe de Palo - La Flaca"
-        ],
-        "music-genres": [
-          "Reggae",
-          "Funk",
-          "Soul",
-          "Afrobeat",
-          "Latin Rock",
-          "New Wave"
-        ]
-      },
-      "match_reason": "Canned beer is literally designed for being \"on the go\", pairing neatly with a travel-ready, energetic mix that celebrates movement and fresh starts—like cracking open a cold one for the journey."
-    },
     {
       "hour": 15,
       "fact_text": "On this day in 1651, Spanish colonial authorities and Mapuche leaders met at the Parliament of Boroa in Chile, attempting once again to negotiate peace in the long-running Arauco War. These parliaments were rare moments where indigenous and colonial powers sat face to face, blending diplomacy, ritual, and fragile compromise.",
@@ -648,9 +623,43 @@
         ]
       },
       "match_reason": "After a story of violent winds and disruption, a \"Slow Planet\" soundscape offers the opposite: calm atmospheric textures, as if the air has finally settled and the world can exhale again."
+    },
+    {
+      "hour": 14,
+      "fact_text": "In 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early customers were so enthusiastic about the lighter, unbreakable cans that rival breweries rushed to follow, reshaping not just beer culture but packaging, recycling, and how people drink on the go.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
+      "episode": {
+        "id": 5,
+        "title": "Sedna FM #05 - On The Go - Zero Zero",
+        "description": "An energetic mix for when you're on the move. Zero Zero captures that feeling of starting fresh, moving forward, and embracing the journey. Perfect for travel, walks, or just getting things done.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/on-the-go-zero-zero",
+        "songs": [
+          "Alborosie - Rock the dancehall",
+          "Grace Jones - Pull up to the bumper",
+          "Hollie cook - Happy hour",
+          "Easy star all star - Soul love",
+          "Jeremie Albino - Rolling down the 405",
+          "Cyril Neville - I found joy",
+          "Aretha Franklin - Rock steady",
+          "James Brown - Talking loud and saying nothing (remix)",
+          "Nubiyan Twist - So mi stay",
+          "Professor Wouassa - Fallou Fall",
+          "Jarabe de Palo - La Flaca"
+        ],
+        "music-genres": [
+          "Reggae",
+          "Funk",
+          "Soul",
+          "Afrobeat",
+          "Latin Rock",
+          "New Wave"
+        ]
+      },
+      "match_reason": "Canned beer is literally designed for being \"on the go\", pairing neatly with a travel-ready, energetic mix that celebrates movement and fresh starts—like cracking open a cold one for the journey."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T13:00:01.690648+00:00"
+  "updated_at": "2026-01-24T14:00:01.647180+00:00"
 }
