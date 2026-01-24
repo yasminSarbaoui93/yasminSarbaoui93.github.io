@@ -1,59 +1,34 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On this day in 1918, revolutionary Russia officially adopted the Gregorian calendar, jumping from January 31 straight to February 14. Overnight, the country \"lost\" 13 days, aligning itself with Western timekeeping and adding an odd temporal twist to diaries and anniversaries from that year.",
-    "fact_year": 1918,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+    "hour": 12,
+    "fact_text": "In 1915, during World War I, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The engagement showcased both the power and vulnerability of modern steel navies, with long-range gunnery, miscommunications, and a dramatic magazine explosion shaping the outcome.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Fleet",
     "episode": {
-      "id": 33,
-      "title": "Morning Drops #27 - Nomophobia",
-      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "All Them Witches - Internet",
-        "James Blake - The Wilhelm Scream",
-        "Nick Mulvey - Juramidam",
-        "Kraftwerk - Computer Love"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Psychedelic Rock",
-        "Electronic",
-        "Folk",
-        "Synth-Pop"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "A nation abruptly changing its calendar mirrors a radical reset in how we structure time and connection—akin to putting the phone down and recalibrating our relationship to days, devices, and rhythms."
+    "match_reason": "A naval battle in the North Sea involving British and German ships meets an episode literally set on a boat with German companions—transforming the idea of contested waters into a peaceful, shared voyage."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "In 1915, during World War I, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The engagement showcased both the power and vulnerability of modern steel navies, with long-range gunnery, miscommunications, and a dramatic magazine explosion shaping the outcome.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Fleet",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A naval battle in the North Sea involving British and German ships meets an episode literally set on a boat with German companions—transforming the idea of contested waters into a peaceful, shared voyage."
-    },
     {
       "hour": 13,
       "fact_text": "On this day in 2009, Cyclone Klaus swept into southwestern Europe, battering France and Spain with hurricane-force winds. The storm uprooted forests, cut power to millions, and disrupted transport, reminding temperate Europe that the atmosphere can turn suddenly wild.",
@@ -648,9 +623,37 @@
         ]
       },
       "match_reason": "A nation abruptly changing its calendar mirrors a radical reset in how we structure time and connection—akin to putting the phone down and recalibrating our relationship to days, devices, and rhythms."
+    },
+    {
+      "hour": 12,
+      "fact_text": "In 1915, during World War I, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The engagement showcased both the power and vulnerability of modern steel navies, with long-range gunnery, miscommunications, and a dramatic magazine explosion shaping the outcome.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Fleet",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A naval battle in the North Sea involving British and German ships meets an episode literally set on a boat with German companions—transforming the idea of contested waters into a peaceful, shared voyage."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T11:00:01.806672+00:00"
+  "updated_at": "2026-01-24T12:00:01.659590+00:00"
 }
