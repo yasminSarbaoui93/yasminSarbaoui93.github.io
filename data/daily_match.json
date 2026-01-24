@@ -1,65 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On this day in 1990, the Soviet Luna 24 mission had already been silent for years, but Japan’s Hiten reminded the world that lunar exploration could return in new forms. Its innovative 'aerobraking' experiments used Earth’s atmosphere as a cosmic brake pedal, rehearsing techniques for future interplanetary voyages.",
-    "fact_year": 1990,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Exploration_of_the_Moon",
+    "hour": 21,
+    "fact_text": "On this day in 2009, Cyclone Klaus toppled centuries-old pines in the Landes forest, a man-made woodland planted to tame the marshes of southwest France. The storm’s fierce gusts showed how even landscapes engineered for stability can be humbled in a single night.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bordeaux",
     "episode": {
-      "id": 2,
-      "title": "Sedna FM #02 - Destination Sedna",
-      "description": "Continuing the Sedna FM journey together with family and friends! Episode two of the main series — exploring new musical territories and deepening the connection with our listeners. A collective voyage through sound.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/destination-sedna",
+      "id": 27,
+      "title": "Morning Drops #21 - Endless Summer",
+      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
       "songs": [
-        "Pink Floyd - Breathe",
-        "The fountain DC - Starburster",
-        "Laura Cahen - La Poussiere",
-        "Taxi Kebab - Lmchi w rjou3",
-        "Odion Iruoje - Identify With Your Roots",
-        "Depeche mode - world in my eyes (Oil Tank Mix)",
-        "Massive attack - Dissolved girl",
-        "Kokoroko - Three piece suite",
-        "Salin - Egungun",
-        "E.S.P. - It's You"
+        "Nik Bärtsch - Modul 14",
+        "Mama Terra - Chameleon (Single Edit)",
+        "Spyro Gyra - Morning Dance",
+        "Yussef Kamaal - Black Focus"
       ],
       "music-genres": [
-        "Progressive Rock",
-        "Post-Punk",
-        "French Pop",
-        "Maghreb",
-        "Afrobeat",
-        "Synthpop",
-        "Trip-Hop"
+        "Minimal Jazz",
+        "Nu Jazz",
+        "Jazz Fusion",
+        "UK Jazz"
       ]
     },
-    "match_reason": "An episode titled 'Destination Sedna' naturally mirrors the idea of plotting new routes through space; Hiten’s experimental pathfinding around the Moon aligns with this sonic voyage to far-off orbits."
+    "match_reason": "Bordeaux’s coastal region is shaped by both storms and long, languid summers; this seaside 'Endless Summer' episode provides the calm counterpoint to Klaus’s single, violent interruption of the coast’s rhythm."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "On this day in 2009, Cyclone Klaus toppled centuries-old pines in the Landes forest, a man-made woodland planted to tame the marshes of southwest France. The storm’s fierce gusts showed how even landscapes engineered for stability can be humbled in a single night.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bordeaux",
-      "episode": {
-        "id": 27,
-        "title": "Morning Drops #21 - Endless Summer",
-        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
-        "songs": [
-          "Nik Bärtsch - Modul 14",
-          "Mama Terra - Chameleon (Single Edit)",
-          "Spyro Gyra - Morning Dance",
-          "Yussef Kamaal - Black Focus"
-        ],
-        "music-genres": [
-          "Minimal Jazz",
-          "Nu Jazz",
-          "Jazz Fusion",
-          "UK Jazz"
-        ]
-      },
-      "match_reason": "Bordeaux’s coastal region is shaped by both storms and long, languid summers; this seaside 'Endless Summer' episode provides the calm counterpoint to Klaus’s single, violent interruption of the coast’s rhythm."
-    },
     {
       "hour": 22,
       "fact_text": "In 1935, when canned beer appeared in American shops, many drinkers worried the metal would ruin the taste, so brewers added a printed 'Keglined' seal to reassure them. The success of those first cans paved the way for today’s craft breweries, which use cans not just for convenience but to protect delicate aromas from light.",
@@ -668,9 +634,34 @@
         ]
       },
       "match_reason": "An episode titled 'Destination Sedna' naturally mirrors the idea of plotting new routes through space; Hiten’s experimental pathfinding around the Moon aligns with this sonic voyage to far-off orbits."
+    },
+    {
+      "hour": 21,
+      "fact_text": "On this day in 2009, Cyclone Klaus toppled centuries-old pines in the Landes forest, a man-made woodland planted to tame the marshes of southwest France. The storm’s fierce gusts showed how even landscapes engineered for stability can be humbled in a single night.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bordeaux",
+      "episode": {
+        "id": 27,
+        "title": "Morning Drops #21 - Endless Summer",
+        "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+        "songs": [
+          "Nik Bärtsch - Modul 14",
+          "Mama Terra - Chameleon (Single Edit)",
+          "Spyro Gyra - Morning Dance",
+          "Yussef Kamaal - Black Focus"
+        ],
+        "music-genres": [
+          "Minimal Jazz",
+          "Nu Jazz",
+          "Jazz Fusion",
+          "UK Jazz"
+        ]
+      },
+      "match_reason": "Bordeaux’s coastal region is shaped by both storms and long, languid summers; this seaside 'Endless Summer' episode provides the calm counterpoint to Klaus’s single, violent interruption of the coast’s rhythm."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T20:00:01.806419+00:00"
+  "updated_at": "2026-01-24T21:00:01.606357+00:00"
 }
