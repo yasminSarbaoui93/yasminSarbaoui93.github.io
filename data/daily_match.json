@@ -1,61 +1,31 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On this day in 1986, Voyager 2 made its closest approach to Uranus, becoming the first—and so far only—spacecraft to visit the ice giant up close. The flyby revealed 11 new moons, strange dark rings, and an unexpectedly tilted magnetic field, transforming Uranus from a pale dot into a richly complex world.",
-    "fact_year": 1986,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Voyager_2",
+    "hour": 2,
+    "fact_text": "In 1978, the Soviet satellite Kosmos 954, powered by a nuclear reactor, broke apart in Earth's atmosphere and scattered radioactive debris across Canada's Northwest Territories. The resulting recovery effort, code-named Operation Morning Light, was one of the earliest large-scale attempts to track and clean up space nuclear contamination on the ground.",
+    "fact_year": 1978,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kosmos_954",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "Voyager 2’s passage through the outer solar system echoes the episode’s slow, mysterious build into expansive, liberating grooves—like drifting past a cold, distant world into a cosmic dance."
+    "match_reason": "A nuclear-powered satellite burning up over Earth is a literal \"electric shock\" from space, matching the episode’s high-voltage rock energy and its sense of dangerous, uncontrolled power."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1978, the Soviet satellite Kosmos 954, powered by a nuclear reactor, broke apart in Earth's atmosphere and scattered radioactive debris across Canada's Northwest Territories. The resulting recovery effort, code-named Operation Morning Light, was one of the earliest large-scale attempts to track and clean up space nuclear contamination on the ground.",
-      "fact_year": 1978,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kosmos_954",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "A nuclear-powered satellite burning up over Earth is a literal \"electric shock\" from space, matching the episode’s high-voltage rock energy and its sense of dangerous, uncontrolled power."
-    },
     {
       "hour": 3,
       "fact_text": "On this day in 1848, carpenter James W. Marshall noticed shiny flakes in a California millrace and realized they were gold, sparking the California Gold Rush. Within a year, people from around the world were streaming into the region, reshaping ecosystems, economies, and cultures in a frantic search for glittering metal.",
@@ -653,9 +623,34 @@
         ]
       },
       "match_reason": "Voyager 2’s passage through the outer solar system echoes the episode’s slow, mysterious build into expansive, liberating grooves—like drifting past a cold, distant world into a cosmic dance."
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1978, the Soviet satellite Kosmos 954, powered by a nuclear reactor, broke apart in Earth's atmosphere and scattered radioactive debris across Canada's Northwest Territories. The resulting recovery effort, code-named Operation Morning Light, was one of the earliest large-scale attempts to track and clean up space nuclear contamination on the ground.",
+      "fact_year": 1978,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Kosmos_954",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "A nuclear-powered satellite burning up over Earth is a literal \"electric shock\" from space, matching the episode’s high-voltage rock energy and its sense of dangerous, uncontrolled power."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T01:00:01.607224+00:00"
+  "updated_at": "2026-01-24T02:00:01.700416+00:00"
 }
