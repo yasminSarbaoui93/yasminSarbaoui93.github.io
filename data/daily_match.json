@@ -1,56 +1,31 @@
 {
-  "current_hour": 20,
+  "current_hour": 21,
   "current_fact": {
-    "hour": 20,
-    "fact_text": "On this day in 2009, windstorm Klaus slammed into Bordeaux and much of southwestern Europe, snapping power lines and flattening forests. France’s famed wine country briefly became a landscape of toppled trees and darkened towns, showing how quickly climate and weather can rewrite even the most carefully cultivated terroir.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bordeaux",
+    "hour": 21,
+    "fact_text": "In 1935, Krueger's canned beer roll-out included a simple taste test: 2,000 drinkers received free cans, and 91% gave them a thumbs-up. That small experiment in user feedback helped convince a whole industry to embrace metal packaging over glass.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
     "episode": {
-      "id": 27,
-      "title": "Morning Drops #27 - Endless Summer",
-      "description": "Recorded from Fano, a quiet town on the Adriatic coast where summer stretches long and slow. Between swims, simple meals, and time with family, Gaia reflects on the kind of music that helps us return to ourselves. Through different shades of jazz — from minimal and meditative to warm and rhythmic — an invitation to slip into that endless summer feeling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-endless-summer",
+      "id": 47,
+      "title": "Morning Drops #41 - Sedna's friends: Marina",
+      "description": "Today's Morning Drops episode feels like an easy coffee with someone you instantly get along with. It also introduces Sedna's Friends, a new sub-format where friends are invited to drink coffee and share the music they love.\n\nGaia invites her friend Marina, artist and aspiring singer, to share music, small thoughts, and that comfortable kind of conversation between good friends. They met by chance at a party and connected right away through music, creativity, and a healthy dose of sarcasm.\n\nThis episode sounds exactly like that: relaxed, honest, and a bit spontaneous. Press play, get comfortable, and enjoy the listen.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sednas-friends-marina",
       "songs": [
-        "Nik Bärtsch - Modul 14",
-        "Mama Terra - Chameleon (Single Edit)",
-        "Spyro Gyra - Morning Dance",
-        "Yussef Kamaal - Black Focus"
+        "Florence + The Machine - Free",
+        "Jordan Rakei - Mind's Eye",
+        "Jill Scott - Golden",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Minimal Jazz",
-        "Nu Jazz",
-        "Jazz Fusion",
-        "UK Jazz"
+        "Indie Rock",
+        "Neo-Soul",
+        "R&B",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A violent windstorm cutting through a wine region contrasts with the gentle, sunlit mood of \"Endless Summer\"—a reminder of how precarious calm climates and leisurely landscapes really are."
+    "match_reason": "Sharing early canned beer with ordinary people to see what they think echoes the cozy, conversational feel of an episode built around friends sharing tastes, stories, and small experiments in what feels good."
   },
   "queue": [
-    {
-      "hour": 21,
-      "fact_text": "In 1935, Krueger's canned beer roll-out included a simple taste test: 2,000 drinkers received free cans, and 91% gave them a thumbs-up. That small experiment in user feedback helped convince a whole industry to embrace metal packaging over glass.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
-      "episode": {
-        "id": 47,
-        "title": "Morning Drops #41 - Sedna's friends: Marina",
-        "description": "Today's Morning Drops episode feels like an easy coffee with someone you instantly get along with. It also introduces Sedna's Friends, a new sub-format where friends are invited to drink coffee and share the music they love.\n\nGaia invites her friend Marina, artist and aspiring singer, to share music, small thoughts, and that comfortable kind of conversation between good friends. They met by chance at a party and connected right away through music, creativity, and a healthy dose of sarcasm.\n\nThis episode sounds exactly like that: relaxed, honest, and a bit spontaneous. Press play, get comfortable, and enjoy the listen.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sednas-friends-marina",
-        "songs": [
-          "Florence + The Machine - Free",
-          "Jordan Rakei - Mind's Eye",
-          "Jill Scott - Golden",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Neo-Soul",
-          "R&B",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Sharing early canned beer with ordinary people to see what they think echoes the cozy, conversational feel of an episode built around friends sharing tastes, stories, and small experiments in what feels good."
-    },
     {
       "hour": 22,
       "fact_text": "When Hiten launched in 1990, one of its clever tricks was releasing a small daughter probe, Hagoromo, toward the Moon. Although Hagoromo’s transmitter failed, Hiten still used radio tracking to confirm it successfully entered lunar orbit—an example of salvaging science from unexpected failure.",
@@ -648,9 +623,34 @@
         ]
       },
       "match_reason": "A violent windstorm cutting through a wine region contrasts with the gentle, sunlit mood of \"Endless Summer\"—a reminder of how precarious calm climates and leisurely landscapes really are."
+    },
+    {
+      "hour": 21,
+      "fact_text": "In 1935, Krueger's canned beer roll-out included a simple taste test: 2,000 drinkers received free cans, and 91% gave them a thumbs-up. That small experiment in user feedback helped convince a whole industry to embrace metal packaging over glass.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
+      "episode": {
+        "id": 47,
+        "title": "Morning Drops #41 - Sedna's friends: Marina",
+        "description": "Today's Morning Drops episode feels like an easy coffee with someone you instantly get along with. It also introduces Sedna's Friends, a new sub-format where friends are invited to drink coffee and share the music they love.\n\nGaia invites her friend Marina, artist and aspiring singer, to share music, small thoughts, and that comfortable kind of conversation between good friends. They met by chance at a party and connected right away through music, creativity, and a healthy dose of sarcasm.\n\nThis episode sounds exactly like that: relaxed, honest, and a bit spontaneous. Press play, get comfortable, and enjoy the listen.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sednas-friends-marina",
+        "songs": [
+          "Florence + The Machine - Free",
+          "Jordan Rakei - Mind's Eye",
+          "Jill Scott - Golden",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Neo-Soul",
+          "R&B",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Sharing early canned beer with ordinary people to see what they think echoes the cozy, conversational feel of an episode built around friends sharing tastes, stories, and small experiments in what feels good."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T20:00:01.643789+00:00"
+  "updated_at": "2026-01-24T21:00:01.800963+00:00"
 }
