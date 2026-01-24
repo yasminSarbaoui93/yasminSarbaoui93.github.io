@@ -1,59 +1,34 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In 1918, revolutionary Russia adopted the Gregorian calendar by decree, skipping directly from January 31 to February 14. For Russians, that meant losing 13 days overnight—and juggling two different 'New Years' as old and new systems overlapped.",
-    "fact_year": 1918,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+    "hour": 12,
+    "fact_text": "On this day in 1915, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The fight was as much about wireless intelligence and codebreaking as big guns, revealing how invisible information could steer enormous steel fleets.",
+    "fact_year": 1915,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Dogger_Bank_(1915)",
     "episode": {
-      "id": 20,
-      "title": "Morning Drops #14 - Slow Planet",
-      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+      "id": 37,
+      "title": "Morning Drops #31 - Sailing With Germans",
+      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
       "songs": [
-        "Air - Cherry Blossom Girl",
-        "Kruder & Dorfmeister - Keep On Believing",
-        "Tosca - Orozco",
-        "Bonobo - Terrapin"
+        "Billy Talent - Dead Silence",
+        "Ben Howard - Keep Your Head Up",
+        "Ziggy Alberts - Simple Things",
+        "Vitor Kley - O Sol",
+        "Enya - Orinoco Flow",
+        "Paveier - Leev Marie"
       ],
       "music-genres": [
-        "Downtempo",
-        "Trip-Hop",
-        "Electronic",
-        "Chillout"
+        "Punk Rock",
+        "Indie Folk",
+        "Surf Pop",
+        "New Age",
+        "German Folk"
       ]
     },
-    "match_reason": "Switching calendars violently compressed time; 'Slow Planet' counters that by stretching time out again, inviting listeners to question how we measure days and how fast they should move."
+    "match_reason": "A North Sea clash between British and German ships pairs neatly with a peaceful, modern voyage 'sailing with Germans', transforming past naval rivalry into shared currents and stories on the water."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On this day in 1915, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The fight was as much about wireless intelligence and codebreaking as big guns, revealing how invisible information could steer enormous steel fleets.",
-      "fact_year": 1915,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Dogger_Bank_(1915)",
-      "episode": {
-        "id": 37,
-        "title": "Morning Drops #31 - Sailing With Germans",
-        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
-        "songs": [
-          "Billy Talent - Dead Silence",
-          "Ben Howard - Keep Your Head Up",
-          "Ziggy Alberts - Simple Things",
-          "Vitor Kley - O Sol",
-          "Enya - Orinoco Flow",
-          "Paveier - Leev Marie"
-        ],
-        "music-genres": [
-          "Punk Rock",
-          "Indie Folk",
-          "Surf Pop",
-          "New Age",
-          "German Folk"
-        ]
-      },
-      "match_reason": "A North Sea clash between British and German ships pairs neatly with a peaceful, modern voyage 'sailing with Germans', transforming past naval rivalry into shared currents and stories on the water."
-    },
     {
       "hour": 13,
       "fact_text": "In 2009, Cyclone Klaus roared ashore near Bordeaux, France, with hurricane-force winds that toppled forests, cut power to over a million people, and derailed trains. It became one of the costliest European windstorms on record, reminding inhabitants that the Atlantic still shapes the continent’s weather—and its wine country.",
@@ -659,9 +634,37 @@
         ]
       },
       "match_reason": "Switching calendars violently compressed time; 'Slow Planet' counters that by stretching time out again, inviting listeners to question how we measure days and how fast they should move."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On this day in 1915, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The fight was as much about wireless intelligence and codebreaking as big guns, revealing how invisible information could steer enormous steel fleets.",
+      "fact_year": 1915,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Dogger_Bank_(1915)",
+      "episode": {
+        "id": 37,
+        "title": "Morning Drops #31 - Sailing With Germans",
+        "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+        "songs": [
+          "Billy Talent - Dead Silence",
+          "Ben Howard - Keep Your Head Up",
+          "Ziggy Alberts - Simple Things",
+          "Vitor Kley - O Sol",
+          "Enya - Orinoco Flow",
+          "Paveier - Leev Marie"
+        ],
+        "music-genres": [
+          "Punk Rock",
+          "Indie Folk",
+          "Surf Pop",
+          "New Age",
+          "German Folk"
+        ]
+      },
+      "match_reason": "A North Sea clash between British and German ships pairs neatly with a peaceful, modern voyage 'sailing with Germans', transforming past naval rivalry into shared currents and stories on the water."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T11:00:01.525108+00:00"
+  "updated_at": "2026-01-24T12:00:01.633779+00:00"
 }
