@@ -1,59 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "In 1915, during World War I, British and German battlecruisers clashed in the North Sea at the Battle of Dogger Bank. The engagement showcased both the power and vulnerability of modern steel navies, with long-range gunnery, miscommunications, and a dramatic magazine explosion shaping the outcome.",
-    "fact_year": 1915,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Fleet",
+    "hour": 13,
+    "fact_text": "On this day in 2009, Cyclone Klaus swept into southwestern Europe, battering France and Spain with hurricane-force winds. The storm uprooted forests, cut power to millions, and disrupted transport, reminding temperate Europe that the atmosphere can turn suddenly wild.",
+    "fact_year": 2009,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Klaus",
     "episode": {
-      "id": 37,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 20,
+      "title": "Morning Drops #14 - Slow Planet",
+      "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
       "songs": [
-        "Billy Talent - Dead Silence",
-        "Ben Howard - Keep Your Head Up",
-        "Ziggy Alberts - Simple Things",
-        "Vitor Kley - O Sol",
-        "Enya - Orinoco Flow",
-        "Paveier - Leev Marie"
+        "Air - Cherry Blossom Girl",
+        "Kruder & Dorfmeister - Keep On Believing",
+        "Tosca - Orozco",
+        "Bonobo - Terrapin"
       ],
       "music-genres": [
-        "Punk Rock",
-        "Indie Folk",
-        "Surf Pop",
-        "New Age",
-        "German Folk"
+        "Downtempo",
+        "Trip-Hop",
+        "Electronic",
+        "Chillout"
       ]
     },
-    "match_reason": "A naval battle in the North Sea involving British and German ships meets an episode literally set on a boat with German companions—transforming the idea of contested waters into a peaceful, shared voyage."
+    "match_reason": "After a story of violent winds and disruption, a \"Slow Planet\" soundscape offers the opposite: calm atmospheric textures, as if the air has finally settled and the world can exhale again."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On this day in 2009, Cyclone Klaus swept into southwestern Europe, battering France and Spain with hurricane-force winds. The storm uprooted forests, cut power to millions, and disrupted transport, reminding temperate Europe that the atmosphere can turn suddenly wild.",
-      "fact_year": 2009,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Klaus",
-      "episode": {
-        "id": 20,
-        "title": "Morning Drops #14 - Slow Planet",
-        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
-        "songs": [
-          "Air - Cherry Blossom Girl",
-          "Kruder & Dorfmeister - Keep On Believing",
-          "Tosca - Orozco",
-          "Bonobo - Terrapin"
-        ],
-        "music-genres": [
-          "Downtempo",
-          "Trip-Hop",
-          "Electronic",
-          "Chillout"
-        ]
-      },
-      "match_reason": "After a story of violent winds and disruption, a \"Slow Planet\" soundscape offers the opposite: calm atmospheric textures, as if the air has finally settled and the world can exhale again."
-    },
     {
       "hour": 14,
       "fact_text": "In 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early customers were so enthusiastic about the lighter, unbreakable cans that rival breweries rushed to follow, reshaping not just beer culture but packaging, recycling, and how people drink on the go.",
@@ -651,9 +623,34 @@
         ]
       },
       "match_reason": "A naval battle in the North Sea involving British and German ships meets an episode literally set on a boat with German companions—transforming the idea of contested waters into a peaceful, shared voyage."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On this day in 2009, Cyclone Klaus swept into southwestern Europe, battering France and Spain with hurricane-force winds. The storm uprooted forests, cut power to millions, and disrupted transport, reminding temperate Europe that the atmosphere can turn suddenly wild.",
+      "fact_year": 2009,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Klaus",
+      "episode": {
+        "id": 20,
+        "title": "Morning Drops #14 - Slow Planet",
+        "description": "A pause. A quiet return to slower rhythms, sparked by a live set under the summer sky. A moment to breathe and settle into the week.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-slow-planet",
+        "songs": [
+          "Air - Cherry Blossom Girl",
+          "Kruder & Dorfmeister - Keep On Believing",
+          "Tosca - Orozco",
+          "Bonobo - Terrapin"
+        ],
+        "music-genres": [
+          "Downtempo",
+          "Trip-Hop",
+          "Electronic",
+          "Chillout"
+        ]
+      },
+      "match_reason": "After a story of violent winds and disruption, a \"Slow Planet\" soundscape offers the opposite: calm atmospheric textures, as if the air has finally settled and the world can exhale again."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T12:00:01.659590+00:00"
+  "updated_at": "2026-01-24T13:00:01.690648+00:00"
 }
