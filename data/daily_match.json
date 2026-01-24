@@ -1,56 +1,31 @@
 {
-  "current_hour": 13,
+  "current_hour": 14,
   "current_fact": {
-    "hour": 13,
-    "fact_text": "In 2009, Cyclone Klaus roared ashore near Bordeaux, France, with hurricane-force winds that toppled forests, cut power to over a million people, and derailed trains. It became one of the costliest European windstorms on record, reminding inhabitants that the Atlantic still shapes the continent’s weather—and its wine country.",
-    "fact_year": 2009,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Cyclone_Klaus",
+    "hour": 14,
+    "fact_text": "On this day in 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early testers were so enthusiastic that by the end of the year, millions of cans—lighter, stackable, and slightly futuristic—were in drinkers’ hands.",
+    "fact_year": 1935,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
     "episode": {
-      "id": 52,
-      "title": "Morning Drops #45 - It Can't Rain Forever",
-      "description": "In this first broadcast of 2026, Gaia returns from the vivid landscapes of Morocco to open a space for reflection. This episode navigates the delicate transition between closing a significant chapter and stepping into the new year. It explores the concept of constancy amidst change, celebrating the grounding force of friendship and the creative sanctuary that is Sedna FM.\n\nThe musical selection mirrors this journey, moving from the orchestral depth of changing seasons into the golden warmth of psychedelic soul. It recalls memories of Swiss mountains and unexpected downpours, reminding us that shared optimism can weather any storm.\n\nTake a moment to breathe in the new morning and listen deeply.\n\nMood: Reflective, Warm, Transitional, Hopeful\nMusic genre: Classic Rock, Psychedelic Soul, Pop Rock, Soft Rock",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-it-cant-rain-forever",
+      "id": 13,
+      "title": "Morning Drops #03 - secret_mp3_player_1",
+      "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
       "songs": [
-        "Led Zeppelin - The Rain Song",
-        "Khruangbin & Leon Bridges - Texas Sun",
-        "Dragon - Rain",
-        "Fleetwood Mac - Don't Stop"
+        "Sean Paul - Get Busy",
+        "Blink-182 - I Miss You",
+        "Black Eyed Peas - My Humps",
+        "Britney Spears - Toxic"
       ],
       "music-genres": [
-        "Classic Rock",
-        "Psychedelic Soul",
-        "Pop Rock",
-        "Soft Rock"
+        "Dancehall",
+        "Pop Punk",
+        "Pop",
+        "Dance-Pop"
       ]
     },
-    "match_reason": "A violent European windstorm and this rain-themed, hopeful episode both meditate on weather as a force of disruption—and on the belief that even the worst storms eventually pass."
+    "match_reason": "Canned beer was a playful, mass-market innovation that changed how people consumed a familiar pleasure—just as MP3 players and downloads transformed casual music listening into something portable, instant, and a bit guilty."
   },
   "queue": [
-    {
-      "hour": 14,
-      "fact_text": "On this day in 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early testers were so enthusiastic that by the end of the year, millions of cans—lighter, stackable, and slightly futuristic—were in drinkers’ hands.",
-      "fact_year": 1935,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
-      "episode": {
-        "id": 13,
-        "title": "Morning Drops #03 - secret_mp3_player_1",
-        "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
-        "songs": [
-          "Sean Paul - Get Busy",
-          "Blink-182 - I Miss You",
-          "Black Eyed Peas - My Humps",
-          "Britney Spears - Toxic"
-        ],
-        "music-genres": [
-          "Dancehall",
-          "Pop Punk",
-          "Pop",
-          "Dance-Pop"
-        ]
-      },
-      "match_reason": "Canned beer was a playful, mass-market innovation that changed how people consumed a familiar pleasure—just as MP3 players and downloads transformed casual music listening into something portable, instant, and a bit guilty."
-    },
     {
       "hour": 15,
       "fact_text": "In 1651, during the long Arauco War, Spanish colonial authorities and Mapuche leaders met at the Parliament of Boroa. Under makeshift canopies on Chilean soil, they negotiated a fragile peace that recognized Mapuche autonomy south of the Bío-Bío River—an unusually formal treaty with an Indigenous nation for its time.",
@@ -659,9 +634,34 @@
         ]
       },
       "match_reason": "A violent European windstorm and this rain-themed, hopeful episode both meditate on weather as a force of disruption—and on the belief that even the worst storms eventually pass."
+    },
+    {
+      "hour": 14,
+      "fact_text": "On this day in 1935, the Gottfried Krueger Brewing Company introduced the first commercially successful canned beer in the United States. Early testers were so enthusiastic that by the end of the year, millions of cans—lighter, stackable, and slightly futuristic—were in drinkers’ hands.",
+      "fact_year": 1935,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Krueger_Brewing_Company",
+      "episode": {
+        "id": 13,
+        "title": "Morning Drops #03 - secret_mp3_player_1",
+        "description": "Inspired by a throwback MP3 player on Instagram, Yasmin and Gaia take you on a nostalgic journey to the early 2000s. LimeWire, eMule, guilty-pleasure playlists — remember those? Hit play and relive the songs that shaped a generation.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-secret-mp3-player-1",
+        "songs": [
+          "Sean Paul - Get Busy",
+          "Blink-182 - I Miss You",
+          "Black Eyed Peas - My Humps",
+          "Britney Spears - Toxic"
+        ],
+        "music-genres": [
+          "Dancehall",
+          "Pop Punk",
+          "Pop",
+          "Dance-Pop"
+        ]
+      },
+      "match_reason": "Canned beer was a playful, mass-market innovation that changed how people consumed a familiar pleasure—just as MP3 players and downloads transformed casual music listening into something portable, instant, and a bit guilty."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T13:00:01.636781+00:00"
+  "updated_at": "2026-01-24T14:00:01.555001+00:00"
 }
