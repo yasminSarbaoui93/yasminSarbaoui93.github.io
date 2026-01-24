@@ -1,54 +1,30 @@
 {
-  "current_hour": 22,
+  "current_hour": 23,
   "current_fact": {
-    "hour": 22,
-    "fact_text": "In 1935, when canned beer appeared in American shops, many drinkers worried the metal would ruin the taste, so brewers added a printed 'Keglined' seal to reassure them. The success of those first cans paved the way for today’s craft breweries, which use cans not just for convenience but to protect delicate aromas from light.",
-    "fact_year": 1935,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Beer_can",
+    "hour": 23,
+    "fact_text": "On this day in 1968, as Operation Coburg unfolded in Vietnam, popular music back home was turning the war into soundtracks of protest and introspection. Songs carried the distant thud of artillery into living rooms, making faraway jungles feel uncomfortably close.",
+    "fact_year": 1968,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
     "episode": {
-      "id": 7,
-      "title": "Morning Drops #01 - Timeless Legacy",
-      "description": "Gaia guides us through timeless music to start the morning with the right foot! The first episode of the Morning Drops series — classic sounds that never fade.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-timeless-legacy",
+      "id": 16,
+      "title": "Morning Drops #10 - The One With Many Names",
+      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
       "songs": [
-        "Roberta Flack - Killing me softly with his song",
-        "Stone, Angie & Raphael Saadiq - Brotha",
-        "Roy Ayers - Running Away (Extended)"
+        "Ghost - Spirit",
+        "Ghost - Mary on a Cross",
+        "Ghost - Dance Macabre",
+        "Ghost - Umbra"
       ],
       "music-genres": [
-        "Soul",
-        "R&B",
-        "Jazz-Funk"
+        "Hard Rock",
+        "Heavy Metal",
+        "Arena Rock"
       ]
     },
-    "match_reason": "Canned beer turned a perishable, local drink into something more portable and 'timeless'; this episode’s focus on classic tracks that endure pairs well with the idea of preserving flavor—and feeling—across time."
+    "match_reason": "The Vietnam era cemented rock as a ritual of resistance and reflection around war; this episode’s exploration of theatrical, ritualized rock through Ghost echoes how music turns conflict into myth, memory, and staged catharsis."
   },
-  "queue": [
-    {
-      "hour": 23,
-      "fact_text": "On this day in 1968, as Operation Coburg unfolded in Vietnam, popular music back home was turning the war into soundtracks of protest and introspection. Songs carried the distant thud of artillery into living rooms, making faraway jungles feel uncomfortably close.",
-      "fact_year": 1968,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
-      "episode": {
-        "id": 16,
-        "title": "Morning Drops #10 - The One With Many Names",
-        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
-        "songs": [
-          "Ghost - Spirit",
-          "Ghost - Mary on a Cross",
-          "Ghost - Dance Macabre",
-          "Ghost - Umbra"
-        ],
-        "music-genres": [
-          "Hard Rock",
-          "Heavy Metal",
-          "Arena Rock"
-        ]
-      },
-      "match_reason": "The Vietnam era cemented rock as a ritual of resistance and reflection around war; this episode’s exploration of theatrical, ritualized rock through Ghost echoes how music turns conflict into myth, memory, and staged catharsis."
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "hour": 0,
@@ -657,9 +633,33 @@
         ]
       },
       "match_reason": "Canned beer turned a perishable, local drink into something more portable and 'timeless'; this episode’s focus on classic tracks that endure pairs well with the idea of preserving flavor—and feeling—across time."
+    },
+    {
+      "hour": 23,
+      "fact_text": "On this day in 1968, as Operation Coburg unfolded in Vietnam, popular music back home was turning the war into soundtracks of protest and introspection. Songs carried the distant thud of artillery into living rooms, making faraway jungles feel uncomfortably close.",
+      "fact_year": 1968,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "episode": {
+        "id": 16,
+        "title": "Morning Drops #10 - The One With Many Names",
+        "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+        "songs": [
+          "Ghost - Spirit",
+          "Ghost - Mary on a Cross",
+          "Ghost - Dance Macabre",
+          "Ghost - Umbra"
+        ],
+        "music-genres": [
+          "Hard Rock",
+          "Heavy Metal",
+          "Arena Rock"
+        ]
+      },
+      "match_reason": "The Vietnam era cemented rock as a ritual of resistance and reflection around war; this episode’s exploration of theatrical, ritualized rock through Ghost echoes how music turns conflict into myth, memory, and staged catharsis."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T22:00:02.076208+00:00"
+  "updated_at": "2026-01-24T23:00:01.806342+00:00"
 }
