@@ -1,54 +1,31 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "In 914, the Fatimid Caliphate launched its first invasion of Egypt, sending an army westward from what is now Tunisia. Though ultimately repelled, the campaign foreshadowed a future in which the Fatimids would eventually seize Cairo and reshape the religious and cultural map of North Africa and the Middle East.",
-    "fact_year": 914,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%93915)",
+    "hour": 10,
+    "fact_text": "On this day in 1966, Air India Flight 101 crashed into Mont Blanc in the French Alps, killing all 117 people on board. Decades later, climbers on the mountain still occasionally find fragments of wreckage—and even diplomatic documents—emerging slowly from the ice.",
+    "fact_year": 1966,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Air_India_Flight_101",
     "episode": {
-      "id": 8,
-      "title": "Morning Drops #02 - Waves of the Maghreb",
-      "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
+      "id": 28,
+      "title": "Morning Drops #22 - Sicilians On The Dolomites",
+      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
       "songs": [
-        "Hedi Jouini - Lamouni",
-        "Rachid Taha - Ya Rayah",
-        "Nass El Ghiwane - El Madi Fate"
+        "Franco Battiato - Haiku",
+        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+        "Pink Floyd - Fearless"
       ],
       "music-genres": [
-        "Maghreb",
-        "Chaabi",
-        "Raï"
+        "Italian Art Pop",
+        "French Jazz",
+        "Italian Singer-Songwriter",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "The Fatimid invasion grew from North African power centers across to Egypt; this Maghreb-focused episode sonically traces those same cultural shores and historic currents."
+    "match_reason": "A tragic crash in the Alps is a stark reminder of how mountains witness human journeys; this mountain-inspired episode, set in the Dolomites, offers a gentler, reflective counterpart to the same dramatic landscapes."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On this day in 1966, Air India Flight 101 crashed into Mont Blanc in the French Alps, killing all 117 people on board. Decades later, climbers on the mountain still occasionally find fragments of wreckage—and even diplomatic documents—emerging slowly from the ice.",
-      "fact_year": 1966,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Air_India_Flight_101",
-      "episode": {
-        "id": 28,
-        "title": "Morning Drops #22 - Sicilians On The Dolomites",
-        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
-        "songs": [
-          "Franco Battiato - Haiku",
-          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-          "Pink Floyd - Fearless"
-        ],
-        "music-genres": [
-          "Italian Art Pop",
-          "French Jazz",
-          "Italian Singer-Songwriter",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "A tragic crash in the Alps is a stark reminder of how mountains witness human journeys; this mountain-inspired episode, set in the Dolomites, offers a gentler, reflective counterpart to the same dramatic landscapes."
-    },
     {
       "hour": 11,
       "fact_text": "In 1918, revolutionary Russia adopted the Gregorian calendar by decree, skipping directly from January 31 to February 14. For Russians, that meant losing 13 days overnight—and juggling two different 'New Years' as old and new systems overlapped.",
@@ -657,9 +634,34 @@
         ]
       },
       "match_reason": "The Fatimid invasion grew from North African power centers across to Egypt; this Maghreb-focused episode sonically traces those same cultural shores and historic currents."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On this day in 1966, Air India Flight 101 crashed into Mont Blanc in the French Alps, killing all 117 people on board. Decades later, climbers on the mountain still occasionally find fragments of wreckage—and even diplomatic documents—emerging slowly from the ice.",
+      "fact_year": 1966,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Air_India_Flight_101",
+      "episode": {
+        "id": 28,
+        "title": "Morning Drops #22 - Sicilians On The Dolomites",
+        "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+        "songs": [
+          "Franco Battiato - Haiku",
+          "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
+          "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
+          "Pink Floyd - Fearless"
+        ],
+        "music-genres": [
+          "Italian Art Pop",
+          "French Jazz",
+          "Italian Singer-Songwriter",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "A tragic crash in the Alps is a stark reminder of how mountains witness human journeys; this mountain-inspired episode, set in the Dolomites, offers a gentler, reflective counterpart to the same dramatic landscapes."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T09:00:01.622563+00:00"
+  "updated_at": "2026-01-24T10:00:01.511705+00:00"
 }
