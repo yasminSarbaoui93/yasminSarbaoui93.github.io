@@ -1,54 +1,29 @@
 {
-  "current_hour": 8,
+  "current_hour": 9,
   "current_fact": {
-    "hour": 8,
-    "fact_text": "In 1942, Allied aircraft bombed Bangkok, then under Japanese control, pushing Thailand to formally declare war on both the United States and the United Kingdom. The raids marked the arrival of the global conflict deep into Southeast Asia's urban centers and reshaped Thailand’s wartime diplomacy.",
-    "fact_year": 1942,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Bombing_of_Bangkok_in_World_War_II",
+    "hour": 9,
+    "fact_text": "On this day in 914, the Fatimid Caliphate launched its first invasion of Egypt, sending forces across the desert to challenge the Abbasid Caliphate’s control of the Nile. Though ultimately unsuccessful, the campaign foreshadowed the Fatimids’ eventual conquest of Egypt and the founding of Cairo decades later.",
+    "fact_year": 914,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%931915)",
     "episode": {
-      "id": 41,
-      "title": "Morning Drops #35 - Thailand",
-      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+      "id": 8,
+      "title": "Morning Drops #02 - Waves of the Maghreb",
+      "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
       "songs": [
-        "Salin - Egungun",
-        "Justin Bieber - Love Yourself",
-        "Khun Narin - Phua Kao",
-        "Burna Boy - Cheat on Me (feat. Dave)"
+        "Hedi Jouini - Lamouni",
+        "Rachid Taha - Ya Rayah",
+        "Nass El Ghiwane - El Madi Fate"
       ],
       "music-genres": [
-        "Afrobeat",
-        "Pop",
-        "Thai Funk",
-        "Afro-Fusion"
+        "Maghreb",
+        "Chaabi",
+        "Raï"
       ]
     },
-    "match_reason": "An episode rooted in contemporary Thailand counterbalances a wartime bombing of Bangkok, offering a modern, human-scale soundtrack to a place once caught in global conflict."
+    "match_reason": "A North African Shi'a dynasty pushing toward Egypt fits naturally with an episode steeped in Maghreb sounds, tying medieval political tides to the enduring cultural waves of the region."
   },
   "queue": [
-    {
-      "hour": 9,
-      "fact_text": "On this day in 914, the Fatimid Caliphate launched its first invasion of Egypt, sending forces across the desert to challenge the Abbasid Caliphate’s control of the Nile. Though ultimately unsuccessful, the campaign foreshadowed the Fatimids’ eventual conquest of Egypt and the founding of Cairo decades later.",
-      "fact_year": 914,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%931915)",
-      "episode": {
-        "id": 8,
-        "title": "Morning Drops #02 - Waves of the Maghreb",
-        "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
-        "songs": [
-          "Hedi Jouini - Lamouni",
-          "Rachid Taha - Ya Rayah",
-          "Nass El Ghiwane - El Madi Fate"
-        ],
-        "music-genres": [
-          "Maghreb",
-          "Chaabi",
-          "Raï"
-        ]
-      },
-      "match_reason": "A North African Shi'a dynasty pushing toward Egypt fits naturally with an episode steeped in Maghreb sounds, tying medieval political tides to the enduring cultural waves of the region."
-    },
     {
       "hour": 10,
       "fact_text": "In 1966, Air India Flight 101 crashed into Mont Blanc in the Alps, killing all 117 people on board after a navigation error in bad weather. The mountain already held wreckage from a previous Air India crash, and decades later fragments, documents, and even jewels from the flights still occasionally emerge from the glacier ice.",
@@ -648,9 +623,32 @@
         ]
       },
       "match_reason": "An episode rooted in contemporary Thailand counterbalances a wartime bombing of Bangkok, offering a modern, human-scale soundtrack to a place once caught in global conflict."
+    },
+    {
+      "hour": 9,
+      "fact_text": "On this day in 914, the Fatimid Caliphate launched its first invasion of Egypt, sending forces across the desert to challenge the Abbasid Caliphate’s control of the Nile. Though ultimately unsuccessful, the campaign foreshadowed the Fatimids’ eventual conquest of Egypt and the founding of Cairo decades later.",
+      "fact_year": 914,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%931915)",
+      "episode": {
+        "id": 8,
+        "title": "Morning Drops #02 - Waves of the Maghreb",
+        "description": "Oriental vibes guided by Yasmin. Discovering curious facts about the Maghreb, together with its fascinating music! A wonderful trip with a selection of songs from North Africa.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-waves-of-the-maghreb",
+        "songs": [
+          "Hedi Jouini - Lamouni",
+          "Rachid Taha - Ya Rayah",
+          "Nass El Ghiwane - El Madi Fate"
+        ],
+        "music-genres": [
+          "Maghreb",
+          "Chaabi",
+          "Raï"
+        ]
+      },
+      "match_reason": "A North African Shi'a dynasty pushing toward Egypt fits naturally with an episode steeped in Maghreb sounds, tying medieval political tides to the enduring cultural waves of the region."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.010244+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T08:00:01.618058+00:00"
+  "updated_at": "2026-01-24T09:00:01.660891+00:00"
 }
