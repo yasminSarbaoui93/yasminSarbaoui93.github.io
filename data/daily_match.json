@@ -1,55 +1,31 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1651, during the long Arauco War, Spanish colonial authorities and Mapuche leaders met at the Parliament of Boroa. Under makeshift canopies on Chilean soil, they negotiated a fragile peace that recognized Mapuche autonomy south of the Bío-Bío River—an unusually formal treaty with an Indigenous nation for its time.",
-    "fact_year": 1651,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Parliament_of_Boroa",
+    "hour": 16,
+    "fact_text": "On this day in 2003, the United States Department of Homeland Security officially began operations, merging 22 agencies into a sprawling new bureaucracy. Born from the shock of the 9/11 attacks, it tried to weave airports, borders, cyberspace, and disaster response into a single nervous system of vigilance.",
+    "fact_year": 2003,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "Both the Mapuche in Chile and the Tuareg in the Sahara embody Indigenous resistance and negotiated autonomy; this desert-blues episode resonates with the Parliament of Boroa’s story of survival, land, and dignity."
+    "match_reason": "Homeland Security embodies a culture of constant alertness and monitoring; this episode’s meditation on phones, connectivity, and always-on anxiety offers a human-scale reflection on the same impulse to watch everything, all the time."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On this day in 2003, the United States Department of Homeland Security officially began operations, merging 22 agencies into a sprawling new bureaucracy. Born from the shock of the 9/11 attacks, it tried to weave airports, borders, cyberspace, and disaster response into a single nervous system of vigilance.",
-      "fact_year": 2003,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "Homeland Security embodies a culture of constant alertness and monitoring; this episode’s meditation on phones, connectivity, and always-on anxiety offers a human-scale reflection on the same impulse to watch everything, all the time."
-    },
     {
       "hour": 17,
       "fact_text": "In 1972, Japanese sergeant Shōichi Yokoi was discovered in the jungles of Guam, where he had been hiding since World War II ended. For 28 years he lived off the land, weaving bark cloth and trapping shrimp, convinced—or choosing to believe—that the war still continued.",
@@ -658,9 +634,34 @@
         ]
       },
       "match_reason": "Both the Mapuche in Chile and the Tuareg in the Sahara embody Indigenous resistance and negotiated autonomy; this desert-blues episode resonates with the Parliament of Boroa’s story of survival, land, and dignity."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On this day in 2003, the United States Department of Homeland Security officially began operations, merging 22 agencies into a sprawling new bureaucracy. Born from the shock of the 9/11 attacks, it tried to weave airports, borders, cyberspace, and disaster response into a single nervous system of vigilance.",
+      "fact_year": 2003,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "Homeland Security embodies a culture of constant alertness and monitoring; this episode’s meditation on phones, connectivity, and always-on anxiety offers a human-scale reflection on the same impulse to watch everything, all the time."
     }
   ],
   "generated_at": "2026-01-24T00:00:00.013287+00:00",
   "date": "2026-01-24",
-  "updated_at": "2026-01-24T15:00:01.642359+00:00"
+  "updated_at": "2026-01-24T16:00:01.647514+00:00"
 }
