@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "On 25 January 2018, an Ariane 5 rocket launched from French Guiana carrying the SES-14 and Al Yah 3 communications satellites, along with NASA’s GOLD space weather instrument. A guidance error sent the payloads into the wrong orbit, but engineers used onboard propulsion to slowly correct their paths, turning what looked like a failure into a creative orbital rescue.",
-    "fact_year": 2018,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_VA241",
+    "hour": 1,
+    "fact_text": "On 25 January 1995, a Norwegian scientific rocket called Black Brant XII nearly triggered nuclear war when Russian early-warning systems mistook it for a U.S. Trident missile. For a tense few minutes, the nuclear briefcase was opened and launch options were considered before scientists confirmed it was just an aurora-research flight.",
+    "fact_year": 1995,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Indie Rock",
+        "Psychedelic Rock",
         "Electronic",
-        "Garage Rock"
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A misrouted rocket that still finds its path mirrors the episode’s theme of reframing emptiness and detours as creative space to shift direction."
+    "match_reason": "A single misunderstood signal almost triggered catastrophe; this pairs with an episode about how our relationship with technology and signals shapes our perceptions and fears."
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 25 January 1995, a Norwegian scientific rocket called Black Brant XII nearly triggered nuclear war when Russian early-warning systems mistook it for a U.S. Trident missile. For a tense few minutes, the nuclear briefcase was opened and launch options were considered before scientists confirmed it was just an aurora-research flight.",
-      "fact_year": 1995,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "A single misunderstood signal almost triggered catastrophe; this pairs with an episode about how our relationship with technology and signals shapes our perceptions and fears."
-    },
     {
       "hour": 2,
       "fact_text": "On 25 January 1994, the joint BMDO–NASA spacecraft Clementine launched to test advanced sensors while mapping the Moon in unprecedented detail. It famously found strong evidence of water ice in permanently shadowed lunar craters, turning the Moon from a dry rock into a potentially resource-rich outpost in humanity’s imagination.",
@@ -666,9 +643,34 @@
         ]
       },
       "match_reason": "A misrouted rocket that still finds its path mirrors the episode’s theme of reframing emptiness and detours as creative space to shift direction."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 25 January 1995, a Norwegian scientific rocket called Black Brant XII nearly triggered nuclear war when Russian early-warning systems mistook it for a U.S. Trident missile. For a tense few minutes, the nuclear briefcase was opened and launch options were considered before scientists confirmed it was just an aurora-research flight.",
+      "fact_year": 1995,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "A single misunderstood signal almost triggered catastrophe; this pairs with an episode about how our relationship with technology and signals shapes our perceptions and fears."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T00:00:48.937713+00:00"
+  "updated_at": "2026-01-25T01:00:01.624187+00:00"
 }
