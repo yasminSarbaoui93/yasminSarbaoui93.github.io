@@ -1,55 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 25 January 1979, Pope John Paul II began his first official trips outside Italy, visiting the Bahamas, the Dominican Republic, and Mexico. The youthful, charismatic pontiff drew unprecedented crowds and used these journeys to turn the papacy into a highly visible, globe-trotting moral voice.",
-    "fact_year": 1979,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+    "hour": 10,
+    "fact_text": "On 25 January 1704, British colonial forces and their Muscogee allies attacked the Spanish mission of Ayubale in Florida, an event remembered as the Apalachee massacre. The raid shattered Spain’s fragile mission network and opened the way for British dominance in the region, at enormous cost to indigenous communities.",
+    "fact_year": 1704,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
     "episode": {
-      "id": 45,
-      "title": "Morning Drops #39 - Moving Meditation",
-      "description": "An episode inspired by how travel helps us see more clearly. Stepping into new places opens the mind, shifts perspective. The music moves through balearic warmth, boogie grooves, world and latin-folk influences, and touches of new wave — a selection built to follow the quiet changes that happen when you're out of your usual rhythm.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-moving-meditation",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Stella & The Longos - La Flamme",
-        "España Circo Este - Dormo poco e sogno molto",
-        "Mystic Jungle - Sunset Breaker",
-        "Talking Heads - This Must Be the Place (Naive Melody)"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Balearic",
-        "Italian Folk Rock",
-        "World Music",
-        "New Wave"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A pope redefining his role through travel pairs naturally with an episode that treats journeys themselves as meditative, mind-shifting experiences."
+    "match_reason": "A violent colonial incursion that reshaped indigenous lives resonates with an episode focused on music born from desert survival, displacement, and resistance."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "On 25 January 1704, British colonial forces and their Muscogee allies attacked the Spanish mission of Ayubale in Florida, an event remembered as the Apalachee massacre. The raid shattered Spain’s fragile mission network and opened the way for British dominance in the region, at enormous cost to indigenous communities.",
-      "fact_year": 1704,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A violent colonial incursion that reshaped indigenous lives resonates with an episode focused on music born from desert survival, displacement, and resistance."
-    },
     {
       "hour": 11,
       "fact_text": "On 25 January AD 41, after the assassination of Emperor Caligula, the Roman Senate hesitated over restoring the Republic until they discovered his timid uncle Claudius hiding behind a curtain. The Praetorian Guard proclaimed him emperor, showing how raw military power could elevate an unlikely, underestimated figure to rule the ancient superpower.",
@@ -668,9 +643,33 @@
         ]
       },
       "match_reason": "A pope redefining his role through travel pairs naturally with an episode that treats journeys themselves as meditative, mind-shifting experiences."
+    },
+    {
+      "hour": 10,
+      "fact_text": "On 25 January 1704, British colonial forces and their Muscogee allies attacked the Spanish mission of Ayubale in Florida, an event remembered as the Apalachee massacre. The raid shattered Spain’s fragile mission network and opened the way for British dominance in the region, at enormous cost to indigenous communities.",
+      "fact_year": 1704,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A violent colonial incursion that reshaped indigenous lives resonates with an episode focused on music born from desert survival, displacement, and resistance."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T09:00:01.612422+00:00"
+  "updated_at": "2026-01-25T10:00:01.755212+00:00"
 }
