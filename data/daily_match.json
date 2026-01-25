@@ -1,53 +1,31 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 25 January 1960, the U.S. National Association of Broadcasters responded to the exploding \"payola\" scandal by threatening fines for disc jockeys who secretly took money to spin certain records. The crackdown reshaped radio playlists, raising questions about who really decides what becomes a hit: listeners, artists, or quiet payments behind the scenes.",
-    "fact_year": 1960,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Payola",
+    "hour": 6,
+    "fact_text": "On 25 January 1961, Walt Disney’s \"One Hundred and One Dalmatians\" premiered, pioneering a new Xerox-based animation technique that allowed sketchy, energetic linework to appear directly on screen. Its stylized London, jazz-tinged score, and spotted canine swarm helped pull Disney into a more modern era of animation.",
+    "fact_year": 1961,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians",
     "episode": {
-      "id": 14,
-      "title": "Morning Drops #08 - (un)Boxing",
-      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+      "id": 44,
+      "title": "Morning Drops #38 - History of Flamenco",
+      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
       "songs": [
-        "Kendrick Lamar - Feel",
-        "Kendrick Lamar - The Blacker the Berry",
-        "Kendrick Lamar - Mirror"
+        "La Niña de los Peines - Al Gurugú",
+        "Lola Flores - Pena, penita, pena",
+        "Paco de Lucía - Entre dos aguas",
+        "Camarón de la Isla - La leyenda del tiempo",
+        "Rosalía - Pienso en tu mirá"
       ],
       "music-genres": [
-        "Hip-Hop",
-        "Conscious Rap"
+        "Flamenco",
+        "Spanish Folk",
+        "Nuevo Flamenco"
       ]
     },
-    "match_reason": "A scandal that exposed the manipulation behind which songs get played fits an episode about breaking from imposed boxes and questioning who sets the rules."
+    "match_reason": "Both the film and the episode trace how an art form evolves—from classical roots to stylized modernity—through bold visual and musical innovation."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "On 25 January 1961, Walt Disney’s \"One Hundred and One Dalmatians\" premiered, pioneering a new Xerox-based animation technique that allowed sketchy, energetic linework to appear directly on screen. Its stylized London, jazz-tinged score, and spotted canine swarm helped pull Disney into a more modern era of animation.",
-      "fact_year": 1961,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians",
-      "episode": {
-        "id": 44,
-        "title": "Morning Drops #38 - History of Flamenco",
-        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
-        "songs": [
-          "La Niña de los Peines - Al Gurugú",
-          "Lola Flores - Pena, penita, pena",
-          "Paco de Lucía - Entre dos aguas",
-          "Camarón de la Isla - La leyenda del tiempo",
-          "Rosalía - Pienso en tu mirá"
-        ],
-        "music-genres": [
-          "Flamenco",
-          "Spanish Folk",
-          "Nuevo Flamenco"
-        ]
-      },
-      "match_reason": "Both the film and the episode trace how an art form evolves—from classical roots to stylized modernity—through bold visual and musical innovation."
-    },
     {
       "hour": 7,
       "fact_text": "On 25 January 1348, a powerful earthquake shook the Eastern Alps near Friuli, Italy, causing destruction so widespread that reports came from as far as Rome and Bohemia. Medieval observers struggled to explain the disaster, often weaving it into religious and apocalyptic narratives.",
@@ -665,9 +643,34 @@
         ]
       },
       "match_reason": "A scandal that exposed the manipulation behind which songs get played fits an episode about breaking from imposed boxes and questioning who sets the rules."
+    },
+    {
+      "hour": 6,
+      "fact_text": "On 25 January 1961, Walt Disney’s \"One Hundred and One Dalmatians\" premiered, pioneering a new Xerox-based animation technique that allowed sketchy, energetic linework to appear directly on screen. Its stylized London, jazz-tinged score, and spotted canine swarm helped pull Disney into a more modern era of animation.",
+      "fact_year": 1961,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians",
+      "episode": {
+        "id": 44,
+        "title": "Morning Drops #38 - History of Flamenco",
+        "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+        "songs": [
+          "La Niña de los Peines - Al Gurugú",
+          "Lola Flores - Pena, penita, pena",
+          "Paco de Lucía - Entre dos aguas",
+          "Camarón de la Isla - La leyenda del tiempo",
+          "Rosalía - Pienso en tu mirá"
+        ],
+        "music-genres": [
+          "Flamenco",
+          "Spanish Folk",
+          "Nuevo Flamenco"
+        ]
+      },
+      "match_reason": "Both the film and the episode trace how an art form evolves—from classical roots to stylized modernity—through bold visual and musical innovation."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T05:00:01.695064+00:00"
+  "updated_at": "2026-01-25T06:00:01.814597+00:00"
 }
