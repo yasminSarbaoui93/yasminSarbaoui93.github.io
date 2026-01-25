@@ -1,74 +1,39 @@
 {
-  "current_hour": 3,
+  "current_hour": 4,
   "current_fact": {
-    "hour": 3,
-    "fact_text": "On 25 January 1858, Felix Mendelssohn’s “Wedding March” was performed at the marriage of Queen Victoria’s daughter Victoria to Prince Friedrich of Prussia. The royal spotlight turned a piece from Shakespeare’s A Midsummer Night’s Dream into the default soundtrack of Western weddings for more than a century.",
-    "fact_year": 1858,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
+    "hour": 4,
+    "fact_text": "On 25 January 1937, the soap opera Guiding Light first aired on NBC radio in Chicago, following the moral and emotional struggles of a Midwestern minister. It migrated to television in 1952 and ran until 2009, becoming one of the longest-running drama series in broadcast history and quietly chronicling everyday lives for over seven decades.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
     "episode": {
-      "id": 4,
-      "title": "Sedna FM #04 - Queen of Spades",
-      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Alabama Shakes - Gimme All Your Love",
-        "Queens of the stone age - Make it wit chu",
-        "Rosa Passos - Fusion",
-        "Sade - Mr Wrong",
-        "Daft Punk - Something About Us",
-        "10cc - I'm Not in Love",
-        "Jonny Nash - Theories",
-        "Etta James - I'd Rather Go Blind",
-        "Adriano Celentano - Storia D'amore",
-        "Eric Clapton - Have you ever loved a woman",
-        "Arctic Monkey - The Bakery"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Stoner Rock",
-        "Bossa Nova",
-        "Soul",
-        "Electronic",
-        "Soft Rock",
-        "Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "A royal wedding that reshaped the sound of romance pairs with an episode devoted to love’s music, from grand gestures to vulnerable, private feelings."
+    "match_reason": "The birth of a long-running radio drama aligns with Sedna FM’s own origin episode, both marking the start of storytelling worlds built through sound and recurring voices."
   },
   "queue": [
-    {
-      "hour": 4,
-      "fact_text": "On 25 January 1937, the soap opera Guiding Light first aired on NBC radio in Chicago, following the moral and emotional struggles of a Midwestern minister. It migrated to television in 1952 and ran until 2009, becoming one of the longest-running drama series in broadcast history and quietly chronicling everyday lives for over seven decades.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "The birth of a long-running radio drama aligns with Sedna FM’s own origin episode, both marking the start of storytelling worlds built through sound and recurring voices."
-    },
     {
       "hour": 5,
       "fact_text": "On 25 January 1960, the U.S. National Association of Broadcasters responded to the exploding \"payola\" scandal by threatening fines for disc jockeys who secretly took money to spin certain records. The crackdown reshaped radio playlists, raising questions about who really decides what becomes a hit: listeners, artists, or quiet payments behind the scenes.",
@@ -678,9 +643,42 @@
         ]
       },
       "match_reason": "A royal wedding that reshaped the sound of romance pairs with an episode devoted to love’s music, from grand gestures to vulnerable, private feelings."
+    },
+    {
+      "hour": 4,
+      "fact_text": "On 25 January 1937, the soap opera Guiding Light first aired on NBC radio in Chicago, following the moral and emotional struggles of a Midwestern minister. It migrated to television in 1952 and ran until 2009, becoming one of the longest-running drama series in broadcast history and quietly chronicling everyday lives for over seven decades.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "The birth of a long-running radio drama aligns with Sedna FM’s own origin episode, both marking the start of storytelling worlds built through sound and recurring voices."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T03:00:01.837625+00:00"
+  "updated_at": "2026-01-25T04:00:01.461503+00:00"
 }
