@@ -1,55 +1,30 @@
 {
-  "current_hour": 21,
+  "current_hour": 22,
   "current_fact": {
-    "hour": 21,
-    "fact_text": "Mendelssohn’s 1842 incidental music for Shakespeare’s “A Midsummer Night’s Dream” contained the original “Wedding March” long before it reached royal aisles. Written when he was still in his teens, the music conjured enchanted forests and fairy mischief—reminding us that the world’s most serious ceremonies can have playful, magical origins.",
-    "fact_year": 1842,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+    "hour": 22,
+    "fact_text": "The Hollywood Athletic Club, where the first Emmys were held in 1949, had already been a haunt for Golden Age stars, boxing matches, and rooftop swim parties. For one night it became the unlikely cradle of television prestige, fusing old Hollywood glamour with the new medium rising in American living rooms.",
+    "fact_year": 1924,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood_Athletic_Club",
     "episode": {
-      "id": 28,
-      "title": "Morning Drops #22 - Sicilians On The Dolomites",
-      "description": "Hosted by Yasmin, a musical journey inspired by the mountains. Joined by two special guests, exploring the tracks they've chosen, hearing the stories behind their picks, and discovering the personal memories each song brings to life — a blend of music, voices, and landscapes you can hear.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sicilians-on-the-dolomites",
+      "id": 42,
+      "title": "Morning Drops #36 - Women of Rock",
+      "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
       "songs": [
-        "Franco Battiato - Haiku",
-        "Florian Pellissier Quintet - Coup de foudre à Thessalonique",
-        "Lucio Dalla & Francesco De Gregori - Ma come fanno i marinai",
-        "Pink Floyd - Fearless"
+        "Suzi Quatro - Can the Can",
+        "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+        "Laura Cox - Hard Blues Shot",
+        "Jackie Venson - Always Free (Live)"
       ],
       "music-genres": [
-        "Italian Art Pop",
-        "French Jazz",
-        "Italian Singer-Songwriter",
-        "Progressive Rock"
+        "Glam Rock",
+        "Hard Rock",
+        "Blues Rock"
       ]
     },
-    "match_reason": "A piece born as theater music for enchanted woods and later echoed in mountain weddings connects to an episode shaped by high landscapes and reflective, story-rich music."
+    "match_reason": "A historic club layered with boxing rings and award ceremonies fits an episode about loud, unapologetic performers—both spaces where people step into the spotlight and hit hard."
   },
   "queue": [
-    {
-      "hour": 22,
-      "fact_text": "The Hollywood Athletic Club, where the first Emmys were held in 1949, had already been a haunt for Golden Age stars, boxing matches, and rooftop swim parties. For one night it became the unlikely cradle of television prestige, fusing old Hollywood glamour with the new medium rising in American living rooms.",
-      "fact_year": 1924,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood_Athletic_Club",
-      "episode": {
-        "id": 42,
-        "title": "Morning Drops #36 - Women of Rock",
-        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
-        "songs": [
-          "Suzi Quatro - Can the Can",
-          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
-          "Laura Cox - Hard Blues Shot",
-          "Jackie Venson - Always Free (Live)"
-        ],
-        "music-genres": [
-          "Glam Rock",
-          "Hard Rock",
-          "Blues Rock"
-        ]
-      },
-      "match_reason": "A historic club layered with boxing rings and award ceremonies fits an episode about loud, unapologetic performers—both spaces where people step into the spotlight and hit hard."
-    },
     {
       "hour": 23,
       "fact_text": "The concept of the modern nuclear weapon—central to the 1995 Norwegian rocket scare—emerged from a 20th-century convergence of quantum physics, engineering, and wartime urgency. These devices compress the energy of stars into moments of terrifying brightness, forcing humanity to grapple with technology that can end civilizations in minutes.",
@@ -659,9 +634,33 @@
         ]
       },
       "match_reason": "A piece born as theater music for enchanted woods and later echoed in mountain weddings connects to an episode shaped by high landscapes and reflective, story-rich music."
+    },
+    {
+      "hour": 22,
+      "fact_text": "The Hollywood Athletic Club, where the first Emmys were held in 1949, had already been a haunt for Golden Age stars, boxing matches, and rooftop swim parties. For one night it became the unlikely cradle of television prestige, fusing old Hollywood glamour with the new medium rising in American living rooms.",
+      "fact_year": 1924,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Hollywood_Athletic_Club",
+      "episode": {
+        "id": 42,
+        "title": "Morning Drops #36 - Women of Rock",
+        "description": "A tribute to the women who shaped the sound of rock, the ones who picked up a guitar and refused to ask for permission. The conversation unfolds in Italian, led by Gaia and her father. A dialogue between generations and a reminder that the pulse of rock has always belonged to anyone brave enough to play it loud. Distortion, rhythm, freedom.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-women-of-rock",
+        "songs": [
+          "Suzi Quatro - Can the Can",
+          "Joan Jett & The Blackhearts - I Love Rock 'n Roll",
+          "Laura Cox - Hard Blues Shot",
+          "Jackie Venson - Always Free (Live)"
+        ],
+        "music-genres": [
+          "Glam Rock",
+          "Hard Rock",
+          "Blues Rock"
+        ]
+      },
+      "match_reason": "A historic club layered with boxing rings and award ceremonies fits an episode about loud, unapologetic performers—both spaces where people step into the spotlight and hit hard."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T21:00:01.839841+00:00"
+  "updated_at": "2026-01-25T22:00:01.805328+00:00"
 }
