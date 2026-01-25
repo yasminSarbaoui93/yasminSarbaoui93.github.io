@@ -1,63 +1,31 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "In AD 41, after a night of frantic negotiations and palace intrigue, the Roman Senate accepted Claudius as emperor. Once dismissed as a stuttering, bookish outsider, he unexpectedly became ruler of a vast empire, proving that power sometimes falls on the least obvious shoulders.",
-    "fact_year": 41,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
+    "hour": 12,
+    "fact_text": "On 25 January 1980, Mother Teresa received India’s highest civilian honour, the Bharat Ratna, for her work among the poorest in Kolkata. The small nun in a white sari became a global symbol—controversial to some, inspiring to others—of radical service in the margins of society.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 40,
+      "title": "Morning Drops #34 - Soul Sisters",
+      "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "Grace Jones - Walking in the Rain",
+        "Lauryn Hill - Lost Ones",
+        "Aretha Franklin - A Rose Is Still a Rose",
+        "Loredana Bertè - In Alto Mare"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
         "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Neo-Soul",
+        "R&B",
+        "Italian Pop"
       ]
     },
-    "match_reason": "Claudius’s rise from underestimated misfit to emperor reflects the episode’s core theme of embracing one’s own worth and unexpected strength beyond other people’s labels."
+    "match_reason": "Honouring a woman whose presence shaped global conscience aligns with a celebration of powerful female voices whose art, like service, shifts how we feel and move through the world."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On 25 January 1980, Mother Teresa received India’s highest civilian honour, the Bharat Ratna, for her work among the poorest in Kolkata. The small nun in a white sari became a global symbol—controversial to some, inspiring to others—of radical service in the margins of society.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
-      "episode": {
-        "id": 40,
-        "title": "Morning Drops #34 - Soul Sisters",
-        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
-        "songs": [
-          "Grace Jones - Walking in the Rain",
-          "Lauryn Hill - Lost Ones",
-          "Aretha Franklin - A Rose Is Still a Rose",
-          "Loredana Bertè - In Alto Mare"
-        ],
-        "music-genres": [
-          "New Wave",
-          "Neo-Soul",
-          "R&B",
-          "Italian Pop"
-        ]
-      },
-      "match_reason": "Honouring a woman whose presence shaped global conscience aligns with a celebration of powerful female voices whose art, like service, shifts how we feel and move through the world."
-    },
     {
       "hour": 13,
       "fact_text": "In 1942, as World War II raged, Thailand formally declared war on the United States and the United Kingdom, aligning itself with Japan. The decision would entangle the kingdom in global conflict and later feed complex debates about collaboration, resistance, and survival.",
@@ -660,9 +628,34 @@
         ]
       },
       "match_reason": "Claudius’s rise from underestimated misfit to emperor reflects the episode’s core theme of embracing one’s own worth and unexpected strength beyond other people’s labels."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On 25 January 1980, Mother Teresa received India’s highest civilian honour, the Bharat Ratna, for her work among the poorest in Kolkata. The small nun in a white sari became a global symbol—controversial to some, inspiring to others—of radical service in the margins of society.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
+      "episode": {
+        "id": 40,
+        "title": "Morning Drops #34 - Soul Sisters",
+        "description": "A tribute to four iconic voices — women who have shaped the way we listen, feel, and move. Each track carries a different kind of presence: one that holds you, one that questions, one that grounds, and one that lets go. An energy that is soulful, raw, and unapologetically feminine.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-soul-sisters",
+        "songs": [
+          "Grace Jones - Walking in the Rain",
+          "Lauryn Hill - Lost Ones",
+          "Aretha Franklin - A Rose Is Still a Rose",
+          "Loredana Bertè - In Alto Mare"
+        ],
+        "music-genres": [
+          "New Wave",
+          "Neo-Soul",
+          "R&B",
+          "Italian Pop"
+        ]
+      },
+      "match_reason": "Honouring a woman whose presence shaped global conscience aligns with a celebration of powerful female voices whose art, like service, shifts how we feel and move through the world."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T11:00:01.681548+00:00"
+  "updated_at": "2026-01-25T12:00:02.204779+00:00"
 }
