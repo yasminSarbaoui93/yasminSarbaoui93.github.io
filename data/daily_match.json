@@ -1,54 +1,31 @@
 {
-  "current_hour": 0,
+  "current_hour": 1,
   "current_fact": {
-    "hour": 0,
-    "fact_text": "In 2018, an Ariane 5 rocket launched the SES-14 and Al Yah 3 satellites along with NASA’s GOLD instrument—and sent them to the wrong orbit. Thanks to clever use of onboard fuel and orbital mechanics, the satellites slowly corrected their trajectories over months, turning an apparent failure into a quiet engineering save in deep space.",
-    "fact_year": 2018,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Ariane_flight_VA241",
+    "hour": 1,
+    "fact_text": "On 25 January 1995, a scientific rocket launched from Norway was mistaken by Russian early-warning systems for a possible nuclear missile. For several tense minutes the nuclear briefcase was opened and a retaliatory strike considered—before the object was finally identified as harmless research hardware.",
+    "fact_year": 1995,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
     "episode": {
-      "id": 9,
-      "title": "Morning Drops #03 - Space Shift",
-      "description": "Gaia invites you to shift your mindset with a simple yet powerful reflection: What if we saw emptiness not as a void but as space to create? An energising and feel-good selection of tracks, the perfect way to ease into your day and set the tone for the week ahead.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-spaceshift",
+      "id": 11,
+      "title": "Morning Drops #05 - Electric Shock",
+      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
       "songs": [
-        "Willy J Healey - Woke Up Smiling",
-        "The Chemical Brothers - Go",
-        "The Strokes - You Only Live Once"
+        "Johnny Winter - Highway 61 Revisited",
+        "Joan Armatrading - Sleight of Hand",
+        "Joan Armatrading - Russian Roulette",
+        "Jimi Hendrix - Freedom",
+        "Jeff Beck - Scatterbrain"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Electronic",
-        "Garage Rock"
+        "Blues Rock",
+        "Rock",
+        "Electric Blues"
       ]
     },
-    "match_reason": "A misdirected rocket that still reaches its goal mirrors the episode’s invitation to reframe ‘empty’ or wrong turns as creative new space."
+    "match_reason": "The sudden global jolt of a near-miss nuclear alert resonates with the episode’s high-voltage, ‘electric shock’ energy and the tension implied by “Russian Roulette.”"
   },
   "queue": [
-    {
-      "hour": 1,
-      "fact_text": "On 25 January 1995, a scientific rocket launched from Norway was mistaken by Russian early-warning systems for a possible nuclear missile. For several tense minutes the nuclear briefcase was opened and a retaliatory strike considered—before the object was finally identified as harmless research hardware.",
-      "fact_year": 1995,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
-      "episode": {
-        "id": 11,
-        "title": "Morning Drops #05 - Electric Shock",
-        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
-        "songs": [
-          "Johnny Winter - Highway 61 Revisited",
-          "Joan Armatrading - Sleight of Hand",
-          "Joan Armatrading - Russian Roulette",
-          "Jimi Hendrix - Freedom",
-          "Jeff Beck - Scatterbrain"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Rock",
-          "Electric Blues"
-        ]
-      },
-      "match_reason": "The sudden global jolt of a near-miss nuclear alert resonates with the episode’s high-voltage, ‘electric shock’ energy and the tension implied by “Russian Roulette.”"
-    },
     {
       "hour": 2,
       "fact_text": "In 1937, the soap opera “The Guiding Light” premiered on NBC radio, following the lives of Midwestern families through love, faith, and hardship. It would go on to migrate to television and run for an astonishing 72 years, becoming one of the longest-running drama series in broadcast history.",
@@ -651,9 +628,34 @@
         ]
       },
       "match_reason": "A misdirected rocket that still reaches its goal mirrors the episode’s invitation to reframe ‘empty’ or wrong turns as creative new space."
+    },
+    {
+      "hour": 1,
+      "fact_text": "On 25 January 1995, a scientific rocket launched from Norway was mistaken by Russian early-warning systems for a possible nuclear missile. For several tense minutes the nuclear briefcase was opened and a retaliatory strike considered—before the object was finally identified as harmless research hardware.",
+      "fact_year": 1995,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
+      "episode": {
+        "id": 11,
+        "title": "Morning Drops #05 - Electric Shock",
+        "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+        "songs": [
+          "Johnny Winter - Highway 61 Revisited",
+          "Joan Armatrading - Sleight of Hand",
+          "Joan Armatrading - Russian Roulette",
+          "Jimi Hendrix - Freedom",
+          "Jeff Beck - Scatterbrain"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Rock",
+          "Electric Blues"
+        ]
+      },
+      "match_reason": "The sudden global jolt of a near-miss nuclear alert resonates with the episode’s high-voltage, ‘electric shock’ energy and the tension implied by “Russian Roulette.”"
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T00:00:48.253481+00:00"
+  "updated_at": "2026-01-25T01:00:01.909873+00:00"
 }
