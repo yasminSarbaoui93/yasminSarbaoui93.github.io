@@ -1,68 +1,41 @@
 {
-  "current_hour": 5,
+  "current_hour": 6,
   "current_fact": {
-    "hour": 5,
-    "fact_text": "On 25 January 1999, a magnitude-6 earthquake struck western Colombia near Armenia, killing around a thousand people and devastating towns across the coffee-growing region. The disaster sparked both national mourning and an outpouring of solidarity, reshaping urban planning and earthquake preparedness in the area.",
-    "fact_year": 1999,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1999_Colombia_earthquake",
+    "hour": 6,
+    "fact_text": "In 1858, Mendelssohn’s “Wedding March” was famously played at the marriage of Queen Victoria’s daughter Victoria to Prince Frederick of Prussia. The royal ceremony turned a once-theatrical piece into the default soundtrack of Western weddings, quietly scripting how “happily ever after” sounds for generations.",
+    "fact_year": 1858,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
     "episode": {
-      "id": 50,
-      "title": "Morning Drops #43 - Looking Back",
-      "description": "In this first Morning Drop of 2026, Yasmin opens a space for quiet reflection on the nature of transitions. The episode traces a personal journey that began three years ago, when a sudden injury on New Year’s Day turned a desire for movement into a mandatory season of stillness.\n\nThrough the story of a broken knee and the slow process of relearning to walk, the narrative explores the difference between being strong and being aware. It touches on the vulnerability of the body, the unexpected joy found in daily progress, and the warmth that comes from finally allowing oneself to accept help. The musical selection mirrors this path of recovery, moving from the uncertainty of change to the steady rhythm of healing.\n\nMood: Reflective, Resilient, Grounded\nMusic genre: Indie Pop, Cinematic, World, Soul\n\nWe invite you to listen deeply and find comfort in your own pace.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-looking-back",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Alt-J - 3WW",
-        "Kelly Finnigan - I Don't Wanna Wait",
-        "Goran Bregović & Iggy Pop - This Is a Film",
-        "Ishihonana - Lucia (Original Mix)",
-        "The Weeknd - Save Your Tears"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Indie Pop",
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
         "Soul",
-        "World",
-        "Cinematic",
-        "Synth-Pop"
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "An earthquake that shatters a region’s foundations fits with an episode about physical and emotional recovery—both stories of rebuilding slowly after the ground suddenly gives way."
+    "match_reason": "The moment a piece of music became the sound of weddings worldwide is a perfect fit for an episode dedicated to love’s drama, vulnerability, and romantic soundtracks."
   },
   "queue": [
-    {
-      "hour": 6,
-      "fact_text": "In 1858, Mendelssohn’s “Wedding March” was famously played at the marriage of Queen Victoria’s daughter Victoria to Prince Frederick of Prussia. The royal ceremony turned a once-theatrical piece into the default soundtrack of Western weddings, quietly scripting how “happily ever after” sounds for generations.",
-      "fact_year": 1858,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "The moment a piece of music became the sound of weddings worldwide is a perfect fit for an episode dedicated to love’s drama, vulnerability, and romantic soundtracks."
-    },
     {
       "hour": 7,
       "fact_text": "On 25 January 1961, Disney released “One Hundred and One Dalmatians,” a stylish animated film that pioneered the use of xerography to transfer drawings to cel. Its bold graphic look, London jazz atmosphere, and villainous fashion icon Cruella de Vil helped redefine what a family cartoon could feel like.",
@@ -655,9 +628,44 @@
         ]
       },
       "match_reason": "An earthquake that shatters a region’s foundations fits with an episode about physical and emotional recovery—both stories of rebuilding slowly after the ground suddenly gives way."
+    },
+    {
+      "hour": 6,
+      "fact_text": "In 1858, Mendelssohn’s “Wedding March” was famously played at the marriage of Queen Victoria’s daughter Victoria to Prince Frederick of Prussia. The royal ceremony turned a once-theatrical piece into the default soundtrack of Western weddings, quietly scripting how “happily ever after” sounds for generations.",
+      "fact_year": 1858,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "The moment a piece of music became the sound of weddings worldwide is a perfect fit for an episode dedicated to love’s drama, vulnerability, and romantic soundtracks."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T05:00:01.423038+00:00"
+  "updated_at": "2026-01-25T06:00:01.843376+00:00"
 }
