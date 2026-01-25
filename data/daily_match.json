@@ -1,56 +1,31 @@
 {
-  "current_hour": 6,
+  "current_hour": 7,
   "current_fact": {
-    "hour": 6,
-    "fact_text": "On 25 January 1961, Walt Disney’s \"One Hundred and One Dalmatians\" premiered, pioneering a new Xerox-based animation technique that allowed sketchy, energetic linework to appear directly on screen. Its stylized London, jazz-tinged score, and spotted canine swarm helped pull Disney into a more modern era of animation.",
-    "fact_year": 1961,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians",
+    "hour": 7,
+    "fact_text": "On 25 January 1348, a powerful earthquake shook the Eastern Alps near Friuli, Italy, causing destruction so widespread that reports came from as far as Rome and Bohemia. Medieval observers struggled to explain the disaster, often weaving it into religious and apocalyptic narratives.",
+    "fact_year": 1348,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1348_Eastern_Alps_earthquake",
     "episode": {
-      "id": 44,
-      "title": "Morning Drops #38 - History of Flamenco",
-      "description": "A special journey into the history of Flamenco, guided by Yasmin and her guest Almudena from Madrid, Spain. Exploring the roots and evolution of this emotionally raw and culturally rich tradition, from its early vocal origins and Andalusian influences, through its transformation on stage and screen, to its modern reinventions by iconic Spanish artists.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-history-of-flamenco",
+      "id": 46,
+      "title": "Morning Drops #40 - Diving With Orcas",
+      "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
       "songs": [
-        "La Niña de los Peines - Al Gurugú",
-        "Lola Flores - Pena, penita, pena",
-        "Paco de Lucía - Entre dos aguas",
-        "Camarón de la Isla - La leyenda del tiempo",
-        "Rosalía - Pienso en tu mirá"
+        "Ludovico Einaudi - Experience",
+        "The Temper Trap - Sweet Disposition",
+        "Alex Warren - Ordinary",
+        "Piero Umiliani - Il tuo volto"
       ],
       "music-genres": [
-        "Flamenco",
-        "Spanish Folk",
-        "Nuevo Flamenco"
+        "Neo-Classical",
+        "Indie Rock",
+        "Pop",
+        "Italian Film Score"
       ]
     },
-    "match_reason": "Both the film and the episode trace how an art form evolves—from classical roots to stylized modernity—through bold visual and musical innovation."
+    "match_reason": "A dramatic natural event in Italy meets a cinematic, nature-focused episode; both invite awe at Earth’s forces, from shifting plates to roaming whales."
   },
   "queue": [
-    {
-      "hour": 7,
-      "fact_text": "On 25 January 1348, a powerful earthquake shook the Eastern Alps near Friuli, Italy, causing destruction so widespread that reports came from as far as Rome and Bohemia. Medieval observers struggled to explain the disaster, often weaving it into religious and apocalyptic narratives.",
-      "fact_year": 1348,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1348_Eastern_Alps_earthquake",
-      "episode": {
-        "id": 46,
-        "title": "Morning Drops #40 - Diving With Orcas",
-        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
-        "songs": [
-          "Ludovico Einaudi - Experience",
-          "The Temper Trap - Sweet Disposition",
-          "Alex Warren - Ordinary",
-          "Piero Umiliani - Il tuo volto"
-        ],
-        "music-genres": [
-          "Neo-Classical",
-          "Indie Rock",
-          "Pop",
-          "Italian Film Score"
-        ]
-      },
-      "match_reason": "A dramatic natural event in Italy meets a cinematic, nature-focused episode; both invite awe at Earth’s forces, from shifting plates to roaming whales."
-    },
     {
       "hour": 8,
       "fact_text": "On 25 January 1999, a magnitude 6-plus earthquake struck western Colombia, devastating the coffee-growing city of Armenia and surrounding towns. Beyond the thousands of casualties, it triggered a massive reconstruction effort and new thinking about how to build resilient communities in seismic regions.",
@@ -668,9 +643,34 @@
         ]
       },
       "match_reason": "Both the film and the episode trace how an art form evolves—from classical roots to stylized modernity—through bold visual and musical innovation."
+    },
+    {
+      "hour": 7,
+      "fact_text": "On 25 January 1348, a powerful earthquake shook the Eastern Alps near Friuli, Italy, causing destruction so widespread that reports came from as far as Rome and Bohemia. Medieval observers struggled to explain the disaster, often weaving it into religious and apocalyptic narratives.",
+      "fact_year": 1348,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/1348_Eastern_Alps_earthquake",
+      "episode": {
+        "id": 46,
+        "title": "Morning Drops #40 - Diving With Orcas",
+        "description": "Yasmin's friend Caroline takes us beyond the polar circle, into the Arctic waters of Norway, where orcas and humpback whales gather each winter. A personal journey shaped by a quiet obsession with orcas, from Patagonia to the icy fjords of the north. The soundscape moves gently between cinematic swells and soft, rhythmic pulses — echoing the cold light of Arctic mornings and the grace of underwater encounters.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-diving-with-orcas",
+        "songs": [
+          "Ludovico Einaudi - Experience",
+          "The Temper Trap - Sweet Disposition",
+          "Alex Warren - Ordinary",
+          "Piero Umiliani - Il tuo volto"
+        ],
+        "music-genres": [
+          "Neo-Classical",
+          "Indie Rock",
+          "Pop",
+          "Italian Film Score"
+        ]
+      },
+      "match_reason": "A dramatic natural event in Italy meets a cinematic, nature-focused episode; both invite awe at Earth’s forces, from shifting plates to roaming whales."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T06:00:01.814597+00:00"
+  "updated_at": "2026-01-25T07:00:01.874642+00:00"
 }
