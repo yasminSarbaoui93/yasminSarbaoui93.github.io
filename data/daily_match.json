@@ -1,55 +1,31 @@
 {
-  "current_hour": 18,
+  "current_hour": 19,
   "current_fact": {
-    "hour": 18,
-    "fact_text": "On 25 January 2013, a riot at Uribana prison in Barquisimeto, Venezuela, left at least 50 people dead and many more injured. The chaos exposed chronic overcrowding and violence in the country’s penal system, turning one complex into a symbol of broader social fractures.",
-    "fact_year": 2013,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2013_Uribana_prison_riot",
+    "hour": 19,
+    "fact_text": "In 1947, physicist Thomas T. Goldsmith Jr. filed a patent for a \"Cathode Ray Tube Amusement Device\"—often considered the first electronic game. Using knobs, analog circuits, and an oscilloscope-like screen, it simulated missile launches decades before home consoles lit up living rooms.",
+    "fact_year": 1947,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_T._Goldsmith_Jr.",
     "episode": {
-      "id": 32,
-      "title": "Morning Drops #26 - Canserbero",
-      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+      "id": 33,
+      "title": "Morning Drops #27 - Nomophobia",
+      "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
       "songs": [
-        "Canserbero - Mañana será otro día",
-        "Canserbero - Querer Querernos",
-        "Canserbero - Jeremías",
-        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        "All Them Witches - Internet",
+        "James Blake - The Wilhelm Scream",
+        "Nick Mulvey - Juramidam",
+        "Kraftwerk - Computer Love"
       ],
       "music-genres": [
-        "Latin Rap",
-        "Hip-Hop",
-        "Conscious Rap"
+        "Psychedelic Rock",
+        "Electronic",
+        "Folk",
+        "Synth-Pop"
       ]
     },
-    "match_reason": "A deadly Venezuelan prison riot and a Venezuelan rapper who rapped about violence, injustice, and inner conflict intersect in their raw portrayal of a society under strain."
+    "match_reason": "The patent for the first electronic game marks the dawn of screen-based play, which eventually led to our current phone-obsessed era explored critically in this episode about our digital dependencies."
   },
   "queue": [
-    {
-      "hour": 19,
-      "fact_text": "In 1947, physicist Thomas T. Goldsmith Jr. filed a patent for a \"Cathode Ray Tube Amusement Device\"—often considered the first electronic game. Using knobs, analog circuits, and an oscilloscope-like screen, it simulated missile launches decades before home consoles lit up living rooms.",
-      "fact_year": 1947,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_T._Goldsmith_Jr.",
-      "episode": {
-        "id": 33,
-        "title": "Morning Drops #27 - Nomophobia",
-        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
-        "songs": [
-          "All Them Witches - Internet",
-          "James Blake - The Wilhelm Scream",
-          "Nick Mulvey - Juramidam",
-          "Kraftwerk - Computer Love"
-        ],
-        "music-genres": [
-          "Psychedelic Rock",
-          "Electronic",
-          "Folk",
-          "Synth-Pop"
-        ]
-      },
-      "match_reason": "The patent for the first electronic game marks the dawn of screen-based play, which eventually led to our current phone-obsessed era explored critically in this episode about our digital dependencies."
-    },
     {
       "hour": 20,
       "fact_text": "The Ariane 5 isn’t the only rocket story on this date: the Black Brant XII involved in the 1995 Norwegian incident belongs to a family of sounding rockets that have lofted scientific instruments into the upper atmosphere since the 1960s. These slender workhorses quietly study auroras, cosmic rays, and atmospheric layers that satellites and airplanes can’t easily reach.",
@@ -658,9 +634,34 @@
         ]
       },
       "match_reason": "A deadly Venezuelan prison riot and a Venezuelan rapper who rapped about violence, injustice, and inner conflict intersect in their raw portrayal of a society under strain."
+    },
+    {
+      "hour": 19,
+      "fact_text": "In 1947, physicist Thomas T. Goldsmith Jr. filed a patent for a \"Cathode Ray Tube Amusement Device\"—often considered the first electronic game. Using knobs, analog circuits, and an oscilloscope-like screen, it simulated missile launches decades before home consoles lit up living rooms.",
+      "fact_year": 1947,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_T._Goldsmith_Jr.",
+      "episode": {
+        "id": 33,
+        "title": "Morning Drops #27 - Nomophobia",
+        "description": "Yasmin reflects on what happened when she recently lost her phone and why it felt freeing. A dive into the psychology of our relationship with smartphones: from nomophobia (the fear of being without a phone), to digital burnout and cognitive overload, to the surprising benefits of boredom and the brain's default mode network. An invitation to rethink how we connect and disconnect.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-nomophobia",
+        "songs": [
+          "All Them Witches - Internet",
+          "James Blake - The Wilhelm Scream",
+          "Nick Mulvey - Juramidam",
+          "Kraftwerk - Computer Love"
+        ],
+        "music-genres": [
+          "Psychedelic Rock",
+          "Electronic",
+          "Folk",
+          "Synth-Pop"
+        ]
+      },
+      "match_reason": "The patent for the first electronic game marks the dawn of screen-based play, which eventually led to our current phone-obsessed era explored critically in this episode about our digital dependencies."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T18:00:01.437042+00:00"
+  "updated_at": "2026-01-25T19:00:01.668782+00:00"
 }
