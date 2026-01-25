@@ -1,54 +1,30 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "On 25 January 1704, British colonial forces and their Muscogee allies attacked the Spanish mission of Ayubale in Florida, an event remembered as the Apalachee massacre. The raid shattered Spain’s fragile mission network and opened the way for British dominance in the region, at enormous cost to indigenous communities.",
-    "fact_year": 1704,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
+    "hour": 11,
+    "fact_text": "On 25 January AD 41, after the assassination of Emperor Caligula, the Roman Senate hesitated over restoring the Republic until they discovered his timid uncle Claudius hiding behind a curtain. The Praetorian Guard proclaimed him emperor, showing how raw military power could elevate an unlikely, underestimated figure to rule the ancient superpower.",
+    "fact_year": 41,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 36,
+      "title": "Morning Drops #30 - Star Treatment",
+      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Arctic Monkeys - Brainstorm",
+        "Arctic Monkeys - Pretty Visitors",
+        "Arctic Monkeys - Star Treatment",
+        "Arctic Monkeys - There’d Better Be a Mirrorball"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Indie Rock",
+        "Psychedelic Rock",
+        "Lounge Pop"
       ]
     },
-    "match_reason": "A violent colonial incursion that reshaped indigenous lives resonates with an episode focused on music born from desert survival, displacement, and resistance."
+    "match_reason": "Claudius’ sudden elevation from sidelined relative to emperor reflects the theme of transformation and unexpected ‘star treatment’ explored through artistic evolution."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "On 25 January AD 41, after the assassination of Emperor Caligula, the Roman Senate hesitated over restoring the Republic until they discovered his timid uncle Claudius hiding behind a curtain. The Praetorian Guard proclaimed him emperor, showing how raw military power could elevate an unlikely, underestimated figure to rule the ancient superpower.",
-      "fact_year": 41,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
-      "episode": {
-        "id": 36,
-        "title": "Morning Drops #30 - Star Treatment",
-        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
-        "songs": [
-          "Arctic Monkeys - Brainstorm",
-          "Arctic Monkeys - Pretty Visitors",
-          "Arctic Monkeys - Star Treatment",
-          "Arctic Monkeys - There’d Better Be a Mirrorball"
-        ],
-        "music-genres": [
-          "Indie Rock",
-          "Psychedelic Rock",
-          "Lounge Pop"
-        ]
-      },
-      "match_reason": "Claudius’ sudden elevation from sidelined relative to emperor reflects the theme of transformation and unexpected ‘star treatment’ explored through artistic evolution."
-    },
     {
       "hour": 12,
       "fact_text": "On 25 January 1980, Mother Teresa was awarded India’s highest civilian honor, the Bharat Ratna, in recognition of her work with the poorest in Kolkata. The tiny nun's image became a global symbol of service and compassion, sparking both admiration and debate about the nature of charity.",
@@ -667,9 +643,33 @@
         ]
       },
       "match_reason": "A violent colonial incursion that reshaped indigenous lives resonates with an episode focused on music born from desert survival, displacement, and resistance."
+    },
+    {
+      "hour": 11,
+      "fact_text": "On 25 January AD 41, after the assassination of Emperor Caligula, the Roman Senate hesitated over restoring the Republic until they discovered his timid uncle Claudius hiding behind a curtain. The Praetorian Guard proclaimed him emperor, showing how raw military power could elevate an unlikely, underestimated figure to rule the ancient superpower.",
+      "fact_year": 41,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
+      "episode": {
+        "id": 36,
+        "title": "Morning Drops #30 - Star Treatment",
+        "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+        "songs": [
+          "Arctic Monkeys - Brainstorm",
+          "Arctic Monkeys - Pretty Visitors",
+          "Arctic Monkeys - Star Treatment",
+          "Arctic Monkeys - There’d Better Be a Mirrorball"
+        ],
+        "music-genres": [
+          "Indie Rock",
+          "Psychedelic Rock",
+          "Lounge Pop"
+        ]
+      },
+      "match_reason": "Claudius’ sudden elevation from sidelined relative to emperor reflects the theme of transformation and unexpected ‘star treatment’ explored through artistic evolution."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T10:00:01.755212+00:00"
+  "updated_at": "2026-01-25T11:00:01.660940+00:00"
 }
