@@ -1,62 +1,38 @@
 {
-  "current_hour": 10,
+  "current_hour": 11,
   "current_fact": {
-    "hour": 10,
-    "fact_text": "In 1704, the Apalachee massacre saw British colonial forces and their Muscogee allies attack and destroy the mission settlement of Ayubale in Spanish Florida. The raid shattered Spain’s fragile mission system in the region and marked a brutal shift in power among European empires and Indigenous nations.",
-    "fact_year": 1704,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
+    "hour": 11,
+    "fact_text": "In AD 41, after a night of frantic negotiations and palace intrigue, the Roman Senate accepted Claudius as emperor. Once dismissed as a stuttering, bookish outsider, he unexpectedly became ruler of a vast empire, proving that power sometimes falls on the least obvious shoulders.",
+    "fact_year": 41,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
     "episode": {
-      "id": 22,
-      "title": "Morning Drops #16 - The Sound of Tuareg",
-      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Les Filles de Illighadad - Imigradan",
-        "Tinariwen - Amassakoul ’N’ Ténéré",
-        "Liya Ag Ablil - Awa Adounia",
-        "Tinariwen - Sastanàqqàm"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Desert Blues",
-        "Tuareg",
-        "World Music"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "A violent colonial clash that reshaped Indigenous lives parallels an episode centered on Tuareg music, where sound becomes a language of survival, displacement, and resistance to empire."
+    "match_reason": "Claudius’s rise from underestimated misfit to emperor reflects the episode’s core theme of embracing one’s own worth and unexpected strength beyond other people’s labels."
   },
   "queue": [
-    {
-      "hour": 11,
-      "fact_text": "In AD 41, after a night of frantic negotiations and palace intrigue, the Roman Senate accepted Claudius as emperor. Once dismissed as a stuttering, bookish outsider, he unexpectedly became ruler of a vast empire, proving that power sometimes falls on the least obvious shoulders.",
-      "fact_year": 41,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "Claudius’s rise from underestimated misfit to emperor reflects the episode’s core theme of embracing one’s own worth and unexpected strength beyond other people’s labels."
-    },
     {
       "hour": 12,
       "fact_text": "On 25 January 1980, Mother Teresa received India’s highest civilian honour, the Bharat Ratna, for her work among the poorest in Kolkata. The small nun in a white sari became a global symbol—controversial to some, inspiring to others—of radical service in the margins of society.",
@@ -652,9 +628,41 @@
         ]
       },
       "match_reason": "A violent colonial clash that reshaped Indigenous lives parallels an episode centered on Tuareg music, where sound becomes a language of survival, displacement, and resistance to empire."
+    },
+    {
+      "hour": 11,
+      "fact_text": "In AD 41, after a night of frantic negotiations and palace intrigue, the Roman Senate accepted Claudius as emperor. Once dismissed as a stuttering, bookish outsider, he unexpectedly became ruler of a vast empire, proving that power sometimes falls on the least obvious shoulders.",
+      "fact_year": 41,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "Claudius’s rise from underestimated misfit to emperor reflects the episode’s core theme of embracing one’s own worth and unexpected strength beyond other people’s labels."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T10:00:01.844630+00:00"
+  "updated_at": "2026-01-25T11:00:01.681548+00:00"
 }
