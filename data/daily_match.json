@@ -1,69 +1,36 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "In 1937, the soap opera “The Guiding Light” premiered on NBC radio, following the lives of Midwestern families through love, faith, and hardship. It would go on to migrate to television and run for an astonishing 72 years, becoming one of the longest-running drama series in broadcast history.",
-    "fact_year": 1937,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
+    "hour": 3,
+    "fact_text": "Launched in 1994, the Clementine spacecraft was a joint NASA and Ballistic Missile Defense Organization mission that mapped the Moon in unprecedented detail. It even tried to search for water ice at the lunar poles, turning a military technology testbed into a quietly poetic journey around another world.",
+    "fact_year": 1994,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Clementine_(spacecraft)",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 48,
+      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Stive Morgan - Solar Wind, Pt. 3",
+        "David Visan & Carlos Campos - Crystal Heart",
+        "Evan Mars - Ya Zareef Al Tool",
+        "Gerardo Frisina - Cuiabá",
+        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+        "The Busy Twist - Friday Night"
       ],
       "music-genres": [
-        "Hip-Hop",
+        "Ambient",
+        "Deep House",
+        "World Music",
+        "Nu Jazz",
         "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Funk",
+        "Electronic"
       ]
     },
-    "match_reason": "A legendary radio soap that became a life companion for listeners fits with Sedna FM’s own first-episode origin story about building a long-term ‘life soundtrack’ with family and friends."
+    "match_reason": "Clementine’s glide around the Moon pairs naturally with an episode that opens in cosmic ambient textures and then orbits through global rhythms, like a sonic flyby of Earth from space."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "Launched in 1994, the Clementine spacecraft was a joint NASA and Ballistic Missile Defense Organization mission that mapped the Moon in unprecedented detail. It even tried to search for water ice at the lunar poles, turning a military technology testbed into a quietly poetic journey around another world.",
-      "fact_year": 1994,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Clementine_(spacecraft)",
-      "episode": {
-        "id": 48,
-        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
-        "songs": [
-          "Stive Morgan - Solar Wind, Pt. 3",
-          "David Visan & Carlos Campos - Crystal Heart",
-          "Evan Mars - Ya Zareef Al Tool",
-          "Gerardo Frisina - Cuiabá",
-          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-          "The Busy Twist - Friday Night"
-        ],
-        "music-genres": [
-          "Ambient",
-          "Deep House",
-          "World Music",
-          "Nu Jazz",
-          "Afrobeat",
-          "Funk",
-          "Electronic"
-        ]
-      },
-      "match_reason": "Clementine’s glide around the Moon pairs naturally with an episode that opens in cosmic ambient textures and then orbits through global rhythms, like a sonic flyby of Earth from space."
-    },
     {
       "hour": 4,
       "fact_text": "In 1960, the National Association of Broadcasters reacted to the infamous ‘payola’ scandal by threatening fines for DJs who secretly took money to spin certain records. The crackdown exposed how commercial pressure could distort what the world heard, reshaping trust between listeners, artists, and the airwaves.",
@@ -661,9 +628,39 @@
         ]
       },
       "match_reason": "A legendary radio soap that became a life companion for listeners fits with Sedna FM’s own first-episode origin story about building a long-term ‘life soundtrack’ with family and friends."
+    },
+    {
+      "hour": 3,
+      "fact_text": "Launched in 1994, the Clementine spacecraft was a joint NASA and Ballistic Missile Defense Organization mission that mapped the Moon in unprecedented detail. It even tried to search for water ice at the lunar poles, turning a military technology testbed into a quietly poetic journey around another world.",
+      "fact_year": 1994,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Clementine_(spacecraft)",
+      "episode": {
+        "id": 48,
+        "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
+        "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+        "songs": [
+          "Stive Morgan - Solar Wind, Pt. 3",
+          "David Visan & Carlos Campos - Crystal Heart",
+          "Evan Mars - Ya Zareef Al Tool",
+          "Gerardo Frisina - Cuiabá",
+          "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
+          "The Busy Twist - Friday Night"
+        ],
+        "music-genres": [
+          "Ambient",
+          "Deep House",
+          "World Music",
+          "Nu Jazz",
+          "Afrobeat",
+          "Funk",
+          "Electronic"
+        ]
+      },
+      "match_reason": "Clementine’s glide around the Moon pairs naturally with an episode that opens in cosmic ambient textures and then orbits through global rhythms, like a sonic flyby of Earth from space."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T02:00:01.935699+00:00"
+  "updated_at": "2026-01-25T03:00:01.870090+00:00"
 }
