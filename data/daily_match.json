@@ -1,71 +1,41 @@
 {
-  "current_hour": 2,
+  "current_hour": 3,
   "current_fact": {
-    "hour": 2,
-    "fact_text": "On 25 January 1994, the joint BMDO–NASA spacecraft Clementine launched to test advanced sensors while mapping the Moon in unprecedented detail. It famously found strong evidence of water ice in permanently shadowed lunar craters, turning the Moon from a dry rock into a potentially resource-rich outpost in humanity’s imagination.",
-    "fact_year": 1994,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Clementine_(spacecraft)",
+    "hour": 3,
+    "fact_text": "On 25 January 1858, Felix Mendelssohn’s “Wedding March” was performed at the marriage of Queen Victoria’s daughter Victoria to Prince Friedrich of Prussia. The royal spotlight turned a piece from Shakespeare’s A Midsummer Night’s Dream into the default soundtrack of Western weddings for more than a century.",
+    "fact_year": 1858,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
     "episode": {
-      "id": 48,
-      "title": "Evening Flows #01 - Yasmin - Crescendo in the Medina",
-      "description": "The first Evening Flow episode comes from Yasmin. It starts deep in the medina, slow, mysterious, textured, and grows into a liberating dance across sub-Saharan landscapes. A journey through ambient soundscapes, Arabic melodies, Afro-Latin rhythms, and funky highlife grooves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/evening-flows-party-in-the-medina",
+      "id": 4,
+      "title": "Sedna FM #04 - Queen of Spades",
+      "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
       "songs": [
-        "Stive Morgan - Solar Wind, Pt. 3",
-        "David Visan & Carlos Campos - Crystal Heart",
-        "Evan Mars - Ya Zareef Al Tool",
-        "Gerardo Frisina - Cuiabá",
-        "Dele Sosimi & Medlar - You No Fit Touch Am (Medlar Remix)",
-        "The Busy Twist - Friday Night"
+        "Alabama Shakes - Gimme All Your Love",
+        "Queens of the stone age - Make it wit chu",
+        "Rosa Passos - Fusion",
+        "Sade - Mr Wrong",
+        "Daft Punk - Something About Us",
+        "10cc - I'm Not in Love",
+        "Jonny Nash - Theories",
+        "Etta James - I'd Rather Go Blind",
+        "Adriano Celentano - Storia D'amore",
+        "Eric Clapton - Have you ever loved a woman",
+        "Arctic Monkey - The Bakery"
       ],
       "music-genres": [
-        "Ambient",
-        "Deep House",
-        "World Music",
-        "Nu Jazz",
-        "Afrobeat",
-        "Funk",
-        "Electronic"
+        "Blues Rock",
+        "Stoner Rock",
+        "Bossa Nova",
+        "Soul",
+        "Electronic",
+        "Soft Rock",
+        "Blues"
       ]
     },
-    "match_reason": "Clementine’s quiet orbit around the Moon, sensing hidden landscapes, fits the episode’s slow-build journey from mystery to expansive motion across distant terrains."
+    "match_reason": "A royal wedding that reshaped the sound of romance pairs with an episode devoted to love’s music, from grand gestures to vulnerable, private feelings."
   },
   "queue": [
-    {
-      "hour": 3,
-      "fact_text": "On 25 January 1858, Felix Mendelssohn’s “Wedding March” was performed at the marriage of Queen Victoria’s daughter Victoria to Prince Friedrich of Prussia. The royal spotlight turned a piece from Shakespeare’s A Midsummer Night’s Dream into the default soundtrack of Western weddings for more than a century.",
-      "fact_year": 1858,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
-      "episode": {
-        "id": 4,
-        "title": "Sedna FM #04 - Queen of Spades",
-        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
-        "songs": [
-          "Alabama Shakes - Gimme All Your Love",
-          "Queens of the stone age - Make it wit chu",
-          "Rosa Passos - Fusion",
-          "Sade - Mr Wrong",
-          "Daft Punk - Something About Us",
-          "10cc - I'm Not in Love",
-          "Jonny Nash - Theories",
-          "Etta James - I'd Rather Go Blind",
-          "Adriano Celentano - Storia D'amore",
-          "Eric Clapton - Have you ever loved a woman",
-          "Arctic Monkey - The Bakery"
-        ],
-        "music-genres": [
-          "Blues Rock",
-          "Stoner Rock",
-          "Bossa Nova",
-          "Soul",
-          "Electronic",
-          "Soft Rock",
-          "Blues"
-        ]
-      },
-      "match_reason": "A royal wedding that reshaped the sound of romance pairs with an episode devoted to love’s music, from grand gestures to vulnerable, private feelings."
-    },
     {
       "hour": 4,
       "fact_text": "On 25 January 1937, the soap opera Guiding Light first aired on NBC radio in Chicago, following the moral and emotional struggles of a Midwestern minister. It migrated to television in 1952 and ran until 2009, becoming one of the longest-running drama series in broadcast history and quietly chronicling everyday lives for over seven decades.",
@@ -673,9 +643,44 @@
         ]
       },
       "match_reason": "Clementine’s quiet orbit around the Moon, sensing hidden landscapes, fits the episode’s slow-build journey from mystery to expansive motion across distant terrains."
+    },
+    {
+      "hour": 3,
+      "fact_text": "On 25 January 1858, Felix Mendelssohn’s “Wedding March” was performed at the marriage of Queen Victoria’s daughter Victoria to Prince Friedrich of Prussia. The royal spotlight turned a piece from Shakespeare’s A Midsummer Night’s Dream into the default soundtrack of Western weddings for more than a century.",
+      "fact_year": 1858,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)",
+      "episode": {
+        "id": 4,
+        "title": "Sedna FM #04 - Queen of Spades",
+        "description": "Tuning in from the planet of irrational love. Exploring love's most vulnerable side — the kind that awakens the child within us. A diverse music selection ranging from electric blues to downtempo, soul, and jazz. A tribute to the feeling that has moved artists to create the most beautiful works. Love makes us vulnerable, and there is no art without vulnerability.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/queen-of-spades",
+        "songs": [
+          "Alabama Shakes - Gimme All Your Love",
+          "Queens of the stone age - Make it wit chu",
+          "Rosa Passos - Fusion",
+          "Sade - Mr Wrong",
+          "Daft Punk - Something About Us",
+          "10cc - I'm Not in Love",
+          "Jonny Nash - Theories",
+          "Etta James - I'd Rather Go Blind",
+          "Adriano Celentano - Storia D'amore",
+          "Eric Clapton - Have you ever loved a woman",
+          "Arctic Monkey - The Bakery"
+        ],
+        "music-genres": [
+          "Blues Rock",
+          "Stoner Rock",
+          "Bossa Nova",
+          "Soul",
+          "Electronic",
+          "Soft Rock",
+          "Blues"
+        ]
+      },
+      "match_reason": "A royal wedding that reshaped the sound of romance pairs with an episode devoted to love’s music, from grand gestures to vulnerable, private feelings."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T02:00:01.555749+00:00"
+  "updated_at": "2026-01-25T03:00:01.837625+00:00"
 }
