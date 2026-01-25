@@ -1,64 +1,39 @@
 {
-  "current_hour": 1,
+  "current_hour": 2,
   "current_fact": {
-    "hour": 1,
-    "fact_text": "On 25 January 1995, a scientific rocket launched from Norway was mistaken by Russian early-warning systems for a possible nuclear missile. For several tense minutes the nuclear briefcase was opened and a retaliatory strike considered—before the object was finally identified as harmless research hardware.",
-    "fact_year": 1995,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_rocket_incident",
+    "hour": 2,
+    "fact_text": "In 1937, the soap opera “The Guiding Light” premiered on NBC radio, following the lives of Midwestern families through love, faith, and hardship. It would go on to migrate to television and run for an astonishing 72 years, becoming one of the longest-running drama series in broadcast history.",
+    "fact_year": 1937,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
     "episode": {
-      "id": 11,
-      "title": "Morning Drops #05 - Electric Shock",
-      "description": "An energizing episode with electrifying sounds to wake you up and get you moving. High energy tracks that deliver a jolt of musical electricity to start your day.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-electric-shock",
+      "id": 1,
+      "title": "Sedna FM #01 - November Bomb",
+      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "berlioz - Open this wall",
+        "Nas - One Mic",
+        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+        "Frankie Knuckles - Your Love",
+        "Notorious B.I.G. - 17 Ten Crack Commandments",
+        "Liloca - Utani Xuva",
+        "Fela Kuti - Zombie",
+        "Neffa - Aspettando il sole",
+        "Childish Gambino - No Excuses",
+        "Modjo - Music takes you back"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Hip-Hop",
+        "Afrobeat",
+        "House",
+        "Italian Pop",
+        "R&B",
+        "Latin Rap"
       ]
     },
-    "match_reason": "The sudden global jolt of a near-miss nuclear alert resonates with the episode’s high-voltage, ‘electric shock’ energy and the tension implied by “Russian Roulette.”"
+    "match_reason": "A legendary radio soap that became a life companion for listeners fits with Sedna FM’s own first-episode origin story about building a long-term ‘life soundtrack’ with family and friends."
   },
   "queue": [
-    {
-      "hour": 2,
-      "fact_text": "In 1937, the soap opera “The Guiding Light” premiered on NBC radio, following the lives of Midwestern families through love, faith, and hardship. It would go on to migrate to television and run for an astonishing 72 years, becoming one of the longest-running drama series in broadcast history.",
-      "fact_year": 1937,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
-      "episode": {
-        "id": 1,
-        "title": "Sedna FM #01 - November Bomb",
-        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
-        "songs": [
-          "berlioz - Open this wall",
-          "Nas - One Mic",
-          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-          "Frankie Knuckles - Your Love",
-          "Notorious B.I.G. - 17 Ten Crack Commandments",
-          "Liloca - Utani Xuva",
-          "Fela Kuti - Zombie",
-          "Neffa - Aspettando il sole",
-          "Childish Gambino - No Excuses",
-          "Modjo - Music takes you back"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Afrobeat",
-          "House",
-          "Italian Pop",
-          "R&B",
-          "Latin Rap"
-        ]
-      },
-      "match_reason": "A legendary radio soap that became a life companion for listeners fits with Sedna FM’s own first-episode origin story about building a long-term ‘life soundtrack’ with family and friends."
-    },
     {
       "hour": 3,
       "fact_text": "Launched in 1994, the Clementine spacecraft was a joint NASA and Ballistic Missile Defense Organization mission that mapped the Moon in unprecedented detail. It even tried to search for water ice at the lunar poles, turning a military technology testbed into a quietly poetic journey around another world.",
@@ -653,9 +628,42 @@
         ]
       },
       "match_reason": "The sudden global jolt of a near-miss nuclear alert resonates with the episode’s high-voltage, ‘electric shock’ energy and the tension implied by “Russian Roulette.”"
+    },
+    {
+      "hour": 2,
+      "fact_text": "In 1937, the soap opera “The Guiding Light” premiered on NBC radio, following the lives of Midwestern families through love, faith, and hardship. It would go on to migrate to television and run for an astonishing 72 years, becoming one of the longest-running drama series in broadcast history.",
+      "fact_year": 1937,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
+      "episode": {
+        "id": 1,
+        "title": "Sedna FM #01 - November Bomb",
+        "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+        "songs": [
+          "berlioz - Open this wall",
+          "Nas - One Mic",
+          "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
+          "Frankie Knuckles - Your Love",
+          "Notorious B.I.G. - 17 Ten Crack Commandments",
+          "Liloca - Utani Xuva",
+          "Fela Kuti - Zombie",
+          "Neffa - Aspettando il sole",
+          "Childish Gambino - No Excuses",
+          "Modjo - Music takes you back"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Afrobeat",
+          "House",
+          "Italian Pop",
+          "R&B",
+          "Latin Rap"
+        ]
+      },
+      "match_reason": "A legendary radio soap that became a life companion for listeners fits with Sedna FM’s own first-episode origin story about building a long-term ‘life soundtrack’ with family and friends."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T01:00:01.909873+00:00"
+  "updated_at": "2026-01-25T02:00:01.935699+00:00"
 }
