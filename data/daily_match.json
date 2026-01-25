@@ -1,63 +1,31 @@
 {
-  "current_hour": 12,
+  "current_hour": 13,
   "current_fact": {
-    "hour": 12,
-    "fact_text": "On 25 January 1980, Mother Teresa was awarded India’s highest civilian honor, the Bharat Ratna, in recognition of her work with the poorest in Kolkata. The tiny nun's image became a global symbol of service and compassion, sparking both admiration and debate about the nature of charity.",
-    "fact_year": 1980,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
+    "hour": 13,
+    "fact_text": "On 25 January 1942, Thailand formally declared war on both the United States and the United Kingdom, aligning itself with Imperial Japan during World War II. The move reflected the country’s attempt to navigate survival between empires, a decision later revisited in postwar politics and memory.",
+    "fact_year": 1942,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
     "episode": {
-      "id": 3,
-      "title": "Sedna FM #03 - Beautiful as You Feel",
-      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+      "id": 41,
+      "title": "Morning Drops #35 - Thailand",
+      "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
       "songs": [
-        "Radiohead - Lotus Flower",
-        "Andrea Lazslo de Simone - Vivo",
-        "The The - this is the day",
-        "Steve Monite - Only You",
-        "DCTL - Deep Tannin f(eat Rafael Leafar)",
-        "Soufiane Sa3idi - El Njoum",
-        "Area - La mela di odessa",
-        "Carol King - Beautiful",
-        "Mannarino - Vivere la vita"
+        "Salin - Egungun",
+        "Justin Bieber - Love Yourself",
+        "Khun Narin - Phua Kao",
+        "Burna Boy - Cheat on Me (feat. Dave)"
       ],
       "music-genres": [
-        "Alternative Rock",
-        "Italian Singer-Songwriter",
-        "New Wave",
-        "Afro-Funk",
-        "Maghreb",
-        "Progressive Rock"
+        "Afrobeat",
+        "Pop",
+        "Thai Funk",
+        "Afro-Fusion"
       ]
     },
-    "match_reason": "An award honoring a life of service ties to an episode that celebrates inner beauty and the quiet strength that doesn’t depend on status or appearance."
+    "match_reason": "A pivotal wartime decision by Thailand is paired with an episode recorded in contemporary Thailand, linking the country’s turbulent past to its vibrant present culture."
   },
   "queue": [
-    {
-      "hour": 13,
-      "fact_text": "On 25 January 1942, Thailand formally declared war on both the United States and the United Kingdom, aligning itself with Imperial Japan during World War II. The move reflected the country’s attempt to navigate survival between empires, a decision later revisited in postwar politics and memory.",
-      "fact_year": 1942,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
-      "episode": {
-        "id": 41,
-        "title": "Morning Drops #35 - Thailand",
-        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
-        "songs": [
-          "Salin - Egungun",
-          "Justin Bieber - Love Yourself",
-          "Khun Narin - Phua Kao",
-          "Burna Boy - Cheat on Me (feat. Dave)"
-        ],
-        "music-genres": [
-          "Afrobeat",
-          "Pop",
-          "Thai Funk",
-          "Afro-Fusion"
-        ]
-      },
-      "match_reason": "A pivotal wartime decision by Thailand is paired with an episode recorded in contemporary Thailand, linking the country’s turbulent past to its vibrant present culture."
-    },
     {
       "hour": 14,
       "fact_text": "On 25 January 1918, the newly independent Finland created its official army by recognizing the White Guards as the Finnish Defence Forces and appointing C. G. E. Mannerheim as commander-in-chief. The step came on the eve of civil war, as the young nation tried to define its identity and security amid revolution and foreign pressure.",
@@ -675,9 +643,34 @@
         ]
       },
       "match_reason": "An award honoring a life of service ties to an episode that celebrates inner beauty and the quiet strength that doesn’t depend on status or appearance."
+    },
+    {
+      "hour": 13,
+      "fact_text": "On 25 January 1942, Thailand formally declared war on both the United States and the United Kingdom, aligning itself with Imperial Japan during World War II. The move reflected the country’s attempt to navigate survival between empires, a decision later revisited in postwar politics and memory.",
+      "fact_year": 1942,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Thailand_in_World_War_II",
+      "episode": {
+        "id": 41,
+        "title": "Morning Drops #35 - Thailand",
+        "description": "Recorded in Koh Samui, Thailand, where Yasmin and her friend Patricia spent more than two intense weeks training Muay Thai and Western boxing. Between sweat, rhythm, and sea breeze, they share reflections on discipline, friendship, and the beauty of movement - with a soundtrack that connects Thai sounds to the flow of daily practice.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-thailand",
+        "songs": [
+          "Salin - Egungun",
+          "Justin Bieber - Love Yourself",
+          "Khun Narin - Phua Kao",
+          "Burna Boy - Cheat on Me (feat. Dave)"
+        ],
+        "music-genres": [
+          "Afrobeat",
+          "Pop",
+          "Thai Funk",
+          "Afro-Fusion"
+        ]
+      },
+      "match_reason": "A pivotal wartime decision by Thailand is paired with an episode recorded in contemporary Thailand, linking the country’s turbulent past to its vibrant present culture."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T12:00:01.746787+00:00"
+  "updated_at": "2026-01-25T13:00:01.529439+00:00"
 }
