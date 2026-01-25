@@ -1,62 +1,38 @@
 {
-  "current_hour": 11,
+  "current_hour": 12,
   "current_fact": {
-    "hour": 11,
-    "fact_text": "On 25 January AD 41, after the assassination of Emperor Caligula, the Roman Senate hesitated over restoring the Republic until they discovered his timid uncle Claudius hiding behind a curtain. The Praetorian Guard proclaimed him emperor, showing how raw military power could elevate an unlikely, underestimated figure to rule the ancient superpower.",
-    "fact_year": 41,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Claudius",
+    "hour": 12,
+    "fact_text": "On 25 January 1980, Mother Teresa was awarded India’s highest civilian honor, the Bharat Ratna, in recognition of her work with the poorest in Kolkata. The tiny nun's image became a global symbol of service and compassion, sparking both admiration and debate about the nature of charity.",
+    "fact_year": 1980,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
     "episode": {
-      "id": 36,
-      "title": "Morning Drops #30 - Star Treatment",
-      "description": "A celebration of change and transformation. Gaia traces the evolution of Arctic Monkeys - from raw energy to cinematic sound - reflecting on how artists, and all of us, grow and change through time. A journey through courage, curiosity, and the beauty of slowing down.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-star-treatment",
+      "id": 3,
+      "title": "Sedna FM #03 - Beautiful as You Feel",
+      "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
       "songs": [
-        "Arctic Monkeys - Brainstorm",
-        "Arctic Monkeys - Pretty Visitors",
-        "Arctic Monkeys - Star Treatment",
-        "Arctic Monkeys - There’d Better Be a Mirrorball"
+        "Radiohead - Lotus Flower",
+        "Andrea Lazslo de Simone - Vivo",
+        "The The - this is the day",
+        "Steve Monite - Only You",
+        "DCTL - Deep Tannin f(eat Rafael Leafar)",
+        "Soufiane Sa3idi - El Njoum",
+        "Area - La mela di odessa",
+        "Carol King - Beautiful",
+        "Mannarino - Vivere la vita"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Psychedelic Rock",
-        "Lounge Pop"
+        "Alternative Rock",
+        "Italian Singer-Songwriter",
+        "New Wave",
+        "Afro-Funk",
+        "Maghreb",
+        "Progressive Rock"
       ]
     },
-    "match_reason": "Claudius’ sudden elevation from sidelined relative to emperor reflects the theme of transformation and unexpected ‘star treatment’ explored through artistic evolution."
+    "match_reason": "An award honoring a life of service ties to an episode that celebrates inner beauty and the quiet strength that doesn’t depend on status or appearance."
   },
   "queue": [
-    {
-      "hour": 12,
-      "fact_text": "On 25 January 1980, Mother Teresa was awarded India’s highest civilian honor, the Bharat Ratna, in recognition of her work with the poorest in Kolkata. The tiny nun's image became a global symbol of service and compassion, sparking both admiration and debate about the nature of charity.",
-      "fact_year": 1980,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
-      "episode": {
-        "id": 3,
-        "title": "Sedna FM #03 - Beautiful as You Feel",
-        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
-        "songs": [
-          "Radiohead - Lotus Flower",
-          "Andrea Lazslo de Simone - Vivo",
-          "The The - this is the day",
-          "Steve Monite - Only You",
-          "DCTL - Deep Tannin f(eat Rafael Leafar)",
-          "Soufiane Sa3idi - El Njoum",
-          "Area - La mela di odessa",
-          "Carol King - Beautiful",
-          "Mannarino - Vivere la vita"
-        ],
-        "music-genres": [
-          "Alternative Rock",
-          "Italian Singer-Songwriter",
-          "New Wave",
-          "Afro-Funk",
-          "Maghreb",
-          "Progressive Rock"
-        ]
-      },
-      "match_reason": "An award honoring a life of service ties to an episode that celebrates inner beauty and the quiet strength that doesn’t depend on status or appearance."
-    },
     {
       "hour": 13,
       "fact_text": "On 25 January 1942, Thailand formally declared war on both the United States and the United Kingdom, aligning itself with Imperial Japan during World War II. The move reflected the country’s attempt to navigate survival between empires, a decision later revisited in postwar politics and memory.",
@@ -667,9 +643,41 @@
         ]
       },
       "match_reason": "Claudius’ sudden elevation from sidelined relative to emperor reflects the theme of transformation and unexpected ‘star treatment’ explored through artistic evolution."
+    },
+    {
+      "hour": 12,
+      "fact_text": "On 25 January 1980, Mother Teresa was awarded India’s highest civilian honor, the Bharat Ratna, in recognition of her work with the poorest in Kolkata. The tiny nun's image became a global symbol of service and compassion, sparking both admiration and debate about the nature of charity.",
+      "fact_year": 1980,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Mother_Teresa",
+      "episode": {
+        "id": 3,
+        "title": "Sedna FM #03 - Beautiful as You Feel",
+        "description": "An episode about self-acceptance and inner beauty. Music that reminds us we are beautiful as we feel, embracing our authentic selves. Warm, uplifting sounds that celebrate individuality.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/beautiful-as-you-feel",
+        "songs": [
+          "Radiohead - Lotus Flower",
+          "Andrea Lazslo de Simone - Vivo",
+          "The The - this is the day",
+          "Steve Monite - Only You",
+          "DCTL - Deep Tannin f(eat Rafael Leafar)",
+          "Soufiane Sa3idi - El Njoum",
+          "Area - La mela di odessa",
+          "Carol King - Beautiful",
+          "Mannarino - Vivere la vita"
+        ],
+        "music-genres": [
+          "Alternative Rock",
+          "Italian Singer-Songwriter",
+          "New Wave",
+          "Afro-Funk",
+          "Maghreb",
+          "Progressive Rock"
+        ]
+      },
+      "match_reason": "An award honoring a life of service ties to an episode that celebrates inner beauty and the quiet strength that doesn’t depend on status or appearance."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T11:00:01.660940+00:00"
+  "updated_at": "2026-01-25T12:00:01.746787+00:00"
 }
