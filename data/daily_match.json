@@ -1,61 +1,28 @@
 {
-  "current_hour": 4,
+  "current_hour": 5,
   "current_fact": {
-    "hour": 4,
-    "fact_text": "On 25 January 1937, the soap opera Guiding Light first aired on NBC radio in Chicago, following the moral and emotional struggles of a Midwestern minister. It migrated to television in 1952 and ran until 2009, becoming one of the longest-running drama series in broadcast history and quietly chronicling everyday lives for over seven decades.",
-    "fact_year": 1937,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Guiding_Light",
+    "hour": 5,
+    "fact_text": "On 25 January 1960, the U.S. National Association of Broadcasters responded to the exploding \"payola\" scandal by threatening fines for disc jockeys who secretly took money to spin certain records. The crackdown reshaped radio playlists, raising questions about who really decides what becomes a hit: listeners, artists, or quiet payments behind the scenes.",
+    "fact_year": 1960,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Payola",
     "episode": {
-      "id": 1,
-      "title": "Sedna FM #01 - November Bomb",
-      "description": "The first Family & Friends radio episode from Yasmin Sarbaoui and Gaia Parolini. Where it all began — a life soundtrack that launched Sedna FM into the universe. Raw, heartfelt, and full of the energy that defines everything that followed.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/november-bomb",
+      "id": 14,
+      "title": "Morning Drops #08 - (un)Boxing",
+      "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
       "songs": [
-        "berlioz - Open this wall",
-        "Nas - One Mic",
-        "Canserbero - De la vida como pelicula, tragedia, comedia y ficcion",
-        "Frankie Knuckles - Your Love",
-        "Notorious B.I.G. - 17 Ten Crack Commandments",
-        "Liloca - Utani Xuva",
-        "Fela Kuti - Zombie",
-        "Neffa - Aspettando il sole",
-        "Childish Gambino - No Excuses",
-        "Modjo - Music takes you back"
+        "Kendrick Lamar - Feel",
+        "Kendrick Lamar - The Blacker the Berry",
+        "Kendrick Lamar - Mirror"
       ],
       "music-genres": [
         "Hip-Hop",
-        "Afrobeat",
-        "House",
-        "Italian Pop",
-        "R&B",
-        "Latin Rap"
+        "Conscious Rap"
       ]
     },
-    "match_reason": "The birth of a long-running radio drama aligns with Sedna FM’s own origin episode, both marking the start of storytelling worlds built through sound and recurring voices."
+    "match_reason": "A scandal that exposed the manipulation behind which songs get played fits an episode about breaking from imposed boxes and questioning who sets the rules."
   },
   "queue": [
-    {
-      "hour": 5,
-      "fact_text": "On 25 January 1960, the U.S. National Association of Broadcasters responded to the exploding \"payola\" scandal by threatening fines for disc jockeys who secretly took money to spin certain records. The crackdown reshaped radio playlists, raising questions about who really decides what becomes a hit: listeners, artists, or quiet payments behind the scenes.",
-      "fact_year": 1960,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Payola",
-      "episode": {
-        "id": 14,
-        "title": "Morning Drops #08 - (un)Boxing",
-        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
-        "songs": [
-          "Kendrick Lamar - Feel",
-          "Kendrick Lamar - The Blacker the Berry",
-          "Kendrick Lamar - Mirror"
-        ],
-        "music-genres": [
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A scandal that exposed the manipulation behind which songs get played fits an episode about breaking from imposed boxes and questioning who sets the rules."
-    },
     {
       "hour": 6,
       "fact_text": "On 25 January 1961, Walt Disney’s \"One Hundred and One Dalmatians\" premiered, pioneering a new Xerox-based animation technique that allowed sketchy, energetic linework to appear directly on screen. Its stylized London, jazz-tinged score, and spotted canine swarm helped pull Disney into a more modern era of animation.",
@@ -676,9 +643,31 @@
         ]
       },
       "match_reason": "The birth of a long-running radio drama aligns with Sedna FM’s own origin episode, both marking the start of storytelling worlds built through sound and recurring voices."
+    },
+    {
+      "hour": 5,
+      "fact_text": "On 25 January 1960, the U.S. National Association of Broadcasters responded to the exploding \"payola\" scandal by threatening fines for disc jockeys who secretly took money to spin certain records. The crackdown reshaped radio playlists, raising questions about who really decides what becomes a hit: listeners, artists, or quiet payments behind the scenes.",
+      "fact_year": 1960,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Payola",
+      "episode": {
+        "id": 14,
+        "title": "Morning Drops #08 - (un)Boxing",
+        "description": "An episode about breaking free from expectations and labels. Music that helps us unbox ourselves and embrace who we truly are.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-unboxing",
+        "songs": [
+          "Kendrick Lamar - Feel",
+          "Kendrick Lamar - The Blacker the Berry",
+          "Kendrick Lamar - Mirror"
+        ],
+        "music-genres": [
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A scandal that exposed the manipulation behind which songs get played fits an episode about breaking from imposed boxes and questioning who sets the rules."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.017164+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T04:00:01.461503+00:00"
+  "updated_at": "2026-01-25T05:00:01.695064+00:00"
 }
