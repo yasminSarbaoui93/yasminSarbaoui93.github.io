@@ -1,54 +1,29 @@
 {
-  "current_hour": 15,
+  "current_hour": 16,
   "current_fact": {
-    "hour": 15,
-    "fact_text": "In 1909, Richard Strauss’s opera “Elektra” premiered in Dresden, pushing early 20th-century audiences to their limits with dissonant harmonies and raw psychological intensity. Its story of obsession and vengeance, wrapped in a massive modernist orchestra, felt like a foretaste of the century’s coming storms.",
-    "fact_year": 1909,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Elektra_(opera)",
+    "hour": 16,
+    "fact_text": "On 25 January 1949, the very first Emmy Awards ceremony took place at the Hollywood Athletic Club. What began as a modest local TV prize would evolve into one of the most-watched awards shows on Earth, turning the small screen into a stage for global glamor.",
+    "fact_year": 1949,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emmy_Awards",
     "episode": {
-      "id": 31,
-      "title": "Morning Drops #31 - Sailing With Germans",
-      "description": "From the deck of a sailing boat, hosted by Yasmin and her special guests. A week at sea with six Germans, each with their own stories, songs, and ways of moving through the waves. From shared meals to unexpected laughter, from quiet resilience to sun-soaked joy — a collection of voices and tracks that reflect what it means to journey together.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-sailing-with-germans",
+      "id": 15,
+      "title": "Morning Drops #09 - Birthday Cake",
+      "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
       "songs": [
-        "Johnny Winter - Highway 61 Revisited",
-        "Joan Armatrading - Sleight of Hand",
-        "Joan Armatrading - Russian Roulette",
-        "Jimi Hendrix - Freedom",
-        "Jeff Beck - Scatterbrain"
+        "Artist Name - Song Title",
+        "Artist Name - Song Title",
+        "Artist Name - Song Title",
+        "Artist Name - Song Title"
       ],
       "music-genres": [
-        "Blues Rock",
-        "Rock",
-        "Electric Blues"
+        "Eclectic",
+        "Celebratory"
       ]
     },
-    "match_reason": "A groundbreaking German opera premiering in Dresden connects nicely to a breezy, modern portrait of life with German friends at sea—two very different German soundscapes across a century."
+    "match_reason": "The first Emmys turning television into a celebration aligns with a festive birthday episode—both are about marking special milestones with glitter, music, and applause."
   },
   "queue": [
-    {
-      "hour": 16,
-      "fact_text": "On 25 January 1949, the very first Emmy Awards ceremony took place at the Hollywood Athletic Club. What began as a modest local TV prize would evolve into one of the most-watched awards shows on Earth, turning the small screen into a stage for global glamor.",
-      "fact_year": 1949,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emmy_Awards",
-      "episode": {
-        "id": 15,
-        "title": "Morning Drops #09 - Birthday Cake",
-        "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
-        "songs": [
-          "Artist Name - Song Title",
-          "Artist Name - Song Title",
-          "Artist Name - Song Title",
-          "Artist Name - Song Title"
-        ],
-        "music-genres": [
-          "Eclectic",
-          "Celebratory"
-        ]
-      },
-      "match_reason": "The first Emmys turning television into a celebration aligns with a festive birthday episode—both are about marking special milestones with glitter, music, and applause."
-    },
     {
       "hour": 17,
       "fact_text": "In January 1932, during the early clashes that foreshadowed the Second Sino-Japanese War, Chinese National Revolutionary Army forces began the defense of Harbin. The city became a contested, frozen battleground where railways, rivers, and bitter winter decided as much as generals did.",
@@ -659,9 +634,32 @@
         ]
       },
       "match_reason": "A groundbreaking German opera premiering in Dresden connects nicely to a breezy, modern portrait of life with German friends at sea—two very different German soundscapes across a century."
+    },
+    {
+      "hour": 16,
+      "fact_text": "On 25 January 1949, the very first Emmy Awards ceremony took place at the Hollywood Athletic Club. What began as a modest local TV prize would evolve into one of the most-watched awards shows on Earth, turning the small screen into a stage for global glamor.",
+      "fact_year": 1949,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Emmy_Awards",
+      "episode": {
+        "id": 15,
+        "title": "Morning Drops #09 - Birthday Cake",
+        "description": "Today's breakfast comes with a sprinkle of stardust and a slice of birthday cake as we celebrate a pure and unique soul, Yasmin. On Sedna, we may not do years, but we sure know how to party!",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-birthdaycake",
+        "songs": [
+          "Artist Name - Song Title",
+          "Artist Name - Song Title",
+          "Artist Name - Song Title",
+          "Artist Name - Song Title"
+        ],
+        "music-genres": [
+          "Eclectic",
+          "Celebratory"
+        ]
+      },
+      "match_reason": "The first Emmys turning television into a celebration aligns with a festive birthday episode—both are about marking special milestones with glitter, music, and applause."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T15:00:01.584962+00:00"
+  "updated_at": "2026-01-25T16:00:01.983428+00:00"
 }
