@@ -1,54 +1,30 @@
 {
-  "current_hour": 9,
+  "current_hour": 10,
   "current_fact": {
-    "hour": 9,
-    "fact_text": "On 25 January 1979, Pope John Paul II began his first official papal trip outside Italy, visiting the Bahamas, the Dominican Republic and Mexico. The charismatic journey turned plazas and stadiums into open-air rituals, blending religion, politics, and pop-star scale crowds across the Americas.",
-    "fact_year": 1979,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/List_of_pastoral_visits_of_Pope_John_Paul_II",
+    "hour": 10,
+    "fact_text": "In 1704, the Apalachee massacre saw British colonial forces and their Muscogee allies attack and destroy the mission settlement of Ayubale in Spanish Florida. The raid shattered Spain’s fragile mission system in the region and marked a brutal shift in power among European empires and Indigenous nations.",
+    "fact_year": 1704,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
     "episode": {
-      "id": 16,
-      "title": "Morning Drops #10 - The One With Many Names",
-      "description": "Yasmin guides us through the glamorous world of Ghost, the Swedish band that turned rock into ritual. From masked clergy to shifting identities, diving into the music and myth of one of the most theatrical acts of our time.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-one-with-many-names",
+      "id": 22,
+      "title": "Morning Drops #16 - The Sound of Tuareg",
+      "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
       "songs": [
-        "Ghost - Spirit",
-        "Ghost - Mary on a Cross",
-        "Ghost - Dance Macabre",
-        "Ghost - Umbra"
+        "Les Filles de Illighadad - Imigradan",
+        "Tinariwen - Amassakoul ’N’ Ténéré",
+        "Liya Ag Ablil - Awa Adounia",
+        "Tinariwen - Sastanàqqàm"
       ],
       "music-genres": [
-        "Hard Rock",
-        "Heavy Metal",
-        "Arena Rock"
+        "Desert Blues",
+        "Tuareg",
+        "World Music"
       ]
     },
-    "match_reason": "A globe-trotting pope turning faith into mass spectacle echoes an episode about Ghost, a band that plays with religious imagery and ritual on a grand, theatrical stage."
+    "match_reason": "A violent colonial clash that reshaped Indigenous lives parallels an episode centered on Tuareg music, where sound becomes a language of survival, displacement, and resistance to empire."
   },
   "queue": [
-    {
-      "hour": 10,
-      "fact_text": "In 1704, the Apalachee massacre saw British colonial forces and their Muscogee allies attack and destroy the mission settlement of Ayubale in Spanish Florida. The raid shattered Spain’s fragile mission system in the region and marked a brutal shift in power among European empires and Indigenous nations.",
-      "fact_year": 1704,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
-      "episode": {
-        "id": 22,
-        "title": "Morning Drops #16 - The Sound of Tuareg",
-        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
-        "songs": [
-          "Les Filles de Illighadad - Imigradan",
-          "Tinariwen - Amassakoul ’N’ Ténéré",
-          "Liya Ag Ablil - Awa Adounia",
-          "Tinariwen - Sastanàqqàm"
-        ],
-        "music-genres": [
-          "Desert Blues",
-          "Tuareg",
-          "World Music"
-        ]
-      },
-      "match_reason": "A violent colonial clash that reshaped Indigenous lives parallels an episode centered on Tuareg music, where sound becomes a language of survival, displacement, and resistance to empire."
-    },
     {
       "hour": 11,
       "fact_text": "In AD 41, after a night of frantic negotiations and palace intrigue, the Roman Senate accepted Claudius as emperor. Once dismissed as a stuttering, bookish outsider, he unexpectedly became ruler of a vast empire, proving that power sometimes falls on the least obvious shoulders.",
@@ -652,9 +628,33 @@
         ]
       },
       "match_reason": "A globe-trotting pope turning faith into mass spectacle echoes an episode about Ghost, a band that plays with religious imagery and ritual on a grand, theatrical stage."
+    },
+    {
+      "hour": 10,
+      "fact_text": "In 1704, the Apalachee massacre saw British colonial forces and their Muscogee allies attack and destroy the mission settlement of Ayubale in Spanish Florida. The raid shattered Spain’s fragile mission system in the region and marked a brutal shift in power among European empires and Indigenous nations.",
+      "fact_year": 1704,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Apalachee_massacre",
+      "episode": {
+        "id": 22,
+        "title": "Morning Drops #16 - The Sound of Tuareg",
+        "description": "A journey into the sound of the Tuareg: from traditional chants and desert rituals to the electrified rhythms of exile and resistance. Music shaped by sand, memory, and survival.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-the-sound-of-tuareg",
+        "songs": [
+          "Les Filles de Illighadad - Imigradan",
+          "Tinariwen - Amassakoul ’N’ Ténéré",
+          "Liya Ag Ablil - Awa Adounia",
+          "Tinariwen - Sastanàqqàm"
+        ],
+        "music-genres": [
+          "Desert Blues",
+          "Tuareg",
+          "World Music"
+        ]
+      },
+      "match_reason": "A violent colonial clash that reshaped Indigenous lives parallels an episode centered on Tuareg music, where sound becomes a language of survival, displacement, and resistance to empire."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T09:00:01.593085+00:00"
+  "updated_at": "2026-01-25T10:00:01.844630+00:00"
 }
