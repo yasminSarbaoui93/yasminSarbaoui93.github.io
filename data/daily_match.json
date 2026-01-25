@@ -1,55 +1,30 @@
 {
-  "current_hour": 17,
+  "current_hour": 18,
   "current_fact": {
-    "hour": 17,
-    "fact_text": "In January 1932, during the early clashes that foreshadowed the Second Sino-Japanese War, Chinese National Revolutionary Army forces began the defense of Harbin. The city became a contested, frozen battleground where railways, rivers, and bitter winter decided as much as generals did.",
-    "fact_year": 1932,
-    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+    "hour": 18,
+    "fact_text": "On 25 January 2013, a riot at Uribana prison in Barquisimeto, Venezuela, left at least 50 people dead and many more injured. The chaos exposed chronic overcrowding and violence in the country’s penal system, turning one complex into a symbol of broader social fractures.",
+    "fact_year": 2013,
+    "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2013_Uribana_prison_riot",
     "episode": {
-      "id": 34,
-      "title": "Morning Drops #28 - Under Scottish Skies",
-      "description": "Gaia shares a personal moment of transition — a shift in seasons, in rhythm, and in life. From this space of quiet change comes a musical journey through Scotland: not the usual names, but voices that speak from the edges. A personal ritual and a small act of curiosity: an invitation to notice what grounds us when everything moves.",
-      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-under-scottish-skies",
+      "id": 32,
+      "title": "Morning Drops #26 - Canserbero",
+      "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+      "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
       "songs": [
-        "Paolo Nutini - Pencil Full of Lead",
-        "Lapse - Lady Bug",
-        "Joesef - Let's Stay Together",
-        "Vital Spark - Stone of Destiny"
+        "Canserbero - Mañana será otro día",
+        "Canserbero - Querer Querernos",
+        "Canserbero - Jeremías",
+        "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
       ],
       "music-genres": [
-        "Indie Rock",
-        "Scottish Folk",
-        "Soul",
-        "Celtic Rock"
+        "Latin Rap",
+        "Hip-Hop",
+        "Conscious Rap"
       ]
     },
-    "match_reason": "A city bracing for war in a harsh northern winter is contrasted with an episode about weathering inner transitions under grey Scottish skies—both explore what holds us steady when the climate, political or emotional, is rough."
+    "match_reason": "A deadly Venezuelan prison riot and a Venezuelan rapper who rapped about violence, injustice, and inner conflict intersect in their raw portrayal of a society under strain."
   },
   "queue": [
-    {
-      "hour": 18,
-      "fact_text": "On 25 January 2013, a riot at Uribana prison in Barquisimeto, Venezuela, left at least 50 people dead and many more injured. The chaos exposed chronic overcrowding and violence in the country’s penal system, turning one complex into a symbol of broader social fractures.",
-      "fact_year": 2013,
-      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2013_Uribana_prison_riot",
-      "episode": {
-        "id": 32,
-        "title": "Morning Drops #26 - Canserbero",
-        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
-        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
-        "songs": [
-          "Canserbero - Mañana será otro día",
-          "Canserbero - Querer Querernos",
-          "Canserbero - Jeremías",
-          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
-        ],
-        "music-genres": [
-          "Latin Rap",
-          "Hip-Hop",
-          "Conscious Rap"
-        ]
-      },
-      "match_reason": "A deadly Venezuelan prison riot and a Venezuelan rapper who rapped about violence, injustice, and inner conflict intersect in their raw portrayal of a society under strain."
-    },
     {
       "hour": 19,
       "fact_text": "In 1947, physicist Thomas T. Goldsmith Jr. filed a patent for a \"Cathode Ray Tube Amusement Device\"—often considered the first electronic game. Using knobs, analog circuits, and an oscilloscope-like screen, it simulated missile launches decades before home consoles lit up living rooms.",
@@ -659,9 +634,33 @@
         ]
       },
       "match_reason": "A city bracing for war in a harsh northern winter is contrasted with an episode about weathering inner transitions under grey Scottish skies—both explore what holds us steady when the climate, political or emotional, is rough."
+    },
+    {
+      "hour": 18,
+      "fact_text": "On 25 January 2013, a riot at Uribana prison in Barquisimeto, Venezuela, left at least 50 people dead and many more injured. The chaos exposed chronic overcrowding and violence in the country’s penal system, turning one complex into a symbol of broader social fractures.",
+      "fact_year": 2013,
+      "fact_wikipedia_url": "https://en.wikipedia.org/wiki/2013_Uribana_prison_riot",
+      "episode": {
+        "id": 32,
+        "title": "Morning Drops #26 - Canserbero",
+        "description": "Yasmin guides us through the story of Canserbero, the Venezuelan rapper who reshaped Latin American hip hop with his raw voice and deeply reflective lyrics. A journey into his music, his vision, and the legacy of an artist who transformed personal and social struggles into powerful storytelling.",
+        "soundcloudUrl": "https://soundcloud.com/sednafm/morning-drops-canserbero",
+        "songs": [
+          "Canserbero - Mañana será otro día",
+          "Canserbero - Querer Querernos",
+          "Canserbero - Jeremías",
+          "Canserbero - De la vida como una película y su tragedia, comedia y ficción"
+        ],
+        "music-genres": [
+          "Latin Rap",
+          "Hip-Hop",
+          "Conscious Rap"
+        ]
+      },
+      "match_reason": "A deadly Venezuelan prison riot and a Venezuelan rapper who rapped about violence, injustice, and inner conflict intersect in their raw portrayal of a society under strain."
     }
   ],
   "generated_at": "2026-01-25T00:00:00.015567+00:00",
   "date": "2026-01-25",
-  "updated_at": "2026-01-25T17:00:01.438075+00:00"
+  "updated_at": "2026-01-25T18:00:01.652349+00:00"
 }
